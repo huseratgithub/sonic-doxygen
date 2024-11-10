@@ -1,0 +1,13 @@
+<map id="NhgBase" name="NhgBase">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,80,81,107"/>
+<area shape="rect" id="Node000002" href="$class_nhg_common.html" title=" " alt="" coords="171,5,340,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,71,128,57,169,45,171,50,130,63,92,76"/>
+<area shape="rect" id="Node000004" href="$class_nhg_common.html" title=" " alt="" coords="129,72,382,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="96,91,128,91,128,96,96,96"/>
+<area shape="rect" id="Node000006" href="$class_nhg_common.html" title=" " alt="" coords="161,139,350,181"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="92,110,130,124,167,136,166,141,128,129,90,115"/>
+<area shape="rect" id="Node000003" href="$class_cbf_nhg.html" title=" " alt="" coords="451,13,517,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="355,24,451,24,451,29,355,29"/>
+<area shape="rect" id="Node000005" href="$class_next_hop_group.html" title=" " alt="" coords="430,80,538,107"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="397,91,430,91,430,96,397,96"/>
+</map>

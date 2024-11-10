@@ -1,0 +1,25 @@
+<map id="NatOrch::queryCounters" name="NatOrch::queryCounters">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,136,169,163"/>
+<area shape="rect" id="Node000002" href="$class_nat_orch.html#acff4551117b45f193cf7d0be0f3d4e30" title=" " alt="" coords="234,85,411,112"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="152,133,242,113,243,118,153,138"/>
+<area shape="rect" id="Node000005" href="$class_nat_orch.html#a54d989fa0f4f0228647dd66fc72383a8" title=" " alt="" coords="237,35,408,61"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="106,133,154,102,216,71,236,64,238,69,218,76,157,107,109,138"/>
+<area shape="rect" id="Node000007" href="$natorch_8cpp.html#a85cbfe5c97ab81142a2e8b87429d24ad" title=" " alt="" coords="278,187,366,213"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="153,161,263,185,262,190,152,166"/>
+<area shape="rect" id="Node000008" href="$class_nat_orch.html#ad51b1cc01c95dd540e1df128b851db27" title=" " alt="" coords="217,237,428,264"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="109,161,157,192,218,223,238,230,236,235,216,228,154,197,106,165"/>
+<area shape="rect" id="Node000010" href="$class_nat_orch.html#ab4b279c6e39147a13c74ac659aca0553" title=" " alt="" coords="220,136,424,163"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="169,147,204,147,204,152,169,152"/>
+<area shape="rect" id="Node000003" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="513,107,664,133"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="412,103,498,110,497,115,411,108"/>
+<area shape="rect" id="Node000004" href="$class_nat_orch.html#a50a4176d76e8a41923b1176dca0ad26d" title=" " alt="" coords="490,56,688,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="411,86,474,79,474,85,412,92"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="389,59,429,71,477,92,503,100,501,105,475,97,427,76,388,64"/>
+<area shape="rect" id="Node000006" href="$class_nat_orch.html#aded5b249cb1b18b6a554b0751d2c03e7" title=" " alt="" coords="493,5,684,32"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="408,36,477,28,478,34,408,41"/>
+<area shape="rect" id="Node000009" href="$class_nat_orch.html#ad505a1dcbf96953339693ee98a0e0810" title=" " alt="" coords="499,229,678,272"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="429,248,483,248,483,253,429,253"/>
+<area shape="poly" id="edge11_Node000010_Node000003" title=" " alt="" coords="425,135,497,127,498,133,425,141"/>
+<area shape="rect" id="Node000011" href="$class_nat_orch.html#ac851f20e047955c836a650f178682a03" title=" " alt="" coords="476,157,701,184"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="425,155,461,158,460,163,425,160"/>
+</map>

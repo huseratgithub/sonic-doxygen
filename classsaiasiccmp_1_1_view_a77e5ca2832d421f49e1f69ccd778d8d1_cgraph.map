@@ -1,0 +1,7 @@
+<map id="saiasiccmp::View::translateOldVidToNewVid" name="saiasiccmp::View::translateOldVidToNewVid">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,188,48"/>
+<area shape="rect" id="Node000002" href="$mock__sai__serialize_8cpp.html#a0f934d15b1a3e0fd3458f0f2b9df0b31" title=" " alt="" coords="236,13,388,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,24,221,24,221,29,188,29"/>
+<area shape="rect" id="Node000003" href="$class_sai_serialize_interface.html#ac1267fe86b704633a47c483dcc8e1379" title=" " alt="" coords="436,5,596,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="388,24,420,24,420,29,388,29"/>
+</map>

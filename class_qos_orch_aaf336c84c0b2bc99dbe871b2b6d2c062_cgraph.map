@@ -1,0 +1,9 @@
+<map id="QosOrch::applyDscpToTcMapToSwitch" name="QosOrch::applyDscpToTcMapToSwitch">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,202,73"/>
+<area shape="rect" id="Node000002" href="$class_switch_orch.html#a927d65c2ec8de3d126afcb0768050060" title=" " alt="" coords="250,13,477,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,40,234,37,234,42,202,45"/>
+<area shape="rect" id="Node000004" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="288,64,439,91"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="202,59,273,66,272,71,202,64"/>
+<area shape="rect" id="Node000003" href="$sai__redis__interfacequery_8cpp.html#a2d4cf4d27d8fd0fcf37e4cae1ea25fb5" title=" " alt="" coords="525,5,656,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="478,24,509,24,509,29,478,29"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="NatOrch::setTwiceNaptCounters" name="NatOrch::setTwiceNaptCounters">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,107,217,133"/>
+<area shape="rect" id="Node000002" href="$class_orch.html#a27ef73fc1ebb46b19c647b1266bd670c" title=" " alt="" coords="268,56,440,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="178,103,271,84,272,89,179,109"/>
+<area shape="rect" id="Node000007" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="492,107,643,133"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="217,117,477,117,477,123,217,123"/>
+<area shape="rect" id="Node000008" href="$class_nat_orch.html#ad505a1dcbf96953339693ee98a0e0810" title=" " alt="" coords="265,157,444,200"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="170,131,250,151,249,156,169,136"/>
+<area shape="rect" id="Node000003" href="$_sai_serialize_8cpp.html#a9e4f80bd1f4cab2b066741f56f032e3c" title=" " alt="" coords="509,5,626,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="413,53,493,34,494,39,414,58"/>
+<area shape="rect" id="Node000006" href="$_sai_serialize_8cpp.html#aeae06eaf39abcffe5f6215d8688a6368" title=" " alt="" coords="500,56,636,83"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="441,67,484,67,484,72,441,72"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="414,81,494,100,493,105,413,86"/>
+<area shape="rect" id="Node000004" href="$_sai_serialize_8cpp.html#a65eb8ea2354cbfadd0a6075124116a68" title=" " alt="" coords="691,31,824,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="627,24,676,31,676,36,626,29"/>
+<area shape="rect" id="Node000005" href="$_sai_serialize_8cpp.html#a97543edb8d3f82c33b2ba86825bf5cc9" title=" " alt="" coords="872,31,1015,57"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="824,41,856,41,856,47,824,47"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="636,58,676,52,676,57,636,63"/>
+</map>

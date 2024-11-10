@@ -1,0 +1,9 @@
+<map id="sairedis::SwitchContainer::removeSwitch" name="sairedis::SwitchContainer::removeSwitch">
+<area shape="rect" id="Node000001" title="Remove switch from container." alt="" coords="5,5,176,48"/>
+<area shape="rect" id="Node000002" href="$classsairedis_1_1_switch_container.html#a6ac548943e05303fd170461215bf26d8" title="Remove switch from container." alt="" coords="224,5,394,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,24,208,24,208,29,176,29"/>
+<area shape="rect" id="Node000003" href="$mock__sai__serialize_8cpp.html#a0f934d15b1a3e0fd3458f0f2b9df0b31" title=" " alt="" coords="442,13,594,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="394,24,427,24,427,29,394,29"/>
+<area shape="rect" id="Node000004" href="$class_sai_serialize_interface.html#ac1267fe86b704633a47c483dcc8e1379" title=" " alt="" coords="642,5,803,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="595,24,627,24,627,29,595,29"/>
+</map>

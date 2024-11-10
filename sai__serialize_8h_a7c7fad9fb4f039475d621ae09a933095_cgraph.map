@@ -1,0 +1,9 @@
+<map id="sai_serialize_my_sid_entry" name="sai_serialize_my_sid_entry">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,48,148,91"/>
+<area shape="rect" id="Node000002" href="$_sai_serialize_8cpp.html#a18675e41a9186f3bb9ad3e26ec293d49" title=" " alt="" coords="210,5,334,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="147,48,202,34,204,39,149,53"/>
+<area shape="rect" id="Node000003" href="$_sai_serialize_8cpp.html#a97543edb8d3f82c33b2ba86825bf5cc9" title=" " alt="" coords="200,56,344,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="148,67,185,67,185,72,148,72"/>
+<area shape="rect" id="Node000004" href="$_sai_serialize_8cpp.html#a64e9cf06c73cd4f94e337e22149be32b" title=" " alt="" coords="196,107,348,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="149,85,204,100,202,105,147,90"/>
+</map>

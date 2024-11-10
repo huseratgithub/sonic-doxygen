@@ -1,0 +1,9 @@
+<map id="sairedis::VirtualObjectIdManager::saiObjectTypeQuery" name="sairedis::VirtualObjectIdManager::saiObjectTypeQuery">
+<area shape="rect" id="Node000001" title="Object type query." alt="" coords="254,72,451,115"/>
+<area shape="rect" id="Node000002" href="$classsairedis_1_1_virtual_object_id_manager.html#a58e9e10e9c83de3a08fb6b68301f1575" title="Allocate new object id on a given switch." alt="" coords="5,5,206,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="255,70,186,51,188,46,257,65"/>
+<area shape="rect" id="Node000003" href="$classsairedis_1_1_virtual_object_id_manager.html#a10cd97556ffc0e3473c15ca826149c1c" title="release allocated object id." alt="" coords="20,72,191,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="238,96,191,96,191,91,238,91"/>
+<area shape="rect" id="Node000004" href="$classsairedis_1_1_virtual_object_id_manager.html#a12be4249dd601e420c2489c95b55db06" title="Switch id query." alt="" coords="14,139,197,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="257,122,188,141,186,135,255,117"/>
+</map>

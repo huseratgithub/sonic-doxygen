@@ -1,0 +1,9 @@
+<map id="PortsOrch::addQueueFlexCountersPerPortPerQueueIndex" name="PortsOrch::addQueueFlexCountersPerPortPerQueueIndex">
+<area shape="rect" id="Node000001" title=" " alt="" coords="770,5,996,48"/>
+<area shape="rect" id="Node000002" href="$class_ports_orch.html#aa99edce8dbd9895ad290200fec6a4c20" title=" " alt="" coords="497,5,722,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="755,29,723,29,723,24,755,24"/>
+<area shape="rect" id="Node000003" href="$class_ports_orch.html#a4c3c4a6755d081dedb3fd4c39d5b039f" title=" " alt="" coords="224,13,449,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="482,29,450,29,450,24,482,24"/>
+<area shape="rect" id="Node000004" href="$class_flex_counter_orch.html#afc048192723cc5ae579642c0125b403f" title=" " alt="" coords="5,13,176,40"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="208,29,176,29,176,24,208,24"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="NextHopGroupMember" name="NextHopGroupMember">
+<area shape="rect" id="Node000001" title=" " alt="" coords="23,295,179,321"/>
+<area shape="rect" id="Node000002" href="$class_nhg_member.html" title=" " alt="" coords="5,219,197,245"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,260,104,294,98,294,98,260"/>
+<area shape="rect" id="Node000003" href="$struct_next_hop_key.html" title=" " alt="" coords="53,128,149,155"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="104,170,104,218,98,218,98,170"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="18,5,72,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="42,47,42,75,49,103,60,115,73,125,70,130,56,119,45,105,36,76,37,47"/>
+<area shape="rect" id="Node000005" href="$structswss_1_1_label_stack.html" title=" " alt="" coords="96,5,221,32"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="154,48,131,105,115,129,110,126,127,103,149,46"/>
+</map>

@@ -1,0 +1,26 @@
+<map id="VxlanTunnel::getDecapMapId" name="VxlanTunnel::getDecapMapId">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1678,80,1871,107"/>
+<area shape="rect" id="Node000002" href="$class_vxlan_tunnel.html#a2739de36233a84ef488c44046f8d35b9" title=" " alt="" coords="1426,5,1630,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1707,78,1609,51,1610,46,1708,73"/>
+<area shape="rect" id="Node000003" href="$class_vxlan_tunnel_map_orch.html#a874f50d2dbafdf788c110b0e8333fdaa" title=" " alt="" coords="1455,72,1601,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1662,96,1601,96,1601,91,1662,91"/>
+<area shape="rect" id="Node000004" href="$class_vxlan_tunnel.html#a4e444eb91d6ec3b00238f50756374b7e" title=" " alt="" coords="1428,139,1628,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1701,113,1588,141,1586,136,1700,108"/>
+<area shape="rect" id="Node000005" href="$class_vxlan_tunnel.html#a41e7026ea9fc6bce6f07e56301c1c8a4" title=" " alt="" coords="1182,139,1378,165"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1412,155,1379,155,1379,149,1412,149"/>
+<area shape="rect" id="Node000006" href="$class_vxlan_tunnel.html#a25996a76dfb9f34e147b031be91bf136" title=" " alt="" coords="945,131,1134,173"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="1167,155,1134,155,1134,149,1167,149"/>
+<area shape="rect" id="Node000007" href="$class_vxlan_tunnel_orch.html#af8411b7811fd4ee6bbbf5b30752f143d" title=" " alt="" coords="679,139,897,165"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="929,155,897,155,897,149,929,149"/>
+<area shape="rect" id="Node000008" href="$class_evpn_remote_vnip2p_orch.html#a6947bc7cff3a10eefd1dbbcf9b62e418" title=" " alt="" coords="448,101,613,144"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="664,141,613,135,614,129,664,135"/>
+<area shape="rect" id="Node000009" href="$class_route_orch.html#a72eda3a59c463def58af68ee8472bb25" title=" " alt="" coords="430,168,631,195"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="664,169,632,172,632,167,664,163"/>
+<area shape="rect" id="Node000010" href="$class_route_orch.html#a70d2fddda967a01df19c9c9a4dc3adc5" title=" " alt="" coords="234,168,382,195"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="415,184,382,184,382,179,415,179"/>
+<area shape="rect" id="Node000011" href="$class_route_orch.html#a8d92a7e78d20ed0f2a67d96db9162347" title=" " alt="" coords="5,168,186,195"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="218,193,186,193,186,188,218,188"/>
+<area shape="rect" id="Node000012" href="$class_route_orch.html#a8abe02697428cebf9f6a966ad81e6670" title=" " alt="" coords="28,219,163,245"/>
+<area shape="poly" id="edge12_Node000010_Node000012" title=" " alt="" coords="234,202,155,221,154,215,233,196"/>
+<area shape="poly" id="edge11_Node000011_Node000010" title=" " alt="" coords="201,170,233,170,233,175,201,175"/>
+</map>

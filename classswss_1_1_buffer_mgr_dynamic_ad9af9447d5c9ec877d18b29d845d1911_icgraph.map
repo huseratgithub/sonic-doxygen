@@ -1,0 +1,15 @@
+<map id="swss::BufferMgrDynamic::removeSupportedButNotConfiguredItemsOnPort" name="swss::BufferMgrDynamic::removeSupportedButNotConfiguredItemsOnPort">
+<area shape="rect" id="Node000001" title=" " alt="" coords="931,35,1166,93"/>
+<area shape="rect" id="Node000002" href="$classswss_1_1_buffer_mgr_dynamic.html#a4491edbdf7a6d5f4d670f357dbb2ff16" title=" " alt="" coords="654,13,883,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="915,53,883,49,883,44,915,47"/>
+<area shape="rect" id="Node000006" href="$classswss_1_1_buffer_mgr_dynamic.html#aa4ca6fd7a71d7d12baaf820d900cbd55" title=" " alt="" coords="438,72,606,115"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="915,74,607,91,606,86,915,69"/>
+<area shape="rect" id="Node000003" href="$classswss_1_1_buffer_mgr_dynamic.html#a743d5915dd64ae2f7447ddf2837c6704" title=" " alt="" coords="438,5,606,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="638,33,607,32,607,27,639,28"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="662,63,607,76,606,71,661,58"/>
+<area shape="rect" id="Node000004" href="$classswss_1_1_buffer_mgr_dynamic.html#abeb2610ca36f120d251ca1627c1b6f5b" title=" " alt="" coords="222,39,390,81"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="423,45,391,50,390,44,422,39"/>
+<area shape="rect" id="Node000005" href="$classswss_1_1_buffer_mgr_dynamic.html#a1c70a6b4bf77a1dbf4500bcda6b04954" title=" " alt="" coords="5,39,174,81"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="206,63,174,63,174,57,206,57"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="422,81,390,76,391,70,423,75"/>
+</map>

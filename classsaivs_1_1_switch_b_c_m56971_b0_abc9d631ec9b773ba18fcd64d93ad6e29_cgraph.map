@@ -1,0 +1,21 @@
+<map id="saivs::SwitchBCM56971B0::create_port_serdes_per_port" name="saivs::SwitchBCM56971B0::create_port_serdes_per_port">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,92,200,135"/>
+<area shape="rect" id="Node000002" href="$classsaivs_1_1_switch_state_base.html#a31e3902e208a7d8c21abe8e7243017f0" title=" " alt="" coords="261,51,422,93"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,94,245,86,246,91,201,99"/>
+<area shape="rect" id="Node000009" href="$classsaivs_1_1_switch_state_base.html#ad2a4aeb845eb777c5abd9d7b3fce6798" title=" " alt="" coords="248,141,435,168"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="201,128,246,135,245,141,200,133"/>
+<area shape="rect" id="Node000003" href="$classsaivs_1_1_switch_state_base.html#a63eebd348ddd7baf343fbdeb0c7e0b7a" title=" " alt="" coords="483,51,644,93"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="423,69,467,69,467,75,423,75"/>
+<area shape="rect" id="Node000007" href="$mock__sai__serialize_8cpp.html#a0f934d15b1a3e0fd3458f0f2b9df0b31" title=" " alt="" coords="488,135,640,161"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="407,91,509,127,507,132,405,97"/>
+<area shape="rect" id="Node000004" href="$mock__sai__serialize_8cpp.html#aa06e96f943a8f2451c89c65d2fecbef5" title=" " alt="" coords="692,13,860,40"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="644,52,695,41,696,46,645,57"/>
+<area shape="rect" id="Node000006" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="700,64,852,91"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="645,71,685,72,684,78,645,77"/>
+<area shape="rect" id="Node000005" href="$class_sai_serialize_interface.html#a29d73fb00b962109388850736a5a02a3" title=" " alt="" coords="908,5,1083,48"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="860,24,892,24,892,29,860,29"/>
+<area shape="rect" id="Node000008" href="$class_sai_serialize_interface.html#ac1267fe86b704633a47c483dcc8e1379" title=" " alt="" coords="696,127,856,169"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="640,145,680,145,680,151,640,151"/>
+<area shape="poly" id="edge9_Node000009_Node000007" title=" " alt="" coords="435,149,472,148,472,153,435,155"/>
+<area shape="poly" id="edge10_Node000009_Node000009" title=" " alt="" coords="304,142,297,133,302,123,317,117,341,115,368,117,382,124,380,128,366,122,341,120,318,122,305,127,302,132,308,139"/>
+</map>

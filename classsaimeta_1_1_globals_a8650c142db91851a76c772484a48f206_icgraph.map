@@ -1,0 +1,16 @@
+<map id="saimeta::Globals::getHardwareInfo" name="saimeta::Globals::getHardwareInfo">
+<area shape="rect" id="Node000001" title="Get hardware info." alt="" coords="261,195,484,221"/>
+<area shape="rect" id="Node000002" href="$classsaimeta_1_1_meta_test_sai_interface.html#a87ab5eed08921f3b8323ae8fa856f1f9" title=" " alt="" coords="9,5,209,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="348,184,290,123,252,91,211,62,188,51,191,46,214,58,256,86,294,119,352,181"/>
+<area shape="rect" id="Node000003" href="$classsairedis_1_1_client_sai.html#a39691b806b0af89527d8019ba63e8208" title=" " alt="" coords="45,96,173,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="319,191,212,153,172,140,174,135,214,148,321,186"/>
+<area shape="rect" id="Node000004" href="$classsairedis_1_1_redis_remote_sai_interface.html#ae7310c8708d314b8c2832a8f139da43d" title=" " alt="" coords="22,187,196,229"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="245,211,196,211,196,205,245,205"/>
+<area shape="rect" id="Node000005" href="$classsaivs_1_1_virtual_switch_sai_interface.html#aa470caca07a2a786c3be6ca72e8f7862" title=" " alt="" coords="5,277,213,320"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="318,229,174,279,173,274,316,224"/>
+<area shape="rect" id="Node000006" href="$classsairedis_1_1_switch.html#a4fe8670dc54139a5e62d337096022590" title=" " alt="" coords="28,344,190,371"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="349,234,290,285,253,312,214,334,184,346,182,341,212,330,250,307,287,281,345,230"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="152,83,136,77,109,75,84,77,69,81,63,87,65,95,59,96,57,86,66,77,83,71,109,69,137,72,154,78"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="152,174,136,168,109,165,84,167,69,172,63,178,65,185,59,187,57,177,66,168,83,162,109,160,137,162,154,169"/>
+<area shape="poly" id="edge7_Node000005_Node000005" title=" " alt="" coords="152,264,136,258,109,256,84,258,69,263,63,269,65,276,59,277,57,267,66,258,83,253,109,251,137,253,154,259"/>
+</map>

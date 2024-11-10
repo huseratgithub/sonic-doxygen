@@ -1,0 +1,19 @@
+<map id="MirrorOrch::setSessionState" name="MirrorOrch::setSessionState">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,81,192,108"/>
+<area shape="rect" id="Node000002" href="$class_ports_orch.html#a72b35c3c39b77df72661ecbee7fb1e2d" title=" " alt="" coords="259,5,389,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,78,239,41,260,35,262,40,241,47,137,83"/>
+<area shape="rect" id="Node000003" href="$class_ports_orch.html#afd7d28ece99ed974f0fd258f7c800a5f" title=" " alt="" coords="240,56,408,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="192,81,224,78,224,83,193,87"/>
+<area shape="rect" id="Node000004" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="248,107,400,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="193,103,233,107,232,112,192,108"/>
+<area shape="rect" id="Node000005" href="$struct_next_hop_key.html#abb99d9df3db74075630f3d3b68cce565" title=" " alt="" coords="247,157,401,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="137,106,241,143,262,150,260,155,239,148,136,111"/>
+<area shape="rect" id="Node000006" href="$struct_next_hop_key.html#a416e3d9c0b7b5ca01f43148e1fb537de" title=" " alt="" coords="456,157,677,184"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="401,168,440,168,440,173,401,173"/>
+<area shape="rect" id="Node000007" href="$struct_next_hop_key.html#a1daf3e6b9415c99ce11da49419bd2bca" title=" " alt="" coords="725,128,920,155"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="678,155,710,152,710,157,678,161"/>
+<area shape="rect" id="Node000009" href="$structswss_1_1_label_stack.html#a5d0de2285c60930cd76538bf105ca7dc" title=" " alt="" coords="750,179,895,221"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="678,181,735,187,735,193,678,186"/>
+<area shape="rect" id="Node000008" href="$structswss_1_1_label_stack.html#a4302079120bbbf32d762779c017d68b8" title=" " alt="" coords="968,128,1137,155"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="920,139,952,139,952,144,920,144"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="saiplayer::SaiPlayer::translate_local_to_redis" name="saiplayer::SaiPlayer::translate_local_to_redis">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,172,72"/>
+<area shape="rect" id="Node000002" href="$classsaiplayer_1_1_sai_player.html#afc5fe445e937be83cbe86d52b59e5235" title=" " alt="" coords="220,29,386,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,48,204,48,204,53,172,53"/>
+<area shape="poly" id="edge4_Node000002_Node000002" title=" " alt="" coords="262,29,260,19,267,10,281,5,303,3,326,5,340,11,337,16,324,10,303,8,283,10,270,15,266,21,267,28"/>
+<area shape="rect" id="Node000003" href="$mock__sai__serialize_8cpp.html#aa06e96f943a8f2451c89c65d2fecbef5" title=" " alt="" coords="434,37,601,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="386,48,418,48,418,53,386,53"/>
+<area shape="rect" id="Node000004" href="$class_sai_serialize_interface.html#a29d73fb00b962109388850736a5a02a3" title=" " alt="" coords="649,29,825,72"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="602,48,634,48,634,53,602,53"/>
+</map>

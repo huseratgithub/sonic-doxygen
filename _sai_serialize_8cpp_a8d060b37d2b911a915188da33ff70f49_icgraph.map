@@ -1,0 +1,15 @@
+<map id="transfer_attribute" name="transfer_attribute">
+<area shape="rect" id="Node000001" title=" " alt="" coords="652,64,772,91"/>
+<area shape="rect" id="Node000002" href="$_sai_serialize_8cpp.html#a181a9b7662c65857effdae4edeec22b2" title=" " alt="" coords="478,64,604,91"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="637,80,605,80,605,75,637,75"/>
+<area shape="rect" id="Node000003" href="$classsaivs_1_1_switch_state_base.html#a1f13797d93ab2b7c13ec5c5bb5135288" title=" " alt="" coords="235,5,422,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="480,61,429,47,386,35,387,30,431,41,482,56"/>
+<area shape="rect" id="Node000004" href="$classsairedis_1_1_client_sai.html#a49778bf74100141b8c0f8579c1b501ed" title="Wait for GET response." alt="" coords="252,56,404,99"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="462,80,405,80,405,75,462,75"/>
+<area shape="rect" id="Node000006" href="$classsairedis_1_1_redis_remote_sai_interface.html#aaf8b46e4f4492dea6628cd5ac74285e9" title="Wait for GET response." alt="" coords="227,123,430,165"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="482,98,400,125,398,119,481,93"/>
+<area shape="rect" id="Node000005" href="$classsairedis_1_1_client_sai.html#a0c3c01112ba5d4b22104af4f94640809" title=" " alt="" coords="15,64,169,91"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="237,80,169,80,169,75,237,75"/>
+<area shape="rect" id="Node000007" href="$classsairedis_1_1_redis_remote_sai_interface.html#a0f7ce2cc23ad54dcbfb96e0e80045cbf" title=" " alt="" coords="5,123,179,165"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="211,147,179,147,179,141,211,141"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="sai_serialize_ip_address" name="sai_serialize_ip_address">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,169,57"/>
+<area shape="rect" id="Node000002" href="$_sai_serialize_8cpp.html#a6070a80aeaebada3deab6b9aa3218b75" title=" " alt="" coords="217,5,341,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,31,201,26,202,32,169,36"/>
+<area shape="rect" id="Node000003" href="$_sai_serialize_8cpp.html#a18675e41a9186f3bb9ad3e26ec293d49" title=" " alt="" coords="217,56,341,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="169,52,202,56,201,62,169,57"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="sairedis::Recorder::recordQueryAttributeCapability" name="sairedis::Recorder::recordQueryAttributeCapability">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,213,81"/>
+<area shape="rect" id="Node000002" href="$classsaimeta_1_1_globals.html#a3e98d279320473e7d4e41653d26b00ce" title=" " alt="" coords="261,5,436,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="213,43,245,38,246,44,213,48"/>
+<area shape="rect" id="Node000003" href="$classsairedis_1_1_recorder.html#a98a36a0c0b73b0527a1902df57d5c7e1" title=" " alt="" coords="285,72,412,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="213,72,270,80,269,85,213,77"/>
+<area shape="rect" id="Node000004" href="$classsairedis_1_1_recorder.html#a384b62241f24b8c4b04be51dc8fc3a4c" title=" " alt="" coords="484,72,611,115"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="412,91,468,91,468,96,412,96"/>
+</map>

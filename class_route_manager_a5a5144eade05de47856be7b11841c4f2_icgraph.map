@@ -1,0 +1,5 @@
+<map id="RouteManager::drain" name="RouteManager::drain">
+<area shape="rect" id="Node000001" title=" " alt="" coords="224,5,366,32"/>
+<area shape="rect" id="Node000002" href="$class_route_manager_test.html#aa652ad95623849b75312e7309faf46f5" title=" " alt="" coords="5,5,176,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="208,21,176,21,176,16,208,16"/>
+</map>

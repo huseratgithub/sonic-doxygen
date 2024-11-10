@@ -1,0 +1,13 @@
+<map id="PortsOrch::getNumberOfPortSupportedPgCounters" name="PortsOrch::getNumberOfPortSupportedPgCounters">
+<area shape="rect" id="Node000001" title=" " alt="" coords="518,72,708,115"/>
+<area shape="rect" id="Node000002" href="$class_ports_orch.html#af3a0f713395722df39e6b9d09cb3f1ff" title=" " alt="" coords="254,5,440,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="510,70,434,51,436,46,511,65"/>
+<area shape="rect" id="Node000004" href="$class_ports_orch.html#a50de1283efb1c1c11959a0aaef334c36" title=" " alt="" coords="254,72,440,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="502,96,440,96,440,91,502,91"/>
+<area shape="rect" id="Node000005" href="$class_flex_counter_orch.html#af44743b9329c59003cf511650686a4e7" title=" " alt="" coords="224,139,470,165"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="506,121,471,129,417,141,416,135,469,124,504,116"/>
+<area shape="rect" id="Node000003" href="$class_flex_counter_orch.html#afc048192723cc5ae579642c0125b403f" title=" " alt="" coords="5,80,176,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="248,55,146,82,144,77,247,50"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="239,96,176,96,176,91,239,91"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="261,138,223,129,144,110,146,105,224,124,262,132"/>
+</map>

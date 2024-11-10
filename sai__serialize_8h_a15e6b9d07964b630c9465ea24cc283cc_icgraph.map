@@ -1,0 +1,19 @@
+<map id="sai_serialize_port_stat" name="sai_serialize_port_stat">
+<area shape="rect" id="Node000001" title=" " alt="" coords="779,127,931,153"/>
+<area shape="rect" id="Node000002" href="$class_fabric_ports_orch.html#ad8ad7ba82b79acffaafc0aa42bf0b811" title=" " alt="" coords="540,23,715,65"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="815,121,730,80,700,68,702,63,732,75,817,116"/>
+<area shape="rect" id="Node000006" href="$class_drop_counter.html#a03dfe3b4c4f181556af11fa5391c0e17" title=" " alt="" coords="525,89,730,132"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="763,131,730,127,731,121,764,126"/>
+<area shape="rect" id="Node000007" href="$class_pfc_wd_sw_orch.html#a6e06e9f3a610b2b628fad324c4fc57ff" title=" " alt="" coords="524,156,731,183"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="764,154,732,159,732,153,763,149"/>
+<area shape="rect" id="Node000009" href="$_flex_counter_8cpp.html#aa24881c7731cbd419211fa2a23e62d57" title=" " alt="" coords="581,207,674,233"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="814,163,732,197,676,213,674,208,730,192,812,158"/>
+<area shape="rect" id="Node000003" href="$class_fabric_ports_orch.html#ad563021fb558eeed5f54b07020ac0f5a" title=" " alt="" coords="285,23,464,65"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="525,47,464,47,464,41,525,41"/>
+<area shape="rect" id="Node000004" href="$class_fabric_ports_orch.html#aad9a1dadb1fcac10ce90c6870e1e6766" title=" " alt="" coords="32,5,198,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="269,36,199,29,199,24,270,31"/>
+<area shape="rect" id="Node000005" href="$class_fabric_ports_orch.html#ae8fadc8e1b8711fbaf16543fa73a2c9c" title=" " alt="" coords="5,56,225,83"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="270,57,226,61,225,56,269,52"/>
+<area shape="rect" id="Node000008" href="$class_pfc_wd_sw_orch.html#ac64ba62fbc6e79280f2b8b2375cc53b5" title=" " alt="" coords="273,156,476,183"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="509,172,477,172,477,167,509,167"/>
+</map>

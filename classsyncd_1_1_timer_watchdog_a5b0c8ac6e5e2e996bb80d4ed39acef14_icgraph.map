@@ -1,0 +1,9 @@
+<map id="syncd::TimerWatchdog::setEventData" name="syncd::TimerWatchdog::setEventData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="419,39,574,81"/>
+<area shape="rect" id="Node000002" href="$classsyncd_1_1_syncd.html#a50df5d0ba9d5696aac79952866c5d645" title=" " alt="" coords="181,5,371,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="403,49,371,44,372,38,404,43"/>
+<area shape="rect" id="Node000004" href="$classsyncd_1_1_watchdog_scope.html#a172a6368d6f06b23ea45652394c32589" title="Watchdog scope constructor." alt="" coords="196,72,356,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="404,77,356,84,356,79,403,71"/>
+<area shape="rect" id="Node000003" href="$classsyncd_1_1_syncd.html#ac7def9f25d64bce56fc25cfa19f6f468" title=" " alt="" coords="5,13,133,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="165,29,133,29,133,24,165,24"/>
+</map>

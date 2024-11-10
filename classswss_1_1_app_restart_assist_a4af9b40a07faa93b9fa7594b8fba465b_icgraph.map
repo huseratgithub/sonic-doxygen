@@ -1,0 +1,9 @@
+<map id="swss::AppRestartAssist::registerAppTable" name="swss::AppRestartAssist::registerAppTable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="250,48,413,91"/>
+<area shape="rect" id="Node000002" href="$classswss_1_1_fdb_sync.html#a8b337411051e743e7ad299b8d9835d9e" title=" " alt="" coords="17,5,190,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="234,50,166,35,167,30,235,45"/>
+<area shape="rect" id="Node000003" href="$classswss_1_1_nat_sync.html#a02836a8d8c65e39cfe0357545d70db35" title=" " alt="" coords="18,56,189,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="234,72,189,72,189,67,234,67"/>
+<area shape="rect" id="Node000004" href="$classswss_1_1_neigh_sync.html#adc21ed42f1ba9d426407c587a83c75fa" title=" " alt="" coords="5,107,202,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="235,93,167,109,166,103,234,88"/>
+</map>

@@ -1,0 +1,27 @@
+<map id="SwitchOrch::set_switch_capability" name="SwitchOrch::set_switch_capability">
+<area shape="rect" id="Node000001" title=" " alt="" coords="888,158,1048,201"/>
+<area shape="rect" id="Node000002" href="$class_acl_orch.html#a809347c2d2d326bbaeb2ede6a76e3c45" title=" " alt="" coords="200,40,293,66"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="943,147,899,95,871,71,839,53,765,29,689,15,611,9,534,10,462,15,396,24,294,44,293,38,395,19,461,10,534,4,611,3,689,9,767,23,841,48,874,67,903,91,947,144"/>
+<area shape="rect" id="Node000004" href="$class_acl_orch.html#af0914f8415b0e17db21300fccf877162" title=" " alt="" coords="650,62,835,105"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="911,153,839,119,809,108,811,103,841,114,913,148"/>
+<area shape="rect" id="Node000006" href="$class_switch_orch.html#a7fbe6799470b4253c06a581ac776d290" title=" " alt="" coords="645,129,840,172"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="872,170,840,166,841,160,873,165"/>
+<area shape="rect" id="Node000008" href="$class_route_orch.html#aef9eadc2d478111d1623106389c2e584" title=" " alt="" coords="665,196,820,222"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="873,195,821,201,820,196,872,189"/>
+<area shape="rect" id="Node000009" href="$class_switch_orch.html#ab85a6bc04e178bb8b1193885e2db0c82" title=" " alt="" coords="662,246,823,289"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="905,210,841,237,810,248,808,243,839,232,903,205"/>
+<area shape="rect" id="Node000010" href="$class_switch_orch.html#af3d85d5dd7bc7ec031633630dd6da585" title=" " alt="" coords="653,313,832,356"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="941,215,897,260,841,303,819,315,816,310,838,299,893,256,937,211"/>
+<area shape="rect" id="Node000003" href="$class_acl_orch.html#a73b39b24f187d5d1d48b571585ca13a3" title=" " alt="" coords="5,40,129,66"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="184,56,129,56,129,50,184,50"/>
+<area shape="rect" id="Node000005" href="$class_acl_orch.html#acfe9335339d8b6f681e5b74f520b9c0e" title=" " alt="" coords="370,66,592,93"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="634,85,592,84,592,79,635,79"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="354,68,293,61,293,56,354,63"/>
+<area shape="rect" id="Node000007" href="$class_switch_orch.html#a96a01761f4c58b169ab01fe1929a1ad8" title=" " alt="" coords="398,196,563,222"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="631,178,544,198,543,192,630,173"/>
+<area shape="poly" id="edge10_Node000009_Node000007" title=" " alt="" coords="647,249,543,226,544,220,648,244"/>
+<area shape="rect" id="Node000011" href="$class_switch_orch.html#a86ab0db82550c1657284f8a09b759bfe" title=" " alt="" coords="364,321,597,348"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="637,337,598,337,598,332,637,332"/>
+<area shape="rect" id="Node000012" href="$class_switch_orch.html#a729714a00a47fa8aaffc1d3b84c84599" title=" " alt="" coords="177,321,316,348"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="348,337,317,337,317,332,348,332"/>
+</map>

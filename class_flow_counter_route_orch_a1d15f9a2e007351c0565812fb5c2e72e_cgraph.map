@@ -1,0 +1,26 @@
+<map id="FlowCounterRouteOrch::createRouteFlowCounterFromVnetRoutes" name="FlowCounterRouteOrch::createRouteFlowCounterFromVnetRoutes">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,224,210,283"/>
+<area shape="rect" id="Node000002" href="$class_flow_counter_route_orch.html#a1e34b7ed37a73d9ec6f1bc5f25091195" title=" " alt="" coords="274,123,432,165"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,221,257,175,271,169,273,174,259,180,164,226"/>
+<area shape="rect" id="Node000009" href="$class_v_net_vrf_object.html#a535900b0d271d963e3e8502251e782f3" title=" " alt="" coords="258,189,449,216"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="210,230,270,217,271,222,211,235"/>
+<area shape="rect" id="Node000010" href="$struct_route_pattern.html#aefebf4f4fdcda0c3b6572a046d7ffedc" title=" " alt="" coords="274,240,433,267"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="210,251,258,251,258,256,210,256"/>
+<area shape="rect" id="Node000011" href="$class_flow_counter_route_orch.html#a1575d2b3e2483dc21d93536e13994b50" title=" " alt="" coords="274,291,432,333"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="211,275,260,287,259,292,210,280"/>
+<area shape="rect" id="Node000012" href="$struct_route_pattern.html#a8b834d82e974daaea51f1395be794a92" title=" " alt="" coords="275,357,432,384"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="151,281,201,313,259,343,276,350,274,355,257,348,199,318,148,285"/>
+<area shape="rect" id="Node000003" href="$namespaceswss.html#a7d34265e7f829fc3f293af91b3a2fa34" title=" " alt="" coords="534,5,623,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="379,120,431,81,496,42,519,32,521,37,498,46,434,85,382,124"/>
+<area shape="rect" id="Node000004" href="$class_flow_counter_handler.html#a7de0f83247f86c13cdb263b531c0a4db" title=" " alt="" coords="500,56,657,99"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="427,120,488,101,490,106,428,125"/>
+<area shape="rect" id="Node000005" href="$class_flow_counter_route_orch.html#a43338089b94ce6cd8037fef60750aadc" title=" " alt="" coords="500,123,658,165"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="433,141,484,141,484,147,433,147"/>
+<area shape="rect" id="Node000007" href="$class_flow_counter_handler.html#a49bfcd8a2abd07d013d3254b0ab5c530" title=" " alt="" coords="497,189,660,232"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="428,163,490,182,488,187,427,168"/>
+<area shape="rect" id="Node000008" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="742,227,894,253"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="431,163,451,175,467,193,474,212,482,228,498,242,529,255,562,263,630,269,696,265,753,255,754,260,697,270,630,274,561,268,528,260,496,246,478,231,469,214,462,196,447,179,429,168"/>
+<area shape="rect" id="Node000006" href="$class_flow_counter_route_orch.html#ab21a213c147efcafa408207e6a6861a4" title=" " alt="" coords="708,123,928,165"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="658,141,692,141,692,147,658,147"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="661,218,727,226,727,232,660,223"/>
+</map>

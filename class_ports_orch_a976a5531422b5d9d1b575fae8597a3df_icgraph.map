@@ -1,0 +1,7 @@
+<map id="PortsOrch::removeVlanMember" name="PortsOrch::removeVlanMember">
+<area shape="rect" id="Node000001" title=" " alt="" coords="230,47,434,73"/>
+<area shape="rect" id="Node000002" href="$class_evpn_remote_vnip2mp_orch.html#acd984e9fd5466f352f70be199ff6d4cc" title=" " alt="" coords="5,5,182,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,47,182,42,183,36,217,41"/>
+<area shape="rect" id="Node000003" href="$class_evpn_remote_vnip2p_orch.html#a572b29f7a8c7acf13f714eeefa4d7968" title=" " alt="" coords="11,72,176,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="217,79,177,84,176,79,216,73"/>
+</map>

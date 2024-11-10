@@ -1,0 +1,9 @@
+<map id="syncd::FlexCounter::isDiscarded" name="syncd::FlexCounter::isDiscarded">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,141,81"/>
+<area shape="rect" id="Node000002" href="$classsyncd_1_1_flex_counter.html#a55a457634b10481fb433fd8c2c293310" title=" " alt="" coords="189,39,324,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,57,173,57,173,63,141,63"/>
+<area shape="rect" id="Node000003" href="$classsyncd_1_1_flex_counter.html#a58fce3878ebcaf317b712dc20c40545d" title=" " alt="" coords="372,5,507,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="324,45,357,39,358,44,325,50"/>
+<area shape="rect" id="Node000004" href="$classsyncd_1_1_flex_counter.html#a22165eefae3aae010c69cad07bffe32a" title=" " alt="" coords="372,72,507,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="325,70,358,76,357,81,324,75"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="E:/GitHub/SONiC/202211/sonic&#45;buildimage/src/sonic&#45;swss/orchagent/fabricportsorch.h" name="E:/GitHub/SONiC/202211/sonic&#45;buildimage/src/sonic&#45;swss/orchagent/fabricportsorch.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="306,5,559,64"/>
+<area shape="rect" id="Node000002" href="$fabricportsorch_8cpp.html" title=" " alt="" coords="5,112,273,171"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="338,72,220,114,218,109,337,67"/>
+<area shape="rect" id="Node000003" href="$flexcounterorch_8cpp.html" title=" " alt="" coords="297,112,568,171"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="435,80,435,112,430,112,430,80"/>
+<area shape="rect" id="Node000004" href="$orchdaemon_8h.html" title=" " alt="" coords="592,112,830,171"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="524,67,636,109,634,114,522,72"/>
+<area shape="rect" id="Node000005" href="$sonic-swss_2orchagent_2main_8cpp.html" title=" " alt="" coords="478,219,688,277"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="666,183,620,220,616,216,662,179"/>
+<area shape="rect" id="Node000006" href="$orchdaemon_8cpp.html" title=" " alt="" coords="712,219,964,277"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="759,179,805,216,801,220,756,183"/>
+</map>

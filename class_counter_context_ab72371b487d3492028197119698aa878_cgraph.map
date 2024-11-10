@@ -1,0 +1,15 @@
+<map id="CounterContext::collectData" name="CounterContext::collectData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,69,193,96"/>
+<area shape="rect" id="Node000002" href="$mock__sai__serialize_8cpp.html#a0f934d15b1a3e0fd3458f0f2b9df0b31" title=" " alt="" coords="241,17,393,44"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,66,242,46,244,51,159,71"/>
+<area shape="rect" id="Node000004" href="$_sai_serialize_8cpp.html#aeae06eaf39abcffe5f6215d8688a6368" title=" " alt="" coords="249,69,385,96"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="193,80,233,80,233,85,193,85"/>
+<area shape="rect" id="Node000007" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="241,120,392,147"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="160,94,242,113,241,118,159,99"/>
+<area shape="rect" id="Node000003" href="$class_sai_serialize_interface.html#ac1267fe86b704633a47c483dcc8e1379" title=" " alt="" coords="441,5,601,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="393,27,425,26,426,31,393,32"/>
+<area shape="rect" id="Node000005" href="$_sai_serialize_8cpp.html#a65eb8ea2354cbfadd0a6075124116a68" title=" " alt="" coords="455,72,587,99"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="385,81,440,82,439,87,385,86"/>
+<area shape="rect" id="Node000006" href="$_sai_serialize_8cpp.html#a97543edb8d3f82c33b2ba86825bf5cc9" title=" " alt="" coords="649,72,793,99"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="588,83,634,83,634,88,588,88"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="swss::VxlanMgr::downVxlanNetdevice" name="swss::VxlanMgr::downVxlanNetdevice">
+<area shape="rect" id="Node000001" title=" " alt="" coords="610,165,798,208"/>
+<area shape="rect" id="Node000002" href="$classswss_1_1_vxlan_mgr.html#a5555b195da18b2cf0c7316952263c52e" title=" " alt="" coords="374,115,541,157"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="594,167,541,156,542,150,595,162"/>
+<area shape="rect" id="Node000008" href="$classswss_1_1_vxlan_mgr.html#a7735a09d8707c0d827d293b654b8a738" title=" " alt="" coords="353,199,562,241"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="595,204,563,208,563,203,595,199"/>
+<area shape="rect" id="Node000003" href="$classswss_1_1_vxlan_mgr.html#a63ebae58bdb283cb3c137e251e846b21" title=" " alt="" coords="103,5,305,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="413,108,362,76,304,46,271,35,272,30,306,42,365,71,416,103"/>
+<area shape="rect" id="Node000005" href="$classswss_1_1_vxlan_mgr.html#ac3a241766550d93773ffcc30381cf9aa" title=" " alt="" coords="106,56,302,99"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="359,116,298,102,300,97,360,111"/>
+<area shape="rect" id="Node000006" href="$classswss_1_1_vxlan_mgr.html#a26b98d0917fd97ec2d7dcfe3eaa61785" title=" " alt="" coords="115,123,293,149"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="359,139,294,139,294,133,359,133"/>
+<area shape="rect" id="Node000007" href="$classswss_1_1_vxlan_mgr.html#a119fef089de70de979ac4d48d45611d9" title=" " alt="" coords="111,173,297,200"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="360,158,275,175,274,170,359,153"/>
+<area shape="rect" id="Node000004" href="$vxlanmgrd_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="5,64,55,91"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="127,39,104,46,56,67,54,62,102,42,125,34"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="90,80,55,80,55,75,90,75"/>
+<area shape="rect" id="Node000009" href="$classswss_1_1_vxlan_mgr.html#aff1798c17e3b1842b69259ab8e504096" title=" " alt="" coords="121,224,286,251"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="338,231,287,234,287,229,337,226"/>
+<area shape="poly" id="edge10_Node000009_Node000004" title=" " alt="" coords="107,219,101,214,74,185,54,151,32,92,37,90,59,149,78,182,104,210,111,214"/>
+</map>

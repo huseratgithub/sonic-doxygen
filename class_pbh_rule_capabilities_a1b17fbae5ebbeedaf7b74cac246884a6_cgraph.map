@@ -1,0 +1,7 @@
+<map id="PbhRuleCapabilities::validatePbhFlowCounter" name="PbhRuleCapabilities::validatePbhFlowCounter">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,177,81"/>
+<area shape="rect" id="Node000002" href="$class_pbh_rule_capabilities.html#a50149dd5909d0b360b3d318886a1e5a6" title=" " alt="" coords="228,5,368,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="177,44,213,38,213,43,178,49"/>
+<area shape="rect" id="Node000003" href="$class_pbh_entity_capabilities.html#ae7fec2dd6ec1f160ab7a56fc08ad1eec" title=" " alt="" coords="225,72,371,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="178,71,210,77,209,82,177,76"/>
+</map>

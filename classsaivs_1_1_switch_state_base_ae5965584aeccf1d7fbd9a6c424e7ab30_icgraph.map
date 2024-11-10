@@ -1,0 +1,8 @@
+<map id="saivs::SwitchStateBase::getLagFromPort" name="saivs::SwitchStateBase::getLagFromPort">
+<area shape="rect" id="Node000001" title=" " alt="" coords="491,35,652,77"/>
+<area shape="rect" id="Node000002" href="$classsaivs_1_1_switch_state_base.html#af4517e46199cebad3ea42b81b16f7577" title=" " alt="" coords="261,5,443,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="475,46,443,42,444,36,476,41"/>
+<area shape="rect" id="Node000003" href="$classsaivs_1_1_switch_state_base.html#afd6dc43276189329cc43d3c679cf334c" title=" " alt="" coords="5,35,213,77"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="475,62,443,63,261,63,213,62,213,56,261,57,443,57,475,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="245,42,214,46,213,41,244,37"/>
+</map>

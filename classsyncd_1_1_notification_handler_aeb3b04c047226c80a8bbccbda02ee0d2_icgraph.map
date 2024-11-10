@@ -1,0 +1,27 @@
+<map id="syncd::NotificationHandler::enqueueNotification" name="syncd::NotificationHandler::enqueueNotification">
+<area shape="rect" id="Node000001" title=" " alt="" coords="438,239,613,281"/>
+<area shape="rect" id="Node000002" href="$classsyncd_1_1_notification_handler.html#a179f7510d482f5f9fcd2b2219a3778dd" title=" " alt="" coords="207,5,382,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="507,226,488,188,461,144,428,100,388,62,370,51,373,46,392,58,432,97,466,141,492,185,512,224"/>
+<area shape="rect" id="Node000003" href="$classsyncd_1_1_notification_handler.html#acf05d6d9b2249df12d7ea7bde3e8d2f9" title=" " alt="" coords="202,72,388,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="496,228,449,178,420,152,389,129,367,118,370,113,391,124,423,147,453,174,500,225"/>
+<area shape="rect" id="Node000005" href="$classsyncd_1_1_notification_handler.html#a69704584dc3a481722a69d37fc24cfec" title=" " alt="" coords="207,139,382,181"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="469,234,389,196,360,184,362,179,391,191,471,229"/>
+<area shape="rect" id="Node000006" href="$classsyncd_1_1_notification_handler.html#ad985d3d5f44155c5627cc30937d2b1bd" title=" " alt="" coords="207,205,382,248"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="422,248,382,242,383,237,423,242"/>
+<area shape="rect" id="Node000007" href="$classsyncd_1_1_notification_handler.html#a0e4dff290d5e6616dd7a4455f43e97e8" title=" " alt="" coords="207,272,382,315"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="423,278,383,283,382,278,422,272"/>
+<area shape="rect" id="Node000008" href="$classsyncd_1_1_notification_handler.html#a4eb1a2217fc630c2b57cad8a856cd9b1" title=" " alt="" coords="207,339,382,381"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="471,291,391,329,362,341,360,336,389,324,469,286"/>
+<area shape="rect" id="Node000009" href="$classsyncd_1_1_notification_handler.html#a0023b41318218be6a0bef42036f9c7ff" title=" " alt="" coords="200,405,390,448"/>
+<area shape="poly" id="edge12_Node000001_Node000009" title=" " alt="" coords="500,295,453,346,423,373,391,396,370,407,367,402,389,391,420,368,449,342,496,292"/>
+<area shape="rect" id="Node000010" href="$classsyncd_1_1_notification_handler.html#ab8a04bf2e3bbc8cb7cb143aba2f751b7" title=" " alt="" coords="207,472,382,515"/>
+<area shape="poly" id="edge14_Node000001_Node000010" title=" " alt="" coords="512,296,492,335,466,379,432,423,392,462,373,474,370,469,388,458,428,420,461,376,488,332,507,294"/>
+<area shape="rect" id="Node000004" href="$classsyncd_1_1_syncd.html#a3b868b53131c97e96aaedc6f0cccda6c" title=" " alt="" coords="5,280,152,307"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="207,125,201,129,162,166,129,209,88,281,84,278,125,206,158,162,198,125,204,121"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="211,191,201,196,140,240,95,282,91,278,136,236,198,191,208,186"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="210,256,125,282,124,277,208,250"/>
+<area shape="poly" id="edge9_Node000007_Node000004" title=" " alt="" coords="191,296,152,296,152,291,191,291"/>
+<area shape="poly" id="edge11_Node000008_Node000004" title=" " alt="" coords="208,336,124,310,125,305,210,331"/>
+<area shape="poly" id="edge13_Node000009_Node000004" title=" " alt="" coords="208,401,198,396,136,351,91,309,95,305,140,347,201,391,211,396"/>
+<area shape="poly" id="edge15_Node000010_Node000004" title=" " alt="" coords="204,466,198,462,158,424,125,381,84,308,88,306,129,378,162,421,201,458,207,462"/>
+</map>

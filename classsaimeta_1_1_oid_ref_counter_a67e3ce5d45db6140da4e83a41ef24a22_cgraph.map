@@ -1,0 +1,5 @@
+<map id="saimeta::OidRefCounter::objectReferenceDecrement" name="saimeta::OidRefCounter::objectReferenceDecrement">
+<area shape="rect" id="Node000001" title="Decrement reference count on object." alt="" coords="5,5,194,48"/>
+<area shape="rect" id="Node000002" href="$classsaimeta_1_1_oid_ref_counter.html#a12b01a405b296e361ecaf09737677de1" title="Check if object reference exists." alt="" coords="242,5,404,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="194,24,226,24,226,29,194,29"/>
+</map>

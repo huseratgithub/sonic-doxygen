@@ -1,0 +1,13 @@
+<map id="SaiAttrWrapper::~SaiAttrWrapper" name="SaiAttrWrapper::~SaiAttrWrapper">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,27,171,69"/>
+<area shape="rect" id="Node000002" href="$_sai_serialize_8cpp.html#a60339f4b25f683a6805fe1ccf2d1d679" title=" " alt="" coords="219,27,355,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,45,203,45,203,51,171,51"/>
+<area shape="rect" id="Node000003" href="$_sai_serialize_8cpp.html#a85de2671fb8f5fc00974685ae1531dbd" title=" " alt="" coords="417,5,508,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="355,34,401,26,402,31,356,39"/>
+<area shape="rect" id="Node000004" href="$_sai_serialize_8cpp.html#ac6f5cb5c782bf5932102fe32ac772dd3" title=" " alt="" coords="403,56,522,99"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="356,57,388,62,387,68,355,62"/>
+<area shape="rect" id="Node000005" href="$_sai_serialize_8cpp.html#a65eb8ea2354cbfadd0a6075124116a68" title=" " alt="" coords="570,64,703,91"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="523,75,555,75,555,80,523,80"/>
+<area shape="rect" id="Node000006" href="$_sai_serialize_8cpp.html#a97543edb8d3f82c33b2ba86825bf5cc9" title=" " alt="" coords="751,64,894,91"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="703,75,735,75,735,80,703,80"/>
+</map>

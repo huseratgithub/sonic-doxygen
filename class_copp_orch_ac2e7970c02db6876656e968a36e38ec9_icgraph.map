@@ -1,0 +1,9 @@
+<map id="CoppOrch::createPolicer" name="CoppOrch::createPolicer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="659,13,824,40"/>
+<area shape="rect" id="Node000002" href="$class_copp_orch.html#a1feb61e53e3f5d2d9d49ab2c3b0bd7f4" title=" " alt="" coords="424,5,611,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="644,29,612,29,612,24,644,24"/>
+<area shape="rect" id="Node000003" href="$class_copp_orch.html#a330855526eefe11db20c05e74ba057e7" title=" " alt="" coords="184,13,376,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="408,29,377,29,377,24,408,24"/>
+<area shape="rect" id="Node000004" href="$class_copp_orch.html#a09c56c10caa85b13ae6c625fad8fb37d" title=" " alt="" coords="5,13,136,40"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="168,29,136,29,136,24,168,24"/>
+</map>

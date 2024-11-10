@@ -1,0 +1,5 @@
+<map id="remove_policer" name="remove_policer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,13,115,40"/>
+<area shape="rect" id="Node000002" href="$class_sai_policer_interface.html#a58a33b41428c8ae7cf03062d3d33fc8c" title=" " alt="" coords="163,5,294,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,24,147,24,147,29,115,29"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="sai_serialize_egress_drop_reason" name="sai_serialize_egress_drop_reason">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,145,48"/>
+<area shape="rect" id="Node000002" href="$_sai_serialize_8cpp.html#a65eb8ea2354cbfadd0a6075124116a68" title=" " alt="" coords="193,13,325,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,24,177,24,177,29,145,29"/>
+<area shape="rect" id="Node000003" href="$_sai_serialize_8cpp.html#a97543edb8d3f82c33b2ba86825bf5cc9" title=" " alt="" coords="373,13,516,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="325,24,358,24,358,29,325,29"/>
+</map>

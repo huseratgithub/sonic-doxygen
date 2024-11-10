@@ -1,0 +1,26 @@
+<map id="sai_api_query" name="sai_api_query">
+<area shape="rect" id="Node000001" title=" " alt="" coords="329,183,430,209"/>
+<area shape="rect" id="Node000002" href="$classsyncd_1_1_vendor_sai.html#ae6552f66ebe5ed809528619e4abb104e" title=" " alt="" coords="103,5,281,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="365,170,333,107,309,74,279,46,259,35,262,30,283,42,313,70,338,104,370,167"/>
+<area shape="rect" id="Node000003" href="$saihelper_8cpp.html#a3fd8faaa0da92f49fa7d33e61d9ffe91" title=" " alt="" coords="154,56,230,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="358,172,324,133,280,97,255,86,230,78,231,73,257,81,282,92,328,129,362,168"/>
+<area shape="rect" id="Node000005" href="$vslib_2tests_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="167,107,216,133"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="340,177,280,148,216,128,218,123,282,143,343,172"/>
+<area shape="rect" id="Node000006" href="$saisdkdump_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="167,157,216,184"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="313,190,217,177,217,171,314,185"/>
+<area shape="rect" id="Node000007" href="$syncd_2tests_8cpp.html#a8aebe441863b9c641eb38c80f250d430" title=" " alt="" coords="121,208,263,235"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="314,207,264,214,263,209,313,202"/>
+<area shape="rect" id="Node000009" href="$syncd_2tests_8cpp.html#a411e40a6113957779fb4b2a25aae7dce" title=" " alt="" coords="113,259,270,301"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="341,220,282,249,255,261,253,256,280,244,339,215"/>
+<area shape="rect" id="Node000010" href="$syncd_2tests_8cpp.html#a97b3fd5a822d4f4a753588b9f695bd74" title=" " alt="" coords="124,325,260,352"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="365,224,331,271,308,295,282,316,259,327,257,322,280,311,305,291,327,268,361,221"/>
+<area shape="rect" id="Node000011" href="$syncd_2tests_8cpp.html#add7018c9841bb1750bf0a1d39e492aa8" title=" " alt="" coords="118,376,266,403"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="372,225,359,257,340,296,315,334,283,366,263,378,260,373,279,362,311,330,336,293,354,255,367,223"/>
+<area shape="rect" id="Node000004" href="$sonic-swss_2orchagent_2main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="5,56,55,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="138,72,55,72,55,67,138,67"/>
+<area shape="rect" id="Node000008" href="$syncd_2tests_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,296,55,323"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="116,243,104,249,71,273,46,297,42,293,68,268,101,244,114,238"/>
+<area shape="poly" id="edge9_Node000009_Node000008" title=" " alt="" coords="99,300,56,308,55,302,98,294"/>
+<area shape="poly" id="edge11_Node000010_Node000008" title=" " alt="" coords="108,326,55,316,56,311,109,321"/>
+<area shape="poly" id="edge13_Node000011_Node000008" title=" " alt="" coords="115,373,101,366,70,346,44,325,48,321,73,342,104,362,117,368"/>
+</map>

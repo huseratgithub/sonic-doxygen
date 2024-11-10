@@ -1,0 +1,15 @@
+<map id="test_bulk_next_hop_group_member_create" name="test_bulk_next_hop_group_member_create">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,48,163,91"/>
+<area shape="rect" id="Node000002" href="$sai__redis__interfacequery_8cpp.html#ac6d30d7a8bfb9d7ed804e97c72078b0c" title=" " alt="" coords="211,19,312,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,50,195,43,196,48,164,55"/>
+<area shape="rect" id="Node000004" href="$syncd_2tests_8cpp.html#ad1f5793268273decc41754526d1787ee" title=" " alt="" coords="225,81,298,108"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="163,78,210,85,209,90,163,83"/>
+<area shape="rect" id="Node000003" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="360,5,511,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="312,25,345,23,345,28,313,31"/>
+<area shape="rect" id="Node000005" href="$syncd_2tests_8cpp.html#a7830478092d7eb0d164d3ae07be48fe7" title=" " alt="" coords="402,56,470,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="298,87,386,74,387,79,299,92"/>
+<area shape="rect" id="Node000006" href="$sai__redis__interfacequery_8cpp.html#ac648bf371abd7c51249f9bde92850774" title=" " alt="" coords="378,107,494,133"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="299,97,363,107,362,112,298,103"/>
+<area shape="rect" id="Node000007" href="$sai__redis__interfacequery_8cpp.html#aa02853139202cfab6a80d5268a83972e" title=" " alt="" coords="370,157,501,184"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="288,106,361,143,377,149,375,154,359,148,286,111"/>
+</map>

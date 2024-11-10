@@ -1,0 +1,14 @@
+<map id="sairedis::Recorder::setRecordingOutputDirectory" name="sairedis::Recorder::setRecordingOutputDirectory">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,101,204,144"/>
+<area shape="rect" id="Node000002" href="$classsairedis_1_1_recorder.html#a9e44e30ac4028788d434876a8d268601" title=" " alt="" coords="252,72,384,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,106,236,102,236,107,204,112"/>
+<area shape="rect" id="Node000004" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="628,109,780,136"/>
+<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="204,123,252,124,580,124,613,123,613,129,580,129,252,129,204,128"/>
+<area shape="rect" id="Node000003" href="$classsairedis_1_1_recorder.html#a8437094dc8312edb3515b512161a553c" title=" " alt="" coords="432,72,580,115"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="385,91,417,91,417,96,385,96"/>
+<area shape="rect" id="Node000005" href="$classsairedis_1_1_recorder.html#a98a36a0c0b73b0527a1902df57d5c7e1" title=" " alt="" coords="442,5,570,48"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="379,69,429,51,431,56,381,74"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="581,102,613,107,612,112,580,107"/>
+<area shape="rect" id="Node000006" href="$classsairedis_1_1_recorder.html#a384b62241f24b8c4b04be51dc8fc3a4c" title=" " alt="" coords="640,5,768,48"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="570,24,625,24,625,29,570,29"/>
+</map>

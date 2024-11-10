@@ -1,0 +1,11 @@
+<map id="swss::IntfMgr::enableIpv6Flag" name="swss::IntfMgr::enableIpv6Flag">
+<area shape="rect" id="Node000001" title=" " alt="" coords="753,5,950,32"/>
+<area shape="rect" id="Node000002" href="$classswss_1_1_intf_mgr.html#a7fff0739c94b0c4c90b1ec09f44f1a92" title=" " alt="" coords="547,5,705,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="737,21,705,21,705,16,737,16"/>
+<area shape="rect" id="Node000003" href="$classswss_1_1_intf_mgr.html#a008b728ceb241ee2d4e8cc9efc8700f2" title=" " alt="" coords="302,5,499,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="532,21,500,21,500,16,532,16"/>
+<area shape="rect" id="Node000004" href="$classswss_1_1_intf_mgr.html#afe4eea7b359def483741b3bc2abe3981" title=" " alt="" coords="103,5,254,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="286,21,255,21,255,16,286,16"/>
+<area shape="rect" id="Node000005" href="$intfmgrd_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="5,5,55,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="87,21,55,21,55,16,87,16"/>
+</map>

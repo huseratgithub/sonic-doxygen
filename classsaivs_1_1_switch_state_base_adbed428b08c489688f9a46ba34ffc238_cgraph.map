@@ -1,0 +1,11 @@
+<map id="saivs::SwitchStateBase::vs_get_veth_name" name="saivs::SwitchStateBase::vs_get_veth_name">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,47,167,89"/>
+<area shape="rect" id="Node000002" href="$classsaivs_1_1_switch_state_base.html#af3f880deee3e7465b0063351342f3d36" title=" " alt="" coords="215,29,402,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="167,56,199,52,199,58,168,61"/>
+<area shape="rect" id="Node000003" href="$mock__sai__serialize_8cpp.html#a0f934d15b1a3e0fd3458f0f2b9df0b31" title=" " alt="" coords="450,55,602,81"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="167,65,434,65,434,71,167,71"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="272,30,265,21,269,11,284,5,308,3,334,5,348,12,346,16,333,10,308,8,285,10,273,15,270,20,276,27"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="402,51,435,55,435,60,402,56"/>
+<area shape="rect" id="Node000004" href="$class_sai_serialize_interface.html#ac1267fe86b704633a47c483dcc8e1379" title=" " alt="" coords="650,47,811,89"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="603,65,635,65,635,71,603,71"/>
+</map>

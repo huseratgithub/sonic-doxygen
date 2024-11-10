@@ -1,0 +1,39 @@
+<map id="syncd::SaiSwitch::onPostPortCreate" name="syncd::SaiSwitch::onPostPortCreate">
+<area shape="rect" id="Node000001" title="On post port create." alt="" coords="5,163,178,205"/>
+<area shape="rect" id="Node000002" href="$classsyncd_1_1_sai_discovery.html#a97dd093a37ba5a9c97d38ce4bb73f5fe" title=" " alt="" coords="264,29,406,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,160,163,120,224,82,249,71,251,76,227,86,167,125,118,164"/>
+<area shape="rect" id="Node000011" href="$classsyncd_1_1_sai_discovery.html#ae3c1e0ce7a7b478155061c7fb608610a" title=" " alt="" coords="264,96,406,139"/>
+<area shape="poly" id="edge13_Node000001_Node000011" title=" " alt="" coords="171,160,248,138,250,143,173,165"/>
+<area shape="rect" id="Node000012" href="$classsyncd_1_1_sai_switch.html#aabdc0144eca2f15d20330b67dc31829c" title=" " alt="" coords="226,163,445,205"/>
+<area shape="poly" id="edge14_Node000001_Node000012" title=" " alt="" coords="178,181,210,181,210,187,178,187"/>
+<area shape="rect" id="Node000013" href="$classsyncd_1_1_sai_switch.html#a574ebf79ff2c0e5bb599f6ebee619a29" title="Update lane map for specific port." alt="" coords="235,229,436,272"/>
+<area shape="poly" id="edge15_Node000001_Node000013" title=" " alt="" coords="173,203,241,222,239,227,171,208"/>
+<area shape="rect" id="Node000014" href="$mock__sai__serialize_8cpp.html#a0f934d15b1a3e0fd3458f0f2b9df0b31" title=" " alt="" coords="722,245,874,272"/>
+<area shape="poly" id="edge21_Node000001_Node000014" title=" " alt="" coords="115,204,163,246,193,266,227,281,294,299,364,309,435,312,504,309,632,294,731,274,733,279,632,299,504,315,434,317,363,314,293,304,225,287,191,271,159,250,111,208"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="289,29,288,19,295,10,311,5,335,3,361,5,377,11,375,16,360,10,335,8,312,10,298,15,293,21,295,28"/>
+<area shape="rect" id="Node000003" href="$mock__sai__serialize_8cpp.html#aa06e96f943a8f2451c89c65d2fecbef5" title=" " alt="" coords="494,32,661,59"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="407,46,478,45,478,50,407,52"/>
+<area shape="rect" id="Node000005" href="$classsyncd_1_1_sai_discovery.html#ad6cf83a9a813ecd21bcb60a78ab286fb" title=" " alt="" coords="506,100,649,143"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="407,69,492,94,490,99,406,74"/>
+<area shape="rect" id="Node000004" href="$class_sai_serialize_interface.html#a29d73fb00b962109388850736a5a02a3" title=" " alt="" coords="710,19,886,61"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="662,41,695,40,695,45,662,46"/>
+<area shape="rect" id="Node000006" href="$_sai_serialize_8cpp.html#a9e4f80bd1f4cab2b066741f56f032e3c" title=" " alt="" coords="739,85,857,112"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="649,111,723,104,724,109,649,117"/>
+<area shape="rect" id="Node000009" href="$_sai_serialize_8cpp.html#a0911d130ef31ec393af1a1cf475b8579" title=" " alt="" coords="722,136,874,163"/>
+<area shape="poly" id="edge9_Node000005_Node000009" title=" " alt="" coords="649,128,707,135,706,140,649,133"/>
+<area shape="rect" id="Node000010" href="$_sai_serialize_8cpp.html#aeae06eaf39abcffe5f6215d8688a6368" title=" " alt="" coords="730,187,866,213"/>
+<area shape="poly" id="edge11_Node000005_Node000010" title=" " alt="" coords="631,141,711,172,732,179,731,184,709,177,629,146"/>
+<area shape="rect" id="Node000007" href="$_sai_serialize_8cpp.html#a65eb8ea2354cbfadd0a6075124116a68" title=" " alt="" coords="948,136,1080,163"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="858,110,939,129,938,134,856,115"/>
+<area shape="rect" id="Node000008" href="$_sai_serialize_8cpp.html#a97543edb8d3f82c33b2ba86825bf5cc9" title=" " alt="" coords="1142,136,1285,163"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="1080,147,1126,147,1126,152,1080,152"/>
+<area shape="poly" id="edge10_Node000009_Node000007" title=" " alt="" coords="874,147,932,147,932,152,874,152"/>
+<area shape="poly" id="edge12_Node000010_Node000007" title=" " alt="" coords="858,183,939,164,940,169,859,189"/>
+<area shape="poly" id="edge16_Node000013_Node000014" title=" " alt="" coords="437,250,706,254,706,260,436,255"/>
+<area shape="rect" id="Node000016" href="$classsyncd_1_1_sai_switch.html#a60877841dfc777557a38b7982c81e458" title="Get port lanes for specific port." alt="" coords="493,179,662,221"/>
+<area shape="poly" id="edge18_Node000013_Node000016" title=" " alt="" coords="436,227,477,218,478,223,437,232"/>
+<area shape="rect" id="Node000015" href="$class_sai_serialize_interface.html#ac1267fe86b704633a47c483dcc8e1379" title=" " alt="" coords="934,237,1094,280"/>
+<area shape="poly" id="edge17_Node000014_Node000015" title=" " alt="" coords="874,256,918,256,918,261,874,261"/>
+<area shape="poly" id="edge20_Node000016_Node000010" title=" " alt="" coords="663,197,714,197,714,203,663,203"/>
+<area shape="poly" id="edge19_Node000016_Node000014" title=" " alt="" coords="661,219,732,238,730,244,659,224"/>
+</map>

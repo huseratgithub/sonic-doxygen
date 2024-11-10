@@ -1,0 +1,7 @@
+<map id="swss::VrfMgr::doVrfVxlanTableRemoveTask" name="swss::VrfMgr::doVrfVxlanTableRemoveTask">
+<area shape="rect" id="Node000001" title=" " alt="" coords="299,5,468,48"/>
+<area shape="rect" id="Node000002" href="$classswss_1_1_vrf_mgr.html#aed1896f2af8683c2854fc1a2a8dc1fb2" title=" " alt="" coords="103,13,251,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="284,29,252,29,252,24,284,24"/>
+<area shape="rect" id="Node000003" href="$vrfmgrd_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="5,13,55,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="87,29,55,29,55,24,87,24"/>
+</map>

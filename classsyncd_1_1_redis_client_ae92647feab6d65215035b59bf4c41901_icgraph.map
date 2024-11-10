@@ -1,0 +1,9 @@
+<map id="syncd::RedisClient::getRedisColdVidsKey" name="syncd::RedisClient::getRedisColdVidsKey">
+<area shape="rect" id="Node000001" title=" " alt="" coords="257,72,414,115"/>
+<area shape="rect" id="Node000002" href="$classsyncd_1_1_redis_client.html#a7776c51a27bf91fb65896407f08fcc2b" title=" " alt="" coords="41,5,173,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="245,70,173,49,174,43,246,65"/>
+<area shape="rect" id="Node000003" href="$classsyncd_1_1_redis_client.html#a2909a0b0e45313bd0b0ac3b9869f4f82" title=" " alt="" coords="41,72,173,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="242,96,174,96,174,91,242,91"/>
+<area shape="rect" id="Node000004" href="$classsyncd_1_1_redis_client.html#a3821c3c709d2c52fd2ce01ce05bcfd50" title=" " alt="" coords="5,139,209,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="247,122,184,141,182,135,245,117"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="saivs::SwitchBCM56971B0::refresh_bridge_port_list" name="saivs::SwitchBCM56971B0::refresh_bridge_port_list">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,97,187,140"/>
+<area shape="rect" id="Node000002" href="$classsaivs_1_1_switch_state_base.html#af3f880deee3e7465b0063351342f3d36" title=" " alt="" coords="235,29,422,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="163,94,270,59,272,64,165,99"/>
+<area shape="rect" id="Node000003" href="$mock__sai__serialize_8cpp.html#a0f934d15b1a3e0fd3458f0f2b9df0b31" title=" " alt="" coords="470,80,622,107"/>
+<area shape="poly" id="edge6_Node000001_Node000003" title=" " alt="" coords="187,111,454,96,455,101,187,116"/>
+<area shape="rect" id="Node000005" href="$_sai_serialize_8cpp.html#a93ab044615abc111c2294290d8aaba45" title=" " alt="" coords="245,131,412,157"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="187,126,230,131,229,136,186,131"/>
+<area shape="rect" id="Node000006" href="$classsaivs_1_1_switch_state_base.html#ad2a4aeb845eb777c5abd9d7b3fce6798" title=" " alt="" coords="235,205,422,232"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="149,138,282,196,280,201,147,143"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="292,30,285,21,289,11,304,5,328,3,354,5,368,12,366,16,353,10,328,8,305,10,293,15,290,20,296,27"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="390,54,471,73,470,78,388,59"/>
+<area shape="rect" id="Node000004" href="$class_sai_serialize_interface.html#ac1267fe86b704633a47c483dcc8e1379" title=" " alt="" coords="670,72,831,115"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="623,91,655,91,655,96,623,96"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="355,203,421,167,509,113,512,118,423,172,358,207"/>
+<area shape="poly" id="edge9_Node000006_Node000006" title=" " alt="" coords="292,206,285,197,289,187,304,181,328,179,354,181,368,188,366,192,353,186,328,184,305,186,293,191,290,196,296,203"/>
+</map>

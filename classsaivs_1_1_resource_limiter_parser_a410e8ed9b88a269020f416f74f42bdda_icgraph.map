@@ -1,0 +1,12 @@
+<map id="saivs::ResourceLimiterParser::parse" name="saivs::ResourceLimiterParser::parse">
+<area shape="rect" id="Node000001" title=" " alt="" coords="670,39,864,81"/>
+<area shape="rect" id="Node000002" href="$classsaivs_1_1_resource_limiter_parser.html#a998b6304ffd801d828b178ebed8c0e74" title=" " alt="" coords="429,5,622,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="655,47,622,43,623,37,655,42"/>
+<area shape="rect" id="Node000005" href="$classsaivs_1_1_resource_limiter_parser.html#a4790a54c9650c8f6f62abb5a1e990f6a" title=" " alt="" coords="429,72,622,115"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="655,78,623,83,622,77,655,73"/>
+<area shape="rect" id="Node000003" href="$classsaivs_1_1_resource_limiter_parser.html#a60170d1327e4a09d2fa7f49ad7c92441" title=" " alt="" coords="188,39,381,81"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="414,45,382,49,381,44,413,39"/>
+<area shape="rect" id="Node000004" href="$classsaivs_1_1_sai.html#a979d2b056e7aa52843dbe6a3caec9ddc" title=" " alt="" coords="5,47,140,73"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="172,63,140,63,140,57,172,57"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="413,81,381,76,382,71,414,75"/>
+</map>

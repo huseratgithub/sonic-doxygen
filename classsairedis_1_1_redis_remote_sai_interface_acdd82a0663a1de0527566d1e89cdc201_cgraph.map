@@ -1,0 +1,11 @@
+<map id="sairedis::RedisRemoteSaiInterface::initialize" name="sairedis::RedisRemoteSaiInterface::initialize">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,72,179,115"/>
+<area shape="rect" id="Node000002" href="$classsairedis_1_1_redis_remote_sai_interface.html#a571cd4b3baeab056a8ef88258af6b049" title=" " alt="" coords="230,5,408,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,69,229,50,230,55,167,74"/>
+<area shape="rect" id="Node000003" href="$classsairedis_1_1_redis_remote_sai_interface.html#a3c21ea82ad64a449765120f470fc0ff1" title=" " alt="" coords="227,72,411,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="179,91,211,91,211,96,179,96"/>
+<area shape="rect" id="Node000005" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="243,139,394,165"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="177,113,251,132,249,137,176,118"/>
+<area shape="rect" id="Node000004" href="$classsairedis_1_1_notification_factory.html#af3d37c601b9c1df1ddac2e5defcf072b" title=" " alt="" coords="459,72,643,115"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="412,91,443,91,443,96,412,96"/>
+</map>

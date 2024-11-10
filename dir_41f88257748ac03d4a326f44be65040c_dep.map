@@ -1,0 +1,35 @@
+<map id="E:/GitHub/SONiC/202211/sonic&#45;buildimage/src/sonic&#45;swss/orchagent" name="E:/GitHub/SONiC/202211/sonic&#45;buildimage/src/sonic&#45;swss/orchagent">
+<area shape="rect" id="node1" href="dir_97e3224fe1aff66c862862aab2e0f1c6.html" title="lib" alt="" coords="410,139,449,165"/>
+<area shape="poly" id="edge3" href="dir_000017_000012.html" alt="" coords="314,88,397,131,395,136,311,93"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000017_000012.html" title="5" alt="" coords="394,117,401,133"/>
+<area shape="rect" id="node3" href="dir_c731c48522e8788138038cedc90e66a3.html" title="cbf" alt="" coords="38,139,77,165"/>
+<area shape="poly" id="edge7" href="dir_000017_000001.html" alt="" coords="252,93,92,143,91,138,250,88"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000017_000001.html" title="6" alt="" coords="93,139,100,155"/>
+<area shape="rect" id="node4" href="dir_b2a180d0d6295a8a9f405090c8acc1c7.html" title="debug_counter" alt="" coords="128,139,234,165"/>
+<area shape="poly" id="edge6" href="dir_000017_000003.html" alt="" coords="273,93,214,132,211,128,270,88"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000017_000003.html" title="3" alt="" coords="217,127,224,143"/>
+<area shape="rect" id="node5" href="dir_a097932b9e002f844750c376ba886a9b.html" title="flex_counter" alt="" coords="115,213,208,240"/>
+<area shape="poly" id="edge4" href="dir_000017_000005.html" alt="" coords="251,82,217,87,180,97,146,114,118,140,113,155,116,170,138,201,133,204,111,172,108,154,114,137,143,110,178,92,216,82,250,77"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000017_000005.html" title="16" alt="" coords="132,186,146,202"/>
+<area shape="rect" id="node6" href="dir_a9260fee07f894ab00f3f0ce77da28cd.html" title="p4orch" alt="" coords="259,139,320,165"/>
+<area shape="poly" id="edge5" href="dir_000017_000018.html" alt="" coords="292,91,292,123,287,123,287,91"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000017_000018.html" title="1" alt="" coords="294,112,301,128"/>
+<area shape="rect" id="node7" href="dir_8fac9321f29116f97a0fbd29e26beeb7.html" title="pbh" alt="" coords="344,139,386,165"/>
+<area shape="poly" id="edge2" href="dir_000017_000019.html" alt="" coords="304,89,343,126,339,130,300,92"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000017_000019.html" title="3" alt="" coords="341,111,348,127"/>
+<area shape="rect" id="node8" href="dir_7ca6426c1281299c5cbaafa466b921a1.html" title="sonic&#45;sairedis" alt="" coords="245,288,347,315"/>
+<area shape="poly" id="edge1" href="dir_000017_000029.html" alt="" coords="329,77,363,82,401,92,437,110,466,137,476,160,474,183,463,204,445,224,396,258,344,284,342,279,393,253,441,220,459,201,469,181,471,161,462,140,434,114,399,97,362,87,328,82"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000017_000029.html" title="64" alt="" coords="342,280,356,296"/>
+<area shape="poly" id="edge8" href="dir_000003_000029.html" alt="" coords="193,164,279,274,275,277,189,167"/>
+<area shape="rect" id="edge8-headlabel" href="dir_000003_000029.html" title="1" alt="" coords="278,260,285,276"/>
+<area shape="poly" id="edge9" href="dir_000005_000029.html" alt="" coords="186,238,260,278,258,283,184,243"/>
+<area shape="rect" id="edge9-headlabel" href="dir_000005_000029.html" title="3" alt="" coords="257,263,264,279"/>
+<area shape="poly" id="edge11" href="dir_000018_000005.html" alt="" coords="268,168,198,208,196,203,266,164"/>
+<area shape="rect" id="edge11-headlabel" href="dir_000018_000005.html" title="2" alt="" coords="200,203,207,219"/>
+<area shape="poly" id="edge10" href="dir_000018_000029.html" alt="" coords="293,166,297,272,292,273,287,166"/>
+<area shape="rect" id="edge10-headlabel" href="dir_000018_000029.html" title="27" alt="" coords="296,261,310,277"/>
+<area shape="poly" id="edge12" href="dir_000019_000029.html" alt="" coords="362,167,311,275,306,273,357,165"/>
+<area shape="rect" id="edge12-headlabel" href="dir_000019_000029.html" title="1" alt="" coords="314,267,321,283"/>
+<area shape="rect" id="clust2" href="dir_41f88257748ac03d4a326f44be65040c.html" alt="" coords="27,53,397,251"/>
+<area shape="rect" id="clust1" href="dir_60e9a2be6f152598022c992a541c48b2.html" title="sonic&#45;swss" alt="" coords="16,16,459,261"/>
+</map>

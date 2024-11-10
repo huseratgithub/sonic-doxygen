@@ -1,0 +1,13 @@
+<map id="CbfNhgMember::getNhgId" name="CbfNhgMember::getNhgId">
+<area shape="rect" id="Node000001" title=" " alt="" coords="617,56,792,83"/>
+<area shape="rect" id="Node000002" href="$class_cbf_nhg.html#af70020e21223545df4c002176b1ef84b" title=" " alt="" coords="384,31,557,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="601,61,557,56,558,51,602,56"/>
+<area shape="rect" id="Node000006" href="$class_cbf_nhg_member.html#a2b93a2226334d13fee55950c657df945" title=" " alt="" coords="371,81,569,108"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="602,83,570,87,570,81,602,78"/>
+<area shape="rect" id="Node000003" href="$class_cbf_nhg.html#a645495ff2bff9912f914620ad58a3a85" title=" " alt="" coords="167,31,323,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="368,47,323,47,323,41,368,41"/>
+<area shape="rect" id="Node000004" href="$class_cbf_nhg.html#af6f7a9b32bd2daf8323e15c3a76f4a56" title=" " alt="" coords="11,5,113,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="151,34,113,28,114,23,151,28"/>
+<area shape="rect" id="Node000005" href="$class_cbf_nhg.html#ae1c63b1170de3557d034a7dfd3fbf2ea" title=" " alt="" coords="5,56,119,83"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="151,60,119,64,119,59,151,54"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="syncd::VidManager::switchIdQuery" name="syncd::VidManager::switchIdQuery">
+<area shape="rect" id="Node000001" title="Switch id query." alt="" coords="5,9,147,52"/>
+<area shape="rect" id="Node000002" href="$mock__sai__serialize_8cpp.html#a0f934d15b1a3e0fd3458f0f2b9df0b31" title=" " alt="" coords="636,13,789,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="147,26,406,21,588,21,621,22,621,27,588,27,406,27,147,32"/>
+<area shape="rect" id="Node000004" href="$classsairedis_1_1_virtual_object_id_manager.html#af21e5bb605fedd3833c7f39f61f6ab7d" title="Switch id query." alt="" coords="195,64,358,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="148,47,182,57,180,62,146,53"/>
+<area shape="rect" id="Node000003" href="$class_sai_serialize_interface.html#ac1267fe86b704633a47c483dcc8e1379" title=" " alt="" coords="837,5,997,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="789,24,821,24,821,29,789,29"/>
+<area shape="poly" id="edge8_Node000004_Node000002" title=" " alt="" coords="353,61,406,49,517,35,621,27,621,33,518,40,406,55,354,66"/>
+<area shape="rect" id="Node000005" href="$classsairedis_1_1_virtual_object_id_manager.html#adf8023ea824e3b1535e342a77c0f72b2" title="Construct object id." alt="" coords="406,64,588,107"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="358,83,390,83,390,88,358,88"/>
+<area shape="rect" id="Node000006" href="$classsairedis_1_1_virtual_object_id_manager.html#ad101fc291f99d20afa184f5b99911b3a" title="Object type query." alt="" coords="408,131,586,173"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="350,105,410,123,409,128,348,110"/>
+<area shape="rect" id="Node000007" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="637,168,788,195"/>
+<area shape="poly" id="edge9_Node000004_Node000007" title=" " alt="" coords="299,105,345,148,375,168,407,183,462,196,520,201,576,200,627,195,627,200,576,205,520,206,461,201,405,188,372,172,342,152,295,109"/>
+<area shape="poly" id="edge6_Node000006_Node000002" title=" " alt="" coords="563,128,587,116,639,83,683,48,686,52,642,87,590,121,565,133"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="587,161,622,166,621,172,586,167"/>
+</map>

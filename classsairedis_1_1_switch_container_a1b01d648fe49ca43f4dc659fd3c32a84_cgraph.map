@@ -1,0 +1,9 @@
+<map id="sairedis::SwitchContainer::insert" name="sairedis::SwitchContainer::insert">
+<area shape="rect" id="Node000001" title="Insert switch to container." alt="" coords="5,35,176,77"/>
+<area shape="rect" id="Node000002" href="$classsairedis_1_1_switch_container.html#a78d115f3548b5c9adbcb91bead097ec2" title="Get switch by hardware info." alt="" coords="224,5,405,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,42,208,38,208,43,176,47"/>
+<area shape="rect" id="Node000003" href="$mock__sai__serialize_8cpp.html#a0f934d15b1a3e0fd3458f0f2b9df0b31" title=" " alt="" coords="238,72,390,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="176,65,223,71,222,76,176,70"/>
+<area shape="rect" id="Node000004" href="$class_sai_serialize_interface.html#ac1267fe86b704633a47c483dcc8e1379" title=" " alt="" coords="453,64,613,107"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="391,83,438,83,438,88,391,88"/>
+</map>

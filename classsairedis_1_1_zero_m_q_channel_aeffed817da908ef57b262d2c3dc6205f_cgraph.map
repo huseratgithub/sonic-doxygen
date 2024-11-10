@@ -1,0 +1,11 @@
+<map id="sairedis::ZeroMQChannel::wait" name="sairedis::ZeroMQChannel::wait">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,23,175,65"/>
+<area shape="rect" id="Node000002" href="$_sai_serialize_8cpp.html#a0a1028a360aec2e3e808a9ce5209e108" title=" " alt="" coords="223,5,374,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,31,207,27,208,32,175,36"/>
+<area shape="rect" id="Node000005" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="223,56,374,83"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="175,52,207,56,207,61,175,57"/>
+<area shape="rect" id="Node000003" href="$_sai_serialize_8cpp.html#aecc5d98c7c6eb929afccb415702e0ab1" title=" " alt="" coords="422,5,568,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="374,16,406,16,406,21,374,21"/>
+<area shape="rect" id="Node000004" href="$_sai_serialize_8cpp.html#af43610cde7a028ce65a0a67e5f32ed42" title=" " alt="" coords="616,5,774,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="569,16,601,16,601,21,569,21"/>
+</map>

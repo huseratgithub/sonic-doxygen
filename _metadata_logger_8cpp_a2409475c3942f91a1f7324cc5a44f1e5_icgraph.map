@@ -1,0 +1,15 @@
+<map id="sai_meta_log_syncd" name="sai_meta_log_syncd">
+<area shape="rect" id="Node000001" title=" " alt="" coords="556,56,697,83"/>
+<area shape="rect" id="Node000002" href="$classsyncd_1_1_metadata_logger.html#aeab7d883676aebb3c98a8350ac5e320a" title=" " alt="" coords="351,48,508,91"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="541,72,509,72,509,67,541,67"/>
+<area shape="rect" id="Node000003" href="$saiplayer__main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="230,5,280,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="339,46,279,28,281,23,340,41"/>
+<area shape="rect" id="Node000004" href="$syncd__main_8cpp.html#ac389e0d54a8c3e7ffae94cada1dd1141" title=" " alt="" coords="209,56,300,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="336,72,301,72,301,67,336,67"/>
+<area shape="rect" id="Node000006" href="$syncd_2tests_8cpp.html#aab1891ec6788762d6f296820054178d9" title=" " alt="" coords="207,107,303,133"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="340,98,304,109,303,104,339,93"/>
+<area shape="rect" id="Node000005" href="$sonic-sairedis_2syncd_2main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="57,56,107,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="194,72,107,72,107,67,194,67"/>
+<area shape="rect" id="Node000007" href="$syncd_2tests_8cpp.html#ac7f3ac819321555f8d08c29f128e8cee" title=" " alt="" coords="5,107,159,133"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="191,123,159,123,159,117,191,117"/>
+</map>

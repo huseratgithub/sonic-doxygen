@@ -1,0 +1,9 @@
+<map id="saivs::EventPayload" name="saivs::EventPayload">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,56,147,83"/>
+<area shape="rect" id="Node000002" href="$classsaivs_1_1_event_payload_net_link_msg.html" title=" " alt="" coords="195,5,406,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="152,49,237,30,239,35,154,55"/>
+<area shape="rect" id="Node000003" href="$classsaivs_1_1_event_payload_notification.html" title=" " alt="" coords="197,56,404,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="162,67,196,67,196,72,162,72"/>
+<area shape="rect" id="Node000004" href="$classsaivs_1_1_event_payload_packet.html" title=" " alt="" coords="209,107,392,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="154,84,239,103,237,109,152,89"/>
+</map>

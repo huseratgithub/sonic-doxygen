@@ -1,0 +1,31 @@
+<map id="saiplayer::SaiPlayer::handle_get_response" name="saiplayer::SaiPlayer::handle_get_response">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,205,158,248"/>
+<area shape="rect" id="Node000002" href="$classsaimeta_1_1_sai_attribute_list.html#a21e8816e7ed04a7df9af327b519026bd" title=" " alt="" coords="206,5,370,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,203,135,133,167,93,204,58,209,54,213,58,207,62,171,97,139,136,96,206"/>
+<area shape="rect" id="Node000003" href="$classsaimeta_1_1_sai_attribute_list.html#abc7119ff972ebe1d9d789077fac9e7d2" title=" " alt="" coords="206,72,370,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="104,203,148,164,204,124,213,120,215,124,207,129,152,168,107,207"/>
+<area shape="rect" id="Node000004" href="$classsaiplayer_1_1_sai_player.html#a8c1337122e72e4188ac4170cfff605d4" title=" " alt="" coords="219,139,356,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="149,202,204,184,206,189,150,207"/>
+<area shape="rect" id="Node000005" href="$classsaiplayer_1_1_sai_player.html#a2563e74030b1eb980671b8f1569460df" title=" " alt="" coords="219,205,357,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="158,224,203,224,203,229,158,229"/>
+<area shape="rect" id="Node000008" href="$classsaiplayer_1_1_sai_player.html#a949eed78ea6c34f7a2ebc6c2894d5fb9" title=" " alt="" coords="210,296,366,339"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="133,246,224,287,222,292,131,251"/>
+<area shape="rect" id="Node000009" href="$_sai_serialize_8cpp.html#a0a1028a360aec2e3e808a9ce5209e108" title=" " alt="" coords="213,363,363,389"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="101,246,145,298,175,325,207,348,217,354,215,359,204,353,171,329,141,301,97,250"/>
+<area shape="rect" id="Node000012" href="$_sai_serialize_8cpp.html#aeae06eaf39abcffe5f6215d8688a6368" title=" " alt="" coords="220,413,356,440"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="95,247,112,281,137,322,169,363,207,399,215,404,212,408,204,403,165,367,132,325,107,283,90,250"/>
+<area shape="rect" id="Node000006" href="$mock__sai__serialize_8cpp.html#aa06e96f943a8f2451c89c65d2fecbef5" title=" " alt="" coords="418,259,585,285"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="358,239,421,252,420,257,357,244"/>
+<area shape="rect" id="Node000007" href="$class_sai_serialize_interface.html#a29d73fb00b962109388850736a5a02a3" title=" " alt="" coords="633,251,809,293"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="586,269,618,269,618,275,586,275"/>
+<area shape="poly" id="edge9_Node000008_Node000006" title=" " alt="" coords="366,298,420,286,421,292,367,303"/>
+<area shape="poly" id="edge8_Node000008_Node000008" title=" " alt="" coords="248,296,247,286,253,277,267,271,288,269,310,272,323,278,321,283,309,277,288,275,268,277,257,281,252,287,254,295"/>
+<area shape="rect" id="Node000010" href="$_sai_serialize_8cpp.html#aecc5d98c7c6eb929afccb415702e0ab1" title=" " alt="" coords="428,363,575,389"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="364,373,413,373,413,379,364,379"/>
+<area shape="rect" id="Node000011" href="$_sai_serialize_8cpp.html#af43610cde7a028ce65a0a67e5f32ed42" title=" " alt="" coords="642,363,800,389"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="575,373,627,373,627,379,575,379"/>
+<area shape="rect" id="Node000013" href="$_sai_serialize_8cpp.html#a65eb8ea2354cbfadd0a6075124116a68" title=" " alt="" coords="436,413,568,440"/>
+<area shape="poly" id="edge14_Node000012_Node000013" title=" " alt="" coords="357,424,420,424,420,429,357,429"/>
+<area shape="rect" id="Node000014" href="$_sai_serialize_8cpp.html#a97543edb8d3f82c33b2ba86825bf5cc9" title=" " alt="" coords="649,413,793,440"/>
+<area shape="poly" id="edge15_Node000013_Node000014" title=" " alt="" coords="568,424,634,424,634,429,568,429"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="syncd::SaiSwitch::isColdBootDiscoveredRid" name="syncd::SaiSwitch::isColdBootDiscoveredRid">
+<area shape="rect" id="Node000001" title="Indicates whether RID was discovered on switch init at cold boot." alt="" coords="5,5,174,48"/>
+<area shape="rect" id="Node000002" href="$classsyncd_1_1_sai_switch.html#a4e39f9e9af66e3d8a5e3fad6a7098844" title="Get cold boot discovered VIDs." alt="" coords="222,5,398,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,24,206,24,206,29,174,29"/>
+</map>

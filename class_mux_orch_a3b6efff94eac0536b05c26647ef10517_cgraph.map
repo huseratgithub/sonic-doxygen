@@ -1,0 +1,7 @@
+<map id="MuxOrch::delOperation" name="MuxOrch::delOperation">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,161,57"/>
+<area shape="rect" id="Node000002" href="$class_request.html#acf2b1dbbf1f4e1f32fe123ac4fe1bf33" title=" " alt="" coords="209,5,371,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,32,193,28,193,33,161,37"/>
+<area shape="rect" id="Node000003" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="214,56,366,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="161,51,199,56,198,61,161,56"/>
+</map>

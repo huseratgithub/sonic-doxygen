@@ -1,0 +1,11 @@
+<map id="sairedis::Sai::set" name="sairedis::Sai::set">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,43,125,69"/>
+<area shape="rect" id="Node000002" href="$classsairedis_1_1_redis_remote_sai_interface.html#ae14fe9d9c4dd71785b8bad13dd871e3f" title="Checks whether attribute is custom SAI_REDIS_SWITCH attribute." alt="" coords="173,5,346,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,44,157,39,158,45,125,50"/>
+<area shape="rect" id="Node000003" href="$_sai_serialize_8cpp.html#aeae06eaf39abcffe5f6215d8688a6368" title=" " alt="" coords="191,72,328,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="125,62,176,70,175,75,124,68"/>
+<area shape="rect" id="Node000004" href="$_sai_serialize_8cpp.html#a65eb8ea2354cbfadd0a6075124116a68" title=" " alt="" coords="394,72,526,99"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="328,83,378,83,378,88,328,88"/>
+<area shape="rect" id="Node000005" href="$_sai_serialize_8cpp.html#a97543edb8d3f82c33b2ba86825bf5cc9" title=" " alt="" coords="574,72,718,99"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="527,83,559,83,559,88,527,88"/>
+</map>

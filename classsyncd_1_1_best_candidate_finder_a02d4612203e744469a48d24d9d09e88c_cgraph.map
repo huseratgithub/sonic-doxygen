@@ -1,0 +1,20 @@
+<map id="syncd::BestCandidateFinder::findCurrentBestMatchForNextHopGroup" name="syncd::BestCandidateFinder::findCurrentBestMatchForNextHopGroup">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,69,268,112"/>
+<area shape="rect" id="Node000002" href="$classsyncd_1_1_asic_view.html#a5d25a1225d22885cf8317489d42d2d7c" title="Gets not processed objects by object type." alt="" coords="316,40,544,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="268,75,300,72,301,77,269,80"/>
+<area shape="rect" id="Node000003" href="$_sai_serialize_8cpp.html#a8058d77892df920d15de404859c78520" title=" " alt="" coords="355,107,504,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="269,101,340,108,339,114,268,106"/>
+<area shape="rect" id="Node000004" href="$_sai_serialize_8cpp.html#af515a793a4b524af1936c4a223b4a8bf" title=" " alt="" coords="609,5,718,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="504,108,543,92,557,81,566,68,575,55,590,42,599,37,602,41,594,46,579,59,571,71,561,85,545,97,506,112"/>
+<area shape="rect" id="Node000006" href="$_sai_serialize_8cpp.html#a15bd80c74ea82c6e3969cdf67a447594" title=" " alt="" coords="609,56,718,83"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="494,103,593,82,594,87,496,109"/>
+<area shape="rect" id="Node000007" href="$_sai_serialize_8cpp.html#a6070a80aeaebada3deab6b9aa3218b75" title=" " alt="" coords="602,107,726,133"/>
+<area shape="poly" id="edge7_Node000003_Node000007" title=" " alt="" coords="505,117,586,117,586,123,505,123"/>
+<area shape="rect" id="Node000008" href="$_sai_serialize_8cpp.html#a18675e41a9186f3bb9ad3e26ec293d49" title=" " alt="" coords="602,157,726,184"/>
+<area shape="poly" id="edge8_Node000003_Node000008" title=" " alt="" coords="496,131,587,151,586,157,494,137"/>
+<area shape="rect" id="Node000009" href="$_sai_serialize_8cpp.html#a97543edb8d3f82c33b2ba86825bf5cc9" title=" " alt="" coords="592,208,735,235"/>
+<area shape="poly" id="edge9_Node000003_Node000009" title=" " alt="" coords="460,132,593,194,609,200,607,205,591,198,458,136"/>
+<area shape="rect" id="Node000005" href="$_sai_serialize_8cpp.html#aaf371b368826180ca3115f3662074971" title=" " alt="" coords="783,31,879,57"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="719,24,768,32,767,37,719,30"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="719,58,767,51,768,56,719,64"/>
+</map>

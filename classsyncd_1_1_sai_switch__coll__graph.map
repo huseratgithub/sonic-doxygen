@@ -1,0 +1,7 @@
+<map id="syncd::SaiSwitch" name="syncd::SaiSwitch">
+<area shape="rect" id="Node000001" title=" " alt="" coords="99,96,222,123"/>
+<area shape="rect" id="Node000002" href="$classsyncd_1_1_sai_switch_interface.html" title=" " alt="" coords="5,5,180,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,43,153,94,149,97,109,46"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="203,5,256,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="213,46,173,97,168,94,208,43"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="NhgMapOrch::decRefCount" name="NhgMapOrch::decRefCount">
+<area shape="rect" id="Node000001" title=" " alt="" coords="346,31,529,57"/>
+<area shape="rect" id="Node000002" href="$class_cbf_nhg.html#aca1947a0c9ee173a3d6b0cfc3f5d1247" title=" " alt="" coords="181,5,298,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="330,33,298,29,299,24,331,28"/>
+<area shape="rect" id="Node000004" href="$class_cbf_nhg.html#ae1c63b1170de3557d034a7dfd3fbf2ea" title=" " alt="" coords="183,56,296,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="331,60,297,65,296,59,330,55"/>
+<area shape="rect" id="Node000003" href="$class_cbf_nhg.html#a58b82ba59919c051b6f656546b13700f" title=" " alt="" coords="5,5,133,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="165,21,133,21,133,16,165,16"/>
+</map>

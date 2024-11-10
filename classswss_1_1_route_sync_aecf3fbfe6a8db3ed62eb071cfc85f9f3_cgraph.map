@@ -1,0 +1,30 @@
+<map id="swss::RouteSync::onMsg" name="swss::RouteSync::onMsg">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,108,178,135"/>
+<area shape="rect" id="Node000002" href="$classswss_1_1_route_sync.html#a34d98118e7278e76c94652c7f50dfeb8" title=" " alt="" coords="735,42,930,68"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,105,163,78,225,52,352,19,454,5,557,6,688,19,770,35,769,40,687,24,557,11,454,10,353,24,227,57,165,83,116,110"/>
+<area shape="rect" id="Node000003" href="$classswss_1_1_route_sync.html#a1ecdd5ce9437dc1005f940f4fe22e1b0" title=" " alt="" coords="254,67,432,110"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="178,107,238,99,239,105,178,113"/>
+<area shape="rect" id="Node000005" href="$classswss_1_1_route_sync.html#a8c38526599507849dbdfb8cf522bbe47" title=" " alt="" coords="239,175,446,202"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="146,133,276,168,274,173,144,138"/>
+<area shape="rect" id="Node000011" href="$classswss_1_1_route_sync.html#abe4608ff26fa3c80fecf6ac6d80098a8" title=" " alt="" coords="226,410,460,436"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="106,134,323,396,318,399,102,137"/>
+<area shape="rect" id="Node000004" href="$classswss_1_1_route_sync.html#aa3d544ad93c446b2ca9943a9dadf2714" title=" " alt="" coords="508,34,687,76"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="432,74,492,66,493,71,433,79"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="687,52,720,52,720,58,687,58"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="368,172,459,119,482,102,507,86,518,80,520,85,509,91,485,106,461,124,371,177"/>
+<area shape="rect" id="Node000006" href="$classswss_1_1_route_sync.html#a131036886df33c64dbad1082c8f83c2b" title=" " alt="" coords="508,100,687,143"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="396,172,498,145,499,150,398,177"/>
+<area shape="rect" id="Node000007" href="$classswss_1_1_warm_start_helper.html#aa990ee31e488d6335e15b0c9cbfc0f7a" title=" " alt="" coords="518,167,678,210"/>
+<area shape="poly" id="edge8_Node000005_Node000007" title=" " alt="" coords="447,186,502,186,502,191,447,191"/>
+<area shape="rect" id="Node000008" href="$classswss_1_1_warm_start_helper.html#a40587554cb7256ebb78b0b35aec3f7a7" title=" " alt="" coords="518,234,678,276"/>
+<area shape="poly" id="edge9_Node000005_Node000008" title=" " alt="" coords="398,200,503,228,502,233,396,205"/>
+<area shape="rect" id="Node000009" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="522,300,673,327"/>
+<area shape="poly" id="edge10_Node000005_Node000009" title=" " alt="" coords="364,200,427,242,509,286,526,292,524,297,507,291,424,246,361,204"/>
+<area shape="rect" id="Node000010" href="$lib_2tests_8cpp.html#ad3af9936f704b25188a9ef24330f8a19" title=" " alt="" coords="562,351,633,378"/>
+<area shape="poly" id="edge11_Node000005_Node000010" title=" " alt="" coords="357,200,418,266,461,304,509,337,549,352,547,357,507,341,458,308,414,269,353,204"/>
+<area shape="rect" id="Node000012" href="$classswss_1_1_route_sync.html#a3423e2da5cc6ee64610e168a4ef26db8" title=" " alt="" coords="508,402,687,444"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="461,420,492,420,492,426,461,426"/>
+<area shape="rect" id="Node000013" href="$classswss_1_1_route_sync.html#a86aae343a9f2150d4577d71c2b3c6957" title=" " alt="" coords="508,468,687,511"/>
+<area shape="poly" id="edge14_Node000011_Node000013" title=" " alt="" coords="398,434,499,461,498,466,396,439"/>
+<area shape="poly" id="edge15_Node000013_Node000002" title=" " alt="" coords="671,465,685,454,721,411,751,361,774,309,793,256,816,157,826,83,832,84,821,158,798,258,779,311,756,364,726,414,689,458,675,470"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="saimeta::Meta::objectTypeGetAvailability" name="saimeta::Meta::objectTypeGetAvailability">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,181,77"/>
+<area shape="rect" id="Node000002" href="$_sai_serialize_8cpp.html#ac6f5cb5c782bf5932102fe32ac772dd3" title=" " alt="" coords="245,5,364,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="181,41,229,34,229,40,181,46"/>
+<area shape="rect" id="Node000005" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="229,72,380,99"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="181,66,214,70,213,75,181,71"/>
+<area shape="rect" id="Node000003" href="$_sai_serialize_8cpp.html#a65eb8ea2354cbfadd0a6075124116a68" title=" " alt="" coords="428,13,560,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="364,24,413,24,413,29,364,29"/>
+<area shape="rect" id="Node000004" href="$_sai_serialize_8cpp.html#a97543edb8d3f82c33b2ba86825bf5cc9" title=" " alt="" coords="608,13,752,40"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="561,24,593,24,593,29,561,29"/>
+</map>

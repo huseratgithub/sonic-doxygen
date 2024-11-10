@@ -1,0 +1,7 @@
+<map id="PbhVendorFieldCapabilities::setPbhDefaults" name="PbhVendorFieldCapabilities::setPbhDefaults">
+<area shape="rect" id="Node000001" title=" " alt="" coords="254,39,434,81"/>
+<area shape="rect" id="Node000002" href="$class_pbh_generic_field_capabilities.html#a94d97a9e10d38733fecec47b05ea5d56" title=" " alt="" coords="9,5,202,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="238,48,202,43,203,38,239,43"/>
+<area shape="rect" id="Node000003" href="$class_pbh_mellanox_field_capabilities.html#a8ed99932d6089874e725c05d94c1ef5a" title=" " alt="" coords="5,72,206,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="239,77,206,82,206,77,238,72"/>
+</map>

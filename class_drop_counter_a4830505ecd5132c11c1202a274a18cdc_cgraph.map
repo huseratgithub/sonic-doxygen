@@ -1,0 +1,10 @@
+<map id="DropCounter::addDropReason" name="DropCounter::addDropReason">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,43,203,69"/>
+<area shape="rect" id="Node000002" href="$class_drop_counter.html#aa360a2d4b1e2a2daa0fedcf261c080ef" title=" " alt="" coords="251,35,473,77"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,53,235,53,235,59,203,59"/>
+<area shape="rect" id="Node000003" href="$class_drop_counter.html#aa665237f49f88bb5e836eb441a39ff8d" title=" " alt="" coords="521,5,700,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="473,40,505,36,506,42,474,45"/>
+<area shape="rect" id="Node000004" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="748,43,900,69"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="474,56,521,57,700,57,733,57,733,62,700,63,521,63,473,62"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="701,36,733,41,733,46,700,42"/>
+</map>

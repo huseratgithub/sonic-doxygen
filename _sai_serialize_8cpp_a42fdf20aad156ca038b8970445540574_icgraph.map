@@ -1,0 +1,15 @@
+<map id="sai_serialize_json_nat_event_notification_data" name="sai_serialize_json_nat_event_notification_data">
+<area shape="rect" id="Node000001" title=" " alt="" coords="945,39,1132,81"/>
+<area shape="rect" id="Node000002" href="$_sai_serialize_8cpp.html#a43127e0c070db5d4872379ffe6b27c62" title=" " alt="" coords="717,47,897,73"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="930,63,897,63,897,57,930,57"/>
+<area shape="rect" id="Node000003" href="$classsyncd_1_1_notification_handler.html#ad985d3d5f44155c5627cc30937d2b1bd" title=" " alt="" coords="487,5,662,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="701,48,662,42,663,37,702,42"/>
+<area shape="rect" id="Node000005" href="$classsyncd_1_1_notification_processor.html#a989fb4e753050dd72da6f420411f7a9f" title=" " alt="" coords="480,72,669,115"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="702,78,670,82,669,77,702,72"/>
+<area shape="rect" id="Node000004" href="$classsyncd_1_1_syncd.html#a3b868b53131c97e96aaedc6f0cccda6c" title=" " alt="" coords="264,13,410,40"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="472,29,411,29,411,24,472,24"/>
+<area shape="rect" id="Node000006" href="$classsyncd_1_1_notification_processor.html#ae200c02862b91edfb8c80d73623c86c4" title=" " alt="" coords="243,72,432,115"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="464,96,433,96,433,91,464,91"/>
+<area shape="rect" id="Node000007" href="$classsyncd_1_1_notification_processor.html#a98d729e95c17d94bad6c7fbd45944880" title=" " alt="" coords="5,72,195,115"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="227,96,195,96,195,91,227,91"/>
+</map>

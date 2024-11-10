@@ -1,0 +1,8 @@
+<map id="sairedis::ClientSai::get" name="sairedis::ClientSai::get">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,159,56"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="48,30,42,21,46,11,60,5,82,3,106,5,119,12,116,16,104,10,82,8,61,10,50,15,47,20,52,27"/>
+<area shape="rect" id="Node000002" href="$mock__sai__serialize_8cpp.html#a0f934d15b1a3e0fd3458f0f2b9df0b31" title=" " alt="" coords="207,29,359,56"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="159,40,191,40,191,45,159,45"/>
+<area shape="rect" id="Node000003" href="$class_sai_serialize_interface.html#ac1267fe86b704633a47c483dcc8e1379" title=" " alt="" coords="407,21,567,64"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="359,40,391,40,391,45,359,45"/>
+</map>

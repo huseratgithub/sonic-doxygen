@@ -1,0 +1,18 @@
+<map id="saivs::ResourceLimiterParser::parseLineWithIndex" name="saivs::ResourceLimiterParser::parseLineWithIndex">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,80,199,123"/>
+<area shape="rect" id="Node000002" href="$classsaivs_1_1_resource_limiter_parser.html#a410e8ed9b88a269020f416f74f42bdda" title=" " alt="" coords="247,51,440,93"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="199,87,231,83,232,88,199,92"/>
+<area shape="rect" id="Node000008" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="503,113,654,140"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="199,104,488,119,488,125,199,109"/>
+<area shape="rect" id="Node000003" href="$_sai_serialize_8cpp.html#ae5336a4765542a92fa3953281fa6f759" title=" " alt="" coords="488,7,669,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="440,48,499,35,501,40,441,53"/>
+<area shape="rect" id="Node000006" href="$mock__sai__serialize_8cpp.html#aa06e96f943a8f2451c89c65d2fecbef5" title=" " alt="" coords="495,61,662,88"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="441,70,480,71,480,76,441,76"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="439,91,504,107,503,112,438,97"/>
+<area shape="rect" id="Node000004" href="$_sai_serialize_8cpp.html#aecc5d98c7c6eb929afccb415702e0ab1" title=" " alt="" coords="732,5,878,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="670,17,716,17,716,22,670,22"/>
+<area shape="rect" id="Node000005" href="$_sai_serialize_8cpp.html#af43610cde7a028ce65a0a67e5f32ed42" title=" " alt="" coords="941,5,1098,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="879,16,925,16,925,21,879,21"/>
+<area shape="rect" id="Node000007" href="$class_sai_serialize_interface.html#a29d73fb00b962109388850736a5a02a3" title=" " alt="" coords="717,56,893,99"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="663,73,702,73,702,79,663,78"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="swss::MclagLink::addDomainCfgDependentSelectables" name="swss::MclagLink::addDomainCfgDependentSelectables">
+<area shape="rect" id="Node000001" title=" " alt="" coords="581,5,775,48"/>
+<area shape="rect" id="Node000002" href="$classswss_1_1_mclag_link.html#a29394891de36b34cd9b408a37b354ea5" title=" " alt="" coords="360,5,533,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="566,29,534,29,534,24,566,24"/>
+<area shape="rect" id="Node000003" href="$mclagsyncd_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="5,13,55,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="344,26,103,25,55,28,55,22,103,20,344,21"/>
+<area shape="rect" id="Node000004" href="$classswss_1_1_mclag_link.html#ac236ec1528b8d55bc94085ca23ec56f8" title=" " alt="" coords="103,35,312,77"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="345,42,313,46,312,41,344,37"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="87,39,55,33,56,28,88,33"/>
+</map>

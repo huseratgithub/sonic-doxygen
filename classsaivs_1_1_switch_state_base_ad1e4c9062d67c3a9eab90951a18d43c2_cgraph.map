@@ -1,0 +1,13 @@
+<map id="saivs::SwitchStateBase::set_static_crm_values" name="saivs::SwitchStateBase::set_static_crm_values">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,21,167,64"/>
+<area shape="rect" id="Node000002" href="$classsaivs_1_1_switch_state_base.html#ad2a4aeb845eb777c5abd9d7b3fce6798" title=" " alt="" coords="454,29,641,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="167,37,215,36,406,36,438,37,438,42,406,41,215,41,167,42"/>
+<area shape="rect" id="Node000005" href="$classsaivs_1_1_switch_state_base.html#a7cece6b02cd121439000a8f6b6795651" title=" " alt="" coords="215,51,406,93"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="167,51,200,55,199,60,166,56"/>
+<area shape="poly" id="edge4_Node000002_Node000002" title=" " alt="" coords="511,30,504,21,509,11,524,5,548,3,574,5,587,12,585,16,572,10,548,8,525,10,512,15,510,20,515,27"/>
+<area shape="rect" id="Node000003" href="$mock__sai__serialize_8cpp.html#a0f934d15b1a3e0fd3458f0f2b9df0b31" title=" " alt="" coords="689,29,842,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="641,40,674,40,674,45,641,45"/>
+<area shape="rect" id="Node000004" href="$class_sai_serialize_interface.html#ac1267fe86b704633a47c483dcc8e1379" title=" " alt="" coords="890,21,1050,64"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="842,40,874,40,874,45,842,45"/>
+<area shape="poly" id="edge6_Node000005_Node000002" title=" " alt="" coords="406,58,438,54,439,59,407,63"/>
+</map>

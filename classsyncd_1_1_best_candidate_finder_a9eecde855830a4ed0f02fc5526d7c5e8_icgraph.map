@@ -1,0 +1,33 @@
+<map id="syncd::BestCandidateFinder::getSaiAttrFromDefaultValue" name="syncd::BestCandidateFinder::getSaiAttrFromDefaultValue">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1953,191,2144,233"/>
+<area shape="rect" id="Node000002" href="$classsyncd_1_1_comparison_logic.html#a2b59fbbda2f30d967c671f2edcea21aa" title=" " alt="" coords="1632,115,1905,157"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1958,188,1904,173,1856,161,1858,155,1905,168,1959,183"/>
+<area shape="rect" id="Node000011" href="$classsyncd_1_1_best_candidate_finder.html#a55e1d64505e7c14fb24749f1f5de8ccb" title=" " alt="" coords="1658,183,1879,241"/>
+<area shape="poly" id="edge15_Node000001_Node000011" title=" " alt="" coords="1937,215,1879,215,1879,209,1937,209"/>
+<area shape="rect" id="Node000013" href="$classsyncd_1_1_comparison_logic.html#ad517773b5e05b72940a36b4c39e713bf" title=" " alt="" coords="1057,264,1245,307"/>
+<area shape="poly" id="edge17_Node000001_Node000013" title=" " alt="" coords="1970,241,1905,256,1723,278,1541,289,1376,292,1246,291,1246,286,1376,287,1541,284,1722,273,1904,251,1968,236"/>
+<area shape="rect" id="Node000003" href="$classsyncd_1_1_comparison_logic.html#ae3018aa6e036235f0b9be23820c65a25" title=" " alt="" coords="743,5,977,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1638,114,1584,105,1419,83,1254,64,977,38,977,33,1255,59,1420,78,1585,100,1639,109"/>
+<area shape="rect" id="Node000006" href="$classsyncd_1_1_comparison_logic.html#a9de33468222952d6bdf7e09bfa83dbd5" title=" " alt="" coords="1325,115,1584,157"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="1617,139,1585,139,1585,133,1617,133"/>
+<area shape="rect" id="Node000004" href="$classsyncd_1_1_comparison_logic.html#ae3fa85cea7a96a01a65e2437645fa87a" title=" " alt="" coords="241,64,406,107"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="728,42,477,69,407,78,407,72,477,64,728,37"/>
+<area shape="rect" id="Node000005" href="$classsyncd_1_1_comparison_logic.html#a798303c1dac0b50fc05978a3e04ca7e3" title=" " alt="" coords="5,64,171,107"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="226,88,171,88,171,83,226,83"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="1310,132,1277,131,407,92,407,86,1277,125,1310,127"/>
+<area shape="rect" id="Node000007" href="$classsyncd_1_1_comparison_logic.html#a7f631e8ff8d87b766342e962ee6afadd" title="Process SAI object for ASIC view transition." alt="" coords="477,164,695,207"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="1310,143,1047,154,744,172,696,176,696,171,743,167,1046,149,1310,138"/>
+<area shape="rect" id="Node000009" href="$classsyncd_1_1_comparison_logic.html#a4ac9501a2030dbcae26d791eca505a55" title=" " alt="" coords="1025,197,1277,240"/>
+<area shape="poly" id="edge11_Node000006_Node000009" title=" " alt="" coords="1359,165,1233,199,1231,194,1358,159"/>
+<area shape="poly" id="edge8_Node000007_Node000004" title=" " alt="" coords="513,160,381,110,383,105,515,155"/>
+<area shape="rect" id="Node000008" href="$classsyncd_1_1_comparison_logic.html#abf5a8cd1fd1a44053934a2ec69a4dfbe" title="Process object attributes for view transition." alt="" coords="219,156,429,215"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="462,197,429,197,429,192,462,192"/>
+<area shape="poly" id="edge10_Node000008_Node000007" title=" " alt="" coords="445,174,477,174,477,179,445,179"/>
+<area shape="poly" id="edge14_Node000009_Node000009" title=" " alt="" coords="1199,184,1181,178,1151,176,1123,178,1106,183,1099,189,1101,196,1096,197,1094,187,1103,178,1122,173,1151,171,1182,173,1201,179"/>
+<area shape="rect" id="Node000010" href="$classsyncd_1_1_comparison_logic.html#aaa014a25d7197177d400c19894c5616e" title=" " alt="" coords="777,181,943,224"/>
+<area shape="poly" id="edge12_Node000009_Node000010" title=" " alt="" coords="1009,214,943,210,943,205,1010,208"/>
+<area shape="poly" id="edge13_Node000010_Node000007" title=" " alt="" coords="761,199,695,195,696,190,762,194"/>
+<area shape="rect" id="Node000012" href="$classsyncd_1_1_best_candidate_finder.html#a287c9b5ba4bf51715aa5caacea083b19" title=" " alt="" coords="1362,191,1548,233"/>
+<area shape="poly" id="edge16_Node000011_Node000012" title=" " alt="" coords="1643,215,1548,215,1548,209,1643,209"/>
+<area shape="poly" id="edge18_Node000013_Node000007" title=" " alt="" coords="1041,281,898,265,743,239,645,210,647,205,744,233,899,260,1042,275"/>
+</map>

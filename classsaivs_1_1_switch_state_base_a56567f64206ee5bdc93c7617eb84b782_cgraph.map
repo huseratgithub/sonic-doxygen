@@ -1,0 +1,48 @@
+<map id="saivs::SwitchStateBase::ifup" name="saivs::SwitchStateBase::ifup">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,492,167,535"/>
+<area shape="rect" id="Node000002" href="$classsaivs_1_1_switch_state_base.html#a7f5466a6960502bf755d5c6749ee34d9" title=" " alt="" coords="215,321,376,380"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,489,242,388,246,392,117,493"/>
+<area shape="rect" id="Node000009" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="880,553,1032,580"/>
+<area shape="poly" id="edge28_Node000001_Node000009" title=" " alt="" coords="143,533,270,576,347,597,424,613,539,631,628,640,718,636,831,617,876,604,916,585,918,590,878,608,832,623,719,642,628,645,538,636,424,619,346,603,269,582,141,538"/>
+<area shape="rect" id="Node000003" href="$classsaivs_1_1_switch_state_base.html#af3f880deee3e7465b0063351342f3d36" title=" " alt="" coords="644,29,832,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="297,320,307,262,328,188,344,150,365,113,391,81,422,54,451,38,482,26,546,15,610,16,667,23,666,29,610,21,547,21,483,32,453,43,426,58,395,85,370,116,349,152,333,190,312,263,302,321"/>
+<area shape="rect" id="Node000004" href="$mock__sai__serialize_8cpp.html#a0f934d15b1a3e0fd3458f0f2b9df0b31" title=" " alt="" coords="880,223,1032,249"/>
+<area shape="poly" id="edge11_Node000002_Node000004" title=" " alt="" coords="350,318,423,286,531,248,580,237,644,228,697,223,738,223,832,228,864,229,864,234,832,233,738,229,697,229,645,233,581,243,533,253,425,290,352,323"/>
+<area shape="rect" id="Node000006" href="$classsaivs_1_1_switch_state.html#ab30c37c43e830946ded1af9043095e66" title=" " alt="" coords="444,68,576,111"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="303,320,320,276,345,223,379,169,422,121,429,115,433,119,426,125,383,172,350,226,325,278,308,322"/>
+<area shape="rect" id="Node000007" href="$classsaivs_1_1_switch_state_base.html#af49469da6d19e7156c7fb3156fc86676" title=" " alt="" coords="430,505,591,548"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="326,378,372,423,426,470,460,494,457,499,422,474,368,427,323,382"/>
+<area shape="poly" id="edge20_Node000002_Node000009" title=" " alt="" coords="307,379,323,422,347,472,381,520,402,541,425,558,483,585,546,602,610,611,675,613,737,609,796,602,892,582,893,587,797,607,738,614,675,618,610,616,545,607,482,590,423,562,398,545,377,523,342,474,318,424,302,381"/>
+<area shape="rect" id="Node000010" href="$mock__sai__serialize_8cpp.html#aa06e96f943a8f2451c89c65d2fecbef5" title=" " alt="" coords="426,135,594,161"/>
+<area shape="poly" id="edge12_Node000002_Node000010" title=" " alt="" coords="309,320,354,249,386,211,422,178,443,166,445,170,426,182,390,215,358,253,314,323"/>
+<area shape="rect" id="Node000012" href="$_sai_serialize_8cpp.html#a20c7376a28578270fa93dcade5cc9896" title=" " alt="" coords="677,399,799,441"/>
+<area shape="poly" id="edge14_Node000002_Node000012" title=" " alt="" coords="377,361,662,406,661,411,376,366"/>
+<area shape="rect" id="Node000015" href="$_sai_serialize_8cpp.html#a3401d7a738a7c0c8fbde0b4349a53ebd" title=" " alt="" coords="449,417,571,460"/>
+<area shape="poly" id="edge17_Node000002_Node000015" title=" " alt="" coords="370,378,443,408,441,413,367,383"/>
+<area shape="rect" id="Node000017" href="$classsaivs_1_1_switch_state_base.html#a8e6461722c7fb7090f59342d66574e14" title=" " alt="" coords="424,300,596,343"/>
+<area shape="poly" id="edge21_Node000002_Node000017" title=" " alt="" coords="376,337,408,333,409,338,377,342"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="701,30,695,21,699,11,714,5,738,3,764,5,778,12,775,16,762,10,738,8,715,10,703,15,700,20,706,27"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="772,54,803,70,833,91,865,120,894,151,939,208,934,212,890,155,861,124,830,95,800,75,770,59"/>
+<area shape="rect" id="Node000005" href="$class_sai_serialize_interface.html#ac1267fe86b704633a47c483dcc8e1379" title=" " alt="" coords="1080,215,1240,257"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="1032,233,1064,233,1064,239,1032,239"/>
+<area shape="rect" id="Node000008" href="$classsaivs_1_1_real_object_id_manager.html#aa4bc329ef150951ceee258068145d97f" title="Object type query." alt="" coords="645,516,831,559"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="591,528,630,530,629,535,591,533"/>
+<area shape="poly" id="edge9_Node000008_Node000004" title=" " alt="" coords="815,513,830,502,850,477,859,453,866,426,877,394,939,262,944,265,882,396,871,428,865,455,855,480,834,506,818,517"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="832,547,865,552,864,557,831,553"/>
+<area shape="rect" id="Node000011" href="$class_sai_serialize_interface.html#a29d73fb00b962109388850736a5a02a3" title=" " alt="" coords="650,105,826,148"/>
+<area shape="poly" id="edge13_Node000010_Node000011" title=" " alt="" coords="594,138,634,134,635,139,594,143"/>
+<area shape="rect" id="Node000013" href="$_sai_serialize_8cpp.html#a65eb8ea2354cbfadd0a6075124116a68" title=" " alt="" coords="890,407,1022,433"/>
+<area shape="poly" id="edge15_Node000012_Node000013" title=" " alt="" coords="799,417,874,417,874,423,799,423"/>
+<area shape="rect" id="Node000014" href="$_sai_serialize_8cpp.html#a97543edb8d3f82c33b2ba86825bf5cc9" title=" " alt="" coords="1088,407,1232,433"/>
+<area shape="poly" id="edge16_Node000013_Node000014" title=" " alt="" coords="1023,417,1073,417,1073,423,1023,423"/>
+<area shape="poly" id="edge19_Node000015_Node000012" title=" " alt="" coords="572,431,661,424,661,429,572,436"/>
+<area shape="rect" id="Node000016" href="$_sai_serialize_8cpp.html#a64e9cf06c73cd4f94e337e22149be32b" title=" " alt="" coords="662,465,814,492"/>
+<area shape="poly" id="edge18_Node000015_Node000016" title=" " alt="" coords="572,447,647,460,646,465,571,452"/>
+<area shape="poly" id="edge22_Node000017_Node000004" title=" " alt="" coords="549,297,594,276,644,259,700,247,758,239,864,233,865,238,758,244,701,252,645,264,596,281,551,302"/>
+<area shape="poly" id="edge27_Node000017_Node000009" title=" " alt="" coords="597,329,731,351,791,366,833,385,853,407,882,448,940,539,936,542,877,451,848,410,830,389,790,371,730,356,596,334"/>
+<area shape="poly" id="edge23_Node000017_Node000012" title=" " alt="" coords="562,341,645,378,673,390,671,395,643,382,560,346"/>
+<area shape="rect" id="Node000018" href="$classsaivs_1_1_switch_state_base.html#ad2a4aeb845eb777c5abd9d7b3fce6798" title=" " alt="" coords="644,297,832,324"/>
+<area shape="poly" id="edge24_Node000017_Node000018" title=" " alt="" coords="596,315,629,313,629,318,597,320"/>
+<area shape="poly" id="edge25_Node000018_Node000004" title=" " alt="" coords="778,294,899,252,901,257,780,299"/>
+<area shape="poly" id="edge26_Node000018_Node000018" title=" " alt="" coords="701,298,695,289,699,279,714,273,738,271,764,273,778,280,775,284,762,278,738,276,715,278,703,283,700,288,706,295"/>
+</map>

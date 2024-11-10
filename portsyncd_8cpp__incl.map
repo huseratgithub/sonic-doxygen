@@ -1,0 +1,44 @@
+<map id="E:/GitHub/SONiC/202211/sonic&#45;buildimage/src/sonic&#45;swss/portsyncd/portsyncd.cpp" name="E:/GitHub/SONiC/202211/sonic&#45;buildimage/src/sonic&#45;swss/portsyncd/portsyncd.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="624,5,863,64"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,112,74,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="624,47,381,71,236,90,90,114,89,109,236,85,380,66,623,42"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="97,112,168,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="624,51,422,76,184,114,183,109,422,71,623,46"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="192,112,258,139"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="624,54,461,79,273,114,272,109,461,74,623,49"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="281,112,350,139"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="624,61,365,114,364,109,623,56"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="374,112,431,139"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="625,67,447,114,445,109,624,62"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="454,112,494,139"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="657,67,509,115,508,110,655,62"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="460,187,507,213"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="677,67,633,89,589,114,546,146,509,178,506,174,542,142,586,110,630,84,675,62"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="835,112,873,139"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="781,62,828,100,825,104,777,66"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="897,112,976,139"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="807,62,897,103,894,108,805,67"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="530,187,634,213"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="670,67,637,87,610,114,595,142,587,172,582,170,590,140,605,110,634,83,667,62"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="1000,112,1068,139"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="839,62,986,107,985,112,837,67"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="1092,112,1203,139"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="864,59,1078,106,1077,111,863,65"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="1227,112,1297,139"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="863,50,1025,75,1212,109,1211,114,1024,80,863,55"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="758,187,897,213"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="761,63,816,171,812,174,756,66"/>
+<area shape="rect" id="Node000016" href="$linksync_8h.html" title=" " alt="" coords="620,112,761,139"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="729,66,708,100,703,97,724,63"/>
+<area shape="rect" id="Node000018" title=" " alt="" coords="1321,112,1470,139"/>
+<area shape="poly" id="edge20_Node000001_Node000018" title=" " alt="" coords="864,49,1306,109,1305,114,863,55"/>
+<area shape="rect" id="Node000019" title=" " alt="" coords="1495,112,1555,139"/>
+<area shape="poly" id="edge21_Node000001_Node000019" title=" " alt="" coords="863,39,1141,62,1309,82,1480,109,1479,115,1308,87,1141,67,863,45"/>
+<area shape="rect" id="Node000020" title=" " alt="" coords="1579,112,1687,139"/>
+<area shape="poly" id="edge22_Node000001_Node000020" title=" " alt="" coords="863,41,1177,66,1368,85,1564,109,1563,114,1368,90,1176,71,863,46"/>
+<area shape="poly" id="edge19_Node000016_Node000008" title=" " alt="" coords="655,142,522,188,520,183,653,137"/>
+<area shape="poly" id="edge16_Node000016_Node000011" title=" " alt="" coords="673,141,615,180,612,175,670,137"/>
+<area shape="poly" id="edge17_Node000016_Node000015" title=" " alt="" coords="715,137,791,177,789,181,713,142"/>
+<area shape="rect" id="Node000017" title=" " alt="" coords="658,187,733,213"/>
+<area shape="poly" id="edge18_Node000016_Node000017" title=" " alt="" coords="694,139,696,171,691,171,688,139"/>
+</map>

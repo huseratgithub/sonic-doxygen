@@ -1,0 +1,25 @@
+<map id="E:/GitHub/SONiC/202211/sonic&#45;buildimage/src/sonic&#45;swss/orchagent/cbf/cbfnhgorch.h" name="E:/GitHub/SONiC/202211/sonic&#45;buildimage/src/sonic&#45;swss/orchagent/cbf/cbfnhgorch.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="615,5,789,80"/>
+<area shape="rect" id="Node000002" href="$cbfnhgorch_8cpp.html" title=" " alt="" coords="5,235,180,309"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="601,83,471,131,181,240,179,235,469,125,599,78"/>
+<area shape="rect" id="Node000003" href="$mplsrouteorch_8cpp.html" title=" " alt="" coords="204,243,467,301"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="631,91,383,244,380,240,629,86"/>
+<area shape="rect" id="Node000004" href="$nhgorch_8h.html" title=" " alt="" coords="595,128,808,187"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="704,95,704,127,699,127,699,95"/>
+<area shape="rect" id="Node000007" href="$orchdaemon_8h.html" title=" " alt="" coords="1004,243,1242,301"/>
+<area shape="poly" id="edge12_Node000001_Node000007" title=" " alt="" coords="784,85,1072,240,1069,245,781,90"/>
+<area shape="rect" id="Node000010" href="$routeorch_8cpp.html" title=" " alt="" coords="1267,243,1502,301"/>
+<area shape="poly" id="edge13_Node000001_Node000010" title=" " alt="" coords="804,75,1299,240,1298,245,803,80"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="580,172,396,197,293,215,192,237,181,240,179,235,191,232,292,209,395,191,580,167"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="595,194,429,245,428,240,593,189"/>
+<area shape="rect" id="Node000005" href="$neighorch_8cpp.html" title=" " alt="" coords="491,243,728,301"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="671,200,635,244,631,240,667,197"/>
+<area shape="rect" id="Node000006" href="$nhgorch_8cpp.html" title=" " alt="" coords="752,243,980,301"/>
+<area shape="poly" id="edge7_Node000004_Node000006" title=" " alt="" coords="758,194,826,240,823,244,755,198"/>
+<area shape="poly" id="edge8_Node000004_Node000007" title=" " alt="" coords="824,188,992,232,1019,240,1018,245,990,237,823,193"/>
+<area shape="poly" id="edge11_Node000004_Node000010" title=" " alt="" coords="824,168,1026,193,1254,232,1287,239,1285,245,1253,237,1026,199,824,173"/>
+<area shape="rect" id="Node000008" href="$sonic-swss_2orchagent_2main_8cpp.html" title=" " alt="" coords="890,357,1100,416"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="1081,314,1029,359,1026,355,1077,310"/>
+<area shape="rect" id="Node000009" href="$orchdaemon_8cpp.html" title=" " alt="" coords="1124,357,1376,416"/>
+<area shape="poly" id="edge10_Node000007_Node000009" title=" " alt="" coords="1168,309,1219,355,1216,359,1165,313"/>
+</map>

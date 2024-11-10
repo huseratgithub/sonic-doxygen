@@ -1,0 +1,33 @@
+<map id="saivs::SwitchStateBase::create_port_dependencies" name="saivs::SwitchStateBase::create_port_dependencies">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,151,187,193"/>
+<area shape="rect" id="Node000002" href="$classsaivs_1_1_switch_state_base.html#afc49959685ba86bb6b287c81e788625e" title=" " alt="" coords="252,68,414,127"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,147,237,125,238,130,167,153"/>
+<area shape="rect" id="Node000010" href="$classsaivs_1_1_switch_state_base.html#ad2a4aeb845eb777c5abd9d7b3fce6798" title=" " alt="" coords="482,29,670,56"/>
+<area shape="poly" id="edge18_Node000001_Node000010" title=" " alt="" coords="113,149,163,98,196,73,234,54,292,37,352,28,412,25,467,27,467,32,412,30,353,33,293,42,236,58,199,77,166,102,116,152"/>
+<area shape="rect" id="Node000011" href="$classsaivs_1_1_switch_state_base.html#ac87c0041e720e2d92a99da954f033310" title=" " alt="" coords="479,273,673,316"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="129,191,178,221,236,247,293,263,352,275,464,288,463,293,351,280,291,268,234,252,175,226,127,196"/>
+<area shape="rect" id="Node000012" href="$classsaivs_1_1_switch_state_base.html#ab7729d70ec8f0f9a145310695465a1b2" title=" " alt="" coords="235,151,431,193"/>
+<area shape="poly" id="edge14_Node000001_Node000012" title=" " alt="" coords="187,169,219,169,219,175,187,175"/>
+<area shape="rect" id="Node000013" href="$classsaivs_1_1_switch_state_base.html#ae617e31683187d823cace064d49c6466" title=" " alt="" coords="721,200,896,259"/>
+<area shape="poly" id="edge16_Node000001_Node000013" title=" " alt="" coords="177,191,235,203,361,217,488,224,706,228,705,234,488,230,361,222,234,208,176,197"/>
+<area shape="rect" id="Node000003" href="$classsaivs_1_1_switch_state_base.html#a31e3902e208a7d8c21abe8e7243017f0" title=" " alt="" coords="496,80,657,123"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="414,96,480,97,480,102,414,101"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="413,77,498,57,499,63,415,82"/>
+<area shape="rect" id="Node000004" href="$classsaivs_1_1_switch_state_base.html#a63eebd348ddd7baf343fbdeb0c7e0b7a" title=" " alt="" coords="728,81,889,124"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="657,99,712,99,712,105,657,104"/>
+<area shape="rect" id="Node000008" href="$mock__sai__serialize_8cpp.html#a0f934d15b1a3e0fd3458f0f2b9df0b31" title=" " alt="" coords="732,29,885,56"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="657,78,737,58,739,63,658,84"/>
+<area shape="rect" id="Node000005" href="$mock__sai__serialize_8cpp.html#aa06e96f943a8f2451c89c65d2fecbef5" title=" " alt="" coords="944,89,1111,116"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="890,100,928,100,928,105,890,105"/>
+<area shape="rect" id="Node000007" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="952,183,1103,209"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="862,122,981,174,979,179,859,127"/>
+<area shape="rect" id="Node000006" href="$class_sai_serialize_interface.html#a29d73fb00b962109388850736a5a02a3" title=" " alt="" coords="1159,81,1334,124"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="1111,100,1143,100,1143,105,1111,105"/>
+<area shape="rect" id="Node000009" href="$class_sai_serialize_interface.html#ac1267fe86b704633a47c483dcc8e1379" title=" " alt="" coords="947,21,1108,64"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="885,40,932,40,932,45,885,45"/>
+<area shape="poly" id="edge10_Node000010_Node000008" title=" " alt="" coords="670,40,717,40,717,45,670,45"/>
+<area shape="poly" id="edge11_Node000010_Node000010" title=" " alt="" coords="537,31,530,21,535,11,551,5,576,3,604,5,619,12,617,17,603,10,576,8,552,10,538,15,535,20,541,27"/>
+<area shape="poly" id="edge13_Node000011_Node000007" title=" " alt="" coords="674,296,782,290,839,282,895,268,949,245,994,217,997,221,951,249,897,273,840,287,782,295,674,301"/>
+<area shape="poly" id="edge15_Node000012_Node000007" title=" " alt="" coords="432,171,896,185,936,187,936,193,896,191,432,176"/>
+<area shape="poly" id="edge17_Node000013_Node000007" title=" " alt="" coords="895,213,936,207,937,212,896,219"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="PfcWdSwOrch::enableBigRedSwitchMode" name="PfcWdSwOrch::enableBigRedSwitchMode">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,85,203,128"/>
+<area shape="rect" id="Node000002" href="$class_ports_orch.html#af1759106ec88cdce4d1596addb340bc9" title=" " alt="" coords="279,5,431,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="149,82,250,41,275,34,276,39,252,47,151,87"/>
+<area shape="rect" id="Node000003" href="$class_ports_orch.html#a81e1c605b248b3f6271b540fd8aacc17" title=" " alt="" coords="251,56,459,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="203,92,235,89,235,94,203,98"/>
+<area shape="rect" id="Node000005" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="512,115,663,141"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="203,108,496,121,496,127,203,114"/>
+<area shape="rect" id="Node000006" href="$mock__sai__serialize_8cpp.html#a0f934d15b1a3e0fd3458f0f2b9df0b31" title=" " alt="" coords="279,173,431,200"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="172,126,251,152,295,166,293,171,250,157,170,131"/>
+<area shape="rect" id="Node000004" href="$class_ports_orch.html#a72b35c3c39b77df72661ecbee7fb1e2d" title=" " alt="" coords="522,64,652,91"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="460,75,507,75,507,80,460,80"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="456,97,509,108,508,113,455,102"/>
+<area shape="rect" id="Node000007" href="$class_sai_serialize_interface.html#ac1267fe86b704633a47c483dcc8e1379" title=" " alt="" coords="507,165,667,208"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="431,184,491,184,491,189,431,189"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="saiplayer::SaiPlayer::deserialize_object_type" name="saiplayer::SaiPlayer::deserialize_object_type">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,171,48"/>
+<area shape="rect" id="Node000002" href="$_sai_serialize_8cpp.html#ae5336a4765542a92fa3953281fa6f759" title=" " alt="" coords="219,13,400,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,24,203,24,203,29,171,29"/>
+<area shape="rect" id="Node000003" href="$_sai_serialize_8cpp.html#aecc5d98c7c6eb929afccb415702e0ab1" title=" " alt="" coords="448,13,594,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="401,24,432,24,432,29,401,29"/>
+<area shape="rect" id="Node000004" href="$_sai_serialize_8cpp.html#af43610cde7a028ce65a0a67e5f32ed42" title=" " alt="" coords="642,13,800,40"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="595,24,627,24,627,29,595,29"/>
+</map>

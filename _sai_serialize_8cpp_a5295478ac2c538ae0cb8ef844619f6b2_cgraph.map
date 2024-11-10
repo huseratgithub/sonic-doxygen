@@ -1,0 +1,5 @@
+<map id="sai_deserialize_switch_shutdown_request" name="sai_deserialize_switch_shutdown_request">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,158,48"/>
+<area shape="rect" id="Node000002" href="$_sai_serialize_8cpp.html#a93ab044615abc111c2294290d8aaba45" title=" " alt="" coords="206,13,372,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,24,190,24,190,29,158,29"/>
+</map>

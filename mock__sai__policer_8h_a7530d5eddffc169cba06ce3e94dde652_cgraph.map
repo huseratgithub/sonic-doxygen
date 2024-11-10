@@ -1,0 +1,5 @@
+<map id="set_policer_attribute" name="set_policer_attribute">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,13,144,40"/>
+<area shape="rect" id="Node000002" href="$class_sai_policer_interface.html#abfd88b0032aa08d04cc1f76196314183" title=" " alt="" coords="192,5,338,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="144,24,176,24,176,29,144,29"/>
+</map>

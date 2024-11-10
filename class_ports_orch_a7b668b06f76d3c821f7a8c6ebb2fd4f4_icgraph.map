@@ -1,0 +1,11 @@
+<map id="PortsOrch::getPriorityGroupWatermarkFlexCounterTableKey" name="PortsOrch::getPriorityGroupWatermarkFlexCounterTableKey">
+<area shape="rect" id="Node000001" title=" " alt="" coords="986,13,1195,56"/>
+<area shape="rect" id="Node000002" href="$class_ports_orch.html#aea95127244bf07a0d8fa0ef6e964d290" title=" " alt="" coords="711,5,938,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="970,37,938,37,938,32,970,32"/>
+<area shape="rect" id="Node000003" href="$class_ports_orch.html#a7e4ccf8cb4df205369f3cbc63ab97558" title=" " alt="" coords="457,13,663,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="696,37,664,37,664,32,696,32"/>
+<area shape="rect" id="Node000004" href="$class_ports_orch.html#a50de1283efb1c1c11959a0aaef334c36" title=" " alt="" coords="224,13,409,56"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="441,37,409,37,409,32,441,32"/>
+<area shape="rect" id="Node000005" href="$class_flex_counter_orch.html#afc048192723cc5ae579642c0125b403f" title=" " alt="" coords="5,21,176,48"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="208,37,176,37,176,32,208,32"/>
+</map>

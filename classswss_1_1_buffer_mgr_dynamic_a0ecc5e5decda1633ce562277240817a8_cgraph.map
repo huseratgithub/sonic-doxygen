@@ -1,0 +1,9 @@
+<map id="swss::BufferMgrDynamic::needRefreshPortDueToEffectiveSpeed" name="swss::BufferMgrDynamic::needRefreshPortDueToEffectiveSpeed">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,259,81"/>
+<area shape="rect" id="Node000002" href="$classswss_1_1_buffer_mgr_dynamic.html#a504de8a31a5bfe2dc84029e016c0a9e5" title=" " alt="" coords="307,5,475,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="259,41,291,37,291,42,260,46"/>
+<area shape="rect" id="Node000004" href="$classswss_1_1_buffer_mgr_dynamic.html#a2d4d204fa72522b81bcb1140fbce3357" title=" " alt="" coords="307,72,475,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="260,74,291,78,291,83,259,79"/>
+<area shape="rect" id="Node000003" href="$lib_2tests_8cpp.html#ad3af9936f704b25188a9ef24330f8a19" title=" " alt="" coords="523,13,593,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="475,24,507,24,507,29,475,29"/>
+</map>

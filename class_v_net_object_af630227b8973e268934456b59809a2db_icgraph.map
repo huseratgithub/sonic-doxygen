@@ -1,0 +1,7 @@
+<map id="VNetObject::getScope" name="VNetObject::getScope">
+<area shape="rect" id="Node000001" title=" " alt="" coords="468,5,620,32"/>
+<area shape="rect" id="Node000002" href="$class_v_net_vrf_object.html#a6fbf2a1aeccfd0b323bb8ba8d094b6e5" title=" " alt="" coords="251,5,420,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="453,21,420,21,420,16,453,16"/>
+<area shape="rect" id="Node000003" href="$class_v_net_vrf_object.html#a776c4185c6375089125fdab817f8581f" title=" " alt="" coords="5,5,203,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="235,21,203,21,203,16,235,16"/>
+</map>

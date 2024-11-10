@@ -1,0 +1,11 @@
+<map id="syncd::SaiSwitch::saiGetMacAddress" name="syncd::SaiSwitch::saiGetMacAddress">
+<area shape="rect" id="Node000001" title="Get MAC address." alt="" coords="5,23,175,65"/>
+<area shape="rect" id="Node000002" href="$_sai_serialize_8cpp.html#ae741a8a2b91e0b8e3cb0f605a63b5449" title=" " alt="" coords="228,5,354,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,31,213,26,213,31,175,36"/>
+<area shape="rect" id="Node000003" href="$_sai_serialize_8cpp.html#aeae06eaf39abcffe5f6215d8688a6368" title=" " alt="" coords="223,56,359,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="175,52,208,56,207,61,174,57"/>
+<area shape="rect" id="Node000004" href="$_sai_serialize_8cpp.html#a65eb8ea2354cbfadd0a6075124116a68" title=" " alt="" coords="407,56,539,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="360,67,391,67,391,72,360,72"/>
+<area shape="rect" id="Node000005" href="$_sai_serialize_8cpp.html#a97543edb8d3f82c33b2ba86825bf5cc9" title=" " alt="" coords="587,56,731,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="540,67,572,67,572,72,540,72"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="AclRule::updatePriority" name="AclRule::updatePriority">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,81,161,108"/>
+<area shape="rect" id="Node000002" href="$class_acl_rule.html#afd85a10759be57bb4d413f6d209690c4" title=" " alt="" coords="209,81,351,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,92,194,92,194,97,161,97"/>
+<area shape="rect" id="Node000003" href="$class_acl_rule.html#ac50aac2453238fb4c642b296148513cb" title=" " alt="" coords="422,5,527,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="311,78,398,42,415,35,417,40,400,46,313,83"/>
+<area shape="rect" id="Node000004" href="$class_acl_rule.html#a96e1d3a967cf90104989e56402e2ab7d" title=" " alt="" coords="407,56,542,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="351,83,391,77,392,83,352,88"/>
+<area shape="rect" id="Node000006" href="$_sai_serialize_8cpp.html#aeae06eaf39abcffe5f6215d8688a6368" title=" " alt="" coords="406,107,543,133"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="352,101,391,106,391,112,351,107"/>
+<area shape="rect" id="Node000009" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="399,157,550,184"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="313,106,400,143,417,149,415,154,398,148,311,111"/>
+<area shape="rect" id="Node000005" href="$class_acl_table.html#a1c85ad0c17b4eaf594a3f6dd47c60f23" title=" " alt="" coords="610,56,719,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="543,67,595,67,595,72,543,72"/>
+<area shape="rect" id="Node000007" href="$_sai_serialize_8cpp.html#a65eb8ea2354cbfadd0a6075124116a68" title=" " alt="" coords="598,107,731,133"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="543,117,583,117,583,123,543,123"/>
+<area shape="rect" id="Node000008" href="$_sai_serialize_8cpp.html#a97543edb8d3f82c33b2ba86825bf5cc9" title=" " alt="" coords="779,107,922,133"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="731,117,763,117,763,123,731,123"/>
+</map>

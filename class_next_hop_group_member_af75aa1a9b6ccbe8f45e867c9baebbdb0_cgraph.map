@@ -1,0 +1,21 @@
+<map id="NextHopGroupMember::remove" name="NextHopGroupMember::remove">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,52,161,95"/>
+<area shape="rect" id="Node000002" href="$class_neigh_orch.html#ac86c297d146443ca9e509faff1d7320d" title=" " alt="" coords="209,23,405,65"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,61,193,56,194,62,161,66"/>
+<area shape="rect" id="Node000007" href="$class_nhg_member.html#af57d1d4ecab38ef9a933700753868d07" title=" " alt="" coords="235,89,378,116"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="161,81,220,89,219,94,161,86"/>
+<area shape="rect" id="Node000003" href="$class_neigh_orch.html#ab8e695cf60917ecdbb5b2bdb85dbc7c7" title=" " alt="" coords="486,31,650,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="405,41,470,41,470,47,405,47"/>
+<area shape="rect" id="Node000004" href="$class_mux_orch.html#a62a77f44d3c188eef9f0ac9b799d3083" title=" " alt="" coords="730,31,894,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="650,41,715,41,715,47,650,47"/>
+<area shape="rect" id="Node000005" href="$class_mux_orch.html#a02b8ee179230b6f1a079e6db1190caa3" title=" " alt="" coords="942,5,1101,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="894,31,926,28,926,33,894,37"/>
+<area shape="rect" id="Node000006" href="$class_mux_orch.html#ac8273fda40f218d9ccca6a6f20de330c" title=" " alt="" coords="944,56,1098,83"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="894,51,929,55,928,61,894,57"/>
+<area shape="rect" id="Node000008" href="$class_crm_orch.html#aa67fa069466d8ff8740e73d55d810bdf" title=" " alt="" coords="453,85,682,112"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="379,99,437,98,437,103,379,104"/>
+<area shape="rect" id="Node000010" href="$class_nhg_member.html#a5081eba739f8bce5bc540f32c53cee32" title=" " alt="" coords="490,136,645,163"/>
+<area shape="poly" id="edge9_Node000007_Node000010" title=" " alt="" coords="380,113,476,130,475,136,379,118"/>
+<area shape="rect" id="Node000009" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="736,85,888,112"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="683,96,720,96,720,101,683,101"/>
+</map>

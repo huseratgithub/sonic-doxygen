@@ -1,0 +1,18 @@
+<map id="saivs::Sai::switchIdQuery" name="saivs::Sai::switchIdQuery">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,185,177,212"/>
+<area shape="rect" id="Node000002" href="$classsaivs_1_1_real_object_id_manager.html#ae5423e2cea48d50e576c19ce6b55cb58" title="Switch id query." alt="" coords="225,123,411,165"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="149,182,211,167,212,172,150,187"/>
+<area shape="rect" id="Node000007" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="694,189,845,216"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="177,197,459,200,678,200,678,206,459,205,177,203"/>
+<area shape="rect" id="Node000003" href="$classsaivs_1_1_real_object_id_manager.html#adb3636a9ff1ab9b7b589f06c9ddf88b5" title="Construct object id." alt="" coords="459,5,645,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="355,120,458,64,484,52,486,57,460,69,358,124"/>
+<area shape="rect" id="Node000004" href="$classsaivs_1_1_real_object_id_manager.html#aa4bc329ef150951ceee258068145d97f" title="Object type query." alt="" coords="459,123,645,165"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="411,141,443,141,443,147,411,147"/>
+<area shape="rect" id="Node000005" href="$mock__sai__serialize_8cpp.html#a0f934d15b1a3e0fd3458f0f2b9df0b31" title=" " alt="" coords="693,101,846,128"/>
+<area shape="poly" id="edge7_Node000002_Node000005" title=" " alt="" coords="397,119,459,108,511,104,552,104,645,108,678,109,678,114,645,113,552,109,511,109,459,113,397,125"/>
+<area shape="poly" id="edge8_Node000002_Node000007" title=" " alt="" coords="402,163,459,175,573,189,678,196,678,202,573,194,459,180,401,169"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="645,129,677,124,678,130,646,134"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="634,163,704,182,702,187,633,168"/>
+<area shape="rect" id="Node000006" href="$class_sai_serialize_interface.html#ac1267fe86b704633a47c483dcc8e1379" title=" " alt="" coords="894,93,1054,136"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="846,112,878,112,878,117,846,117"/>
+</map>

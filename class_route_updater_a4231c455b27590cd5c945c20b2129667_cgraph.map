@@ -1,0 +1,7 @@
+<map id="RouteUpdater::RouteUpdater" name="RouteUpdater::RouteUpdater">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,197,32"/>
+<area shape="rect" id="Node000002" href="$class_route_updater.html#a55289dacf3ae5f05da0e6c4d0ddd67c9" title=" " alt="" coords="245,5,412,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="197,16,229,16,229,21,197,21"/>
+<area shape="rect" id="Node000003" href="$class_route_updater.html#a4abc991577942c0e1638865c54e7f389" title=" " alt="" coords="460,5,642,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="412,16,444,16,444,21,412,21"/>
+</map>

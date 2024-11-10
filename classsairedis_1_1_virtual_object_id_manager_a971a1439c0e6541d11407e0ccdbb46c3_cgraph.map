@@ -1,0 +1,17 @@
+<map id="sairedis::VirtualObjectIdManager::getGlobalContext" name="sairedis::VirtualObjectIdManager::getGlobalContext">
+<area shape="rect" id="Node000001" title="Get global context." alt="" coords="5,93,186,136"/>
+<area shape="rect" id="Node000002" href="$classsairedis_1_1_virtual_object_id_manager.html#af21e5bb605fedd3833c7f39f61f6ab7d" title="Switch id query." alt="" coords="234,93,397,136"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="186,112,218,112,218,117,186,117"/>
+<area shape="rect" id="Node000003" href="$classsairedis_1_1_virtual_object_id_manager.html#adf8023ea824e3b1535e342a77c0f72b2" title="Construct object id." alt="" coords="445,5,627,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="370,90,465,52,467,57,372,95"/>
+<area shape="rect" id="Node000004" href="$classsairedis_1_1_virtual_object_id_manager.html#ad101fc291f99d20afa184f5b99911b3a" title="Object type query." alt="" coords="448,123,625,165"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="398,123,432,127,431,133,397,128"/>
+<area shape="rect" id="Node000005" href="$mock__sai__serialize_8cpp.html#a0f934d15b1a3e0fd3458f0f2b9df0b31" title=" " alt="" coords="675,104,828,131"/>
+<area shape="poly" id="edge7_Node000002_Node000005" title=" " alt="" coords="397,109,445,108,627,108,660,109,659,115,627,113,445,113,398,114"/>
+<area shape="rect" id="Node000007" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="676,159,827,185"/>
+<area shape="poly" id="edge8_Node000002_Node000007" title=" " alt="" coords="352,134,395,157,446,175,500,184,556,187,660,182,661,188,556,192,500,189,444,180,393,162,349,139"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="625,130,660,126,660,131,626,136"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="626,153,661,158,660,163,625,158"/>
+<area shape="rect" id="Node000006" href="$class_sai_serialize_interface.html#ac1267fe86b704633a47c483dcc8e1379" title=" " alt="" coords="876,96,1036,139"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="828,115,860,115,860,120,828,120"/>
+</map>

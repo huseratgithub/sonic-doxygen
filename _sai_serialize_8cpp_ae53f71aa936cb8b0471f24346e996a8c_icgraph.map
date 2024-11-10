@@ -1,0 +1,17 @@
+<map id="sai_deserialize_number" name="sai_deserialize_number">
+<area shape="rect" id="Node000001" title=" " alt="" coords="694,80,852,107"/>
+<area shape="rect" id="Node000002" href="$classsaivs_1_1_fdb_info.html#a8fda7c84edab3331e4b655918b53f3cb" title=" " alt="" coords="472,17,646,44"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="710,78,607,47,608,42,711,73"/>
+<area shape="rect" id="Node000004" href="$classsyncd_1_1_redis_client.html#a12101fc5de43b44d26ad596761f2d69f" title=" " alt="" coords="493,72,625,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="679,96,626,96,626,91,679,91"/>
+<area shape="rect" id="Node000006" href="$classsaiplayer_1_1_sai_player.html#af9b6e2306b9e3616343d08987e6650a7" title=" " alt="" coords="490,139,628,181"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="714,114,629,141,628,136,712,109"/>
+<area shape="rect" id="Node000003" href="$classsaivs_1_1_virtual_switch_sai_interface.html#a05dc71e9b14b4d952c29c8c1feca98f6" title=" " alt="" coords="217,5,424,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="456,32,424,31,425,26,456,26"/>
+<area shape="rect" id="Node000005" href="$classsyncd_1_1_redis_client.html#a10224c7d6e8df7041a180b58f80682c4" title=" " alt="" coords="227,72,414,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="477,96,414,96,414,91,477,91"/>
+<area shape="rect" id="Node000007" href="$classsaiplayer_1_1_sai_player.html#a577a338b7bf05b396d8dc4cb4f998763" title=" " alt="" coords="252,139,389,181"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="475,163,389,163,389,157,475,157"/>
+<area shape="rect" id="Node000008" href="$classsaiplayer_1_1_sai_player.html#a8c6c5f96706db2872875c903169c1811" title=" " alt="" coords="5,147,169,173"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="236,163,169,163,169,157,236,157"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="BitwidthToDatatype" name="BitwidthToDatatype">
+<area shape="rect" id="Node000001" title=" " alt="" coords="983,31,1118,57"/>
+<area shape="rect" id="Node000002" href="$tables__definition__manager_8cpp.html#a19aa35112cdad45e9303325dc5bd86cb" title=" " alt="" coords="768,31,935,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="968,47,936,47,936,41,968,41"/>
+<area shape="rect" id="Node000003" href="$tables__definition__manager_8cpp.html#a358b1bddc5e434e6a0470df8072376de" title=" " alt="" coords="553,5,720,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="752,35,720,31,721,26,753,30"/>
+<area shape="rect" id="Node000004" href="$tables__definition__manager_8cpp.html#aafb86a22d6422fbb5474bc55cc02fd39" title=" " alt="" coords="392,31,505,57"/>
+<area shape="poly" id="edge6_Node000002_Node000004" title=" " alt="" coords="752,47,506,47,506,41,752,41"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="538,35,506,39,505,34,537,29"/>
+<area shape="rect" id="Node000005" href="$class_tables_defn_manager.html#a0b9bd040f5ed19da05d26a612a8b40f5" title=" " alt="" coords="199,23,344,65"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="376,47,344,47,344,41,376,41"/>
+<area shape="rect" id="Node000006" href="$class_tables_defn_manager.html#a031ec3f6417189c99b5bb5523b07f255" title=" " alt="" coords="5,23,151,65"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="183,47,151,47,151,41,183,41"/>
+</map>

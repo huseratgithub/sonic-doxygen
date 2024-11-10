@@ -1,0 +1,11 @@
+<map id="sai_serialize_number" name="sai_serialize_number">
+<area shape="rect" id="Node000001" title=" " alt="" coords="240,109,383,136"/>
+<area shape="rect" id="Node000002" href="$classsyncd_1_1_redis_client.html#a10224c7d6e8df7041a180b58f80682c4" title=" " alt="" coords="5,5,192,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="272,104,191,62,163,51,165,46,193,58,274,99"/>
+<area shape="rect" id="Node000003" href="$classsyncd_1_1_redis_client.html#a5d639b451b918af8f5144ce473e1481c" title=" " alt="" coords="32,72,165,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="224,113,165,105,166,100,225,108"/>
+<area shape="rect" id="Node000004" href="$classsaivs_1_1_fdb_info.html#aa4a380af1d941055714731d00e284748" title=" " alt="" coords="18,139,179,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="225,137,180,144,179,138,224,132"/>
+<area shape="rect" id="Node000005" href="$classsyncd_1_1_redis_client.html#a523c1ca724ae42660b88eeb7ed1d34b6" title=" " alt="" coords="32,189,165,232"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="269,146,193,180,163,191,161,186,191,175,267,141"/>
+</map>

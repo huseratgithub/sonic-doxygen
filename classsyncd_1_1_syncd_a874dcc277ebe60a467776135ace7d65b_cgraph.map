@@ -1,0 +1,15 @@
+<map id="syncd::Syncd::setUninitDataPlaneOnRemovalOnAllSwitches" name="syncd::Syncd::setUninitDataPlaneOnRemovalOnAllSwitches">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,61,215,104"/>
+<area shape="rect" id="Node000002" href="$mock__sai__serialize_8cpp.html#a0f934d15b1a3e0fd3458f0f2b9df0b31" title=" " alt="" coords="263,17,415,44"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="206,58,262,45,263,51,207,63"/>
+<area shape="rect" id="Node000004" href="$_sai_serialize_8cpp.html#aeae06eaf39abcffe5f6215d8688a6368" title=" " alt="" coords="271,69,407,96"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="215,80,255,80,255,85,215,85"/>
+<area shape="rect" id="Node000007" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="263,120,414,147"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="210,102,261,113,260,119,209,107"/>
+<area shape="rect" id="Node000003" href="$class_sai_serialize_interface.html#ac1267fe86b704633a47c483dcc8e1379" title=" " alt="" coords="463,5,623,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="415,27,447,26,448,31,415,32"/>
+<area shape="rect" id="Node000005" href="$_sai_serialize_8cpp.html#a65eb8ea2354cbfadd0a6075124116a68" title=" " alt="" coords="477,72,609,99"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="407,81,462,82,461,87,407,86"/>
+<area shape="rect" id="Node000006" href="$_sai_serialize_8cpp.html#a97543edb8d3f82c33b2ba86825bf5cc9" title=" " alt="" coords="671,72,815,99"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="610,83,656,83,656,88,610,88"/>
+</map>

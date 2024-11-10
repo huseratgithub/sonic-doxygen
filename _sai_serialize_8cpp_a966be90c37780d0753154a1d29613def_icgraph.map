@@ -1,0 +1,9 @@
+<map id="sai_serialize_counter_stat" name="sai_serialize_counter_stat">
+<area shape="rect" id="Node000001" title=" " alt="" coords="454,43,626,69"/>
+<area shape="rect" id="Node000002" href="$class_flow_counter_handler.html#a51ac24003d630807e71da7037dbf231a" title=" " alt="" coords="212,5,406,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="438,46,406,42,407,36,439,41"/>
+<area shape="rect" id="Node000004" href="$_flex_counter_8cpp.html#a315ceb69406bae904eb792e315d91ea2" title=" " alt="" coords="262,72,356,99"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="439,71,356,82,355,77,438,66"/>
+<area shape="rect" id="Node000003" href="$class_flow_counter_route_orch.html#a8b76da4537ced363e5c13cf3fe7b699c" title=" " alt="" coords="5,5,164,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="196,29,164,29,164,24,196,24"/>
+</map>

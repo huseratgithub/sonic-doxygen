@@ -1,0 +1,11 @@
+<map id="swss::VxlanMgr::doVxlanTunnelMapDeleteTask" name="swss::VxlanMgr::doVxlanTunnelMapDeleteTask">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,105,215,148"/>
+<area shape="rect" id="Node000002" href="$classswss_1_1_vxlan_mgr.html#a72528a9978995cbcab2bf233bb95a976" title=" " alt="" coords="263,5,484,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="156,102,262,58,281,51,282,56,264,62,158,107"/>
+<area shape="rect" id="Node000003" href="$classswss_1_1_vxlan_mgr.html#af7e31ae7624245397082f422cd4ae754" title=" " alt="" coords="278,72,469,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="215,111,262,105,263,110,215,116"/>
+<area shape="rect" id="Node000004" href="$classswss_1_1_vxlan_mgr.html#ac6ad29e1d8e58b9176c13fdeb41f431d" title=" " alt="" coords="280,139,467,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="215,137,265,144,264,149,215,143"/>
+<area shape="rect" id="Node000005" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="298,205,449,232"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="156,146,207,169,264,191,289,198,288,204,262,196,205,174,154,151"/>
+</map>

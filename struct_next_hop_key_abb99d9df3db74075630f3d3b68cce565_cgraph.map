@@ -1,0 +1,11 @@
+<map id="NextHopKey::to_string" name="NextHopKey::to_string">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,160,61"/>
+<area shape="rect" id="Node000002" href="$struct_next_hop_key.html#a416e3d9c0b7b5ca01f43148e1fb537de" title=" " alt="" coords="208,35,429,61"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,45,192,45,192,51,160,51"/>
+<area shape="rect" id="Node000003" href="$struct_next_hop_key.html#a1daf3e6b9415c99ce11da49419bd2bca" title=" " alt="" coords="477,5,671,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="429,33,461,29,462,34,430,38"/>
+<area shape="rect" id="Node000005" href="$structswss_1_1_label_stack.html#a5d0de2285c60930cd76538bf105ca7dc" title=" " alt="" coords="502,56,646,99"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="430,58,487,65,486,70,429,63"/>
+<area shape="rect" id="Node000004" href="$structswss_1_1_label_stack.html#a4302079120bbbf32d762779c017d68b8" title=" " alt="" coords="719,5,889,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="672,16,704,16,704,21,672,21"/>
+</map>

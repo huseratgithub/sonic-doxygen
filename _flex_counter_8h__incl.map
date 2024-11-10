@@ -1,0 +1,24 @@
+<map id="E:/GitHub/SONiC/202211/sonic&#45;buildimage/src/sonic&#45;sairedis/syncd/FlexCounter.h" name="E:/GitHub/SONiC/202211/sonic&#45;buildimage/src/sonic&#45;sairedis/syncd/FlexCounter.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="330,5,560,64"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,187,55,213"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="329,48,249,57,168,71,99,90,73,101,54,114,45,126,38,141,33,172,27,171,33,139,40,124,51,110,70,97,97,85,167,66,248,52,329,42"/>
+<area shape="rect" id="Node000003" href="$_sai_interface_8h.html" title=" " alt="" coords="65,112,200,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="344,67,192,110,191,105,343,62"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="225,112,320,139"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="390,67,312,107,309,102,388,62"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="344,112,401,139"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="424,66,395,101,390,98,419,63"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="425,112,464,139"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="447,64,447,96,442,96,442,64"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="489,112,614,139"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="481,62,526,100,523,104,477,66"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="638,112,748,139"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="526,62,644,104,642,109,524,67"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="772,112,840,139"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="561,61,757,109,756,114,560,66"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="865,112,947,139"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="561,54,850,109,849,114,560,59"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="116,141,62,179,59,175,113,137"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="81,187,184,213"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="135,139,135,171,130,171,130,139"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="syncd::SaiDiscovery::discover" name="syncd::SaiDiscovery::discover">
+<area shape="rect" id="Node000001" title=" " alt="" coords="464,72,606,115"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="568,59,556,53,535,51,516,53,504,57,500,63,501,71,496,72,494,62,501,53,515,47,535,45,557,48,571,54"/>
+<area shape="rect" id="Node000002" href="$classsyncd_1_1_sai_discovery.html#a3ba41e62682dead4cac3deadd5deb9ef" title="Discover objects on the switch." alt="" coords="259,5,401,48"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="452,69,397,51,399,46,454,64"/>
+<area shape="rect" id="Node000003" href="$classsyncd_1_1_sai_switch.html#a4c70923e298389fa97f9e8a6f520bf31" title="Discover helper." alt="" coords="247,72,413,115"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="449,96,414,96,414,91,449,91"/>
+<area shape="rect" id="Node000005" href="$classsyncd_1_1_sai_switch.html#af63dd6b216da1847569bfdf1c241ec80" title="On post port create." alt="" coords="244,139,416,181"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="454,122,399,141,397,135,452,117"/>
+<area shape="rect" id="Node000004" href="$classsyncd_1_1_sai_switch.html#a5a7847661fcfdb74725f3e02418d5148" title=" " alt="" coords="5,80,196,107"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="231,96,196,96,196,91,231,91"/>
+</map>

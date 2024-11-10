@@ -1,0 +1,9 @@
+<map id="RouteOrch::getNhgCount" name="RouteOrch::getNhgCount">
+<area shape="rect" id="Node000001" title=" " alt="" coords="249,56,418,83"/>
+<area shape="rect" id="Node000002" href="$class_cbf_nhg_orch.html#a3297998a2df1511bc28c8334e60de266" title=" " alt="" coords="31,5,175,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="254,55,166,35,168,30,255,49"/>
+<area shape="rect" id="Node000003" href="$class_nhg_orch.html#a27fd0ce7aa3cbae0579509310bbb46c2" title=" " alt="" coords="41,56,165,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="233,72,165,72,165,67,233,67"/>
+<area shape="rect" id="Node000004" href="$class_nhg_orch_common.html#ab4179ac98d978a52464514747206d73f" title=" " alt="" coords="5,107,201,149"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="264,90,190,109,189,103,263,84"/>
+</map>

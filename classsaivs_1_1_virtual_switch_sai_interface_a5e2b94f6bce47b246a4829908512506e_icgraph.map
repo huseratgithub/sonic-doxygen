@@ -1,0 +1,15 @@
+<map id="saivs::VirtualSwitchSaiInterface::get" name="saivs::VirtualSwitchSaiInterface::get">
+<area shape="rect" id="Node000001" title=" " alt="" coords="797,80,1031,107"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="961,68,945,61,914,59,886,61,870,66,866,71,873,78,869,81,861,71,867,61,885,55,914,53,946,56,963,63"/>
+<area shape="rect" id="Node000002" href="$classsaivs_1_1_virtual_switch_sai_interface.html#aa81caa48451cbc8020436949cbc1c6c6" title=" " alt="" coords="542,5,749,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="842,78,734,51,735,46,843,73"/>
+<area shape="rect" id="Node000003" href="$classsaivs_1_1_virtual_switch_sai_interface.html#a28939021de9a4134a06d7d7f273f2dae" title=" " alt="" coords="542,72,749,115"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="782,96,750,96,750,91,782,91"/>
+<area shape="rect" id="Node000006" href="$classsaivs_1_1_virtual_switch_sai_interface.html#a0e0b3d1d0a070055493730a86107315d" title=" " alt="" coords="542,139,749,181"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="843,114,735,141,734,135,842,108"/>
+<area shape="rect" id="Node000004" href="$classsaivs_1_1_virtual_switch_sai_interface.html#ae6bc0b55fb716de35eb3e9f3e8bdc7da" title=" " alt="" coords="287,72,494,115"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="526,96,494,96,494,91,526,91"/>
+<area shape="rect" id="Node000005" href="$classsaivs_1_1_virtual_switch_sai_interface.html#afdad0710d59417ca01f3e22b9b2fe14d" title=" " alt="" coords="5,80,239,107"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="271,96,239,96,239,91,271,91"/>
+<area shape="poly" id="edge6_Node000005_Node000005" title=" " alt="" coords="169,68,153,61,122,59,94,61,78,66,74,71,81,78,77,81,69,71,75,61,93,55,122,53,154,56,171,63"/>
+</map>

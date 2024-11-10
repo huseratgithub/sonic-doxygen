@@ -1,0 +1,9 @@
+<map id="saivs::SwitchStateBase::remove_internal" name="saivs::SwitchStateBase::remove_internal">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,167,73"/>
+<area shape="rect" id="Node000002" href="$mock__sai__serialize_8cpp.html#aa06e96f943a8f2451c89c65d2fecbef5" title=" " alt="" coords="215,13,382,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="167,40,199,36,200,41,168,45"/>
+<area shape="rect" id="Node000004" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="223,64,374,91"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="168,59,208,64,207,69,167,64"/>
+<area shape="rect" id="Node000003" href="$class_sai_serialize_interface.html#a29d73fb00b962109388850736a5a02a3" title=" " alt="" coords="430,5,605,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="382,24,414,24,414,29,382,29"/>
+</map>

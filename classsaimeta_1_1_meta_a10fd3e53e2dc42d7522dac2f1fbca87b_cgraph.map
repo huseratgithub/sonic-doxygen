@@ -1,0 +1,17 @@
+<map id="saimeta::Meta::meta_sai_on_switch_shutdown_request" name="saimeta::Meta::meta_sai_on_switch_shutdown_request">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,123,180,181"/>
+<area shape="rect" id="Node000002" href="$classsaimeta_1_1_sai_object_collection.html#ad518ddedfc85765e1ca254f1c112f6c5" title=" " alt="" coords="228,5,418,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,120,175,88,226,58,238,52,240,57,229,62,178,93,133,124"/>
+<area shape="rect" id="Node000003" href="$classsaimeta_1_1_meta.html#a4b02b18ccc96d324404b353ab1a183d5" title=" " alt="" coords="235,72,410,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="179,127,221,116,223,122,181,132"/>
+<area shape="rect" id="Node000004" href="$mock__sai__serialize_8cpp.html#a0f934d15b1a3e0fd3458f0f2b9df0b31" title=" " alt="" coords="247,139,399,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="180,149,231,149,231,155,180,155"/>
+<area shape="rect" id="Node000006" href="$mock__sai__serialize_8cpp.html#aa06e96f943a8f2451c89c65d2fecbef5" title=" " alt="" coords="239,189,406,216"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="180,169,245,183,243,188,179,174"/>
+<area shape="rect" id="Node000008" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="247,240,398,267"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="141,179,183,204,229,226,248,233,246,238,227,230,180,208,138,184"/>
+<area shape="rect" id="Node000005" href="$class_sai_serialize_interface.html#ac1267fe86b704633a47c483dcc8e1379" title=" " alt="" coords="474,123,634,165"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="399,147,458,145,458,150,400,152"/>
+<area shape="rect" id="Node000007" href="$class_sai_serialize_interface.html#a29d73fb00b962109388850736a5a02a3" title=" " alt="" coords="466,189,641,232"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="407,203,450,204,450,210,406,208"/>
+</map>

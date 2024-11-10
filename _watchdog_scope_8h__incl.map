@@ -1,0 +1,17 @@
+<map id="E:/GitHub/SONiC/202211/sonic&#45;buildimage/src/sonic&#45;sairedis/syncd/WatchdogScope.h" name="E:/GitHub/SONiC/202211/sonic&#45;buildimage/src/sonic&#45;sairedis/syncd/WatchdogScope.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="199,5,405,80"/>
+<area shape="rect" id="Node000002" href="$_timer_watchdog_8h.html" title=" " alt="" coords="240,128,364,155"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="305,80,305,112,300,112,300,80"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,203,90,229"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="259,158,105,201,104,196,257,153"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="113,203,208,229"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="279,158,200,198,198,193,276,153"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="232,203,290,229"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="297,157,278,191,273,188,293,154"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="313,203,374,229"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="312,154,331,188,327,191,307,157"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="398,203,476,229"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="327,153,401,192,398,197,324,158"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="500,203,558,229"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="342,153,486,198,484,203,341,158"/>
+</map>

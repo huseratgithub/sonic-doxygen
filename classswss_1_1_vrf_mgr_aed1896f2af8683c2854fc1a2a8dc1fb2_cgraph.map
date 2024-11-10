@@ -1,0 +1,43 @@
+<map id="swss::VrfMgr::doTask" name="swss::VrfMgr::doTask">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,240,154,267"/>
+<area shape="rect" id="Node000002" href="$classswss_1_1_vrf_mgr.html#ae977b8a2ac0615a2b867eab4dee63d77" title=" " alt="" coords="223,139,370,165"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,237,143,206,201,175,218,168,220,173,203,180,146,211,101,242"/>
+<area shape="rect" id="Node000005" href="$classswss_1_1_vrf_mgr.html#ad91dc38b60c285be1140177cae8c189d" title=" " alt="" coords="202,72,392,115"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="88,238,133,184,165,152,200,124,208,120,211,124,203,129,168,156,137,187,93,241"/>
+<area shape="rect" id="Node000008" href="$classswss_1_1_vrf_mgr.html#addec052458a4133e717ecd958ea4385e" title=" " alt="" coords="202,5,392,48"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="83,238,98,203,123,154,157,103,200,58,205,54,208,59,203,62,161,106,127,157,103,205,88,240"/>
+<area shape="rect" id="Node000009" href="$classswss_1_1_vrf_mgr.html#aaf4acde5fe20ddb835cf3e7a3ba13982" title=" " alt="" coords="212,291,382,333"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="132,265,201,283,200,289,131,270"/>
+<area shape="rect" id="Node000011" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="474,244,626,271"/>
+<area shape="poly" id="edge23_Node000001_Node000011" title=" " alt="" coords="154,251,459,254,459,259,154,257"/>
+<area shape="rect" id="Node000012" href="$classswss_1_1_vrf_mgr.html#a3ba4f55042bc9c5fe9c44536a0fb9985" title=" " alt="" coords="212,357,382,400"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="97,265,143,303,203,343,214,348,211,353,200,348,140,307,94,269"/>
+<area shape="rect" id="Node000013" href="$class_consumer.html#a4d8ac8759e33c65ef72d8d9741bb0c22" title=" " alt="" coords="210,475,384,501"/>
+<area shape="poly" id="edge16_Node000001_Node000013" title=" " alt="" coords="87,266,100,305,124,358,158,413,179,439,203,461,210,465,207,469,200,465,175,442,154,416,119,360,96,307,82,268"/>
+<area shape="rect" id="Node000016" href="$classswss_1_1_vrf_mgr.html#a9881a7695d82c68800b3151d01737d22" title=" " alt="" coords="206,424,388,451"/>
+<area shape="poly" id="edge19_Node000001_Node000016" title=" " alt="" coords="90,266,106,296,131,335,164,376,203,410,212,415,209,420,200,414,160,379,127,338,101,299,85,269"/>
+<area shape="rect" id="Node000017" href="$classswss_1_1_vrf_mgr.html#ab85f3fd6b56ee235409f4825cd2caf4c" title=" " alt="" coords="223,189,371,216"/>
+<area shape="poly" id="edge20_Node000001_Node000017" title=" " alt="" coords="139,237,221,218,222,223,141,242"/>
+<area shape="rect" id="Node000003" href="$classswss_1_1_vrf_mgr.html#acb067e90d546553dbfb87aef245abc8f" title=" " alt="" coords="460,92,640,119"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="371,136,458,119,459,125,371,141"/>
+<area shape="rect" id="Node000004" href="$shellcmd_8h.html#a9e724889770861335478da99767a45ec" title=" " alt="" coords="510,143,590,169"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="371,150,494,152,494,158,371,156"/>
+<area shape="rect" id="Node000006" href="$classswss_1_1_vrf_mgr.html#a5285a9a2c23b7568bd81a33b7571f54e" title=" " alt="" coords="442,41,658,68"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="392,76,443,68,444,74,393,81"/>
+<area shape="rect" id="Node000007" href="$classswss_1_1_vrf_mgr.html#a90a4231b02125ce51a93855f3172469e" title=" " alt="" coords="708,287,878,329"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="641,66,662,78,686,98,707,122,741,174,767,226,783,271,778,273,762,228,737,176,702,125,682,102,659,82,639,71"/>
+<area shape="poly" id="edge8_Node000008_Node000006" title=" " alt="" coords="393,35,427,38,426,44,392,40"/>
+<area shape="poly" id="edge10_Node000009_Node000007" title=" " alt="" coords="382,309,693,306,693,311,382,314"/>
+<area shape="rect" id="Node000010" href="$classswss_1_1_vrf_mgr.html#aec27230155735741ca60190db7936b47" title=" " alt="" coords="440,345,660,372"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="382,325,460,339,459,345,381,330"/>
+<area shape="poly" id="edge12_Node000009_Node000011" title=" " alt="" coords="381,291,470,272,471,277,383,296"/>
+<area shape="poly" id="edge14_Node000012_Node000007" title=" " alt="" coords="382,390,444,396,514,399,588,395,660,381,708,362,750,336,753,341,710,367,661,387,589,400,514,404,444,402,382,395"/>
+<area shape="poly" id="edge15_Node000012_Node000010" title=" " alt="" coords="382,369,424,366,425,371,382,375"/>
+<area shape="rect" id="Node000014" href="$class_consumer.html#ada2ca4c7c5b14f67901cd9afb5a3281a" title=" " alt="" coords="451,475,649,501"/>
+<area shape="poly" id="edge17_Node000013_Node000014" title=" " alt="" coords="384,485,435,485,435,491,384,491"/>
+<area shape="rect" id="Node000015" href="$class_executor.html#a589127ba11df8a10f3ee4f4f6e69c7fe" title=" " alt="" coords="713,475,873,501"/>
+<area shape="poly" id="edge18_Node000014_Node000015" title=" " alt="" coords="650,485,697,485,697,491,650,491"/>
+<area shape="poly" id="edge22_Node000017_Node000004" title=" " alt="" coords="371,186,494,163,495,169,372,192"/>
+<area shape="rect" id="Node000018" href="$classswss_1_1_vrf_mgr.html#a8f14be26d2c8669f8dd42aa4a7d2586e" title=" " alt="" coords="460,193,641,220"/>
+<area shape="poly" id="edge21_Node000017_Node000018" title=" " alt="" coords="371,201,444,202,444,208,371,207"/>
+</map>

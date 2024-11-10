@@ -1,0 +1,15 @@
+<map id="sairedis::ClientSai::getStats" name="sairedis::ClientSai::getStats">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,93,133,136"/>
+<area shape="rect" id="Node000002" href="$mock__sai__serialize_8cpp.html#a0f934d15b1a3e0fd3458f0f2b9df0b31" title=" " alt="" coords="196,21,348,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,90,180,62,209,51,211,56,182,66,116,95"/>
+<area shape="rect" id="Node000004" href="$mock__sai__serialize_8cpp.html#aa06e96f943a8f2451c89c65d2fecbef5" title=" " alt="" coords="189,76,356,103"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="133,104,173,99,173,104,134,109"/>
+<area shape="rect" id="Node000006" href="$lib_2_sai_8cpp.html#a4c75ca786e4d5bb27e03da7de2f188de" title=" " alt="" coords="192,127,352,153"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="134,120,177,125,176,131,133,125"/>
+<area shape="rect" id="Node000007" href="$classsairedis_1_1_client_sai.html#a5e1a2d80a5d156fc9ee91951a215e31c" title=" " alt="" coords="181,177,364,220"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="117,134,182,163,196,169,194,174,180,168,115,139"/>
+<area shape="rect" id="Node000003" href="$class_sai_serialize_interface.html#ac1267fe86b704633a47c483dcc8e1379" title=" " alt="" coords="420,5,580,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="349,29,404,27,404,33,349,35"/>
+<area shape="rect" id="Node000005" href="$class_sai_serialize_interface.html#a29d73fb00b962109388850736a5a02a3" title=" " alt="" coords="412,72,587,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="356,88,396,89,396,94,356,93"/>
+</map>

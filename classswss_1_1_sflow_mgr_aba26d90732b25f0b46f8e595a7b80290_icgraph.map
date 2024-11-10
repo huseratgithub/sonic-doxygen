@@ -1,0 +1,13 @@
+<map id="swss::SflowMgr::sflowGetGlobalInfo" name="swss::SflowMgr::sflowGetGlobalInfo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="560,25,736,68"/>
+<area shape="rect" id="Node000002" href="$classswss_1_1_sflow_mgr.html#ab16f0f2b442459da0750807f467f4bcf" title=" " alt="" coords="103,33,268,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="557,24,512,16,414,8,316,16,272,24,230,36,229,30,270,19,316,11,414,3,513,11,558,19"/>
+<area shape="rect" id="Node000004" href="$classswss_1_1_sflow_mgr.html#a73bf5fb9c63c8bb9e1373e825a6d6b8d" title=" " alt="" coords="316,25,512,68"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="545,49,512,49,512,44,545,44"/>
+<area shape="rect" id="Node000005" href="$classswss_1_1_sflow_mgr.html#a4c80859175012c3b887e4c0447f4bd01" title=" " alt="" coords="316,92,512,135"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="557,75,492,94,491,89,556,70"/>
+<area shape="rect" id="Node000003" href="$sflowmgrd_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="5,33,55,60"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="87,49,55,49,55,44,87,44"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="301,49,268,49,268,44,301,44"/>
+<area shape="poly" id="edge6_Node000005_Node000002" title=" " alt="" coords="324,90,233,63,235,58,325,85"/>
+</map>

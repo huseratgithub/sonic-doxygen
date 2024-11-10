@@ -1,0 +1,11 @@
+<map id="syncd::AsicView::bindNewLinks" name="syncd::AsicView::bindNewLinks">
+<area shape="rect" id="Node000001" title="Bind existing VID links (references) based on given object." alt="" coords="5,5,184,48"/>
+<area shape="rect" id="Node000002" href="$classsyncd_1_1_asic_view.html#a5879c8e8395b2556faf45d192fb55e66" title="Bind new links (references) based on attribute." alt="" coords="232,5,410,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,24,216,24,216,29,184,29"/>
+<area shape="rect" id="Node000003" href="$classsyncd_1_1_asic_view.html#a7f5bf652aaf8ccdf767ca6507393d858" title="Bind new VID reference." alt="" coords="458,5,636,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="411,24,442,24,442,29,411,29"/>
+<area shape="rect" id="Node000004" href="$mock__sai__serialize_8cpp.html#a0f934d15b1a3e0fd3458f0f2b9df0b31" title=" " alt="" coords="684,13,837,40"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="637,24,669,24,669,29,637,29"/>
+<area shape="rect" id="Node000005" href="$class_sai_serialize_interface.html#ac1267fe86b704633a47c483dcc8e1379" title=" " alt="" coords="885,5,1045,48"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="837,24,869,24,869,29,837,29"/>
+</map>

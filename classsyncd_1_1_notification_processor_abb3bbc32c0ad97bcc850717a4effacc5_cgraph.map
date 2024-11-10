@@ -1,0 +1,15 @@
+<map id="syncd::NotificationProcessor::handle_switch_shutdown_request" name="syncd::NotificationProcessor::handle_switch_shutdown_request">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,93,195,152"/>
+<area shape="rect" id="Node000002" href="$classsyncd_1_1_notification_processor.html#a3a81d5f04d0117c54b1913241c94e795" title=" " alt="" coords="243,56,447,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="195,106,227,101,228,106,196,111"/>
+<area shape="rect" id="Node000006" href="$_sai_serialize_8cpp.html#a5295478ac2c538ae0cb8ef844619f6b2" title=" " alt="" coords="269,139,421,181"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="196,135,254,143,253,149,195,140"/>
+<area shape="rect" id="Node000003" href="$_sai_serialize_8cpp.html#af7008a514ba1b933b38269cf8fc7ab99" title=" " alt="" coords="520,5,659,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="447,58,505,44,506,49,448,63"/>
+<area shape="rect" id="Node000005" href="$classsyncd_1_1_notification_processor.html#a2f09f476da7abc790847bed21754dd3c" title=" " alt="" coords="495,72,684,115"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="448,86,479,87,479,92,447,91"/>
+<area shape="rect" id="Node000004" href="$_sai_serialize_8cpp.html#a64e9cf06c73cd4f94e337e22149be32b" title=" " alt="" coords="732,13,885,40"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="659,24,717,24,717,29,659,29"/>
+<area shape="rect" id="Node000007" href="$_sai_serialize_8cpp.html#a93ab044615abc111c2294290d8aaba45" title=" " alt="" coords="506,147,673,173"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="421,157,491,157,491,163,421,163"/>
+</map>

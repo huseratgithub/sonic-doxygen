@@ -1,0 +1,8 @@
+<map id="saimeta::OidRefCounter::objectReferenceRemove" name="saimeta::OidRefCounter::objectReferenceRemove">
+<area shape="rect" id="Node000001" title="Remove object reference." alt="" coords="5,35,179,77"/>
+<area shape="rect" id="Node000002" href="$classsaimeta_1_1_oid_ref_counter.html#a962171dac4dfc94d754e5590e519a8fb" title="Get reference count on given object." alt="" coords="227,5,407,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,42,211,38,211,43,180,47"/>
+<area shape="rect" id="Node000003" href="$classsaimeta_1_1_oid_ref_counter.html#a12b01a405b296e361ecaf09737677de1" title="Check if object reference exists." alt="" coords="455,35,617,77"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="179,56,227,57,407,57,439,57,439,62,407,63,227,63,179,62"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="408,36,440,40,439,46,407,41"/>
+</map>

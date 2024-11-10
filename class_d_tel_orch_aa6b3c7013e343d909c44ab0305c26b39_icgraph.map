@@ -1,0 +1,16 @@
+<map id="DTelOrch::deleteINTSession" name="DTelOrch::deleteINTSession">
+<area shape="rect" id="Node000001" title=" " alt="" coords="730,113,919,140"/>
+<area shape="rect" id="Node000002" href="$class_d_tel_orch.html#a487cb56e1391200d5ba6749f7978d49c" title=" " alt="" coords="476,76,682,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="714,116,682,112,683,107,715,111"/>
+<area shape="rect" id="Node000006" href="$class_d_tel_orch.html#a0c90b087278d2309ce3a2d067ee22af5" title=" " alt="" coords="237,135,428,177"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="715,136,429,153,428,148,715,130"/>
+<area shape="rect" id="Node000003" href="$class_acl_rule_d_tel_watch_list_entry.html#ae04270b83902e5e69b5e6c3a5e9aac04" title=" " alt="" coords="241,68,424,111"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="460,96,425,95,425,90,460,91"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="472,125,426,137,425,131,471,120"/>
+<area shape="rect" id="Node000004" href="$class_acl_rule_d_tel_watch_list_entry.html#a07c99746e1dfb8794395e34e13aab26b" title=" " alt="" coords="5,5,189,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="234,66,179,51,180,46,236,61"/>
+<area shape="rect" id="Node000005" href="$class_acl_rule_d_tel_watch_list_entry.html#ae43afcee0537d0570cdcf25e1510c0a4" title=" " alt="" coords="5,72,189,115"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="225,94,189,94,189,89,225,88"/>
+<area shape="rect" id="Node000007" href="$class_d_tel_orch.html#af4aea4067a2b736766ffd0c91d78fc36" title=" " alt="" coords="34,143,160,169"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="221,159,161,159,161,153,221,153"/>
+</map>

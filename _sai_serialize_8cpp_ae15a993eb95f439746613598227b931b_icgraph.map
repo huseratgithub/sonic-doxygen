@@ -1,0 +1,15 @@
+<map id="sai_deserialize_port_oper_status" name="sai_deserialize_port_oper_status">
+<area shape="rect" id="Node000001" title=" " alt="" coords="780,72,917,115"/>
+<area shape="rect" id="Node000002" href="$_sai_serialize_8cpp.html#a31b176a06e224f2fc6b0554114c057d4" title=" " alt="" coords="596,72,732,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="765,96,733,96,733,91,765,91"/>
+<area shape="rect" id="Node000003" href="$classsyncd_1_1_notification_processor.html#a989e0b625ff1a5ddd630171df559b359" title=" " alt="" coords="340,5,530,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="580,72,510,51,512,46,581,67"/>
+<area shape="rect" id="Node000005" href="$class_p4_orch.html#aed1ef53a6e75efb38ad6e24dc54af482" title=" " alt="" coords="348,72,522,115"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="580,96,522,96,522,91,580,91"/>
+<area shape="rect" id="Node000007" href="$classsairedis_1_1_notification_port_state_change.html#a97c0614a7c44b9b05b761297f38464fd" title=" " alt="" coords="322,139,548,197"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="582,123,528,141,526,136,581,118"/>
+<area shape="rect" id="Node000004" href="$classsyncd_1_1_notification_processor.html#a98d729e95c17d94bad6c7fbd45944880" title=" " alt="" coords="45,5,234,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="324,29,235,29,235,24,324,24"/>
+<area shape="rect" id="Node000006" href="$classp4orch_1_1test_1_1_wcmp_manager_test.html#a07763945f98a6b93c166c133829bda6f" title=" " alt="" coords="5,72,274,115"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="333,96,274,96,274,91,333,91"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="sai_serialize_switch_stat" name="sai_serialize_switch_stat">
+<area shape="rect" id="Node000001" title=" " alt="" coords="259,43,426,69"/>
+<area shape="rect" id="Node000002" href="$class_drop_counter.html#a03dfe3b4c4f181556af11fa5391c0e17" title=" " alt="" coords="5,5,211,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="243,46,211,42,211,37,243,41"/>
+<area shape="rect" id="Node000003" href="$_flex_counter_8cpp.html#a04c56d02733997ac803ddb967371e4d3" title=" " alt="" coords="61,72,155,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="243,71,155,82,154,77,243,66"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="syncd::NotificationProcessor::process_on_port_state_change" name="syncd::NotificationProcessor::process_on_port_state_change">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,64,216,107"/>
+<area shape="rect" id="Node000002" href="$mock__sai__serialize_8cpp.html#a0f934d15b1a3e0fd3458f0f2b9df0b31" title=" " alt="" coords="282,13,434,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,61,283,42,284,47,204,66"/>
+<area shape="rect" id="Node000004" href="$_sai_serialize_8cpp.html#a3401d7a738a7c0c8fbde0b4349a53ebd" title=" " alt="" coords="297,64,420,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="216,83,281,83,281,88,216,88"/>
+<area shape="rect" id="Node000009" href="$classsyncd_1_1_notification_processor.html#a2f09f476da7abc790847bed21754dd3c" title=" " alt="" coords="264,131,453,173"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="193,105,262,123,261,129,192,110"/>
+<area shape="rect" id="Node000003" href="$class_sai_serialize_interface.html#ac1267fe86b704633a47c483dcc8e1379" title=" " alt="" coords="501,5,661,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="435,24,485,24,485,29,435,29"/>
+<area shape="rect" id="Node000005" href="$_sai_serialize_8cpp.html#a64e9cf06c73cd4f94e337e22149be32b" title=" " alt="" coords="505,72,657,99"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="420,83,489,83,489,88,420,88"/>
+<area shape="rect" id="Node000006" href="$_sai_serialize_8cpp.html#a20c7376a28578270fa93dcade5cc9896" title=" " alt="" coords="520,123,642,165"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="421,99,505,121,504,127,419,104"/>
+<area shape="rect" id="Node000007" href="$_sai_serialize_8cpp.html#a65eb8ea2354cbfadd0a6075124116a68" title=" " alt="" coords="709,131,842,157"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="643,141,694,141,694,147,643,147"/>
+<area shape="rect" id="Node000008" href="$_sai_serialize_8cpp.html#a97543edb8d3f82c33b2ba86825bf5cc9" title=" " alt="" coords="890,131,1033,157"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="842,141,874,141,874,147,842,147"/>
+</map>

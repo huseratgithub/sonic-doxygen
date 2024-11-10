@@ -1,0 +1,11 @@
+<map id="sai_deserialize_free_nat_event" name="sai_deserialize_free_nat_event">
+<area shape="rect" id="Node000001" title=" " alt="" coords="667,39,804,81"/>
+<area shape="rect" id="Node000002" href="$_sai_serialize_8cpp.html#a89b8e72da0f9f39a5f397723fcdd2c4a" title=" " alt="" coords="483,39,619,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="652,63,620,63,620,57,652,57"/>
+<area shape="rect" id="Node000003" href="$classsyncd_1_1_notification_processor.html#ae200c02862b91edfb8c80d73623c86c4" title=" " alt="" coords="244,5,434,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="467,50,433,44,434,39,468,44"/>
+<area shape="rect" id="Node000005" href="$classsairedis_1_1_notification_nat_event.html#abdface8e54469073a3d5a7537d2663ce" title=" " alt="" coords="243,72,435,115"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="468,76,436,81,435,76,467,70"/>
+<area shape="rect" id="Node000004" href="$classsyncd_1_1_notification_processor.html#a98d729e95c17d94bad6c7fbd45944880" title=" " alt="" coords="5,5,195,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="229,29,195,29,195,24,229,24"/>
+</map>

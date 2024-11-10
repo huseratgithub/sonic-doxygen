@@ -1,0 +1,11 @@
+<map id="PfcWdActionHandler::getQueueId" name="PfcWdActionHandler::getQueueId">
+<area shape="rect" id="Node000001" title=" " alt="" coords="250,105,393,148"/>
+<area shape="rect" id="Node000002" href="$class_pfc_wd_lossy_handler.html#a4827ef9bdc4da354b4025165bdcfb7c7" title=" " alt="" coords="29,5,178,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="271,99,201,62,173,51,175,46,203,58,273,95"/>
+<area shape="rect" id="Node000003" href="$class_pfc_wd_dlr_handler.html#a765ba50737b6ed85f2fac0875aefb468" title=" " alt="" coords="5,72,202,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="234,116,202,111,202,106,235,111"/>
+<area shape="rect" id="Node000004" href="$class_pfc_wd_lossy_handler.html#a5a9dd6d2a8051816e07a85fd11ab2e25" title=" " alt="" coords="29,139,178,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="235,142,179,151,178,146,234,137"/>
+<area shape="rect" id="Node000005" href="$class_pfc_wd_sai_dlr_init_handler.html#a831c4d821bc325213f1f0086c00f883e" title=" " alt="" coords="15,205,192,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="273,159,203,196,175,207,173,202,201,191,271,154"/>
+</map>

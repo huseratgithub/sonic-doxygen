@@ -1,0 +1,18 @@
+<map id="swss::RouteSync::getEvpnNextHop" name="swss::RouteSync::getEvpnNextHop">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,131,187,173"/>
+<area shape="rect" id="Node000002" href="$classswss_1_1_route_sync.html#ab8d63c5fbc1a2ddd57baf784a1bf3d69" title=" " alt="" coords="245,5,426,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,128,173,93,233,58,246,52,248,57,236,62,176,97,126,132"/>
+<area shape="rect" id="Node000003" href="$classswss_1_1_route_sync.html#ab58780f50a386a56a6f3d3a6843452ef" title=" " alt="" coords="245,72,426,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="185,127,230,116,231,122,187,133"/>
+<area shape="rect" id="Node000004" href="$classswss_1_1_route_sync.html#a34d98118e7278e76c94652c7f50dfeb8" title=" " alt="" coords="239,139,433,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="187,149,223,149,223,155,187,155"/>
+<area shape="rect" id="Node000005" href="$fpmlink_8cpp.html#acec28786d190df56c80e4f4a386b35e4" title=" " alt="" coords="747,219,880,245"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="188,167,235,175,508,206,732,224,732,229,507,211,234,180,187,172"/>
+<area shape="rect" id="Node000006" href="$classswss_1_1_route_sync.html#acf3a2bcf17464760c29fdc49b1220008" title=" " alt="" coords="235,248,437,275"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="140,171,236,219,285,239,283,244,234,224,137,176"/>
+<area shape="rect" id="Node000007" href="$classswss_1_1_route_sync.html#a18eceaee1da40328cf8348c3cd7ee304" title=" " alt="" coords="502,240,682,283"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="437,259,487,259,487,264,437,264"/>
+<area shape="rect" id="Node000008" href="$classswss_1_1_route_sync.html#ae60eae10ec7e90febad0f5bb399e9de3" title=" " alt="" coords="485,307,699,333"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="398,273,517,300,515,305,397,278"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="682,247,731,240,732,245,683,252"/>
+</map>

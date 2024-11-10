@@ -1,0 +1,9 @@
+<map id="syncd::ComparisonLogic::translateTemporaryVidsToCurrentVids" name="syncd::ComparisonLogic::translateTemporaryVidsToCurrentVids">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,255,48"/>
+<area shape="rect" id="Node000002" href="$classsyncd_1_1_comparison_logic.html#a420405eedd05eba434b7dac8c9fede84" title=" " alt="" coords="303,5,538,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="255,24,287,24,287,29,255,29"/>
+<area shape="rect" id="Node000003" href="$mock__sai__serialize_8cpp.html#a0f934d15b1a3e0fd3458f0f2b9df0b31" title=" " alt="" coords="586,13,738,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="538,24,570,24,570,29,538,29"/>
+<area shape="rect" id="Node000004" href="$class_sai_serialize_interface.html#ac1267fe86b704633a47c483dcc8e1379" title=" " alt="" coords="786,5,947,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="739,24,771,24,771,29,739,29"/>
+</map>

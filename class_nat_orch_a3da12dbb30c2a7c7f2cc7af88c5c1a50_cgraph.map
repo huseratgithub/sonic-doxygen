@@ -1,0 +1,13 @@
+<map id="NatOrch::queryHitBits" name="NatOrch::queryHitBits">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,147,156,173"/>
+<area shape="rect" id="Node000002" href="$class_nat_orch.html#a09f0c0d4ce8d26267319b42b86a3f112" title=" " alt="" coords="205,5,386,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,144,140,103,202,58,212,53,214,57,205,62,143,107,97,148"/>
+<area shape="rect" id="Node000003" href="$class_nat_orch.html#a24c6d6e29464a9f7cfd88a7c7da6e23d" title=" " alt="" coords="209,72,382,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="126,143,209,117,210,122,127,149"/>
+<area shape="rect" id="Node000004" href="$class_nat_orch.html#ab98a594695fb963aa3dbd526da3d3076" title=" " alt="" coords="204,139,387,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="156,157,188,157,188,163,156,163"/>
+<area shape="rect" id="Node000005" href="$class_nat_orch.html#ad9ce24cb8a5269a9c736db6636718beb" title=" " alt="" coords="207,205,384,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="127,171,210,198,209,203,126,177"/>
+<area shape="rect" id="Node000006" href="$natorch_8cpp.html#a85cbfe5c97ab81142a2e8b87429d24ad" title=" " alt="" coords="251,272,340,299"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="97,172,142,214,172,238,205,258,237,271,235,276,202,262,169,242,139,218,93,176"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="E:/GitHub/SONiC/202211/sonic&#45;buildimage/src/sonic&#45;sairedis/meta/ZeroMQSelectableChannel.h" name="E:/GitHub/SONiC/202211/sonic&#45;buildimage/src/sonic&#45;sairedis/meta/ZeroMQSelectableChannel.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="238,5,488,80"/>
+<area shape="rect" id="Node000002" href="$_server_sai_8cpp.html" title=" " alt="" coords="5,136,214,195"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="273,90,171,138,169,133,271,85"/>
+<area shape="rect" id="Node000003" href="$_zero_m_q_selectable_channel_8cpp.html" title=" " alt="" coords="238,128,488,203"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="366,96,366,128,360,128,360,96"/>
+<area shape="rect" id="Node000004" href="$_syncd_8cpp.html" title=" " alt="" coords="512,136,723,195"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="456,85,558,133,556,138,453,90"/>
+</map>

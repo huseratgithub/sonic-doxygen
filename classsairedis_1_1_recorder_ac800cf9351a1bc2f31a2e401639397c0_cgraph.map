@@ -1,0 +1,20 @@
+<map id="sairedis::Recorder::setRecordingFilename" name="sairedis::Recorder::setRecordingFilename">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,68,165,110"/>
+<area shape="rect" id="Node000002" href="$classsairedis_1_1_recorder.html#a9e44e30ac4028788d434876a8d268601" title=" " alt="" coords="213,101,345,144"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,100,198,106,197,111,165,105"/>
+<area shape="rect" id="Node000004" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="589,34,741,61"/>
+<area shape="poly" id="edge10_Node000001_Node000004" title=" " alt="" coords="116,65,160,40,212,20,262,10,314,5,417,5,513,14,592,28,591,33,512,20,417,10,314,10,263,15,213,25,162,44,119,70"/>
+<area shape="rect" id="Node000007" href="$classsairedis_1_1_recorder.html#ab0532541b2bfb84cb02ad6d666b41f7f" title=" " alt="" coords="215,34,342,77"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="165,73,199,67,200,72,166,78"/>
+<area shape="rect" id="Node000008" href="$classsairedis_1_1_recorder.html#afb273a3cab6cbadc8448de3faaf4cee4" title=" " alt="" coords="215,168,342,210"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="128,108,214,153,222,158,220,162,211,158,126,113"/>
+<area shape="rect" id="Node000003" href="$classsairedis_1_1_recorder.html#a8437094dc8312edb3515b512161a553c" title=" " alt="" coords="393,152,541,194"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="346,138,379,147,377,152,345,143"/>
+<area shape="rect" id="Node000005" href="$classsairedis_1_1_recorder.html#a98a36a0c0b73b0527a1902df57d5c7e1" title=" " alt="" coords="404,85,531,128"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="345,114,388,110,388,116,346,119"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="523,149,540,138,554,121,563,105,571,88,588,71,595,66,598,71,591,75,576,91,567,107,559,124,543,142,526,153"/>
+<area shape="rect" id="Node000006" href="$classsairedis_1_1_recorder.html#a384b62241f24b8c4b04be51dc8fc3a4c" title=" " alt="" coords="601,85,729,128"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="531,104,586,104,586,109,531,109"/>
+<area shape="poly" id="edge8_Node000007_Node000004" title=" " alt="" coords="343,52,574,47,574,52,343,57"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="344,70,389,83,388,88,342,75"/>
+</map>

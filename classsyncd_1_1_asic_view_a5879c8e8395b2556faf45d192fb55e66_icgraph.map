@@ -1,0 +1,9 @@
+<map id="syncd::AsicView::bindNewLinks" name="syncd::AsicView::bindNewLinks">
+<area shape="rect" id="Node000001" title="Bind new links (references) based on attribute." alt="" coords="244,72,422,115"/>
+<area shape="rect" id="Node000002" href="$classsyncd_1_1_asic_view.html#a26bc73062eae43ed06a53006b4030406" title="Generate ASIC create operation for current object." alt="" coords="5,5,196,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="241,70,177,51,178,46,243,65"/>
+<area shape="rect" id="Node000003" href="$classsyncd_1_1_asic_view.html#ae688994b09532c1d86729b9d9f6a05a0" title="Generate ASIC set operation on current existing object." alt="" coords="15,72,186,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="228,96,187,96,187,91,228,91"/>
+<area shape="rect" id="Node000004" href="$classsyncd_1_1_asic_view.html#ac3bea68ca210b334ee22cf5fa3d3cde1" title="Bind existing VID links (references) based on given object." alt="" coords="11,139,190,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="243,122,178,141,177,135,241,117"/>
+</map>

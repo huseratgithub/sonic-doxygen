@@ -1,0 +1,10 @@
+<map id="P4NeighborEntry::P4NeighborEntry" name="P4NeighborEntry::P4NeighborEntry">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,27,202,69"/>
+<area shape="rect" id="Node000002" href="$class_key_generator.html#aab9b98004464460e47962ab0e0d02806" title=" " alt="" coords="250,5,484,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,34,234,31,234,36,203,40"/>
+<area shape="rect" id="Node000004" href="$class_key_generator.html#adfa5a77351940b4d47d4be02ef0d57a8" title=" " alt="" coords="268,56,466,99"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="203,56,252,62,252,67,202,62"/>
+<area shape="rect" id="Node000003" href="$class_key_generator.html#ae06f1ce0ddc1a6544a7c596bfd0bbdb7" title=" " alt="" coords="532,35,714,61"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="485,29,517,33,516,38,484,35"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="466,63,516,58,517,63,467,69"/>
+</map>

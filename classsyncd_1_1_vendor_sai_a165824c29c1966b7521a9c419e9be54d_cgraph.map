@@ -1,0 +1,7 @@
+<map id="syncd::VendorSai::switchIdQuery" name="syncd::VendorSai::switchIdQuery">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,23,175,65"/>
+<area shape="rect" id="Node000002" href="$sai__redis__interfacequery_8cpp.html#ac3cb24d9bcf8175653dd74f4bb49ee57" title=" " alt="" coords="229,5,368,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,31,213,26,214,32,175,36"/>
+<area shape="rect" id="Node000003" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="223,56,374,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="175,52,207,56,207,61,175,57"/>
+</map>

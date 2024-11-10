@@ -1,0 +1,11 @@
+<map id="serialize_bulk_vlan" name="serialize_bulk_vlan">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,47,137,73"/>
+<area shape="rect" id="Node000002" href="$mock__sai__serialize_8cpp.html#a0f934d15b1a3e0fd3458f0f2b9df0b31" title=" " alt="" coords="192,17,344,44"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="137,48,176,42,177,47,138,53"/>
+<area shape="rect" id="Node000004" href="$mock__sai__serialize_8cpp.html#aa06e96f943a8f2451c89c65d2fecbef5" title=" " alt="" coords="185,72,352,99"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="137,66,169,70,169,75,137,71"/>
+<area shape="rect" id="Node000003" href="$class_sai_serialize_interface.html#ac1267fe86b704633a47c483dcc8e1379" title=" " alt="" coords="408,5,568,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="345,27,392,26,392,31,345,32"/>
+<area shape="rect" id="Node000005" href="$class_sai_serialize_interface.html#a29d73fb00b962109388850736a5a02a3" title=" " alt="" coords="400,72,575,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="352,86,384,87,384,92,352,91"/>
+</map>

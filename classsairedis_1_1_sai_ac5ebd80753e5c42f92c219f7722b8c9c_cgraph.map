@@ -1,0 +1,12 @@
+<map id="sairedis::Sai::objectTypeQuery" name="sairedis::Sai::objectTypeQuery">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,170,77"/>
+<area shape="rect" id="Node000002" href="$classsairedis_1_1_virtual_object_id_manager.html#ad101fc291f99d20afa184f5b99911b3a" title="Object type query." alt="" coords="218,5,395,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,42,202,38,202,43,170,48"/>
+<area shape="rect" id="Node000005" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="444,68,595,95"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="170,58,428,73,428,79,170,63"/>
+<area shape="rect" id="Node000003" href="$mock__sai__serialize_8cpp.html#a0f934d15b1a3e0fd3458f0f2b9df0b31" title=" " alt="" coords="443,13,595,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="396,24,428,24,428,29,396,29"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="393,46,451,61,449,66,391,51"/>
+<area shape="rect" id="Node000004" href="$class_sai_serialize_interface.html#ac1267fe86b704633a47c483dcc8e1379" title=" " alt="" coords="643,5,804,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="596,24,628,24,628,29,596,29"/>
+</map>

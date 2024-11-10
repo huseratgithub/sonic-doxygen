@@ -1,0 +1,12 @@
+<map id="swss::BufferMgrDynamic::cleanUpItemsForReclaimingBuffer" name="swss::BufferMgrDynamic::cleanUpItemsForReclaimingBuffer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="654,39,883,81"/>
+<area shape="rect" id="Node000002" href="$classswss_1_1_buffer_mgr_dynamic.html#a743d5915dd64ae2f7447ddf2837c6704" title=" " alt="" coords="438,5,606,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="639,45,606,41,607,35,639,40"/>
+<area shape="rect" id="Node000005" href="$classswss_1_1_buffer_mgr_dynamic.html#aa4ca6fd7a71d7d12baaf820d900cbd55" title=" " alt="" coords="438,72,606,115"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="639,80,607,85,606,79,639,75"/>
+<area shape="rect" id="Node000003" href="$classswss_1_1_buffer_mgr_dynamic.html#abeb2610ca36f120d251ca1627c1b6f5b" title=" " alt="" coords="222,39,390,81"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="423,45,391,50,390,44,422,39"/>
+<area shape="rect" id="Node000004" href="$classswss_1_1_buffer_mgr_dynamic.html#a1c70a6b4bf77a1dbf4500bcda6b04954" title=" " alt="" coords="5,39,174,81"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="206,63,174,63,174,57,206,57"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="422,81,390,76,391,70,423,75"/>
+</map>

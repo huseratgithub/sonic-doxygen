@@ -1,0 +1,9 @@
+<map id="sairedis::Utils::clearOidValues" name="sairedis::Utils::clearOidValues">
+<area shape="rect" id="Node000001" title="Clear OID values." alt="" coords="5,23,163,65"/>
+<area shape="rect" id="Node000002" href="$classsairedis_1_1_utils.html#adc7a96da4af93bbf5d2e78f872273527" title=" " alt="" coords="211,5,389,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="163,32,195,28,195,34,163,37"/>
+<area shape="rect" id="Node000003" href="$mock__sai__serialize_8cpp.html#aa06e96f943a8f2451c89c65d2fecbef5" title=" " alt="" coords="216,56,384,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="163,51,201,55,200,60,163,56"/>
+<area shape="rect" id="Node000004" href="$class_sai_serialize_interface.html#a29d73fb00b962109388850736a5a02a3" title=" " alt="" coords="437,48,612,91"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="384,67,421,67,421,72,384,72"/>
+</map>

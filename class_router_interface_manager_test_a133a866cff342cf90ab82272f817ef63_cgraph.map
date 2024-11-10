@@ -1,0 +1,11 @@
+<map id="RouterInterfaceManagerTest::SetUp" name="RouterInterfaceManagerTest::SetUp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,105,192,148"/>
+<area shape="rect" id="Node000002" href="$mock__sai__router__interface_8cpp.html#aa240eebb69d74856396a83e466ee90ff" title=" " alt="" coords="259,5,396,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="142,102,239,58,252,52,254,57,241,62,145,107"/>
+<area shape="rect" id="Node000003" href="$mock__sai__router__interface_8cpp.html#a700ed41e04cfa004e0709d2665314909" title=" " alt="" coords="240,72,415,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="191,110,224,106,225,111,192,116"/>
+<area shape="rect" id="Node000004" href="$mock__sai__router__interface_8cpp.html#af0ec6160f0010282ce6438cd7fe3572c" title=" " alt="" coords="256,139,399,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="192,138,241,145,240,150,191,143"/>
+<area shape="rect" id="Node000005" href="$mock__sai__router__interface_8cpp.html#af023b6619632927815af599619c13848" title=" " alt="" coords="240,205,415,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="145,146,241,191,254,197,252,202,239,196,142,151"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="saivs::SwitchStateBase::set_acl_capabilities" name="saivs::SwitchStateBase::set_acl_capabilities">
+<area shape="rect" id="Node000001" title=" " alt="" coords="434,39,595,81"/>
+<area shape="rect" id="Node000002" href="$classsaivs_1_1_switch_state_base.html#a063407086e7538787fd656b3d7a688d7" title=" " alt="" coords="215,5,386,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="418,48,386,43,387,37,419,42"/>
+<area shape="rect" id="Node000003" href="$classsaivs_1_1_switch_state_base.html#a70a3f7cad0a11120a4e74b5713ac0969" title=" " alt="" coords="220,72,381,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="419,78,382,83,381,78,418,72"/>
+<area shape="rect" id="Node000004" href="$classsaivs_1_1_switch_state_base.html#aef145a82ed6f33eefd7c6981ce13d4af" title=" " alt="" coords="5,64,167,123"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="205,96,167,96,167,91,205,91"/>
+</map>

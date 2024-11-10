@@ -1,0 +1,9 @@
+<map id="QosOrch::removeTunnelReference" name="QosOrch::removeTunnelReference">
+<area shape="rect" id="Node000001" title="Remove the reference from tunnel object. Called after tunnel is removed." alt="" coords="5,5,229,32"/>
+<area shape="rect" id="Node000002" href="$class_orch.html#a6f9acaabeca7c7dcee3b86f437889af7" title=" " alt="" coords="277,5,415,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="229,16,261,16,261,21,229,21"/>
+<area shape="rect" id="Node000003" href="$class_orch.html#a233284ee357f7553505640a4c0853874" title=" " alt="" coords="463,5,739,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="416,16,448,16,448,21,416,21"/>
+<area shape="rect" id="Node000004" href="$lib_2tests_8cpp.html#ad3af9936f704b25188a9ef24330f8a19" title=" " alt="" coords="787,5,858,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="740,16,772,16,772,21,740,21"/>
+</map>

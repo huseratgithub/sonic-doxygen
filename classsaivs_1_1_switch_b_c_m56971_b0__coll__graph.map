@@ -1,0 +1,9 @@
+<map id="saivs::SwitchBCM56971B0" name="saivs::SwitchBCM56971B0">
+<area shape="rect" id="Node000001" title=" " alt="" coords="66,172,247,199"/>
+<area shape="rect" id="Node000002" href="$classsaivs_1_1_switch_state_base.html" title=" " alt="" coords="76,96,237,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,138,159,172,154,172,154,138"/>
+<area shape="rect" id="Node000003" href="$classsaivs_1_1_switch_state.html" title=" " alt="" coords="5,5,137,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="95,41,146,94,142,97,92,45"/>
+<area shape="rect" id="Node000004" href="$classsaivs_1_1_m_a_csec_manager.html" title=" " alt="" coords="161,5,322,32"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="221,45,170,97,167,94,217,41"/>
+</map>

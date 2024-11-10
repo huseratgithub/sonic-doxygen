@@ -1,0 +1,19 @@
+<map id="E:/GitHub/SONiC/202211/sonic&#45;buildimage/src/sonic&#45;sairedis/vslib/NetMsgRegistrar.h" name="E:/GitHub/SONiC/202211/sonic&#45;buildimage/src/sonic&#45;sairedis/vslib/NetMsgRegistrar.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="389,5,639,64"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,112,164,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="389,64,162,111,161,106,388,59"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="188,112,272,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="422,67,286,109,284,104,421,62"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="296,112,406,139"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="462,67,389,107,386,102,460,62"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="430,112,507,139"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="502,66,484,99,480,97,497,63"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="532,112,589,139"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="531,63,549,97,544,99,526,66"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="613,112,670,139"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="557,62,613,101,610,105,554,67"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="694,112,763,139"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="585,62,685,103,683,108,583,67"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="787,112,833,139"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="617,62,772,108,771,114,616,67"/>
+</map>

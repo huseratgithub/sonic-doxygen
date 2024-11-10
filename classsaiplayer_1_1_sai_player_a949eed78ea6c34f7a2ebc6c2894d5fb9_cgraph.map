@@ -1,0 +1,8 @@
+<map id="saiplayer::SaiPlayer::match_redis_with_rec" name="saiplayer::SaiPlayer::match_redis_with_rec">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,162,72"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="43,29,42,19,49,10,63,5,84,3,106,5,120,11,117,16,105,10,83,8,64,10,52,15,47,21,49,28"/>
+<area shape="rect" id="Node000002" href="$mock__sai__serialize_8cpp.html#aa06e96f943a8f2451c89c65d2fecbef5" title=" " alt="" coords="210,37,377,64"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="162,48,194,48,194,53,162,53"/>
+<area shape="rect" id="Node000003" href="$class_sai_serialize_interface.html#a29d73fb00b962109388850736a5a02a3" title=" " alt="" coords="425,29,600,72"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="377,48,409,48,409,53,377,53"/>
+</map>

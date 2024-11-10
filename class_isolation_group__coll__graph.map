@@ -1,0 +1,11 @@
+<map id="IsolationGroup" name="IsolationGroup">
+<area shape="rect" id="Node000001" title=" " alt="" coords="123,128,228,155"/>
+<area shape="rect" id="Node000002" href="$class_observer.html" title=" " alt="" coords="5,5,80,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="69,40,164,126,160,129,66,44"/>
+<area shape="rect" id="Node000003" href="$class_subject.html" title=" " alt="" coords="103,5,168,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="147,46,174,127,169,128,142,47"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="193,5,246,32"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="213,48,183,128,178,127,208,46"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="275,5,388,32"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="329,48,318,78,298,106,265,126,229,137,228,132,263,121,294,102,313,75,324,46"/>
+</map>

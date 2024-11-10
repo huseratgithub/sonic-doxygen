@@ -1,0 +1,7 @@
+<map id="test_sai_initialize" name="test_sai_initialize">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,127,61"/>
+<area shape="rect" id="Node000002" href="$sai__redis__interfacequery_8cpp.html#ac648bf371abd7c51249f9bde92850774" title=" " alt="" coords="190,5,306,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,36,174,28,175,33,127,41"/>
+<area shape="rect" id="Node000003" href="$syncd_2tests_8cpp.html#ad3d4806919ffd956757ad3641a1bb203" title=" " alt="" coords="175,56,321,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="127,55,160,60,159,66,127,60"/>
+</map>

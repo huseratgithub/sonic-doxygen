@@ -1,0 +1,13 @@
+<map id="test_tokenize_bulk_route_entry" name="test_tokenize_bulk_route_entry">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,23,136,65"/>
+<area shape="rect" id="Node000002" href="$lib_2tests_8cpp.html#a76ec1867f35c993000a0bf51760063d3" title=" " alt="" coords="184,5,341,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,33,168,28,169,34,136,38"/>
+<area shape="rect" id="Node000006" href="$lib_2tests_8cpp.html#ad3af9936f704b25188a9ef24330f8a19" title=" " alt="" coords="227,56,298,83"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="136,50,212,60,211,65,136,55"/>
+<area shape="rect" id="Node000003" href="$_sai_serialize_8cpp.html#ae5336a4765542a92fa3953281fa6f759" title=" " alt="" coords="389,5,570,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="341,16,373,16,373,21,341,21"/>
+<area shape="rect" id="Node000004" href="$_sai_serialize_8cpp.html#aecc5d98c7c6eb929afccb415702e0ab1" title=" " alt="" coords="618,5,765,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="571,16,603,16,603,21,571,21"/>
+<area shape="rect" id="Node000005" href="$_sai_serialize_8cpp.html#af43610cde7a028ce65a0a67e5f32ed42" title=" " alt="" coords="813,5,970,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="765,16,797,16,797,21,765,21"/>
+</map>

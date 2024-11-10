@@ -1,0 +1,12 @@
+<map id="saivs::SwitchMLNX2700::refresh_bridge_port_list" name="saivs::SwitchMLNX2700::refresh_bridge_port_list">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,171,77"/>
+<area shape="rect" id="Node000002" href="$_sai_serialize_8cpp.html#a93ab044615abc111c2294290d8aaba45" title=" " alt="" coords="229,5,396,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,40,214,32,214,38,172,45"/>
+<area shape="rect" id="Node000003" href="$classsaivs_1_1_switch_state_base.html#ad2a4aeb845eb777c5abd9d7b3fce6798" title=" " alt="" coords="219,80,406,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="172,67,213,74,213,79,171,72"/>
+<area shape="poly" id="edge5_Node000003_Node000003" title=" " alt="" coords="276,81,269,71,273,61,288,55,312,53,338,56,352,62,350,67,337,61,312,59,289,61,277,65,274,71,280,78"/>
+<area shape="rect" id="Node000004" href="$mock__sai__serialize_8cpp.html#a0f934d15b1a3e0fd3458f0f2b9df0b31" title=" " alt="" coords="454,80,606,107"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="406,91,439,91,439,96,406,96"/>
+<area shape="rect" id="Node000005" href="$class_sai_serialize_interface.html#ac1267fe86b704633a47c483dcc8e1379" title=" " alt="" coords="654,72,815,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="607,91,639,91,639,96,607,96"/>
+</map>

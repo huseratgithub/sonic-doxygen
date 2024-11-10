@@ -1,0 +1,10 @@
+<map id="saivs::SwitchStateBase::set_number_of_ecmp_groups" name="saivs::SwitchStateBase::set_number_of_ecmp_groups">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,21,206,64"/>
+<area shape="rect" id="Node000002" href="$classsaivs_1_1_switch_state_base.html#ad2a4aeb845eb777c5abd9d7b3fce6798" title=" " alt="" coords="254,29,441,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="206,40,238,40,238,45,206,45"/>
+<area shape="poly" id="edge4_Node000002_Node000002" title=" " alt="" coords="311,30,304,21,308,11,323,5,347,3,373,5,387,12,385,16,372,10,347,8,324,10,312,15,309,20,315,27"/>
+<area shape="rect" id="Node000003" href="$mock__sai__serialize_8cpp.html#a0f934d15b1a3e0fd3458f0f2b9df0b31" title=" " alt="" coords="489,29,641,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="441,40,474,40,474,45,441,45"/>
+<area shape="rect" id="Node000004" href="$class_sai_serialize_interface.html#ac1267fe86b704633a47c483dcc8e1379" title=" " alt="" coords="689,21,850,64"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="642,40,674,40,674,45,642,45"/>
+</map>

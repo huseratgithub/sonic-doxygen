@@ -1,0 +1,9 @@
+<map id="syncd::NotificationProcessor::process_on_switch_shutdown_request" name="syncd::NotificationProcessor::process_on_switch_shutdown_request">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,210,89"/>
+<area shape="rect" id="Node000002" href="$_sai_serialize_8cpp.html#af7008a514ba1b933b38269cf8fc7ab99" title=" " alt="" coords="283,5,422,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="210,43,267,36,268,41,210,49"/>
+<area shape="rect" id="Node000004" href="$classsyncd_1_1_notification_processor.html#a2f09f476da7abc790847bed21754dd3c" title=" " alt="" coords="258,72,447,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="210,71,242,76,242,81,210,77"/>
+<area shape="rect" id="Node000003" href="$_sai_serialize_8cpp.html#a64e9cf06c73cd4f94e337e22149be32b" title=" " alt="" coords="495,13,647,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="422,24,479,24,479,29,422,29"/>
+</map>

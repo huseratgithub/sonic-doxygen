@@ -1,0 +1,16 @@
+<map id="sai_serialize" name="sai_serialize">
+<area shape="rect" id="Node000001" title=" " alt="" coords="948,72,1041,99"/>
+<area shape="rect" id="Node000002" href="$classsairedis_1_1_redis_remote_sai_interface.html#ae841d6c0d1b89bebc5b8400a8c15172f" title="Notify syncd API." alt="" coords="726,5,900,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="936,69,880,51,882,46,937,64"/>
+<area shape="rect" id="Node000003" href="$classsairedis_1_1_redis_remote_sai_interface.html#a01ca3cfd082fcd5a44534ccb05ae0316" title=" " alt="" coords="465,35,678,77"/>
+<area shape="poly" id="edge8_Node000001_Node000003" title=" " alt="" coords="932,84,679,66,679,61,932,78"/>
+<area shape="rect" id="Node000006" href="$classsairedis_1_1_recorder.html#a66fe7a28995da9136802fe8c4136dde9" title=" " alt="" coords="744,147,882,189"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="950,108,863,148,861,144,948,103"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="711,42,679,46,679,40,710,36"/>
+<area shape="rect" id="Node000004" href="$classsairedis_1_1_redis_remote_sai_interface.html#a390d58671799203e0a10d4fe8272bb04" title=" " alt="" coords="227,27,417,85"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="449,59,418,59,418,53,449,53"/>
+<area shape="rect" id="Node000005" href="$classsairedis_1_1_redis_remote_sai_interface.html#ad301b776e0e8fe18a2ec81f5f84a0e46" title=" " alt="" coords="5,35,179,77"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="211,59,179,59,179,53,211,53"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="129,22,115,16,92,13,70,15,57,20,52,26,54,34,48,35,47,25,54,16,69,10,92,8,117,10,131,17"/>
+<area shape="poly" id="edge7_Node000006_Node000006" title=" " alt="" coords="842,133,831,128,813,125,796,127,786,132,782,138,783,146,778,146,777,137,782,128,795,122,813,120,833,122,844,129"/>
+</map>

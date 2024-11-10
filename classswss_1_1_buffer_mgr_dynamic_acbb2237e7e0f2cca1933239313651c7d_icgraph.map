@@ -1,0 +1,17 @@
+<map id="swss::BufferMgrDynamic::doUpdateBufferProfileForSize" name="swss::BufferMgrDynamic::doUpdateBufferProfileForSize">
+<area shape="rect" id="Node000001" title=" " alt="" coords="968,39,1169,81"/>
+<area shape="rect" id="Node000002" href="$classswss_1_1_buffer_mgr_dynamic.html#a09f01d60cac15a956aec7f01374966e5" title=" " alt="" coords="737,5,906,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="952,47,906,41,907,35,953,42"/>
+<area shape="rect" id="Node000005" href="$classswss_1_1_buffer_mgr_dynamic.html#a53d8f0609a3a14abd60db80332b64e93" title=" " alt="" coords="723,72,920,115"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="953,78,921,83,920,77,952,73"/>
+<area shape="rect" id="Node000003" href="$classswss_1_1_buffer_mgr_dynamic.html#abeb2610ca36f120d251ca1627c1b6f5b" title=" " alt="" coords="222,64,390,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="721,31,587,38,438,55,384,66,383,61,438,49,586,33,721,26"/>
+<area shape="rect" id="Node000004" href="$classswss_1_1_buffer_mgr_dynamic.html#a1c70a6b4bf77a1dbf4500bcda6b04954" title=" " alt="" coords="5,64,174,107"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="206,88,174,88,174,83,206,83"/>
+<area shape="rect" id="Node000006" href="$classswss_1_1_buffer_mgr_dynamic.html#a743d5915dd64ae2f7447ddf2837c6704" title=" " alt="" coords="472,64,641,107"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="708,93,641,91,641,85,708,87"/>
+<area shape="rect" id="Node000007" href="$classswss_1_1_buffer_mgr_dynamic.html#a52efd0a532b2fd3d0db62f4bc2469556" title=" " alt="" coords="438,131,675,173"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="709,121,657,133,655,127,708,116"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="457,88,390,88,390,83,457,83"/>
+<area shape="poly" id="edge8_Node000007_Node000003" title=" " alt="" coords="459,129,388,110,390,105,460,124"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="MirrorEntry" name="MirrorEntry">
+<area shape="rect" id="Node000001" title=" " alt="" coords="491,384,576,411"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="431,5,484,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="500,20,593,30,647,40,701,53,787,74,821,91,837,106,852,127,863,150,871,182,868,221,861,243,848,266,821,297,788,323,753,344,715,361,640,383,577,395,576,389,639,378,713,356,750,339,785,319,817,293,843,262,856,241,863,220,866,182,858,152,847,129,833,110,818,96,785,79,699,59,646,45,592,35,499,25"/>
+<area shape="rect" id="Node000003" href="$struct_next_hop_key.html" title=" " alt="" coords="121,131,218,157"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="415,22,351,22,278,27,213,38,189,47,173,58,164,74,162,94,168,130,163,131,157,94,159,73,169,54,187,42,212,33,278,21,351,17,415,16"/>
+<area shape="rect" id="Node000005" href="$classswss_1_1_port.html" title=" " alt="" coords="491,291,576,317"/>
+<area shape="poly" id="edge6_Node000005_Node000002" title=" " alt="" coords="416,35,366,54,316,83,297,99,285,118,280,137,287,159,305,186,328,210,354,230,382,248,440,274,492,290,490,296,438,279,380,252,351,235,324,214,301,189,282,161,275,138,280,116,293,96,313,78,363,50,414,30"/>
+<area shape="rect" id="Node000007" href="$structswss_1_1_system_port_info.html" title=" " alt="" coords="382,131,533,157"/>
+<area shape="poly" id="edge9_Node000007_Node000002" title=" " alt="" coords="460,48,460,130,455,130,455,48"/>
+<area shape="rect" id="Node000008" href="$structswss_1_1_system_lag_info.html" title=" " alt="" coords="688,131,837,157"/>
+<area shape="poly" id="edge11_Node000008_Node000002" title=" " alt="" coords="500,34,733,128,731,133,498,39"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="193,167,239,213,296,262,353,299,411,333,507,381,504,386,408,338,350,304,293,266,235,217,189,171"/>
+<area shape="rect" id="Node000004" href="$structswss_1_1_label_stack.html" title=" " alt="" coords="5,5,131,32"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="64,47,63,76,66,90,72,102,94,122,122,133,120,138,91,126,68,106,61,91,58,76,59,47"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="536,333,536,384,531,384,531,333"/>
+<area shape="rect" id="Node000006" href="$structswss_1_1_vlan_info.html" title=" " alt="" coords="556,131,665,157"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="612,173,603,218,595,243,584,265,571,280,556,292,553,288,567,277,579,263,590,241,598,217,606,172"/>
+<area shape="poly" id="edge8_Node000005_Node000007" title=" " alt="" coords="453,173,449,218,453,241,462,263,475,277,493,288,490,292,472,281,457,265,448,242,444,218,448,172"/>
+<area shape="poly" id="edge10_Node000005_Node000008" title=" " alt="" coords="742,171,731,185,719,208,713,228,706,247,688,266,662,282,633,293,576,304,575,299,631,288,660,278,685,262,701,244,708,226,714,206,726,183,738,167"/>
+</map>

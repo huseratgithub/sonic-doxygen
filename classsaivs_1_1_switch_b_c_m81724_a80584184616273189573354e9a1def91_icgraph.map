@@ -1,0 +1,16 @@
+<map id="saivs::SwitchBCM81724::set" name="saivs::SwitchBCM81724::set">
+<area shape="rect" id="Node000001" title=" " alt="" coords="448,117,639,144"/>
+<area shape="rect" id="Node000002" href="$classsaivs_1_1_switch_b_c_m81724.html#aa9ea7380adad95701834826f482ae217" title=" " alt="" coords="220,5,399,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="502,112,399,62,371,51,373,46,401,58,504,107"/>
+<area shape="rect" id="Node000004" href="$classsaivs_1_1_switch_b_c_m81724.html#a85566eeb9cb9e4b135b34dd1f2f7f30f" title=" " alt="" coords="219,72,400,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="441,117,400,110,401,105,441,112"/>
+<area shape="rect" id="Node000005" href="$classsaivs_1_1_switch_b_c_m81724.html#a3190a8d925e4df5182bbcaba53533856" title=" " alt="" coords="227,221,392,264"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="508,155,401,212,374,223,372,218,399,207,506,150"/>
+<area shape="rect" id="Node000007" href="$classsaivs_1_1_switch_b_c_m81724.html#a2952196a682a3a97f00060e5beefb92e" title=" " alt="" coords="227,139,392,197"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="442,150,393,157,392,152,441,144"/>
+<area shape="rect" id="Node000003" href="$classsaivs_1_1_switch_b_c_m81724.html#a9d9ab0f52a2249ab548ecfa64f11bdb1" title=" " alt="" coords="5,68,171,127"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="227,56,172,73,170,68,225,51"/>
+<area shape="rect" id="Node000006" href="$classsaivs_1_1_switch_b_c_m81724.html#ab1bcba759ebcda2a3d5b12ec8abfd4f8" title=" " alt="" coords="5,221,171,264"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="212,245,171,245,171,240,212,240"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="212,140,170,126,172,121,213,135"/>
+</map>

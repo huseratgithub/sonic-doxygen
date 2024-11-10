@@ -1,0 +1,7 @@
+<map id="sai_deserialize_port_lane_latch_status" name="sai_deserialize_port_lane_latch_status">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,142,48"/>
+<area shape="rect" id="Node000002" href="$_sai_serialize_8cpp.html#a27e5c5c0fc7d1cbdacf4682e46900add" title=" " alt="" coords="190,5,332,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="142,24,174,24,174,29,142,29"/>
+<area shape="rect" id="Node000003" href="$_sai_serialize_8cpp.html#a92f38d2aeaaeed8049105371f6093d6a" title=" " alt="" coords="380,13,518,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="332,24,364,24,364,29,332,29"/>
+</map>

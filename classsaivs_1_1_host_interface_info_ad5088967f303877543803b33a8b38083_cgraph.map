@@ -1,0 +1,20 @@
+<map id="saivs::HostInterfaceInfo::HostInterfaceInfo" name="saivs::HostInterfaceInfo::HostInterfaceInfo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,89,167,132"/>
+<area shape="rect" id="Node000002" href="$classsaivs_1_1_host_interface_info.html#a0ce9e0492d0ba6fd5dcccab227ad3964" title=" " alt="" coords="215,30,376,73"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,86,201,75,203,80,165,91"/>
+<area shape="rect" id="Node000005" href="$classsaivs_1_1_host_interface_info.html#a98dcde84613cd57b49e2d64dd947580c" title=" " alt="" coords="215,122,376,165"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="168,121,200,126,199,131,167,126"/>
+<area shape="rect" id="Node000003" href="$classsaivs_1_1_traffic_filter_pipes.html#ac777a6b01ec8b5465fc1fa527776f1dc" title=" " alt="" coords="426,30,585,73"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="376,49,411,49,411,54,376,54"/>
+<area shape="rect" id="Node000004" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="635,97,787,124"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="357,27,408,14,466,5,528,4,588,16,618,29,645,47,689,84,685,88,642,51,615,34,587,21,527,10,467,10,409,19,358,32"/>
+<area shape="poly" id="edge7_Node000005_Node000003" title=" " alt="" coords="345,119,440,77,442,82,347,124"/>
+<area shape="poly" id="edge10_Node000005_Node000004" title=" " alt="" coords="376,135,620,115,620,120,377,140"/>
+<area shape="rect" id="Node000006" href="$classsaivs_1_1_traffic_forwarder.html#a068673413da62273454f42284324c6a5" title=" " alt="" coords="428,148,583,190"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="377,151,413,155,412,161,376,156"/>
+<area shape="rect" id="Node000007" href="$classsaivs_1_1_host_interface_info.html#a691c214e0ea3a18ac97598621e5f78f8" title=" " alt="" coords="424,214,587,273"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="343,163,430,205,428,210,341,168"/>
+<area shape="rect" id="Node000008" href="$classsaivs_1_1_traffic_forwarder.html#adf52e47fd93050b35bcad21baffa3c50" title=" " alt="" coords="428,297,583,340"/>
+<area shape="poly" id="edge8_Node000005_Node000008" title=" " alt="" coords="314,164,360,222,391,254,426,283,432,287,429,291,422,287,387,258,356,226,309,167"/>
+<area shape="poly" id="edge9_Node000008_Node000004" title=" " alt="" coords="568,294,586,283,621,248,652,209,694,137,699,139,656,212,625,252,589,287,571,299"/>
+</map>

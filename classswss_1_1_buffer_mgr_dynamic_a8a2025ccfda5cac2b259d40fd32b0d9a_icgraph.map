@@ -1,0 +1,28 @@
+<map id="swss::BufferMgrDynamic::loadZeroPoolAndProfiles" name="swss::BufferMgrDynamic::loadZeroPoolAndProfiles">
+<area shape="rect" id="Node000001" title=" " alt="" coords="945,172,1117,215"/>
+<area shape="rect" id="Node000002" href="$classswss_1_1_buffer_mgr_dynamic.html#ab7361f8606529f6301d514a4c58ca8b1" title=" " alt="" coords="698,31,891,73"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="981,166,895,113,832,76,835,71,898,108,984,161"/>
+<area shape="rect" id="Node000004" href="$classswss_1_1_buffer_mgr_dynamic.html#a3135a26f3fb989ab9893bfd6a71cf9d8" title=" " alt="" coords="697,123,892,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="929,178,892,172,893,167,930,173"/>
+<area shape="rect" id="Node000009" href="$classswss_1_1_buffer_mgr_dynamic.html#a56699d14fa894cc4b52c136c4f8e3169" title=" " alt="" coords="695,205,894,264"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="930,214,895,220,894,215,929,208"/>
+<area shape="rect" id="Node000012" href="$classswss_1_1_buffer_mgr_dynamic.html#a6a451ab1cd5d777ff207683cc725be8d" title=" " alt="" coords="692,288,897,331"/>
+<area shape="poly" id="edge14_Node000001_Node000012" title=" " alt="" coords="988,226,945,253,898,278,870,290,868,285,896,274,943,248,985,221"/>
+<area shape="rect" id="Node000003" href="$classswss_1_1_buffer_mgr_dynamic.html#a0555c42577de42e1427c42537be46f88" title=" " alt="" coords="457,5,625,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="682,43,625,38,626,32,682,38"/>
+<area shape="rect" id="Node000005" href="$classswss_1_1_buffer_mgr_dynamic.html#aeb39018141d1d0f0679cc55e46edb54f" title=" " alt="" coords="449,72,633,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="681,129,633,117,634,112,682,123"/>
+<area shape="rect" id="Node000008" href="$classswss_1_1_buffer_mgr_dynamic.html#ae214f38da9df2d679d07539eb7fb4fd0" title=" " alt="" coords="438,139,644,181"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="681,158,645,159,645,154,681,153"/>
+<area shape="rect" id="Node000006" href="$classswss_1_1_buffer_mgr_dynamic.html#abeb2610ca36f120d251ca1627c1b6f5b" title=" " alt="" coords="222,176,390,219"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="454,123,439,129,345,178,342,173,437,124,452,118"/>
+<area shape="rect" id="Node000007" href="$classswss_1_1_buffer_mgr_dynamic.html#a1c70a6b4bf77a1dbf4500bcda6b04954" title=" " alt="" coords="5,176,174,219"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="206,200,174,200,174,195,206,195"/>
+<area shape="poly" id="edge8_Node000008_Node000006" title=" " alt="" coords="423,181,391,187,390,181,422,176"/>
+<area shape="rect" id="Node000010" href="$classswss_1_1_buffer_mgr_dynamic.html#a9c07ac1120ab823b7416c9abafa25055" title=" " alt="" coords="440,205,642,264"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="680,237,643,237,643,232,680,232"/>
+<area shape="rect" id="Node000011" href="$classswss_1_1_buffer_mgr_dynamic.html#a99b6671dfdb2db38323a37f3a579ad04" title=" " alt="" coords="439,288,643,347"/>
+<area shape="poly" id="edge12_Node000009_Node000011" title=" " alt="" coords="689,272,634,290,633,285,687,267"/>
+<area shape="poly" id="edge11_Node000010_Node000006" title=" " alt="" coords="424,219,390,213,391,208,425,214"/>
+<area shape="poly" id="edge13_Node000011_Node000006" title=" " alt="" coords="448,284,437,278,339,221,342,217,439,274,450,279"/>
+</map>

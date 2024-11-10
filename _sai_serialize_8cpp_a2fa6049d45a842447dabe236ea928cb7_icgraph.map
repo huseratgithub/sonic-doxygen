@@ -1,0 +1,13 @@
+<map id="sai_serialize_switch_oper_status" name="sai_serialize_switch_oper_status">
+<area shape="rect" id="Node000001" title=" " alt="" coords="762,39,901,81"/>
+<area shape="rect" id="Node000002" href="$classsyncd_1_1_notification_handler.html#ab8a04bf2e3bbc8cb7cb143aba2f751b7" title=" " alt="" coords="514,5,689,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="747,50,689,42,690,37,747,45"/>
+<area shape="rect" id="Node000004" href="$classsyncd_1_1_notification_processor.html#aa1e56b8f848767dcd9db74a67f2efe9d" title=" " alt="" coords="488,72,714,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="747,75,715,80,714,74,746,70"/>
+<area shape="rect" id="Node000003" href="$classsyncd_1_1_syncd.html#a3b868b53131c97e96aaedc6f0cccda6c" title=" " alt="" coords="268,13,414,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="498,29,415,29,415,24,498,24"/>
+<area shape="rect" id="Node000005" href="$classsyncd_1_1_notification_processor.html#af33e798beeca5d55de39d8563a53b990" title=" " alt="" coords="243,72,440,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="472,96,440,96,440,91,472,91"/>
+<area shape="rect" id="Node000006" href="$classsyncd_1_1_notification_processor.html#a98d729e95c17d94bad6c7fbd45944880" title=" " alt="" coords="5,72,195,115"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="227,96,195,96,195,91,227,91"/>
+</map>

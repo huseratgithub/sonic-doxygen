@@ -1,0 +1,52 @@
+<map id="RouteOrch::removeOverlayNextHops" name="RouteOrch::removeOverlayNextHops">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,341,186,384"/>
+<area shape="rect" id="Node000002" href="$class_route_orch.html#a7c0ca1e3f45b228ba00ddc5fc7bd9bf3" title=" " alt="" coords="246,181,446,208"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,339,164,286,197,258,232,232,277,211,279,216,235,237,200,262,167,290,117,343"/>
+<area shape="rect" id="Node000010" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="795,341,947,368"/>
+<area shape="poly" id="edge27_Node000001_Node000010" title=" " alt="" coords="121,339,170,304,201,288,233,276,305,258,368,249,424,246,477,250,530,259,586,272,721,308,745,317,769,327,795,334,793,339,767,332,744,322,720,313,584,278,528,264,476,255,424,252,368,254,306,264,234,281,203,293,173,309,124,343"/>
+<area shape="rect" id="Node000011" href="$class_neigh_orch.html#af10793f5a5c2581bbededf0599546ea7" title=" " alt="" coords="255,408,438,451"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="179,382,250,401,248,406,178,387"/>
+<area shape="rect" id="Node000016" href="$class_next_hop_group_key.html#afae4e55b9e5a9bfe852820a73cd5692a" title=" " alt="" coords="238,475,454,501"/>
+<area shape="poly" id="edge16_Node000001_Node000016" title=" " alt="" coords="122,382,172,422,202,443,235,460,252,467,250,472,233,465,200,447,169,427,118,386"/>
+<area shape="rect" id="Node000017" href="$class_neigh_orch.html#a42ef2e7c3fb90d12f2be512794dce804" title=" " alt="" coords="257,341,436,384"/>
+<area shape="poly" id="edge17_Node000001_Node000017" title=" " alt="" coords="186,360,241,360,241,365,186,365"/>
+<area shape="rect" id="Node000018" href="$class_neigh_orch.html#adaca1e5f320faae3ddc38f81a1c5fcac" title=" " alt="" coords="234,291,459,317"/>
+<area shape="poly" id="edge20_Node000001_Node000018" title=" " alt="" coords="186,338,233,327,268,319,269,324,234,332,187,343"/>
+<area shape="rect" id="Node000022" href="$class_next_hop_group_key.html#a75926d6293560dddcb5e314acfe4a036" title=" " alt="" coords="271,525,422,568"/>
+<area shape="poly" id="edge28_Node000001_Node000022" title=" " alt="" coords="113,383,162,447,196,481,235,511,258,523,256,528,232,516,193,485,158,450,109,386"/>
+<area shape="rect" id="Node000003" href="$class_vxlan_tunnel_orch.html#a45a2d05247677a997bc719a5b2aa663a" title=" " alt="" coords="507,181,720,208"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="447,192,492,192,492,197,447,197"/>
+<area shape="rect" id="Node000004" href="$class_evpn_nvo_orch.html#aaaf605ac8010c12f7c4dc18b380db71a" title=" " alt="" coords="774,5,968,32"/>
+<area shape="poly" id="edge10_Node000002_Node000004" title=" " alt="" coords="362,179,422,132,463,107,506,86,569,63,635,46,759,26,759,31,636,52,571,68,508,90,465,112,425,137,365,183"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="642,179,680,155,718,124,733,102,740,82,748,62,767,42,773,37,776,42,770,46,753,64,745,84,738,105,722,127,683,160,644,183"/>
+<area shape="rect" id="Node000005" href="$class_ports_orch.html#a72b35c3c39b77df72661ecbee7fb1e2d" title=" " alt="" coords="806,56,936,83"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="634,179,767,92,790,84,792,89,770,97,637,183"/>
+<area shape="rect" id="Node000006" href="$class_vxlan_tunnel_orch.html#a7f668d98bf3a5b3f8ed50992ee50e14c" title=" " alt="" coords="778,107,964,149"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="668,178,770,151,772,156,669,183"/>
+<area shape="rect" id="Node000007" href="$class_vxlan_tunnel_orch.html#a89702166e21b81ad4b35f991ab98dcbb" title=" " alt="" coords="768,173,974,216"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="721,192,753,192,753,197,721,197"/>
+<area shape="rect" id="Node000008" href="$class_ports_orch.html#a11dda509861a7aecd8c7b404bba2799d" title=" " alt="" coords="775,240,967,267"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="676,206,795,233,794,239,675,211"/>
+<area shape="rect" id="Node000009" href="$class_ports_orch.html#a1caf4d943c4840f165bf7c5228b9bed0" title=" " alt="" coords="786,291,956,317"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="664,206,722,232,737,244,746,255,755,266,770,276,782,282,780,287,767,281,752,270,742,259,733,248,719,237,662,211"/>
+<area shape="poly" id="edge9_Node000003_Node000010" title=" " alt="" coords="676,206,700,217,722,233,740,258,746,282,753,305,770,327,782,335,779,340,767,331,748,308,741,283,735,260,718,237,697,222,673,211"/>
+<area shape="rect" id="Node000012" href="$class_neigh_orch.html#ab8e695cf60917ecdbb5b2bdb85dbc7c7" title=" " alt="" coords="532,459,696,485"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="438,441,517,454,516,459,438,447"/>
+<area shape="rect" id="Node000013" href="$class_mux_orch.html#a62a77f44d3c188eef9f0ac9b799d3083" title=" " alt="" coords="789,525,953,552"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="666,483,769,511,799,518,798,524,768,516,665,488"/>
+<area shape="rect" id="Node000014" href="$class_mux_orch.html#a02b8ee179230b6f1a079e6db1190caa3" title=" " alt="" coords="1022,500,1181,527"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="953,527,1006,521,1006,526,954,532"/>
+<area shape="rect" id="Node000015" href="$class_mux_orch.html#ac8273fda40f218d9ccca6a6f20de330c" title=" " alt="" coords="1024,551,1178,577"/>
+<area shape="poly" id="edge15_Node000013_Node000015" title=" " alt="" coords="954,545,1009,551,1008,556,953,550"/>
+<area shape="poly" id="edge19_Node000017_Node000010" title=" " alt="" coords="436,359,780,353,780,359,436,364"/>
+<area shape="poly" id="edge18_Node000017_Node000012" title=" " alt="" coords="438,382,460,394,476,407,485,420,494,433,508,444,520,450,517,455,506,449,490,436,481,423,472,410,458,398,435,387"/>
+<area shape="poly" id="edge21_Node000018_Node000004" title=" " alt="" coords="367,288,409,257,457,218,480,192,490,180,505,167,536,149,563,138,612,125,662,113,689,102,719,86,733,75,742,64,752,53,767,42,780,36,782,40,770,46,755,56,746,67,736,79,722,90,691,107,663,118,614,130,565,143,538,154,509,172,494,184,484,195,461,222,413,261,370,292"/>
+<area shape="poly" id="edge26_Node000018_Node000010" title=" " alt="" coords="460,312,721,337,780,343,780,348,720,343,459,317"/>
+<area shape="rect" id="Node000019" href="$class_vxlan_tunnel_orch.html#affa47ac9506b02b76e94a44836c59f22" title=" " alt="" coords="514,392,714,435"/>
+<area shape="poly" id="edge22_Node000018_Node000019" title=" " alt="" coords="423,315,460,327,517,353,567,381,565,386,514,357,458,332,421,320"/>
+<area shape="poly" id="edge25_Node000019_Node000010" title=" " alt="" coords="710,389,794,369,795,375,711,394"/>
+<area shape="rect" id="Node000020" href="$class_vxlan_tunnel_orch.html#a818d47805fa2cbd5d63ade94397da1d7" title=" " alt="" coords="781,392,961,435"/>
+<area shape="poly" id="edge23_Node000019_Node000020" title=" " alt="" coords="714,411,765,411,765,416,714,416"/>
+<area shape="rect" id="Node000021" href="$class_vxlan_tunnel_orch.html#a36844c56319f17f64a55ff48e0e47570" title=" " alt="" coords="782,459,960,501"/>
+<area shape="poly" id="edge24_Node000019_Node000021" title=" " alt="" coords="699,433,772,452,771,457,698,438"/>
+</map>

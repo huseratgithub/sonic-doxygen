@@ -1,0 +1,9 @@
+<map id="sai_deserialize_switch_shutdown_request" name="sai_deserialize_switch_shutdown_request">
+<area shape="rect" id="Node000001" title=" " alt="" coords="533,55,685,97"/>
+<area shape="rect" id="Node000002" href="$classsyncd_1_1_notification_processor.html#abb3bbc32c0ad97bcc850717a4effacc5" title=" " alt="" coords="269,5,458,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="517,63,459,53,459,48,518,58"/>
+<area shape="rect" id="Node000004" href="$classsairedis_1_1_notification_switch_shutdown_request.html#a0aee7233d0f7e1d22e75676f447faf56" title=" " alt="" coords="243,88,485,147"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="518,94,486,99,485,94,517,89"/>
+<area shape="rect" id="Node000003" href="$classsyncd_1_1_notification_processor.html#a98d729e95c17d94bad6c7fbd45944880" title=" " alt="" coords="5,13,195,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="253,37,195,37,195,32,253,32"/>
+</map>

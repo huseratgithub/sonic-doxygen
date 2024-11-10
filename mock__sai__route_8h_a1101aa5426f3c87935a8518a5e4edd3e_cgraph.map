@@ -1,0 +1,5 @@
+<map id="create_route_entries" name="create_route_entries">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,13,145,40"/>
+<area shape="rect" id="Node000002" href="$class_sai_route_interface.html#ab484b7e31b0596a45148695896a6cff0" title=" " alt="" coords="193,5,332,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,24,177,24,177,29,145,29"/>
+</map>

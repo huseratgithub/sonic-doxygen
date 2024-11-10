@@ -1,0 +1,18 @@
+<map id="swss::CoppMgr::addTrap" name="swss::CoppMgr::addTrap">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,113,174,140"/>
+<area shape="rect" id="Node000002" href="$classswss_1_1_copp_mgr.html#ad23b9bd1defc69a9a07845c71776fb31" title=" " alt="" coords="231,5,418,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,110,163,85,221,58,236,51,238,56,223,62,165,89,117,115"/>
+<area shape="rect" id="Node000004" href="$classswss_1_1_copp_mgr.html#a17fc96a011c23eedfca615f6d449b14d" title=" " alt="" coords="233,72,416,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="174,112,217,106,218,111,174,117"/>
+<area shape="rect" id="Node000007" href="$classswss_1_1_copp_mgr.html#adbc821197628a259ff2c2d5b9b1db448" title=" " alt="" coords="224,139,424,181"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="174,136,209,141,209,146,174,141"/>
+<area shape="rect" id="Node000008" href="$classswss_1_1_copp_mgr.html#a982bec3ce6a198e0ab6eab4bb0b974f7" title=" " alt="" coords="222,205,427,248"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="117,138,165,164,223,191,238,197,236,202,221,196,163,169,114,143"/>
+<area shape="rect" id="Node000003" href="$lib_2tests_8cpp.html#ad3af9936f704b25188a9ef24330f8a19" title=" " alt="" coords="550,13,620,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="418,24,534,24,534,29,418,29"/>
+<area shape="rect" id="Node000005" href="$classswss_1_1_copp_mgr.html#a441458d17f94998900e2028a4f1f0954" title=" " alt="" coords="475,113,694,140"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="416,102,461,108,460,113,416,108"/>
+<area shape="rect" id="Node000006" href="$classswss_1_1_copp_mgr.html#a75aa10f53ac01d527986f9bbb0ffe54a" title=" " alt="" coords="742,105,918,148"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="695,124,727,124,727,129,695,129"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="425,145,460,140,461,145,425,150"/>
+</map>

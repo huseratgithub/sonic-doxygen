@@ -1,0 +1,7 @@
+<map id="PbhRuleCapabilities::validatePbhIpProtocol" name="PbhRuleCapabilities::validatePbhIpProtocol">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,162,81"/>
+<area shape="rect" id="Node000002" href="$class_pbh_rule_capabilities.html#a50149dd5909d0b360b3d318886a1e5a6" title=" " alt="" coords="213,5,352,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,44,198,38,198,43,162,50"/>
+<area shape="rect" id="Node000003" href="$class_pbh_entity_capabilities.html#ae7fec2dd6ec1f160ab7a56fc08ad1eec" title=" " alt="" coords="210,72,356,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="162,70,195,76,194,81,162,76"/>
+</map>

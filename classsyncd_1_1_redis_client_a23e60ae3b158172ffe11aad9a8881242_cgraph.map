@@ -1,0 +1,6 @@
+<map id="syncd::RedisClient::getTempAsicView" name="syncd::RedisClient::getTempAsicView">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,140,72"/>
+<area shape="rect" id="Node000002" href="$classsyncd_1_1_redis_client.html#a2cc6015f6bcca5deab2efafe020bdad1" title=" " alt="" coords="188,29,320,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,48,172,48,172,53,140,53"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="219,29,217,19,223,10,236,5,254,3,274,5,285,11,283,16,272,10,254,8,237,10,227,14,223,21,224,28"/>
+</map>

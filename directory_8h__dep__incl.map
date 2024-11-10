@@ -1,0 +1,51 @@
+<map id="E:/GitHub/SONiC/202211/sonic&#45;buildimage/src/sonic&#45;swss/orchagent/directory.h" name="E:/GitHub/SONiC/202211/sonic&#45;buildimage/src/sonic&#45;swss/orchagent/directory.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="2753,5,2970,64"/>
+<area shape="rect" id="Node000002" href="$bfdorch_8cpp.html" title=" " alt="" coords="5,120,230,179"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="2738,38,2227,39,1505,47,1129,57,776,70,472,89,347,101,243,115,207,122,206,117,242,109,346,96,472,84,776,65,1129,51,1505,42,2227,34,2738,33"/>
+<area shape="rect" id="Node000003" href="$bufferorch_8cpp.html" title=" " alt="" coords="254,120,493,179"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="2738,39,2272,42,1627,52,1292,62,978,75,708,92,505,115,468,122,467,117,504,109,708,87,978,70,1292,56,1627,47,2272,36,2737,33"/>
+<area shape="rect" id="Node000004" href="$copporch_8cpp.html" title=" " alt="" coords="516,120,751,179"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="2738,39,2319,44,1748,56,1454,65,1179,78,942,94,763,115,727,122,726,117,762,109,942,89,1178,73,1454,60,1748,50,2319,39,2738,34"/>
+<area shape="rect" id="Node000005" href="$dtelorch_8cpp.html" title=" " alt="" coords="774,120,1002,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="2738,40,2365,46,1867,59,1373,81,1169,96,1014,115,979,122,978,117,1013,109,1168,91,1373,75,1866,53,2364,40,2738,35"/>
+<area shape="rect" id="Node000006" href="$fdborch_8cpp.html" title=" " alt="" coords="1025,120,1250,179"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="2738,41,2411,48,1985,62,1566,84,1393,98,1262,115,1227,122,1226,117,1261,109,1393,93,1566,79,1984,57,2410,43,2738,35"/>
+<area shape="rect" id="Node000007" href="$flowcounterrouteorch_8cpp.html" title=" " alt="" coords="1274,112,1495,187"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="2738,42,2457,51,2103,66,1758,87,1616,100,1507,115,1496,117,1495,112,1506,109,1615,95,1757,82,2102,61,2457,46,2738,37"/>
+<area shape="rect" id="Node000008" href="$flexcounterorch_8cpp.html" title=" " alt="" coords="1518,120,1789,179"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="2738,41,2555,47,2321,60,2061,81,1801,115,1762,122,1761,117,1800,109,2060,76,2320,54,2554,42,2738,35"/>
+<area shape="rect" id="Node000009" href="$intfsorch_8cpp.html" title=" " alt="" coords="1812,120,2044,179"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="2738,43,2598,52,2428,65,2242,86,2057,115,2023,122,2022,117,2056,109,2241,81,2427,60,2598,46,2738,38"/>
+<area shape="rect" id="Node000010" href="$mplsrouteorch_8cpp.html" title=" " alt="" coords="2068,120,2332,179"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="2738,53,2552,79,2345,115,2311,122,2309,117,2344,109,2551,74,2737,48"/>
+<area shape="rect" id="Node000011" href="$muxorch_8cpp.html" title=" " alt="" coords="2356,120,2588,179"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="2748,71,2572,122,2571,117,2747,66"/>
+<area shape="rect" id="Node000012" href="$neighorch_8cpp.html" title=" " alt="" coords="2612,120,2850,179"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="2818,76,2766,122,2762,117,2815,72"/>
+<area shape="rect" id="Node000013" href="$nvgreorch_8cpp.html" title=" " alt="" coords="2873,120,3111,179"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="2908,72,2961,117,2957,122,2905,76"/>
+<area shape="rect" id="Node000014" href="$orchdaemon_8h.html" title=" " alt="" coords="3136,120,3374,179"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="2977,66,3155,117,3154,122,2976,71"/>
+<area shape="rect" id="Node000017" href="$ext__tables__manager_8cpp.html" title=" " alt="" coords="3398,112,3594,187"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="2985,45,3175,70,3281,88,3386,109,3399,113,3397,118,3385,115,3280,93,3174,75,2984,51"/>
+<area shape="rect" id="Node000018" href="$router__interface__manager_8cpp.html" title=" " alt="" coords="3618,112,3815,187"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="2985,38,3114,46,3270,59,3439,80,3606,109,3617,112,3616,117,3605,115,3438,85,3270,65,3114,51,2985,43"/>
+<area shape="rect" id="Node000019" href="$tables__definition__manager_8cpp.html" title=" " alt="" coords="3840,112,4041,187"/>
+<area shape="poly" id="edge18_Node000001_Node000019" title=" " alt="" coords="2985,34,3153,39,3364,51,3596,73,3713,90,3827,109,3840,112,3839,117,3826,115,3712,95,3595,79,3363,56,3153,44,2985,39"/>
+<area shape="rect" id="Node000020" href="$test__main_8cpp.html" title=" " alt="" coords="4065,112,4260,187"/>
+<area shape="poly" id="edge19_Node000001_Node000020" title=" " alt="" coords="2986,37,3235,47,3542,62,3839,83,3961,95,4054,109,4065,112,4064,117,4053,115,3960,101,3838,88,3542,67,3235,52,2985,43"/>
+<area shape="rect" id="Node000021" href="$portsorch_8cpp.html" title=" " alt="" coords="4285,120,4520,179"/>
+<area shape="poly" id="edge20_Node000001_Node000021" title=" " alt="" coords="2985,37,3277,46,3648,61,4009,82,4159,95,4273,109,4309,117,4308,122,4272,115,4158,100,4009,88,3648,66,3277,51,2985,42"/>
+<area shape="rect" id="Node000022" href="$routeorch_8cpp.html" title=" " alt="" coords="4545,120,4780,179"/>
+<area shape="poly" id="edge21_Node000001_Node000022" title=" " alt="" coords="2985,35,3326,43,3772,57,4212,79,4394,93,4533,109,4569,117,4568,122,4532,115,4394,98,4212,84,3772,62,3326,48,2985,41"/>
+<area shape="rect" id="Node000023" href="$vnetorch_8cpp.html" title=" " alt="" coords="4804,120,5036,179"/>
+<area shape="poly" id="edge22_Node000001_Node000023" title=" " alt="" coords="2985,34,3373,40,3895,53,4414,75,4629,90,4793,109,4829,117,4828,122,4792,115,4629,96,4414,80,3895,58,3373,45,2985,40"/>
+<area shape="rect" id="Node000024" href="$vrforch_8cpp.html" title=" " alt="" coords="5060,120,5282,179"/>
+<area shape="poly" id="edge23_Node000001_Node000024" title=" " alt="" coords="2985,34,3420,37,4016,48,4325,57,4613,70,4861,88,5049,109,5084,117,5082,122,5048,115,4860,93,4613,76,4324,63,4016,53,3420,42,2985,39"/>
+<area shape="rect" id="Node000025" href="$vxlanorch_8cpp.html" title=" " alt="" coords="5306,120,5543,179"/>
+<area shape="poly" id="edge24_Node000001_Node000025" title=" " alt="" coords="2985,33,3463,36,4131,46,4478,55,4803,69,5082,86,5294,109,5331,117,5330,122,5293,115,5082,92,4802,74,4478,61,4131,51,3463,41,2985,39"/>
+<area shape="rect" id="Node000015" href="$sonic-swss_2orchagent_2main_8cpp.html" title=" " alt="" coords="3022,235,3232,293"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="3213,191,3161,236,3158,232,3209,187"/>
+<area shape="rect" id="Node000016" href="$orchdaemon_8cpp.html" title=" " alt="" coords="3255,235,3508,293"/>
+<area shape="poly" id="edge15_Node000014_Node000016" title=" " alt="" coords="3300,187,3351,232,3347,236,3296,191"/>
+</map>

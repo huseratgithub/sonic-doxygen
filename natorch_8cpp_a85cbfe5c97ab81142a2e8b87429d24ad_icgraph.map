@@ -1,0 +1,10 @@
+<map id="getTimeDiff" name="getTimeDiff">
+<area shape="rect" id="Node000001" title=" " alt="" coords="385,31,473,57"/>
+<area shape="rect" id="Node000002" href="$class_nat_orch.html#a6b6b7f51f7d4b6d4dec53c6c56159d59" title=" " alt="" coords="174,5,337,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="369,38,337,33,338,28,370,33"/>
+<area shape="rect" id="Node000004" href="$class_nat_orch.html#a3da12dbb30c2a7c7f2cc7af88c5c1a50" title=" " alt="" coords="180,56,330,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="370,55,332,61,331,56,369,50"/>
+<area shape="rect" id="Node000003" href="$class_nat_orch.html#a6180d6aedff70b25e126bdac8e702e97" title=" " alt="" coords="5,31,126,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="159,34,127,39,126,33,158,29"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="165,60,126,55,126,49,165,55"/>
+</map>

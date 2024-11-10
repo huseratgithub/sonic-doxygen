@@ -1,0 +1,20 @@
+<map id="swss::MclagLink::processMclagDomainCfg" name="swss::MclagLink::processMclagDomainCfg">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,172,179,215"/>
+<area shape="rect" id="Node000002" href="$classswss_1_1_mclag_link.html#ad1dd41aa22cfde3388eafc9066703c7e" title=" " alt="" coords="227,5,420,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,170,157,114,189,84,225,58,234,53,236,57,228,62,193,88,161,118,112,173"/>
+<area shape="rect" id="Node000004" href="$classswss_1_1_mclag_link.html#a51ca516f734c8dcbb523ff8373d9505c" title=" " alt="" coords="229,72,418,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="132,169,226,124,241,118,243,123,228,129,135,174"/>
+<area shape="rect" id="Node000006" href="$classswss_1_1_mclag_link.html#a196e415c5c53a17b7d7dfbbef27b37e7" title=" " alt="" coords="235,139,412,181"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="179,178,219,172,220,178,180,183"/>
+<area shape="rect" id="Node000007" href="$classswss_1_1_mclag_link.html#abaeda74a02aa7ffb1e5f8e9cec2b0f8b" title=" " alt="" coords="236,205,411,248"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="180,203,221,209,220,215,179,208"/>
+<area shape="rect" id="Node000008" href="$saisdkdump_8cpp.html#a188343c1bf99d0f48c0f284b343b2ad8" title=" " alt="" coords="304,272,343,299"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="133,213,178,236,228,257,290,276,288,281,226,263,175,241,130,217"/>
+<area shape="rect" id="Node000009" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="248,323,399,349"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="114,213,163,262,194,287,228,308,241,314,238,319,225,313,191,291,159,266,110,217"/>
+<area shape="rect" id="Node000003" href="$classswss_1_1_mclag_link.html#ac77696f42a68a1f41adb7bf27700d0ac" title=" " alt="" coords="468,5,648,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="420,24,453,24,453,29,420,29"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="400,69,465,50,466,55,401,74"/>
+<area shape="rect" id="Node000005" href="$classswss_1_1_mclag_link.html#a9e111d497f9fabdcaa104480b1bf3f90" title=" " alt="" coords="468,72,648,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="418,91,452,91,452,96,418,96"/>
+</map>

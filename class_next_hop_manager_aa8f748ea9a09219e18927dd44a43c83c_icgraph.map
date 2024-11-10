@@ -1,0 +1,11 @@
+<map id="NextHopManager::removeNextHop" name="NextHopManager::removeNextHop">
+<area shape="rect" id="Node000001" title=" " alt="" coords="677,43,904,69"/>
+<area shape="rect" id="Node000002" href="$class_next_hop_manager.html#a5da17b55bc9b0c65e494e88d3b8ae01e" title=" " alt="" coords="414,35,629,77"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="662,59,630,59,630,53,662,53"/>
+<area shape="rect" id="Node000003" href="$class_next_hop_manager.html#ae6e5d3e977786d12070b45e7a826ece5" title=" " alt="" coords="204,13,364,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="398,43,364,39,364,34,399,38"/>
+<area shape="rect" id="Node000005" href="$class_next_hop_manager_test.html#a1c69b8e4c6f18292f5fba54abd0355c6" title=" " alt="" coords="202,64,366,107"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="399,74,367,78,366,73,398,69"/>
+<area shape="rect" id="Node000004" href="$class_next_hop_manager_test.html#ad04e87a0109fcff359af16d90df90d25" title=" " alt="" coords="5,5,154,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="189,29,154,29,154,24,189,24"/>
+</map>

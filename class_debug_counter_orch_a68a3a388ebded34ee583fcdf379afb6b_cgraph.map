@@ -1,0 +1,30 @@
+<map id="DebugCounterOrch::publishDropCounterCapabilities" name="DebugCounterOrch::publishDropCounterCapabilities">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,160,188,203"/>
+<area shape="rect" id="Node000002" href="$class_debug_counter.html#a39a7cdb6dba81d87b4e3bb9dfe867205" title=" " alt="" coords="494,5,709,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,158,165,109,198,84,235,64,295,44,358,31,420,23,478,20,479,25,421,28,359,36,296,49,237,69,201,89,168,113,118,162"/>
+<area shape="rect" id="Node000003" href="$class_drop_counter.html#a50e96e2150ac388b855289171108dfd3" title=" " alt="" coords="251,79,431,121"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="162,157,259,124,261,129,163,162"/>
+<area shape="rect" id="Node000006" href="$class_drop_counter.html#a94a42aadd818a6fc6baa7ce7e07b25f0" title=" " alt="" coords="251,227,431,269"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="178,201,246,219,245,225,177,206"/>
+<area shape="rect" id="Node000008" href="$class_drop_counter.html#a04245374c007b6af20b56e63decfeca8" title=" " alt="" coords="251,160,431,203"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="188,179,235,179,235,184,188,184"/>
+<area shape="rect" id="Node000013" href="$class_drop_counter.html#aba21e020b53a1adb8b9346113a509e9e" title=" " alt="" coords="236,293,446,336"/>
+<area shape="poly" id="edge15_Node000001_Node000013" title=" " alt="" coords="124,201,175,240,237,279,249,285,247,289,234,284,172,245,121,205"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="419,76,508,50,509,55,420,81"/>
+<area shape="rect" id="Node000004" href="$sai__redis__interfacequery_8cpp.html#acb019c19d51c6bcec4022af1e7b1d797" title=" " alt="" coords="518,123,685,165"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="432,113,503,125,502,130,431,118"/>
+<area shape="rect" id="Node000005" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="526,72,677,99"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="431,92,510,88,511,93,432,98"/>
+<area shape="rect" id="Node000007" href="$sai__redis__interfacequery_8cpp.html#ae3a513fda3d862c129d1c59243ef11ea" title=" " alt="" coords="533,323,670,365"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="419,267,447,279,471,294,495,308,519,318,517,323,493,313,469,298,445,284,417,272"/>
+<area shape="poly" id="edge9_Node000008_Node000004" title=" " alt="" coords="431,166,502,156,503,161,432,171"/>
+<area shape="rect" id="Node000009" href="$_sai_serialize_8cpp.html#abf5610d6b2d99a85dd58588f4c4f09da" title=" " alt="" coords="532,189,671,232"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="432,189,517,198,516,204,431,194"/>
+<area shape="rect" id="Node000012" href="$_sai_serialize_8cpp.html#aea847298546b5231d1394f03b6df9312" title=" " alt="" coords="530,256,673,299"/>
+<area shape="poly" id="edge13_Node000008_Node000012" title=" " alt="" coords="419,201,447,212,471,227,495,242,517,250,515,255,493,246,469,232,445,217,417,206"/>
+<area shape="rect" id="Node000010" href="$_sai_serialize_8cpp.html#a65eb8ea2354cbfadd0a6075124116a68" title=" " alt="" coords="757,231,890,257"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="672,218,743,229,742,234,671,224"/>
+<area shape="rect" id="Node000011" href="$_sai_serialize_8cpp.html#a97543edb8d3f82c33b2ba86825bf5cc9" title=" " alt="" coords="938,231,1081,257"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="890,241,922,241,922,247,890,247"/>
+<area shape="poly" id="edge14_Node000012_Node000010" title=" " alt="" coords="673,264,742,254,743,259,673,269"/>
+</map>

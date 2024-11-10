@@ -1,0 +1,15 @@
+<map id="Orch::doesObjectExist" name="Orch::doesObjectExist">
+<area shape="rect" id="Node000001" title=" " alt="" coords="910,56,1063,83"/>
+<area shape="rect" id="Node000002" href="$class_qos_orch.html#ab0d3e54700a52bc112f66995fd56b0d7" title=" " alt="" coords="656,5,862,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="908,55,822,35,823,30,909,49"/>
+<area shape="rect" id="Node000003" href="$class_qos_orch.html#a76edcef4920b797b190703ede186a985" title=" " alt="" coords="416,40,608,83"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="894,70,609,66,609,60,894,65"/>
+<area shape="rect" id="Node000006" href="$class_qos_orch.html#acf315fdd901c2394be2bbe5c0c95e408" title=" " alt="" coords="418,107,606,133"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="895,82,607,113,607,107,894,76"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="663,38,609,47,608,42,663,33"/>
+<area shape="rect" id="Node000004" href="$class_qos_orch.html#a5d1113b5de22db29c66c5ecb8095f54e" title=" " alt="" coords="187,77,368,104"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="401,78,369,82,368,77,400,73"/>
+<area shape="rect" id="Node000005" href="$class_qos_orch.html#a7a55af847a602895012d7e0c55aba28b" title=" " alt="" coords="5,77,139,104"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="172,93,139,93,139,88,172,88"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="402,109,368,105,369,99,403,104"/>
+</map>

@@ -1,0 +1,26 @@
+<map id="E:/GitHub/SONiC/202211/sonic&#45;buildimage/src/sonic&#45;sairedis/syncd/FlexCounterManager.h" name="E:/GitHub/SONiC/202211/sonic&#45;buildimage/src/sonic&#45;sairedis/syncd/FlexCounterManager.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="335,5,554,80"/>
+<area shape="rect" id="Node000002" href="$_flex_counter_8h.html" title=" " alt="" coords="393,128,496,155"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="447,80,447,112,442,112,442,80"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,277,55,304"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="393,146,307,151,206,160,114,178,79,190,54,205,45,217,38,231,32,262,27,262,33,230,40,214,51,201,76,185,112,173,205,155,306,145,392,141"/>
+<area shape="rect" id="Node000004" href="$_sai_interface_8h.html" title=" " alt="" coords="65,203,200,229"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="393,157,203,201,201,196,392,152"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="225,203,320,229"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="416,158,318,199,316,194,414,153"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="344,203,401,229"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="434,157,398,193,394,190,430,153"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="425,203,464,229"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="447,155,447,187,442,187,442,155"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="489,203,614,229"/>
+<area shape="poly" id="edge9_Node000002_Node000009" title=" " alt="" coords="465,153,522,191,519,196,462,157"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="638,203,748,229"/>
+<area shape="poly" id="edge10_Node000002_Node000010" title=" " alt="" coords="489,153,635,195,634,200,487,158"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="772,203,840,229"/>
+<area shape="poly" id="edge11_Node000002_Node000011" title=" " alt="" coords="497,149,757,200,756,205,496,154"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="865,203,947,229"/>
+<area shape="poly" id="edge12_Node000002_Node000012" title=" " alt="" coords="497,146,651,167,850,200,850,205,650,173,496,152"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="116,232,62,270,59,266,113,228"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="81,277,184,304"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="135,230,135,262,130,262,130,230"/>
+</map>

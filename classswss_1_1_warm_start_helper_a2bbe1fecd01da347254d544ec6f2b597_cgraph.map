@@ -1,0 +1,15 @@
+<map id="swss::WarmStartHelper::reconcile" name="swss::WarmStartHelper::reconcile">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,105,166,148"/>
+<area shape="rect" id="Node000002" href="$classswss_1_1_warm_start_helper.html#a27bc02cefad3eea189597478996f044f" title=" " alt="" coords="214,5,374,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,102,212,58,224,52,226,57,215,62,128,107"/>
+<area shape="rect" id="Node000005" href="$classswss_1_1_warm_start_helper.html#a0864d1245e2abe264be423b4cd342ba6" title=" " alt="" coords="214,72,374,115"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="165,111,198,106,198,111,166,117"/>
+<area shape="rect" id="Node000006" href="$classswss_1_1_warm_start_helper.html#a41425d2151b8e2f24532d54ea7f18f06" title=" " alt="" coords="214,139,374,181"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="166,137,198,142,198,147,165,142"/>
+<area shape="rect" id="Node000007" href="$classswss_1_1_warm_start_helper.html#ac7812827b203514211fe59fbfe59f6ab" title=" " alt="" coords="214,205,374,248"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="128,146,215,191,226,196,224,201,212,196,125,151"/>
+<area shape="rect" id="Node000003" href="$classswss_1_1_warm_start_helper.html#a68c027fd06549db43cf6e730f99ba17f" title=" " alt="" coords="422,5,582,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="374,24,406,24,406,29,374,29"/>
+<area shape="rect" id="Node000004" href="$lib_2tests_8cpp.html#ad3af9936f704b25188a9ef24330f8a19" title=" " alt="" coords="630,13,701,40"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="583,24,615,24,615,29,583,29"/>
+</map>

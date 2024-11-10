@@ -1,0 +1,17 @@
+<map id="E:/GitHub/SONiC/202211/sonic&#45;buildimage/src/sonic&#45;swss/gearsyncd/phyparser.h" name="E:/GitHub/SONiC/202211/sonic&#45;buildimage/src/sonic&#45;swss/gearsyncd/phyparser.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="251,5,479,64"/>
+<area shape="rect" id="Node000002" href="$gearparserbase_8h.html" title=" " alt="" coords="304,112,426,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="368,64,368,96,362,96,362,64"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,187,109,213"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="312,142,124,186,123,180,310,137"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="133,187,272,213"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="338,142,246,182,244,177,336,137"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="296,187,349,213"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="360,141,340,175,335,172,355,138"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="374,187,442,213"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="375,138,395,172,390,175,370,141"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="466,187,523,213"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="389,137,460,176,457,181,386,142"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="547,187,652,213"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="407,137,545,179,543,184,405,142"/>
+</map>

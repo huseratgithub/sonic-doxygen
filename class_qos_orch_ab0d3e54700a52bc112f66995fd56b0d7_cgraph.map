@@ -1,0 +1,28 @@
+<map id="QosOrch::handleGlobalQosMap" name="QosOrch::handleGlobalQosMap">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,107,211,133"/>
+<area shape="rect" id="Node000002" href="$class_qos_orch.html#aaf336c84c0b2bc99dbe871b2b6d2c062" title=" " alt="" coords="259,157,455,200"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,131,249,151,248,156,167,136"/>
+<area shape="rect" id="Node000006" href="$class_orch.html#a83ba2f3ea70ad32cb4f810f8201c61d5" title=" " alt="" coords="280,56,434,83"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="177,103,272,84,273,89,178,109"/>
+<area shape="rect" id="Node000007" href="$class_orch.html#a6f9acaabeca7c7dcee3b86f437889af7" title=" " alt="" coords="288,107,426,133"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="211,117,272,117,272,123,211,123"/>
+<area shape="rect" id="Node000010" href="$class_orch.html#a008f7c45c71e31482dc4ece6e9cce308" title=" " alt="" coords="267,224,447,251"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="129,132,186,170,260,210,278,216,276,221,258,214,183,175,126,136"/>
+<area shape="rect" id="Node000012" href="$class_orch.html#aab39b93a18225789df3f6d442b04181a" title=" " alt="" coords="270,5,444,32"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="131,104,188,73,258,42,279,34,280,39,260,46,190,78,134,109"/>
+<area shape="rect" id="Node000003" href="$class_switch_orch.html#a927d65c2ec8de3d126afcb0768050060" title=" " alt="" coords="528,119,755,145"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="455,160,540,146,541,151,456,165"/>
+<area shape="rect" id="Node000005" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="827,220,979,247"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="456,179,608,188,780,205,828,214,827,219,779,211,608,193,455,184"/>
+<area shape="rect" id="Node000004" href="$sai__redis__interfacequery_8cpp.html#a2d4cf4d27d8fd0fcf37e4cae1ea25fb5" title=" " alt="" coords="837,111,969,153"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="755,129,822,129,822,135,755,135"/>
+<area shape="rect" id="Node000008" href="$class_orch.html#a233284ee357f7553505640a4c0853874" title=" " alt="" coords="503,35,779,61"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="412,103,570,63,571,68,413,109"/>
+<area shape="rect" id="Node000009" href="$lib_2tests_8cpp.html#ad3af9936f704b25188a9ef24330f8a19" title=" " alt="" coords="868,35,938,61"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="780,45,853,45,853,51,780,51"/>
+<area shape="poly" id="edge12_Node000010_Node000005" title=" " alt="" coords="439,249,503,256,641,264,702,263,779,256,832,248,832,253,780,261,702,268,641,269,503,261,438,254"/>
+<area shape="rect" id="Node000011" href="$class_orch.html#a67eb4bdfd3089b5b1bd587fdd7a139ce" title=" " alt="" coords="566,220,716,247"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="447,233,551,232,551,237,447,239"/>
+<area shape="poly" id="edge11_Node000011_Node000005" title=" " alt="" coords="716,231,812,231,812,236,716,236"/>
+<area shape="poly" id="edge14_Node000012_Node000008" title=" " alt="" coords="444,25,491,30,491,35,444,30"/>
+</map>

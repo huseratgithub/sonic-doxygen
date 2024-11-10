@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$class_pbh_vendor_field_capabilities.html" title=" " alt="" coords="5,31,186,57"/>
+<area shape="rect" id="Node000001" href="$class_pbh_generic_field_capabilities.html" title=" " alt="" coords="237,5,422,32"/>
+<area shape="poly" id="edge135_Node000000_Node000001" title=" " alt="" coords="201,30,236,26,237,31,201,35"/>
+<area shape="rect" id="Node000002" href="$class_pbh_mellanox_field_capabilities.html" title=" " alt="" coords="234,56,426,83"/>
+<area shape="poly" id="edge136_Node000000_Node000002" title=" " alt="" coords="201,53,234,56,233,62,201,58"/>
+</map>

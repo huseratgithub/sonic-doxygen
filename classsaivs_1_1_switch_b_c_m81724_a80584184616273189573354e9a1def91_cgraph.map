@@ -1,0 +1,10 @@
+<map id="saivs::SwitchBCM81724::set" name="saivs::SwitchBCM81724::set">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,197,56"/>
+<area shape="rect" id="Node000002" href="$classsaivs_1_1_switch_state_base.html#ad2a4aeb845eb777c5abd9d7b3fce6798" title=" " alt="" coords="245,29,432,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="197,40,229,40,229,45,197,45"/>
+<area shape="poly" id="edge4_Node000002_Node000002" title=" " alt="" coords="302,30,295,21,299,11,314,5,338,3,364,5,378,12,376,16,363,10,338,8,315,10,303,15,300,20,306,27"/>
+<area shape="rect" id="Node000003" href="$mock__sai__serialize_8cpp.html#a0f934d15b1a3e0fd3458f0f2b9df0b31" title=" " alt="" coords="480,29,632,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="432,40,465,40,465,45,432,45"/>
+<area shape="rect" id="Node000004" href="$class_sai_serialize_interface.html#ac1267fe86b704633a47c483dcc8e1379" title=" " alt="" coords="680,21,841,64"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="633,40,665,40,665,45,633,45"/>
+</map>

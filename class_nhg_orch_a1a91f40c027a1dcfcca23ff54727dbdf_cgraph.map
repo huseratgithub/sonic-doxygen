@@ -1,0 +1,13 @@
+<map id="NhgOrch::invalidateNextHop" name="NhgOrch::invalidateNextHop">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,194,61"/>
+<area shape="rect" id="Node000002" href="$struct_next_hop_key.html#abb99d9df3db74075630f3d3b68cce565" title=" " alt="" coords="242,35,396,61"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="194,45,226,45,226,51,194,51"/>
+<area shape="rect" id="Node000003" href="$struct_next_hop_key.html#a416e3d9c0b7b5ca01f43148e1fb537de" title=" " alt="" coords="444,35,665,61"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="397,45,428,45,428,51,397,51"/>
+<area shape="rect" id="Node000004" href="$struct_next_hop_key.html#a1daf3e6b9415c99ce11da49419bd2bca" title=" " alt="" coords="713,5,908,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="666,33,698,29,698,34,666,38"/>
+<area shape="rect" id="Node000006" href="$structswss_1_1_label_stack.html#a5d0de2285c60930cd76538bf105ca7dc" title=" " alt="" coords="738,56,883,99"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="666,58,723,65,723,70,666,63"/>
+<area shape="rect" id="Node000005" href="$structswss_1_1_label_stack.html#a4302079120bbbf32d762779c017d68b8" title=" " alt="" coords="956,5,1125,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="908,16,940,16,940,21,908,21"/>
+</map>

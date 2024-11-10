@@ -1,0 +1,17 @@
+<map id="swss::RouteSync::prefixMac2Str" name="swss::RouteSync::prefixMac2Str">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1740,13,1954,40"/>
+<area shape="rect" id="Node000002" href="$classswss_1_1_route_sync.html#acf3a2bcf17464760c29fdc49b1220008" title=" " alt="" coords="1489,13,1692,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1724,29,1692,29,1692,24,1724,24"/>
+<area shape="rect" id="Node000003" href="$classswss_1_1_route_sync.html#a4f307c44b13d910f3b8888bf845b703e" title=" " alt="" coords="1260,5,1441,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1474,29,1442,29,1442,24,1474,24"/>
+<area shape="rect" id="Node000004" href="$classswss_1_1_route_sync.html#a7be9a60a63c98c76875ac05b27d1f27a" title=" " alt="" coords="975,13,1212,40"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="1244,29,1213,29,1213,24,1244,24"/>
+<area shape="rect" id="Node000005" href="$classswss_1_1_route_sync.html#ad714364235db5ce36023060a794d7664" title=" " alt="" coords="727,13,927,40"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="959,29,927,29,927,24,959,24"/>
+<area shape="rect" id="Node000006" href="$classswss_1_1_fpm_link.html#a89a5634a21654361e12f5ce05a42a46f" title=" " alt="" coords="463,13,679,40"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="711,29,680,29,680,24,711,24"/>
+<area shape="rect" id="Node000007" href="$classswss_1_1_fpm_link.html#ac76d353c91f4fccd6a9b8a7b7d5cb029" title=" " alt="" coords="225,5,415,48"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="447,29,416,29,416,24,447,24"/>
+<area shape="rect" id="Node000008" href="$classswss_1_1_fpm_link.html#ac530888f54ddc6b0cc39b70ff2dd2954" title=" " alt="" coords="5,13,177,40"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="209,29,177,29,177,24,209,24"/>
+</map>

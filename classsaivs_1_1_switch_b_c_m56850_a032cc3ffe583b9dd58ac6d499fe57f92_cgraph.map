@@ -1,0 +1,10 @@
+<map id="saivs::SwitchBCM56850::set_maximum_number_of_childs_per_scheduler_group" name="saivs::SwitchBCM56850::set_maximum_number_of_childs_per_scheduler_group">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,13,213,72"/>
+<area shape="rect" id="Node000002" href="$classsaivs_1_1_switch_state_base.html#ad2a4aeb845eb777c5abd9d7b3fce6798" title=" " alt="" coords="261,29,448,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="213,40,245,40,245,45,213,45"/>
+<area shape="poly" id="edge4_Node000002_Node000002" title=" " alt="" coords="318,30,311,21,315,11,330,5,354,3,380,5,394,12,392,16,379,10,354,8,331,10,319,15,316,20,322,27"/>
+<area shape="rect" id="Node000003" href="$mock__sai__serialize_8cpp.html#a0f934d15b1a3e0fd3458f0f2b9df0b31" title=" " alt="" coords="496,29,648,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="448,40,481,40,481,45,448,45"/>
+<area shape="rect" id="Node000004" href="$class_sai_serialize_interface.html#ac1267fe86b704633a47c483dcc8e1379" title=" " alt="" coords="696,21,857,64"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="649,40,681,40,681,45,649,45"/>
+</map>

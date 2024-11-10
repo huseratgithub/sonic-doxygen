@@ -1,0 +1,7 @@
+<map id="NextHopGroupKey::clear" name="NextHopGroupKey::clear">
+<area shape="rect" id="Node000001" title=" " alt="" coords="218,43,385,69"/>
+<area shape="rect" id="Node000002" href="$struct_label_route_bulk_context.html#a6d4e4700d541f37b6852f24423fa340c" title=" " alt="" coords="8,5,167,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,45,167,40,168,35,202,40"/>
+<area shape="rect" id="Node000003" href="$struct_route_bulk_context.html#a2fce6abfbba2813e2dc4beb0bfd16fcb" title=" " alt="" coords="5,72,170,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="202,72,170,77,170,71,202,67"/>
+</map>

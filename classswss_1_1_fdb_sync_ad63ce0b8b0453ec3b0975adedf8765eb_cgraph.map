@@ -1,0 +1,15 @@
+<map id="swss::FdbSync::imetAddRoute" name="swss::FdbSync::imetAddRoute">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,80,209,107"/>
+<area shape="rect" id="Node000002" href="$classswss_1_1_fdb_sync.html#acbd6c1c6e91be0b0da961fb1b0046648" title=" " alt="" coords="257,5,438,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,77,252,50,254,55,159,82"/>
+<area shape="rect" id="Node000003" href="$classswss_1_1_app_restart_assist.html#a7acdab55649e33959240447fc4c71d69" title=" " alt="" coords="266,72,429,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="209,91,250,91,250,96,209,96"/>
+<area shape="rect" id="Node000007" href="$classswss_1_1_app_restart_assist.html#af9aa25ee97c29db118901e967b3dd409" title=" " alt="" coords="265,139,430,181"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="159,105,254,131,252,136,157,110"/>
+<area shape="rect" id="Node000004" href="$classswss_1_1_app_restart_assist.html#a425ebd309d25324d0d1e74270cf6c4e0" title=" " alt="" coords="486,5,649,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="419,69,479,50,481,56,421,74"/>
+<area shape="rect" id="Node000005" href="$classswss_1_1_app_restart_assist.html#ad98d4ed8a334a752c193779b7036cf15" title=" " alt="" coords="486,72,649,115"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="429,91,470,91,470,96,429,96"/>
+<area shape="rect" id="Node000006" href="$classswss_1_1_app_restart_assist.html#a133f4b61bfc6a79b01032f74c417bae5" title=" " alt="" coords="486,139,649,181"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="421,113,481,131,479,136,419,118"/>
+</map>

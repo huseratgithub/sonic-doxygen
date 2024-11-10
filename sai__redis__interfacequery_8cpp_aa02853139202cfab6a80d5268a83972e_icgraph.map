@@ -1,0 +1,46 @@
+<map id="sai_api_uninitialize" name="sai_api_uninitialize">
+<area shape="rect" id="Node000001" title=" " alt="" coords="569,138,700,165"/>
+<area shape="rect" id="Node000002" href="$syncd_2tests_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,79,55,106"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="605,130,566,102,520,78,407,35,358,20,313,11,267,8,219,12,165,22,104,40,71,59,46,81,42,77,68,54,102,36,164,17,218,6,267,3,314,6,360,15,408,30,522,73,569,98,608,126"/>
+<area shape="rect" id="Node000003" href="$saisdkdump_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="400,87,450,114"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="561,136,450,109,451,104,562,131"/>
+<area shape="rect" id="Node000004" href="$syncd_2tests_8cpp.html#ad1f5793268273decc41754526d1787ee" title=" " alt="" coords="388,138,462,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="554,154,462,154,462,149,554,149"/>
+<area shape="rect" id="Node000008" href="$vslib_2tests_8cpp.html#ac83b0647aa9bee4bef8728348e2f69f5" title=" " alt="" coords="388,345,462,371"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="611,177,442,346,438,342,607,173"/>
+<area shape="rect" id="Node000017" href="$classsyncd_1_1_vendor_sai.html#aee33284ba93b29e17047da707d2c9cf5" title=" " alt="" coords="329,525,521,551"/>
+<area shape="poly" id="edge25_Node000001_Node000017" title=" " alt="" coords="623,180,581,272,524,385,476,465,438,526,433,523,472,462,519,382,576,269,619,178"/>
+<area shape="rect" id="Node000005" href="$syncd_2tests_8cpp.html#a8aebe441863b9c641eb38c80f250d430" title=" " alt="" coords="121,50,263,77"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="372,144,328,128,303,110,280,91,252,80,254,75,282,86,307,105,330,124,374,139"/>
+<area shape="rect" id="Node000006" href="$syncd_2tests_8cpp.html#a411e40a6113957779fb4b2a25aae7dce" title=" " alt="" coords="113,101,270,143"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="373,148,270,135,271,129,374,142"/>
+<area shape="rect" id="Node000007" href="$syncd_2tests_8cpp.html#a97b3fd5a822d4f4a753588b9f695bd74" title=" " alt="" coords="124,167,260,194"/>
+<area shape="poly" id="edge8_Node000004_Node000007" title=" " alt="" coords="374,160,260,175,260,170,373,155"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="106,82,56,91,55,86,105,76"/>
+<area shape="poly" id="edge7_Node000006_Node000002" title=" " alt="" coords="98,108,55,100,56,94,99,102"/>
+<area shape="poly" id="edge9_Node000007_Node000002" title=" " alt="" coords="114,164,101,158,68,134,42,109,46,105,71,129,104,153,116,159"/>
+<area shape="rect" id="Node000009" href="$vslib_2tests_8cpp.html#af274142b4667a9a8f06e937cf317dcc0" title=" " alt="" coords="140,218,244,245"/>
+<area shape="poly" id="edge11_Node000008_Node000009" title=" " alt="" coords="395,336,343,297,280,259,243,245,245,240,282,254,346,293,398,332"/>
+<area shape="rect" id="Node000011" href="$vslib_2tests_8cpp.html#a956d4cf79d7809de4d26179714fd4b67" title=" " alt="" coords="140,269,244,295"/>
+<area shape="poly" id="edge13_Node000008_Node000011" title=" " alt="" coords="373,342,280,310,243,298,244,293,282,305,375,337"/>
+<area shape="rect" id="Node000012" href="$vslib_2tests_8cpp.html#a0e353ad534c317390741ff1f871670bc" title=" " alt="" coords="152,319,232,346"/>
+<area shape="poly" id="edge15_Node000008_Node000012" title=" " alt="" coords="373,355,232,340,232,334,374,350"/>
+<area shape="rect" id="Node000013" href="$vslib_2tests_8cpp.html#a3302e8733f6a948b4b362d5a52a9a4c9" title=" " alt="" coords="103,370,281,397"/>
+<area shape="poly" id="edge17_Node000008_Node000013" title=" " alt="" coords="374,366,282,376,281,371,373,361"/>
+<area shape="rect" id="Node000014" href="$vslib_2tests_8cpp.html#a28fadcbb2e9bcb6929352643f1630675" title=" " alt="" coords="103,421,281,463"/>
+<area shape="poly" id="edge19_Node000008_Node000014" title=" " alt="" coords="375,379,254,423,253,418,373,374"/>
+<area shape="rect" id="Node000015" href="$vslib_2tests_8cpp.html#a58a5c209faf9882c518c476419196422" title=" " alt="" coords="128,487,256,530"/>
+<area shape="poly" id="edge21_Node000008_Node000015" title=" " alt="" coords="401,384,349,431,282,478,257,490,255,485,280,473,346,426,398,380"/>
+<area shape="rect" id="Node000016" href="$vslib_2tests_8cpp.html#a94e55b75b711100eceba0eb11b3ec29b" title=" " alt="" coords="126,554,258,597"/>
+<area shape="poly" id="edge23_Node000008_Node000016" title=" " alt="" coords="412,386,361,464,325,507,283,544,260,558,257,553,279,540,321,503,357,460,407,384"/>
+<area shape="rect" id="Node000010" href="$vslib_2tests_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,370,55,397"/>
+<area shape="poly" id="edge12_Node000009_Node000010" title=" " alt="" coords="127,246,104,259,79,285,60,316,38,371,33,369,55,313,75,282,101,255,124,241"/>
+<area shape="poly" id="edge14_Node000011_Node000010" title=" " alt="" coords="126,299,104,310,68,340,43,371,39,368,64,336,101,305,124,294"/>
+<area shape="poly" id="edge16_Node000012_Node000010" title=" " alt="" coords="138,350,103,361,56,377,54,372,102,355,136,345"/>
+<area shape="poly" id="edge18_Node000013_Node000010" title=" " alt="" coords="87,386,55,386,55,381,87,381"/>
+<area shape="poly" id="edge20_Node000014_Node000010" title=" " alt="" coords="117,418,54,395,56,390,118,413"/>
+<area shape="poly" id="edge22_Node000015_Node000010" title=" " alt="" coords="112,485,101,477,80,459,62,437,36,399,41,396,66,434,84,455,104,473,115,480"/>
+<area shape="poly" id="edge24_Node000016_Node000010" title=" " alt="" coords="111,552,101,544,72,508,52,467,39,428,31,398,36,397,44,426,57,465,77,505,105,540,114,548"/>
+<area shape="rect" id="Node000018" href="$classsyncd_1_1_vendor_sai.html#a8f769cf4bf2f9fa65a2a933f6d2af2b3" title=" " alt="" coords="126,621,258,663"/>
+<area shape="poly" id="edge26_Node000017_Node000018" title=" " alt="" coords="386,561,282,611,254,623,252,618,280,606,383,556"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="RouteNhg" name="RouteNhg">
+<area shape="rect" id="Node000001" title=" " alt="" coords="88,96,168,123"/>
+<area shape="rect" id="Node000002" href="$class_next_hop_group_key.html" title=" " alt="" coords="5,5,137,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,43,107,71,122,94,118,97,102,73,85,46"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="160,5,214,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="176,47,160,74,141,97,137,94,155,70,171,44"/>
+</map>

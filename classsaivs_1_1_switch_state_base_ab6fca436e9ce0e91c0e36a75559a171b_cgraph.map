@@ -1,0 +1,13 @@
+<map id="saivs::SwitchStateBase::refresh_vlan_member_list" name="saivs::SwitchStateBase::refresh_vlan_member_list">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,48,184,91"/>
+<area shape="rect" id="Node000002" href="$_sai_serialize_8cpp.html#a93ab044615abc111c2294290d8aaba45" title=" " alt="" coords="242,5,408,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,47,246,33,247,39,185,52"/>
+<area shape="rect" id="Node000003" href="$mock__sai__serialize_8cpp.html#a0f934d15b1a3e0fd3458f0f2b9df0b31" title=" " alt="" coords="467,93,619,120"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="184,73,419,92,451,95,451,100,419,97,184,78"/>
+<area shape="rect" id="Node000005" href="$classsaivs_1_1_switch_state_base.html#ad2a4aeb845eb777c5abd9d7b3fce6798" title=" " alt="" coords="232,131,419,157"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="164,89,268,123,266,128,162,94"/>
+<area shape="rect" id="Node000004" href="$class_sai_serialize_interface.html#ac1267fe86b704633a47c483dcc8e1379" title=" " alt="" coords="667,85,828,128"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="620,104,652,104,652,109,620,109"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="406,127,451,120,452,125,407,133"/>
+<area shape="poly" id="edge6_Node000005_Node000005" title=" " alt="" coords="289,132,282,122,286,112,301,106,325,104,351,107,365,113,363,118,350,112,325,109,302,111,290,116,287,121,293,129"/>
+</map>

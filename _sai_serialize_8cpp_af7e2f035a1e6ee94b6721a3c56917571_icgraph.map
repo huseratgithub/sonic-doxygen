@@ -1,0 +1,9 @@
+<map id="sai_serialize_tunnel_stat" name="sai_serialize_tunnel_stat">
+<area shape="rect" id="Node000001" title=" " alt="" coords="452,43,616,69"/>
+<area shape="rect" id="Node000002" href="$class_vxlan_tunnel_orch.html#ad9b1012bdee30d61ffcaf4cc84489d2a" title=" " alt="" coords="225,5,404,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="436,46,404,41,405,36,437,40"/>
+<area shape="rect" id="Node000004" href="$_flex_counter_8cpp.html#ad934df2bfe040c64e26213a2f4b0a7a6" title=" " alt="" coords="268,72,361,99"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="437,72,362,82,361,76,436,66"/>
+<area shape="rect" id="Node000003" href="$class_vxlan_tunnel_orch.html#a368b2059688b70c3e0d225bcd8a549ab" title=" " alt="" coords="5,13,177,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="209,29,177,29,177,24,209,24"/>
+</map>

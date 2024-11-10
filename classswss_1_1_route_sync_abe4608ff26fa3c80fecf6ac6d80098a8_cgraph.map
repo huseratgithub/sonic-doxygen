@@ -1,0 +1,9 @@
+<map id="swss::RouteSync::onVnetRouteMsg" name="swss::RouteSync::onVnetRouteMsg">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,47,240,73"/>
+<area shape="rect" id="Node000002" href="$classswss_1_1_route_sync.html#a3423e2da5cc6ee64610e168a4ef26db8" title=" " alt="" coords="288,5,467,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="229,43,272,38,273,43,230,49"/>
+<area shape="rect" id="Node000003" href="$classswss_1_1_route_sync.html#a86aae343a9f2150d4577d71c2b3c6957" title=" " alt="" coords="288,72,467,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="230,71,273,77,272,82,229,77"/>
+<area shape="rect" id="Node000004" href="$classswss_1_1_route_sync.html#a34d98118e7278e76c94652c7f50dfeb8" title=" " alt="" coords="515,80,709,107"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="467,91,499,91,499,96,467,96"/>
+</map>

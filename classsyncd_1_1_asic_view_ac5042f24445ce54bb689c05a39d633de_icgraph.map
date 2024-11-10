@@ -1,0 +1,11 @@
+<map id="syncd::AsicView::updateNonObjectIdVidReferenceCountByValue" name="syncd::AsicView::updateNonObjectIdVidReferenceCountByValue">
+<area shape="rect" id="Node000001" title="Update non object id VID reference count by specified value." alt="" coords="484,72,716,115"/>
+<area shape="rect" id="Node000002" href="$classsyncd_1_1_asic_view.html#a26bc73062eae43ed06a53006b4030406" title="Generate ASIC create operation for current object." alt="" coords="241,5,431,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="497,70,423,51,424,46,499,65"/>
+<area shape="rect" id="Node000003" href="$classsyncd_1_1_asic_view.html#a032dbbdbbf335dceedbd6939ab079ee8" title="Generate ASIC remove operation for current existing object." alt="" coords="236,72,436,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="468,96,436,96,436,91,468,91"/>
+<area shape="rect" id="Node000004" href="$classsyncd_1_1_asic_view.html#a5d0e3d45fcf9c117ec19a63a3547ef1a" title="Populates ASIC view from REDIS table dump." alt="" coords="242,139,430,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="487,121,400,141,399,135,486,116"/>
+<area shape="rect" id="Node000005" href="$classsyncd_1_1_asic_view.html#af51028aeda187e8e8803e9d410030333" title=" " alt="" coords="5,139,188,165"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="226,155,188,155,188,149,226,149"/>
+</map>

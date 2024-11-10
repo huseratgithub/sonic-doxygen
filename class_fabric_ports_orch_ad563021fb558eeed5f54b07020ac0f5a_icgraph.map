@@ -1,0 +1,7 @@
+<map id="FabricPortsOrch::getFabricPortList" name="FabricPortsOrch::getFabricPortList">
+<area shape="rect" id="Node000001" title=" " alt="" coords="273,23,451,65"/>
+<area shape="rect" id="Node000002" href="$class_fabric_ports_orch.html#aad9a1dadb1fcac10ce90c6870e1e6766" title=" " alt="" coords="32,5,198,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="257,36,198,30,199,25,257,31"/>
+<area shape="rect" id="Node000003" href="$class_fabric_ports_orch.html#ae8fadc8e1b8711fbaf16543fa73a2c9c" title=" " alt="" coords="5,56,225,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="257,57,225,61,225,55,256,52"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="NatOrch::addHwSnatEntry" name="NatOrch::addHwSnatEntry">
+<area shape="rect" id="Node000001" title=" " alt="" coords="885,31,1062,57"/>
+<area shape="rect" id="Node000002" href="$class_nat_orch.html#a16ba44970e6c5257c6b347f6ca288659" title=" " alt="" coords="660,5,837,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="869,35,837,31,837,26,869,30"/>
+<area shape="rect" id="Node000006" href="$class_nat_orch.html#adbfbc4edc1bf1ad5fbc7021403911bc4" title=" " alt="" coords="673,56,824,83"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="870,58,825,63,825,58,869,53"/>
+<area shape="rect" id="Node000003" href="$class_nat_orch.html#afb1ec2c55e1b39afd7125614a10bc6e0" title=" " alt="" coords="431,5,612,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="645,21,613,21,613,16,645,16"/>
+<area shape="rect" id="Node000004" href="$class_nat_orch.html#aa3a8e1b103e5b2af56db2058d1f7abd8" title=" " alt="" coords="174,5,383,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="415,21,383,21,383,16,415,16"/>
+<area shape="rect" id="Node000005" href="$class_nat_orch.html#ad7b670f4c570efa58828235f920a00ef" title=" " alt="" coords="5,31,126,57"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="158,36,126,39,126,34,158,30"/>
+<area shape="rect" id="Node000007" href="$class_nat_orch.html#a25553f8c57c4f5cc834948351f1546b3" title=" " alt="" coords="192,56,364,83"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="657,72,365,72,365,67,657,67"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="176,60,126,54,126,48,177,55"/>
+</map>

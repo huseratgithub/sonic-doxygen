@@ -1,0 +1,5 @@
+<map id="syncd::SaiSwitch::isColdBootDiscoveredRid" name="syncd::SaiSwitch::isColdBootDiscoveredRid">
+<area shape="rect" id="Node000001" title="Indicates whether RID was discovered on switch init at cold boot." alt="" coords="305,5,473,48"/>
+<area shape="rect" id="Node000002" href="$classsyncd_1_1_sai_switch.html#a47d4a9cad48a04d0e05ccd991bc2413b" title="Indicates whether object can&#39;t be removed." alt="" coords="5,13,257,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="289,29,257,29,257,24,289,24"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="swss::BufferMgrDynamic::doTask" name="swss::BufferMgrDynamic::doTask">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,23,174,65"/>
+<area shape="rect" id="Node000002" href="$class_consumer.html#a4d8ac8759e33c65ef72d8d9741bb0c22" title=" " alt="" coords="222,5,395,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,32,206,28,206,33,174,37"/>
+<area shape="rect" id="Node000005" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="233,56,384,83"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="174,51,218,56,217,61,173,56"/>
+<area shape="rect" id="Node000003" href="$class_consumer.html#ada2ca4c7c5b14f67901cd9afb5a3281a" title=" " alt="" coords="443,5,641,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="395,16,427,16,427,21,395,21"/>
+<area shape="rect" id="Node000004" href="$class_executor.html#a589127ba11df8a10f3ee4f4f6e69c7fe" title=" " alt="" coords="689,5,850,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="641,16,673,16,673,21,641,21"/>
+</map>

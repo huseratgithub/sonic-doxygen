@@ -1,0 +1,9 @@
+<map id="sai_serialize_switch_oper_status" name="sai_serialize_switch_oper_status">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,23,144,65"/>
+<area shape="rect" id="Node000002" href="$_sai_serialize_8cpp.html#a65eb8ea2354cbfadd0a6075124116a68" title=" " alt="" coords="202,5,334,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="144,32,186,27,187,32,144,38"/>
+<area shape="rect" id="Node000004" href="$_sai_serialize_8cpp.html#a64e9cf06c73cd4f94e337e22149be32b" title=" " alt="" coords="192,56,344,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="144,50,177,55,176,60,144,56"/>
+<area shape="rect" id="Node000003" href="$_sai_serialize_8cpp.html#a97543edb8d3f82c33b2ba86825bf5cc9" title=" " alt="" coords="392,5,535,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="335,16,376,16,376,21,335,21"/>
+</map>

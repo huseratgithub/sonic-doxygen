@@ -1,0 +1,13 @@
+<map id="swss::MclagLink::mclagsyncdFetchMclagInterfaceConfigFromConfigdb" name="swss::MclagLink::mclagsyncdFetchMclagInterfaceConfigFromConfigdb">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,105,266,148"/>
+<area shape="rect" id="Node000002" href="$classswss_1_1_mclag_link.html#a60a4b48ae62e413bb2cd610bd638a521" title=" " alt="" coords="314,105,511,148"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="266,124,298,124,298,129,266,129"/>
+<area shape="rect" id="Node000003" href="$classswss_1_1_mclag_link.html#aa9ae5b30c7c90299a8d8f03f68efb930" title=" " alt="" coords="559,5,752,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="457,102,558,58,574,51,576,56,560,62,459,107"/>
+<area shape="rect" id="Node000004" href="$classswss_1_1_mclag_link.html#a196e415c5c53a17b7d7dfbbef27b37e7" title=" " alt="" coords="568,72,744,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="511,110,552,105,552,110,512,116"/>
+<area shape="rect" id="Node000005" href="$classswss_1_1_mclag_link.html#abaeda74a02aa7ffb1e5f8e9cec2b0f8b" title=" " alt="" coords="568,139,743,181"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="512,138,553,143,552,149,511,143"/>
+<area shape="rect" id="Node000006" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="580,205,731,232"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="457,146,560,191,582,198,580,203,558,196,455,151"/>
+</map>

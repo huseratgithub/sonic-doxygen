@@ -1,0 +1,7 @@
+<map id="saivs::SwitchStateBase::create_scheduler_groups" name="saivs::SwitchStateBase::create_scheduler_groups">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,13,180,56"/>
+<area shape="rect" id="Node000002" href="$classsaivs_1_1_switch_state_base.html#ae617e31683187d823cace064d49c6466" title=" " alt="" coords="228,5,402,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,32,212,32,212,37,180,37"/>
+<area shape="rect" id="Node000003" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="450,21,601,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="403,32,434,32,434,37,403,37"/>
+</map>

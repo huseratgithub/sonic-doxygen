@@ -1,0 +1,15 @@
+<map id="PortsOrch::addPriorityGroupWatermarkFlexCountersPerPortPerPgIndex" name="PortsOrch::addPriorityGroupWatermarkFlexCountersPerPortPerPgIndex">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,64,232,123"/>
+<area shape="rect" id="Node000002" href="$class_ports_orch.html#a7b668b06f76d3c821f7a8c6ebb2fd4f4" title=" " alt="" coords="280,5,489,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="232,62,281,50,282,55,233,67"/>
+<area shape="rect" id="Node000003" href="$_sai_serialize_8cpp.html#a3edaf6bb9080ac0ab61ad365b6d78671" title=" " alt="" coords="313,72,456,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="232,91,298,91,298,96,232,96"/>
+<area shape="rect" id="Node000006" href="$mock__sai__serialize_8cpp.html#a0f934d15b1a3e0fd3458f0f2b9df0b31" title=" " alt="" coords="308,139,460,165"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="233,116,306,132,305,137,232,121"/>
+<area shape="rect" id="Node000004" href="$_sai_serialize_8cpp.html#a65eb8ea2354cbfadd0a6075124116a68" title=" " alt="" coords="551,80,683,107"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="456,91,535,91,535,96,456,96"/>
+<area shape="rect" id="Node000005" href="$_sai_serialize_8cpp.html#a97543edb8d3f82c33b2ba86825bf5cc9" title=" " alt="" coords="745,80,889,107"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="684,91,730,91,730,96,684,96"/>
+<area shape="rect" id="Node000007" href="$class_sai_serialize_interface.html#ac1267fe86b704633a47c483dcc8e1379" title=" " alt="" coords="537,131,697,173"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="461,149,521,149,521,155,461,155"/>
+</map>

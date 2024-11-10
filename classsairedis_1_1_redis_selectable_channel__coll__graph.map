@@ -1,0 +1,9 @@
+<map id="sairedis::RedisSelectableChannel" name="sairedis::RedisSelectableChannel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="83,172,252,215"/>
+<area shape="rect" id="Node000002" href="$classsairedis_1_1_selectable_channel.html" title=" " alt="" coords="5,81,189,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,119,155,170,150,173,113,122"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="36,5,158,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="100,47,100,81,94,81,94,47"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="213,81,266,108"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="223,122,185,173,181,170,219,119"/>
+</map>

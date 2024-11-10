@@ -1,0 +1,17 @@
+<map id="swss::NbrMgr::doSetNeighTask" name="swss::NbrMgr::doSetNeighTask">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,132,213,159"/>
+<area shape="rect" id="Node000002" href="$classswss_1_1_nbr_mgr.html#a104a95ae401168a58925a09ca385c00d" title=" " alt="" coords="261,56,449,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="149,129,260,92,285,85,287,90,261,97,151,134"/>
+<area shape="rect" id="Node000003" href="$classswss_1_1_nbr_mgr.html#a717924fa06667b359435c8e909b0e2a4" title=" " alt="" coords="264,107,446,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="213,132,249,128,249,134,213,137"/>
+<area shape="rect" id="Node000006" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="654,107,806,133"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="213,145,326,146,449,143,639,128,639,133,449,148,327,151,213,150"/>
+<area shape="rect" id="Node000007" href="$lib_2tests_8cpp.html#ad3af9936f704b25188a9ef24330f8a19" title=" " alt="" coords="320,208,390,235"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="156,157,305,203,304,209,154,162"/>
+<area shape="rect" id="Node000004" href="$saisdkdump_8cpp.html#a188343c1bf99d0f48c0f284b343b2ad8" title=" " alt="" coords="532,5,571,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="423,104,448,92,462,81,471,69,481,56,495,42,517,29,520,34,499,46,485,59,476,72,466,84,450,97,425,108"/>
+<area shape="rect" id="Node000005" href="$nbrmgr_8cpp.html#a6b9d6336c955d8c92f22343cd5604b9e" title=" " alt="" coords="497,56,606,83"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="409,103,481,85,483,90,410,109"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="446,117,639,117,639,123,446,123"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="602,81,667,99,665,105,601,86"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="syncd::SaiSwitch::redisUpdatePortLaneMap" name="syncd::SaiSwitch::redisUpdatePortLaneMap">
+<area shape="rect" id="Node000001" title="Update lane map for specific port." alt="" coords="5,35,207,77"/>
+<area shape="rect" id="Node000002" href="$mock__sai__serialize_8cpp.html#a0f934d15b1a3e0fd3458f0f2b9df0b31" title=" " alt="" coords="472,13,624,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,47,456,30,457,35,207,52"/>
+<area shape="rect" id="Node000004" href="$classsyncd_1_1_sai_switch.html#a60877841dfc777557a38b7982c81e458" title="Get port lanes for specific port." alt="" coords="255,64,424,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="208,66,240,70,239,75,207,71"/>
+<area shape="rect" id="Node000003" href="$class_sai_serialize_interface.html#ac1267fe86b704633a47c483dcc8e1379" title=" " alt="" coords="672,5,833,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="625,24,657,24,657,29,625,29"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="417,61,483,42,484,47,418,66"/>
+<area shape="rect" id="Node000005" href="$_sai_serialize_8cpp.html#aeae06eaf39abcffe5f6215d8688a6368" title=" " alt="" coords="480,72,616,99"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="425,83,464,83,464,88,425,88"/>
+<area shape="rect" id="Node000006" href="$_sai_serialize_8cpp.html#a65eb8ea2354cbfadd0a6075124116a68" title=" " alt="" coords="686,72,819,99"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="617,83,671,83,671,88,617,88"/>
+<area shape="rect" id="Node000007" href="$_sai_serialize_8cpp.html#a97543edb8d3f82c33b2ba86825bf5cc9" title=" " alt="" coords="881,72,1024,99"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="819,83,865,83,865,88,819,88"/>
+</map>

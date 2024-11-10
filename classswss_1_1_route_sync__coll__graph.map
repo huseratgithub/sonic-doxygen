@@ -1,0 +1,9 @@
+<map id="swss::RouteSync" name="swss::RouteSync">
+<area shape="rect" id="Node000001" title=" " alt="" coords="45,219,170,245"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,128,112,155"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="75,167,103,217,98,219,71,170"/>
+<area shape="rect" id="Node000003" href="$classswss_1_1_warm_start_helper.html" title=" " alt="" coords="136,128,296,155"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="190,167,125,220,122,216,187,163"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="189,5,242,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="218,48,218,127,213,127,213,48"/>
+</map>

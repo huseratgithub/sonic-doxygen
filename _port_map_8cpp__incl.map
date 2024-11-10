@@ -1,0 +1,17 @@
+<map id="E:/GitHub/SONiC/202211/sonic&#45;buildimage/src/sonic&#45;sairedis/syncd/PortMap.cpp" name="E:/GitHub/SONiC/202211/sonic&#45;buildimage/src/sonic&#45;sairedis/syncd/PortMap.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="150,5,372,64"/>
+<area shape="rect" id="Node000002" href="$_port_map_8h.html" title=" " alt="" coords="163,112,244,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="245,66,222,100,218,97,240,63"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="268,112,371,139"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="282,63,305,98,301,100,277,66"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,187,90,213"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="177,142,90,182,87,177,175,137"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="114,187,160,213"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="194,141,160,177,157,173,190,137"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="184,187,223,213"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="206,139,206,171,201,171,201,139"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="248,187,301,213"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="218,137,253,174,250,177,214,141"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="325,187,394,213"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="232,137,320,177,317,182,230,142"/>
+</map>

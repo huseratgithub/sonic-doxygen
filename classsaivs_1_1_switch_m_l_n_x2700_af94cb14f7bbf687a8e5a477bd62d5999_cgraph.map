@@ -1,0 +1,14 @@
+<map id="saivs::SwitchMLNX2700::create_scheduler_group_tree" name="saivs::SwitchMLNX2700::create_scheduler_group_tree">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,59,202,101"/>
+<area shape="rect" id="Node000002" href="$classsaivs_1_1_switch_state_base.html#af3f880deee3e7465b0063351342f3d36" title=" " alt="" coords="250,29,437,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,62,238,56,239,62,203,67"/>
+<area shape="rect" id="Node000005" href="$classsaivs_1_1_switch_state_base.html#ad2a4aeb845eb777c5abd9d7b3fce6798" title=" " alt="" coords="250,104,437,131"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="203,93,239,98,238,104,202,98"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="307,30,300,21,304,11,319,5,343,3,369,5,383,12,381,16,368,10,343,8,320,10,308,15,305,20,311,27"/>
+<area shape="rect" id="Node000003" href="$mock__sai__serialize_8cpp.html#a0f934d15b1a3e0fd3458f0f2b9df0b31" title=" " alt="" coords="485,67,637,93"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="425,54,470,62,469,67,424,59"/>
+<area shape="rect" id="Node000004" href="$class_sai_serialize_interface.html#ac1267fe86b704633a47c483dcc8e1379" title=" " alt="" coords="685,59,846,101"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="638,77,670,77,670,83,638,83"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="424,101,469,93,470,98,425,106"/>
+<area shape="poly" id="edge7_Node000005_Node000005" title=" " alt="" coords="307,105,300,95,304,85,319,79,343,77,369,80,383,86,381,91,368,85,343,83,320,85,308,89,305,95,311,102"/>
+</map>

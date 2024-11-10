@@ -1,0 +1,9 @@
+<map id="sai_serialize_router_interface_stat" name="sai_serialize_router_interface_stat">
+<area shape="rect" id="Node000001" title=" " alt="" coords="433,23,566,65"/>
+<area shape="rect" id="Node000002" href="$class_intfs_orch.html#a40297d969ced0d633d2058d3b2645cb3" title=" " alt="" coords="179,5,385,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="417,37,385,33,386,28,418,32"/>
+<area shape="rect" id="Node000004" href="$_flex_counter_8cpp.html#a5b843703ec2736dcd08e5bffded63a03" title=" " alt="" coords="235,56,328,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="418,56,329,67,329,61,417,51"/>
+<area shape="rect" id="Node000003" href="$class_intfs_orch.html#a268d017088a5c614c6edf85a20d1d637" title=" " alt="" coords="5,5,131,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="163,21,131,21,131,16,163,16"/>
+</map>

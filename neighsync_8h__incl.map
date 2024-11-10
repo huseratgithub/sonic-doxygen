@@ -1,0 +1,23 @@
+<map id="E:/GitHub/SONiC/202211/sonic&#45;buildimage/src/sonic&#45;swss/neighsyncd/neighsync.h" name="E:/GitHub/SONiC/202211/sonic&#45;buildimage/src/sonic&#45;swss/neighsyncd/neighsync.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="182,5,353,80"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,203,109,229"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="224,83,85,195,82,191,221,79"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="133,203,272,229"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="256,82,215,189,210,187,251,80"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="418,128,493,155"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="340,78,419,118,417,123,338,83"/>
+<area shape="rect" id="Node000005" href="$warm_restart_assist_8h.html" title=" " alt="" coords="250,128,394,155"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="291,79,310,113,305,115,286,82"/>
+<area shape="poly" id="edge7_Node000005_Node000002" title=" " alt="" coords="277,158,119,201,117,196,275,153"/>
+<area shape="poly" id="edge9_Node000005_Node000003" title=" " alt="" coords="303,157,238,197,235,192,300,153"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="694,203,804,229"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="395,152,679,200,678,205,394,157"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="296,203,349,229"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="325,155,325,187,320,187,320,155"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="374,203,434,229"/>
+<area shape="poly" id="edge8_Node000005_Node000008" title=" " alt="" coords="338,153,380,190,377,194,335,157"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="458,203,578,229"/>
+<area shape="poly" id="edge10_Node000005_Node000009" title=" " alt="" coords="357,153,471,194,469,199,356,158"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="602,203,669,229"/>
+<area shape="poly" id="edge11_Node000005_Node000010" title=" " alt="" coords="382,153,588,199,586,205,381,158"/>
+</map>

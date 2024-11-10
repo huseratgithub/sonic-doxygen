@@ -1,0 +1,13 @@
+<map id="E:/GitHub/SONiC/202211/sonic&#45;buildimage/src/sonic&#45;swss/orchagent/directory.h" name="E:/GitHub/SONiC/202211/sonic&#45;buildimage/src/sonic&#45;swss/orchagent/directory.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="104,5,320,64"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,112,73,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,67,78,107,76,102,155,62"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="96,112,150,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="185,66,148,103,145,99,182,62"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="173,112,252,139"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="215,64,215,96,210,96,210,64"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="276,112,386,139"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="252,62,304,100,300,105,249,66"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="410,112,484,139"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="289,62,400,104,399,109,288,67"/>
+</map>

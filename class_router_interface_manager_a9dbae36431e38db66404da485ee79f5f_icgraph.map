@@ -1,0 +1,13 @@
+<map id="RouterInterfaceManager::removeRouterInterface" name="RouterInterfaceManager::removeRouterInterface">
+<area shape="rect" id="Node000001" title=" " alt="" coords="708,72,871,115"/>
+<area shape="rect" id="Node000002" href="$class_router_interface_manager.html#a5560a26845a0a2e2c5b406cc45f023b1" title=" " alt="" coords="486,39,648,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="693,82,648,75,649,70,694,76"/>
+<area shape="rect" id="Node000006" href="$class_router_interface_manager_test.html#ac2ce8ee55a7e8f396f1eda45ec4610b5" title=" " alt="" coords="474,105,660,148"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="694,110,661,115,660,110,693,105"/>
+<area shape="rect" id="Node000003" href="$class_router_interface_manager.html#afd8e6fc7b15c3f775c8b0c51ee689645" title=" " alt="" coords="252,5,414,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="470,49,414,41,414,36,471,44"/>
+<area shape="rect" id="Node000005" href="$class_router_interface_manager_test.html#a2e2396e6592d901e91bd3d790186734c" title=" " alt="" coords="240,72,426,115"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="471,76,427,83,426,77,470,71"/>
+<area shape="rect" id="Node000004" href="$class_router_interface_manager_test.html#a3781abc618a8840edc36cf4572e9f8a6" title=" " alt="" coords="5,5,192,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="237,29,192,29,192,24,237,24"/>
+</map>

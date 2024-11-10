@@ -1,0 +1,13 @@
+<map id="RouteManager::mergeRouteEntry" name="RouteManager::mergeRouteEntry">
+<area shape="rect" id="Node000001" title=" " alt="" coords="711,39,897,81"/>
+<area shape="rect" id="Node000002" href="$class_route_manager_test.html#aeef9aa9112c81b4421a8fc34bbb9b264" title=" " alt="" coords="453,5,663,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="695,48,663,44,664,38,696,43"/>
+<area shape="rect" id="Node000003" href="$class_route_manager.html#a9c11691a9e58af734d2637985be2f64e" title=" " alt="" coords="464,72,652,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="696,77,653,83,652,78,696,72"/>
+<area shape="rect" id="Node000004" href="$class_route_manager.html#a5a5144eade05de47856be7b11841c4f2" title=" " alt="" coords="243,51,386,77"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="449,83,386,75,386,70,449,78"/>
+<area shape="rect" id="Node000006" href="$class_route_manager_test.html#af3f1ce78488cf2643f53def6e727ee37" title=" " alt="" coords="224,101,405,144"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="449,109,406,114,405,109,448,104"/>
+<area shape="rect" id="Node000005" href="$class_route_manager_test.html#aa652ad95623849b75312e7309faf46f5" title=" " alt="" coords="5,51,176,77"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="228,67,176,67,176,61,228,61"/>
+</map>

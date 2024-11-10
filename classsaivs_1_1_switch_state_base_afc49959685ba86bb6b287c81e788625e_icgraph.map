@@ -1,0 +1,13 @@
+<map id="saivs::SwitchStateBase::create_ingress_priority_groups_per_port" name="saivs::SwitchStateBase::create_ingress_priority_groups_per_port">
+<area shape="rect" id="Node000001" title=" " alt="" coords="663,43,825,101"/>
+<area shape="rect" id="Node000002" href="$classsaivs_1_1_switch_state_base.html#af4d6e685185ef4d88b7d15948644f765" title=" " alt="" coords="444,5,605,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="648,58,605,51,606,46,649,53"/>
+<area shape="rect" id="Node000004" href="$classsaivs_1_1_switch_state_base.html#ac5ee790634b29cd8151d762ecdbf6ac1" title=" " alt="" coords="434,88,615,131"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="649,91,616,97,615,91,648,86"/>
+<area shape="rect" id="Node000003" href="$classsaivs_1_1_switch_state_base.html#a063407086e7538787fd656b3d7a688d7" title=" " alt="" coords="215,13,386,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="429,37,387,37,387,32,429,32"/>
+<area shape="rect" id="Node000005" href="$classsaivs_1_1_switch_state_base.html#af7d4265c8a550472dc3eee35c4b8722d" title=" " alt="" coords="220,88,381,131"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="419,112,382,112,382,107,419,107"/>
+<area shape="rect" id="Node000006" href="$classsaivs_1_1_switch_state_base.html#a7e26af478cf1c620016b0941578cbd4d" title=" " alt="" coords="5,88,167,131"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="205,112,167,112,167,107,205,107"/>
+</map>

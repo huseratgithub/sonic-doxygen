@@ -1,0 +1,9 @@
+<map id="saivs::SwitchStateBase::create_port_serdes_per_port" name="saivs::SwitchStateBase::create_port_serdes_per_port">
+<area shape="rect" id="Node000001" title=" " alt="" coords="653,5,848,48"/>
+<area shape="rect" id="Node000002" href="$classsaivs_1_1_switch_state_base.html#ac5ee790634b29cd8151d762ecdbf6ac1" title=" " alt="" coords="424,5,605,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="638,29,606,29,606,24,638,24"/>
+<area shape="rect" id="Node000003" href="$classsaivs_1_1_switch_state_base.html#af7d4265c8a550472dc3eee35c4b8722d" title=" " alt="" coords="215,5,376,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="409,29,376,29,376,24,409,24"/>
+<area shape="rect" id="Node000004" href="$classsaivs_1_1_switch_state_base.html#a7e26af478cf1c620016b0941578cbd4d" title=" " alt="" coords="5,5,167,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="199,29,167,29,167,24,199,24"/>
+</map>

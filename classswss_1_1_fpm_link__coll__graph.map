@@ -1,0 +1,13 @@
+<map id="swss::FpmLink" name="swss::FpmLink">
+<area shape="rect" id="Node000001" title=" " alt="" coords="32,309,142,336"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,219,127,245"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="75,260,87,308,82,309,70,261"/>
+<area shape="rect" id="Node000003" href="$classswss_1_1_route_sync.html" title=" " alt="" coords="151,219,277,245"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="185,257,107,311,104,307,182,252"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="110,128,216,155"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="180,167,209,217,204,219,176,170"/>
+<area shape="rect" id="Node000005" href="$classswss_1_1_warm_start_helper.html" title=" " alt="" coords="240,128,401,155"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="295,167,231,220,228,216,292,163"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="294,5,347,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="323,48,323,127,318,127,318,48"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="mock_set_neighbor_entry_attribute" name="mock_set_neighbor_entry_attribute">
+<area shape="rect" id="Node000001" title=" " alt="" coords="202,5,372,48"/>
+<area shape="rect" id="Node000002" href="$class_neighbor_manager_test.html#abbf6c0aee5240aa6b16cce82a8300edf" title=" " alt="" coords="5,5,154,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="186,29,154,29,154,24,186,24"/>
+</map>

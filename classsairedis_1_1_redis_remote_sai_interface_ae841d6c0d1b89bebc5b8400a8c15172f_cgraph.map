@@ -1,0 +1,7 @@
+<map id="sairedis::RedisRemoteSaiInterface::notifySyncd" name="sairedis::RedisRemoteSaiInterface::notifySyncd">
+<area shape="rect" id="Node000001" title="Notify syncd API." alt="" coords="5,31,179,73"/>
+<area shape="rect" id="Node000002" href="$_sai_serialize_8cpp.html#a1b344876dea809c5cf9efc12e4cb9f9d" title=" " alt="" coords="278,5,371,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="178,37,262,25,263,30,179,42"/>
+<area shape="rect" id="Node000003" href="$classsairedis_1_1_redis_remote_sai_interface.html#af2ee613a616977a8caaf5b8418c40acc" title=" " alt="" coords="227,56,422,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="179,62,212,66,211,72,178,67"/>
+</map>

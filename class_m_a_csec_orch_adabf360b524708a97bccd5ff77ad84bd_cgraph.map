@@ -1,0 +1,18 @@
+<map id="MACsecOrch::MACsecCountersMap" name="MACsecOrch::MACsecCountersMap">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,97,243,124"/>
+<area shape="rect" id="Node000002" href="$class_m_a_csec_orch_context.html#aee30b3bcb051adff16262dc8cfb78367" title=" " alt="" coords="291,89,445,132"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="243,108,275,108,275,113,243,113"/>
+<area shape="rect" id="Node000003" href="$class_m_a_csec_orch_context.html#a5f8a97d4108547f6066ea28d591685f0" title=" " alt="" coords="719,5,874,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="402,87,444,64,492,45,546,34,602,26,704,21,704,26,602,32,547,39,494,51,446,69,404,91"/>
+<area shape="rect" id="Node000005" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="922,72,1073,99"/>
+<area shape="poly" id="edge9_Node000002_Node000005" title=" " alt="" coords="445,111,493,112,582,114,671,112,794,104,906,93,906,98,794,109,671,117,582,119,493,117,445,116"/>
+<area shape="rect" id="Node000006" href="$class_m_a_csec_orch_context.html#a4c549c0dc1296578b1af65aed956d9de" title=" " alt="" coords="505,60,659,103"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="445,97,489,91,490,97,446,103"/>
+<area shape="rect" id="Node000007" href="$class_ports_orch.html#ab9009ad09eca1cafb594716a3366fd5c" title=" " alt="" coords="493,177,671,204"/>
+<area shape="poly" id="edge8_Node000002_Node000007" title=" " alt="" coords="426,130,494,156,529,169,527,174,492,161,424,135"/>
+<area shape="rect" id="Node000004" href="$class_ports_orch.html#a72b35c3c39b77df72661ecbee7fb1e2d" title=" " alt="" coords="932,13,1062,40"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="874,24,917,24,917,29,874,29"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="872,46,935,65,934,70,871,51"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="659,59,704,48,705,53,661,64"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="660,79,906,82,906,87,660,85"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="swss::NatSync::addNatEntry" name="swss::NatSync::addNatEntry">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,213,198,240"/>
+<area shape="rect" id="Node000002" href="$classswss_1_1_app_restart_assist.html#a7acdab55649e33959240447fc4c71d69" title=" " alt="" coords="268,72,431,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,211,172,169,244,124,257,118,259,123,247,129,175,173,121,215"/>
+<area shape="rect" id="Node000006" href="$classswss_1_1_app_restart_assist.html#af9aa25ee97c29db118901e967b3dd409" title=" " alt="" coords="267,139,432,181"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="154,210,252,183,253,189,155,215"/>
+<area shape="rect" id="Node000007" href="$classswss_1_1_nat_sync.html#a9893e4f446d0b8d9da481fd67183877f" title=" " alt="" coords="246,205,453,248"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="198,224,230,224,230,229,198,229"/>
+<area shape="rect" id="Node000008" href="$classswss_1_1_nat_sync.html#a66d053a1090cf390248cf0d15277ee41" title=" " alt="" coords="246,272,452,315"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="155,238,253,265,252,270,154,243"/>
+<area shape="rect" id="Node000009" href="$classswss_1_1_nat_sync.html#a4f0e5bb1fa7ac4f033e91e5f0f825eed" title=" " alt="" coords="246,339,452,381"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="121,238,175,280,247,324,259,330,257,335,244,329,172,284,117,243"/>
+<area shape="rect" id="Node000003" href="$classswss_1_1_app_restart_assist.html#a425ebd309d25324d0d1e74270cf6c4e0" title=" " alt="" coords="501,5,664,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="425,69,490,50,491,55,427,74"/>
+<area shape="rect" id="Node000004" href="$classswss_1_1_app_restart_assist.html#ad98d4ed8a334a752c193779b7036cf15" title=" " alt="" coords="501,72,664,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="431,91,486,91,486,96,431,96"/>
+<area shape="rect" id="Node000005" href="$classswss_1_1_app_restart_assist.html#a133f4b61bfc6a79b01032f74c417bae5" title=" " alt="" coords="501,139,664,181"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="427,113,491,131,490,136,425,118"/>
+</map>

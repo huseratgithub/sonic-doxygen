@@ -1,0 +1,7 @@
+<map id="sai_serialize_queue_attr" name="sai_serialize_queue_attr">
+<area shape="rect" id="Node000001" title=" " alt="" coords="512,5,673,32"/>
+<area shape="rect" id="Node000002" href="$class_pfc_wd_sw_orch.html#a6e06e9f3a610b2b628fad324c4fc57ff" title=" " alt="" coords="257,5,464,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="496,21,464,21,464,16,496,16"/>
+<area shape="rect" id="Node000003" href="$class_pfc_wd_sw_orch.html#ac64ba62fbc6e79280f2b8b2375cc53b5" title=" " alt="" coords="5,5,209,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="241,21,209,21,209,16,241,16"/>
+</map>

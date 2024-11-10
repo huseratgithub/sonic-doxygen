@@ -1,0 +1,19 @@
+<map id="L3AdmitManagerTest" name="L3AdmitManagerTest">
+<area shape="rect" id="Node000001" title=" " alt="" coords="234,277,379,304"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,187,99,213"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,216,271,274,269,279,101,221"/>
+<area shape="rect" id="Node000003" href="$class_mock_response_publisher.html" title=" " alt="" coords="122,187,288,213"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="233,222,267,251,294,275,290,279,263,255,229,226"/>
+<area shape="rect" id="Node000004" href="$class_response_publisher_interface.html" title=" " alt="" coords="85,96,270,123"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="189,137,204,185,199,187,183,139"/>
+<area shape="rect" id="Node000007" href="$class_l3_admit_manager.html" title=" " alt="" coords="312,187,432,213"/>
+<area shape="poly" id="edge8_Node000007_Node000004" title=" " alt="" coords="220,127,345,184,343,189,218,132"/>
+<area shape="rect" id="Node000005" href="$class_p4_oid_mapper.html" title=" " alt="" coords="483,96,584,123"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="531,139,524,167,512,198,494,230,470,255,449,268,426,278,380,289,379,284,425,273,446,264,466,251,490,226,507,196,519,165,526,137"/>
+<area shape="poly" id="edge9_Node000007_Node000005" title=" " alt="" coords="469,126,443,136,419,149,397,168,382,188,378,185,394,164,415,144,441,131,467,121"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="483,5,584,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="536,48,536,95,531,95,531,48"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="356,228,318,278,314,275,352,224"/>
+<area shape="rect" id="Node000008" href="$class_object_manager_interface.html" title=" " alt="" coords="294,96,455,123"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="376,138,375,186,370,186,371,138"/>
+</map>

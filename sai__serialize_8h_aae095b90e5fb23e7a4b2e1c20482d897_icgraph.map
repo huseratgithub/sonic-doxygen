@@ -1,0 +1,13 @@
+<map id="sai_deserialize_free_port_oper_status_ntf" name="sai_deserialize_free_port_oper_status_ntf">
+<area shape="rect" id="Node000001" title=" " alt="" coords="573,72,720,115"/>
+<area shape="rect" id="Node000002" href="$classsyncd_1_1_notification_processor.html#a989e0b625ff1a5ddd630171df559b359" title=" " alt="" coords="329,5,518,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="558,70,497,51,498,46,559,65"/>
+<area shape="rect" id="Node000004" href="$class_p4_orch.html#aed1ef53a6e75efb38ad6e24dc54af482" title=" " alt="" coords="337,72,510,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="557,96,510,96,510,91,557,91"/>
+<area shape="rect" id="Node000006" href="$classsairedis_1_1_notification_port_state_change.html#a0799c56054b75f1e249d64291d188255" title=" " alt="" coords="322,139,525,197"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="567,123,514,141,512,136,565,118"/>
+<area shape="rect" id="Node000003" href="$classsyncd_1_1_notification_processor.html#a98d729e95c17d94bad6c7fbd45944880" title=" " alt="" coords="45,5,234,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="313,29,235,29,235,24,313,24"/>
+<area shape="rect" id="Node000005" href="$classp4orch_1_1test_1_1_wcmp_manager_test.html#a07763945f98a6b93c166c133829bda6f" title=" " alt="" coords="5,72,274,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="321,96,274,96,274,91,321,91"/>
+</map>

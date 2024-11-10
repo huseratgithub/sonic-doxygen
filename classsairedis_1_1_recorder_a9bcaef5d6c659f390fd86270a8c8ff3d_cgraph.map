@@ -1,0 +1,32 @@
+<map id="sairedis::Recorder::recordQueryAattributeEnumValuesCapability" name="sairedis::Recorder::recordQueryAattributeEnumValuesCapability">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,203,196,261"/>
+<area shape="rect" id="Node000002" href="$classsairedis_1_1_recorder.html#a01bb226f15a359b3be15934e2dd920aa" title=" " alt="" coords="244,60,427,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="137,200,186,164,242,128,251,124,253,128,245,133,189,169,141,205"/>
+<area shape="rect" id="Node000006" href="$_sai_serialize_8cpp.html#a276456f71554c93f49529078fcb60665" title=" " alt="" coords="267,143,404,169"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="182,200,243,179,267,172,268,177,244,184,183,205"/>
+<area shape="rect" id="Node000007" href="$_sai_serialize_8cpp.html#ab68230d10115dc3369a36a7e1752979d" title=" " alt="" coords="257,193,414,220"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="196,219,241,214,242,219,197,224"/>
+<area shape="rect" id="Node000011" href="$mock__sai__serialize_8cpp.html#a0f934d15b1a3e0fd3458f0f2b9df0b31" title=" " alt="" coords="259,244,412,271"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="197,240,244,245,243,250,196,245"/>
+<area shape="rect" id="Node000013" href="$mock__sai__serialize_8cpp.html#aa06e96f943a8f2451c89c65d2fecbef5" title=" " alt="" coords="252,295,419,321"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="183,259,244,280,268,287,267,292,243,285,182,264"/>
+<area shape="rect" id="Node000015" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="260,345,411,372"/>
+<area shape="poly" id="edge15_Node000001_Node000015" title=" " alt="" coords="138,260,187,297,245,331,260,337,258,342,242,336,184,301,135,264"/>
+<area shape="rect" id="Node000003" href="$classsaimeta_1_1_globals.html#a3e98d279320473e7d4e41653d26b00ce" title=" " alt="" coords="475,5,650,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="427,61,467,50,469,55,428,67"/>
+<area shape="rect" id="Node000004" href="$classsairedis_1_1_recorder.html#a98a36a0c0b73b0527a1902df57d5c7e1" title=" " alt="" coords="499,72,626,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="427,88,484,89,484,95,427,94"/>
+<area shape="rect" id="Node000005" href="$classsairedis_1_1_recorder.html#a384b62241f24b8c4b04be51dc8fc3a4c" title=" " alt="" coords="706,72,834,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="627,91,691,91,691,96,627,96"/>
+<area shape="rect" id="Node000008" href="$_sai_serialize_8cpp.html#a65eb8ea2354cbfadd0a6075124116a68" title=" " alt="" coords="496,139,629,165"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="393,190,489,167,490,172,395,195"/>
+<area shape="rect" id="Node000010" href="$_sai_serialize_8cpp.html#a7dfbfda625d62b336516fc04f1ec9c01" title=" " alt="" coords="504,189,621,216"/>
+<area shape="poly" id="edge9_Node000007_Node000010" title=" " alt="" coords="414,203,488,201,488,207,414,208"/>
+<area shape="rect" id="Node000009" href="$_sai_serialize_8cpp.html#a97543edb8d3f82c33b2ba86825bf5cc9" title=" " alt="" coords="698,164,842,191"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="630,157,683,164,683,169,629,163"/>
+<area shape="poly" id="edge10_Node000010_Node000009" title=" " alt="" coords="621,193,683,185,683,191,622,198"/>
+<area shape="rect" id="Node000012" href="$class_sai_serialize_interface.html#ac1267fe86b704633a47c483dcc8e1379" title=" " alt="" coords="482,240,643,283"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="412,256,467,257,467,262,412,261"/>
+<area shape="rect" id="Node000014" href="$class_sai_serialize_interface.html#a29d73fb00b962109388850736a5a02a3" title=" " alt="" coords="475,307,650,349"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="419,313,460,316,459,322,419,318"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="saivs::RealObjectIdManager::updateWarmBootObjectIndex" name="saivs::RealObjectIdManager::updateWarmBootObjectIndex">
+<area shape="rect" id="Node000001" title="Update warm boot object index." alt="" coords="5,60,205,103"/>
+<area shape="rect" id="Node000002" href="$classsaivs_1_1_real_object_id_manager.html#aa4bc329ef150951ceee258068145d97f" title="Object type query." alt="" coords="253,60,439,103"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,79,237,79,237,84,205,84"/>
+<area shape="rect" id="Node000003" href="$mock__sai__serialize_8cpp.html#a0f934d15b1a3e0fd3458f0f2b9df0b31" title=" " alt="" coords="498,13,651,40"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="192,57,252,45,373,32,483,26,484,32,373,38,253,51,193,62"/>
+<area shape="rect" id="Node000006" href="$mock__sai__serialize_8cpp.html#aa06e96f943a8f2451c89c65d2fecbef5" title=" " alt="" coords="262,127,430,153"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="196,101,274,120,272,125,195,106"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="437,57,500,42,502,47,438,62"/>
+<area shape="rect" id="Node000005" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="499,68,650,95"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="439,79,483,79,483,84,439,84"/>
+<area shape="rect" id="Node000004" href="$class_sai_serialize_interface.html#ac1267fe86b704633a47c483dcc8e1379" title=" " alt="" coords="710,5,871,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="651,24,695,24,695,29,651,29"/>
+<area shape="rect" id="Node000007" href="$class_sai_serialize_interface.html#a29d73fb00b962109388850736a5a02a3" title=" " alt="" coords="487,119,662,161"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="430,137,472,137,472,143,430,143"/>
+</map>

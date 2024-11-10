@@ -1,0 +1,11 @@
+<map id="syncd::ComparisonLogic::updateObjectStatus" name="syncd::ComparisonLogic::updateObjectStatus">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,171,81"/>
+<area shape="rect" id="Node000002" href="$mock__sai__serialize_8cpp.html#a0f934d15b1a3e0fd3458f0f2b9df0b31" title=" " alt="" coords="226,17,378,44"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,46,210,41,211,46,172,51"/>
+<area shape="rect" id="Node000004" href="$mock__sai__serialize_8cpp.html#aa06e96f943a8f2451c89c65d2fecbef5" title=" " alt="" coords="219,72,386,99"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="171,67,204,71,203,76,171,72"/>
+<area shape="rect" id="Node000003" href="$class_sai_serialize_interface.html#ac1267fe86b704633a47c483dcc8e1379" title=" " alt="" coords="442,5,602,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="379,27,426,26,426,31,379,32"/>
+<area shape="rect" id="Node000005" href="$class_sai_serialize_interface.html#a29d73fb00b962109388850736a5a02a3" title=" " alt="" coords="434,72,609,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="386,86,418,87,418,92,386,91"/>
+</map>

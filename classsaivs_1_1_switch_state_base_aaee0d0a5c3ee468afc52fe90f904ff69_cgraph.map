@@ -1,0 +1,17 @@
+<map id="saivs::SwitchStateBase::switchIdQuery" name="saivs::SwitchStateBase::switchIdQuery">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,93,167,136"/>
+<area shape="rect" id="Node000002" href="$classsaivs_1_1_real_object_id_manager.html#ae5423e2cea48d50e576c19ce6b55cb58" title="Switch id query." alt="" coords="215,93,401,136"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="167,112,199,112,199,117,167,117"/>
+<area shape="rect" id="Node000003" href="$classsaivs_1_1_real_object_id_manager.html#adb3636a9ff1ab9b7b589f06c9ddf88b5" title="Construct object id." alt="" coords="449,5,635,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="366,90,468,51,470,56,368,95"/>
+<area shape="rect" id="Node000004" href="$classsaivs_1_1_real_object_id_manager.html#aa4bc329ef150951ceee258068145d97f" title="Object type query." alt="" coords="449,123,635,165"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="402,124,434,128,433,133,401,129"/>
+<area shape="rect" id="Node000005" href="$mock__sai__serialize_8cpp.html#a0f934d15b1a3e0fd3458f0f2b9df0b31" title=" " alt="" coords="683,104,836,131"/>
+<area shape="poly" id="edge7_Node000002_Node000005" title=" " alt="" coords="402,109,635,108,668,109,667,115,635,113,402,114"/>
+<area shape="rect" id="Node000007" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="684,159,835,185"/>
+<area shape="poly" id="edge8_Node000002_Node000007" title=" " alt="" coords="347,134,395,157,450,175,506,183,563,186,668,181,669,187,563,191,505,188,448,180,393,162,345,139"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="635,130,667,126,668,131,636,135"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="636,153,669,158,668,163,635,159"/>
+<area shape="rect" id="Node000006" href="$class_sai_serialize_interface.html#ac1267fe86b704633a47c483dcc8e1379" title=" " alt="" coords="884,96,1044,139"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="836,115,868,115,868,120,836,120"/>
+</map>

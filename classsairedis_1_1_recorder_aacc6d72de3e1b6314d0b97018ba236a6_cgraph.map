@@ -1,0 +1,18 @@
+<map id="sairedis::Recorder::recordRemove" name="sairedis::Recorder::recordRemove">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,101,133,144"/>
+<area shape="rect" id="Node000002" href="$classsairedis_1_1_recorder.html#a1ad26a924d733174be32704b4e4b31b9" title=" " alt="" coords="181,72,340,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,110,164,105,165,111,134,116"/>
+<area shape="rect" id="Node000007" href="$mock__sai__serialize_8cpp.html#aa06e96f943a8f2451c89c65d2fecbef5" title=" " alt="" coords="388,139,555,165"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="133,125,373,142,372,147,133,130"/>
+<area shape="rect" id="Node000003" href="$classsairedis_1_1_recorder.html#a98a36a0c0b73b0527a1902df57d5c7e1" title=" " alt="" coords="408,9,535,52"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="334,69,392,51,394,56,335,74"/>
+<area shape="rect" id="Node000005" href="$mock__sai__serialize_8cpp.html#a0f934d15b1a3e0fd3458f0f2b9df0b31" title=" " alt="" coords="396,80,548,107"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="341,91,380,91,380,96,341,96"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="340,113,408,132,406,137,339,118"/>
+<area shape="rect" id="Node000004" href="$classsairedis_1_1_recorder.html#a384b62241f24b8c4b04be51dc8fc3a4c" title=" " alt="" coords="627,5,755,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="536,27,612,25,612,31,536,32"/>
+<area shape="rect" id="Node000006" href="$class_sai_serialize_interface.html#ac1267fe86b704633a47c483dcc8e1379" title=" " alt="" coords="611,72,771,115"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="548,91,595,91,595,96,548,96"/>
+<area shape="rect" id="Node000008" href="$class_sai_serialize_interface.html#a29d73fb00b962109388850736a5a02a3" title=" " alt="" coords="603,139,779,181"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="556,152,588,154,587,159,555,158"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="sai_queue_pfc_deadlock_notification" name="sai_queue_pfc_deadlock_notification">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,170,73"/>
+<area shape="rect" id="Node000002" href="$pysairedis_8cpp.html#a07f0511c09bce5384401c07f080717a1" title=" " alt="" coords="250,5,337,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,36,234,25,235,31,171,41"/>
+<area shape="rect" id="Node000003" href="$pysairedis_8cpp.html#ac56f920d28fdd2a12684da96f368149f" title=" " alt="" coords="218,56,369,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="171,63,203,68,202,73,170,68"/>
+</map>

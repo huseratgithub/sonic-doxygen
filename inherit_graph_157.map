@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$class_pbh_entity_capabilities.html" title=" " alt="" coords="5,81,152,108"/>
+<area shape="rect" id="Node000001" href="$class_pbh_hash_capabilities.html" title=" " alt="" coords="214,5,357,32"/>
+<area shape="poly" id="edge131_Node000000_Node000001" title=" " alt="" coords="123,72,199,41,233,30,235,35,201,47,125,77"/>
+<area shape="rect" id="Node000002" href="$class_pbh_hash_field_capabilities.html" title=" " alt="" coords="200,56,371,83"/>
+<area shape="poly" id="edge132_Node000000_Node000002" title=" " alt="" coords="166,81,199,77,199,83,167,87"/>
+<area shape="rect" id="Node000003" href="$class_pbh_rule_capabilities.html" title=" " alt="" coords="216,107,355,133"/>
+<area shape="poly" id="edge133_Node000000_Node000003" title=" " alt="" coords="167,103,215,109,215,114,167,108"/>
+<area shape="rect" id="Node000004" href="$class_pbh_table_capabilities.html" title=" " alt="" coords="214,157,357,184"/>
+<area shape="poly" id="edge134_Node000000_Node000004" title=" " alt="" coords="125,112,201,143,235,154,233,159,199,148,123,117"/>
+</map>

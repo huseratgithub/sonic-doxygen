@@ -1,0 +1,42 @@
+<map id="trim" name="trim">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1404,213,1448,240"/>
+<area shape="rect" id="Node000002" href="$class_l3_admit_manager.html#af5e74e5ac9d3b2d741ad2fe077a00786" title=" " alt="" coords="1160,80,1349,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1409,201,1386,168,1355,137,1336,126,1338,121,1358,133,1390,164,1413,198"/>
+<area shape="rect" id="Node000008" href="$namespacep4orch.html#a1c2426febe5272c9bcd6e72b35af4ea0" title=" " alt="" coords="1152,147,1356,189"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1389,216,1355,204,1322,192,1324,187,1357,199,1391,211"/>
+<area shape="rect" id="Node000017" href="$namespacep4orch.html#ab3f2ad3620738622893364399fa5ea8e" title=" " alt="" coords="1160,213,1349,240"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="1389,229,1349,229,1349,224,1389,224"/>
+<area shape="rect" id="Node000018" href="$classp4orch_1_1_acl_rule_manager.html#a6d1108a6bc0dbd7e90a030e85965f265" title=" " alt="" coords="923,243,1087,285"/>
+<area shape="poly" id="edge19_Node000001_Node000018" title=" " alt="" coords="1391,244,1357,255,1286,265,1215,270,1087,271,1087,266,1214,265,1286,260,1356,249,1389,239"/>
+<area shape="rect" id="Node000019" href="$namespacep4orch.html#a01981d8bf530b47b67099044b1f6918b" title=" " alt="" coords="1166,315,1342,341"/>
+<area shape="poly" id="edge20_Node000001_Node000019" title=" " alt="" coords="1407,254,1385,277,1358,298,1317,317,1315,312,1355,294,1381,273,1403,250"/>
+<area shape="rect" id="Node000003" href="$class_l3_admit_manager_test.html#aab1585eea502eba7b1b6c1c9b06c8da4" title=" " alt="" coords="906,5,1104,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1157,78,1104,64,1105,59,1158,73"/>
+<area shape="rect" id="Node000004" href="$class_l3_admit_manager.html#a6d5f66b79551cca7f612f2eb3a7edcf7" title=" " alt="" coords="927,88,1082,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="1144,104,1083,104,1083,99,1144,99"/>
+<area shape="rect" id="Node000006" href="$class_l3_admit_manager.html#af280dd7e98d79c957b3d774d3f405553" title=" " alt="" coords="910,139,1100,165"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="1144,126,1075,141,1074,135,1143,121"/>
+<area shape="rect" id="Node000005" href="$class_l3_admit_manager_test.html#ad4928e314d64f9d482b04a9e54c599f7" title=" " alt="" coords="703,72,847,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="911,101,848,99,848,93,911,95"/>
+<area shape="rect" id="Node000007" href="$class_l3_admit_manager_test.html#a4e239541bf15644e683af9ba304228ce" title=" " alt="" coords="703,139,847,181"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="894,159,848,160,847,155,894,153"/>
+<area shape="rect" id="Node000009" href="$classp4orch_1_1_acl_rule_manager.html#a948b967ea05a1ce14255fb5da49cc922" title=" " alt="" coords="692,243,858,285"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="1137,189,906,233,858,245,857,239,905,228,1136,184"/>
+<area shape="rect" id="Node000010" href="$classp4orch_1_1_acl_rule_manager.html#afbd86b067eb64aa7f430e88ae2d70e05" title=" " alt="" coords="470,209,644,252"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="676,252,644,247,645,241,677,246"/>
+<area shape="rect" id="Node000014" href="$classp4orch_1_1_acl_rule_manager.html#ac72952d4a6734d05dbec68f7dd15473b" title=" " alt="" coords="475,276,639,319"/>
+<area shape="poly" id="edge13_Node000009_Node000014" title=" " alt="" coords="677,282,640,287,639,282,676,276"/>
+<area shape="rect" id="Node000011" href="$classp4orch_1_1_acl_rule_manager.html#a76eb4bc553aa30ec22be75fa3f0c0ba6" title=" " alt="" coords="239,143,404,185"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="464,207,399,189,400,183,466,202"/>
+<area shape="rect" id="Node000013" href="$classp4orch_1_1test_1_1_acl_manager_test.html#a2153c5c93639953cd5de73748aa1f8f5" title=" " alt="" coords="221,209,422,252"/>
+<area shape="poly" id="edge12_Node000010_Node000013" title=" " alt="" coords="454,233,423,233,423,228,454,228"/>
+<area shape="rect" id="Node000012" href="$classp4orch_1_1test_1_1_acl_manager_test.html#a4d3bcd2131323c37771948895f9e7087" title=" " alt="" coords="5,143,173,185"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="224,167,173,167,173,161,224,161"/>
+<area shape="rect" id="Node000015" href="$classp4orch_1_1_acl_rule_manager.html#a3aab1d3b0f711413c110d033491d0755" title=" " alt="" coords="239,276,404,319"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="460,300,404,300,404,295,460,295"/>
+<area shape="rect" id="Node000016" href="$classp4orch_1_1test_1_1_acl_manager_test.html#a0ac92b117e6479ef310f852957c4e415" title=" " alt="" coords="5,276,173,319"/>
+<area shape="poly" id="edge15_Node000015_Node000016" title=" " alt="" coords="224,300,173,300,173,295,224,295"/>
+<area shape="poly" id="edge17_Node000017_Node000018" title=" " alt="" coords="1146,246,1088,254,1087,249,1145,240"/>
+<area shape="poly" id="edge18_Node000018_Node000009" title=" " alt="" coords="907,267,858,267,858,261,907,261"/>
+<area shape="poly" id="edge21_Node000019_Node000009" title=" " alt="" coords="1151,326,1033,317,905,300,852,289,853,283,906,295,1033,311,1151,321"/>
+</map>

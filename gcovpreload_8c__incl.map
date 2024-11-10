@@ -1,0 +1,13 @@
+<map id="E:/GitHub/SONiC/202211/sonic&#45;buildimage/src/sonic&#45;swss/gcovpreload/gcovpreload.c" name="E:/GitHub/SONiC/202211/sonic&#45;buildimage/src/sonic&#45;swss/gcovpreload/gcovpreload.c">
+<area shape="rect" id="Node000001" title=" " alt="" coords="36,5,206,80"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,128,66,155"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,82,59,118,55,114,87,79"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="89,128,152,155"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="124,80,124,112,118,112,118,80"/>
+<area shape="rect" id="Node000004" href="$_signal_8h.html" title=" " alt="" coords="177,128,243,155"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="157,78,190,114,186,118,153,82"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="89,203,214,229"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="202,157,173,192,169,189,198,154"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="239,203,296,229"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="222,154,250,189,246,192,218,157"/>
+</map>

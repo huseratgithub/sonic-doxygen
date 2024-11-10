@@ -1,0 +1,11 @@
+<map id="sairedis::RedisRemoteSaiInterface::isRedisAttribute" name="sairedis::RedisRemoteSaiInterface::isRedisAttribute">
+<area shape="rect" id="Node000001" title="Checks whether attribute is custom SAI_REDIS_SWITCH attribute." alt="" coords="227,104,400,147"/>
+<area shape="rect" id="Node000002" href="$classsairedis_1_1_client_sai.html#af7f429f61e23b1386279c14048b04e49" title=" " alt="" coords="15,29,169,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="250,100,178,71,143,59,145,54,180,65,252,95"/>
+<area shape="rect" id="Node000003" href="$classsairedis_1_1_redis_remote_sai_interface.html#ad301b776e0e8fe18a2ec81f5f84a0e46" title=" " alt="" coords="5,104,179,147"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="211,128,179,128,179,123,211,123"/>
+<area shape="rect" id="Node000004" href="$classsairedis_1_1_sai.html#a6b9126e4cdd26b533351eb3f10730c61" title=" " alt="" coords="32,171,152,197"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="217,154,146,173,144,168,215,149"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="130,16,117,10,92,8,69,10,56,15,53,20,59,27,55,30,48,21,53,11,68,5,92,3,118,5,132,12"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="128,91,114,85,92,83,71,85,58,89,53,95,55,103,50,104,48,94,55,85,70,79,92,77,116,80,130,86"/>
+</map>

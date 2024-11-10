@@ -1,0 +1,20 @@
+<map id="EntityBulker::remove_entry" name="EntityBulker::remove_entry">
+<area shape="rect" id="Node000001" title=" " alt="" coords="698,119,842,161"/>
+<area shape="rect" id="Node000002" href="$class_route_manager.html#a164f124dcc86c112074a4debe77d4e4a" title=" " alt="" coords="458,60,642,103"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="683,120,632,106,633,101,684,114"/>
+<area shape="rect" id="Node000006" href="$class_route_orch.html#ab2e6d45937f93a316c59461e331dcec0" title=" " alt="" coords="449,127,650,153"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="683,143,651,143,651,137,683,137"/>
+<area shape="rect" id="Node000009" href="$class_route_orch.html#a8d3f6b2a1c2bc9ad347423a119abf058" title=" " alt="" coords="464,177,635,204"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="684,162,612,179,610,174,683,157"/>
+<area shape="rect" id="Node000003" href="$class_route_manager_test.html#a3d1f651dd5bf8155833f04c88c9f96fb" title=" " alt="" coords="224,5,401,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="442,59,401,50,402,44,443,54"/>
+<area shape="rect" id="Node000004" href="$class_route_manager.html#a5a5144eade05de47856be7b11841c4f2" title=" " alt="" coords="241,72,384,99"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="442,86,384,87,384,81,442,80"/>
+<area shape="rect" id="Node000005" href="$class_route_manager_test.html#aa652ad95623849b75312e7309faf46f5" title=" " alt="" coords="5,72,176,99"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="226,88,176,88,176,83,226,83"/>
+<area shape="rect" id="Node000007" href="$class_route_orch.html#a3885491297415573caec9badfd84955c" title=" " alt="" coords="230,127,395,153"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="433,143,395,143,395,137,433,137"/>
+<area shape="rect" id="Node000008" href="$class_route_orch.html#a8abe02697428cebf9f6a966ad81e6670" title=" " alt="" coords="23,148,158,175"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="215,152,158,158,158,152,214,147"/>
+<area shape="poly" id="edge9_Node000009_Node000008" title=" " alt="" coords="449,187,158,168,158,163,449,182"/>
+</map>

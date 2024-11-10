@@ -1,0 +1,10 @@
+<map id="saivs::SwitchStateBase::set_acl_entry_min_prio" name="saivs::SwitchStateBase::set_acl_entry_min_prio">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,21,169,64"/>
+<area shape="rect" id="Node000002" href="$classsaivs_1_1_switch_state_base.html#ad2a4aeb845eb777c5abd9d7b3fce6798" title=" " alt="" coords="217,29,404,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,40,201,40,201,45,169,45"/>
+<area shape="poly" id="edge4_Node000002_Node000002" title=" " alt="" coords="274,30,267,21,271,11,286,5,310,3,336,5,350,12,348,16,335,10,310,8,287,10,275,15,272,20,278,27"/>
+<area shape="rect" id="Node000003" href="$mock__sai__serialize_8cpp.html#a0f934d15b1a3e0fd3458f0f2b9df0b31" title=" " alt="" coords="452,29,604,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="404,40,437,40,437,45,404,45"/>
+<area shape="rect" id="Node000004" href="$class_sai_serialize_interface.html#ac1267fe86b704633a47c483dcc8e1379" title=" " alt="" coords="652,21,813,64"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="605,40,637,40,637,45,605,45"/>
+</map>

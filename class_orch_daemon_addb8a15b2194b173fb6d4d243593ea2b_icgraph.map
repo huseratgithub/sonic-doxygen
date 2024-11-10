@@ -1,0 +1,13 @@
+<map id="OrchDaemon::getTaskToSync" name="OrchDaemon::getTaskToSync">
+<area shape="rect" id="Node000001" title=" " alt="" coords="720,35,917,61"/>
+<area shape="rect" id="Node000002" href="$class_orch_daemon.html#a6ec204c1ec681b92547155808d30160d" title=" " alt="" coords="442,8,662,35"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="704,39,662,35,662,30,705,34"/>
+<area shape="rect" id="Node000004" href="$class_orch_daemon.html#a02a6697d01c74a22087f3d313ad977b8" title=" " alt="" coords="432,60,672,87"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="705,61,673,65,673,59,704,56"/>
+<area shape="rect" id="Node000003" href="$class_orch_daemon.html#ae58bc9b6f26921583c2fe787b63f1c59" title=" " alt="" coords="214,5,346,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="427,23,347,22,347,17,427,17"/>
+<area shape="rect" id="Node000005" href="$class_orch_daemon.html#a7a9bb85696ac0ac24465db274a3e0966" title=" " alt="" coords="177,56,384,99"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="416,78,384,78,384,73,416,73"/>
+<area shape="rect" id="Node000006" href="$class_orch_daemon.html#a1b898b706e2ce933ac2bc15c4b77c2a0" title=" " alt="" coords="5,64,129,91"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="161,80,129,80,129,75,161,75"/>
+</map>

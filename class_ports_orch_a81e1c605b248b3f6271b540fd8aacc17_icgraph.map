@@ -1,0 +1,9 @@
+<map id="PortsOrch::getPortPfcWatchdogStatus" name="PortsOrch::getPortPfcWatchdogStatus">
+<area shape="rect" id="Node000001" title=" " alt="" coords="512,35,720,77"/>
+<area shape="rect" id="Node000002" href="$class_pfc_wd_sw_orch.html#a12ef3c56aa226e2cb09bcba4dafd1820" title=" " alt="" coords="262,5,459,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="496,45,459,41,460,35,497,40"/>
+<area shape="rect" id="Node000003" href="$class_pfc_wd_sw_orch.html#a6e06e9f3a610b2b628fad324c4fc57ff" title=" " alt="" coords="257,72,464,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="497,72,465,76,464,71,496,67"/>
+<area shape="rect" id="Node000004" href="$class_pfc_wd_sw_orch.html#ac64ba62fbc6e79280f2b8b2375cc53b5" title=" " alt="" coords="5,72,209,99"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="241,88,209,88,209,83,241,83"/>
+</map>

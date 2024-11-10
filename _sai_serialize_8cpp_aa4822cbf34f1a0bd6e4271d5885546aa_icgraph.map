@@ -1,0 +1,11 @@
+<map id="sai_deserialize_queue_deadlock" name="sai_deserialize_queue_deadlock">
+<area shape="rect" id="Node000001" title=" " alt="" coords="716,43,866,85"/>
+<area shape="rect" id="Node000002" href="$_sai_serialize_8cpp.html#a379be3f63364cb438699434f2988a5fa" title=" " alt="" coords="519,43,668,85"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="701,67,669,67,669,61,701,61"/>
+<area shape="rect" id="Node000003" href="$classsyncd_1_1_notification_processor.html#a31ac6792998fdc5788ec726379e93588" title=" " alt="" coords="262,5,452,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="504,53,452,44,452,39,505,47"/>
+<area shape="rect" id="Node000005" href="$classsairedis_1_1_notification_queue_pfc_deadlock.html#adbb95108606a8fb0bb86ad26faa046ef" title=" " alt="" coords="243,72,471,131"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="504,81,472,86,471,81,504,75"/>
+<area shape="rect" id="Node000004" href="$classsyncd_1_1_notification_processor.html#a98d729e95c17d94bad6c7fbd45944880" title=" " alt="" coords="5,5,195,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="247,29,195,29,195,24,247,24"/>
+</map>

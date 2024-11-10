@@ -1,0 +1,7 @@
+<map id="sai_serialize_nat_entry_type" name="sai_serialize_nat_entry_type">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,192,32"/>
+<area shape="rect" id="Node000002" href="$_sai_serialize_8cpp.html#a65eb8ea2354cbfadd0a6075124116a68" title=" " alt="" coords="240,5,372,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,16,224,16,224,21,192,21"/>
+<area shape="rect" id="Node000003" href="$_sai_serialize_8cpp.html#a97543edb8d3f82c33b2ba86825bf5cc9" title=" " alt="" coords="420,5,563,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="372,16,405,16,405,21,372,21"/>
+</map>

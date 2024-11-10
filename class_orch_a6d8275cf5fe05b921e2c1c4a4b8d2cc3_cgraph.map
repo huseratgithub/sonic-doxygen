@@ -1,0 +1,12 @@
+<map id="Orch::dumpTuple" name="Orch::dumpTuple">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,127,32"/>
+<area shape="rect" id="Node000002" href="$class_consumer.html#a0ea7e7cf90b54f615b0c83b386911f46" title=" " alt="" coords="175,5,328,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,16,159,16,159,21,127,21"/>
+<area shape="rect" id="Node000003" href="$class_consumer.html#ada2ca4c7c5b14f67901cd9afb5a3281a" title=" " alt="" coords="597,5,796,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="328,16,582,16,582,21,328,21"/>
+<area shape="rect" id="Node000005" href="$class_consumer.html#a4d8ac8759e33c65ef72d8d9741bb0c22" title=" " alt="" coords="376,31,549,57"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="329,25,361,29,360,34,328,31"/>
+<area shape="rect" id="Node000004" href="$class_executor.html#a589127ba11df8a10f3ee4f4f6e69c7fe" title=" " alt="" coords="844,5,1004,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="796,16,828,16,828,21,796,21"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="549,32,581,28,582,34,550,37"/>
+</map>

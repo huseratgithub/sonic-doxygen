@@ -1,0 +1,33 @@
+<map id="SaiPolicerInterface::remove_policer" name="SaiPolicerInterface::remove_policer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="593,317,725,360"/>
+<area shape="rect" id="Node000002" href="$mock__sai__policer_8h.html#a3617e1438238c2d1accf00c4ba865c68" title=" " alt="" coords="436,325,545,352"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="578,341,546,341,546,336,578,336"/>
+<area shape="rect" id="Node000003" href="$classp4orch_1_1test_1_1_acl_manager_test.html#afe0e41f540e300c5817c68a95db36bf3" title=" " alt="" coords="221,5,388,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="484,310,475,258,458,192,429,123,410,91,386,62,372,51,376,47,390,58,414,87,434,120,463,190,481,257,489,309"/>
+<area shape="rect" id="Node000005" href="$namespacep4orch_1_1test.html#ae8bd852e9aeb318eeefd88f7251dbc42" title=" " alt="" coords="231,72,378,99"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="482,311,471,267,453,214,425,159,407,134,386,113,369,102,372,97,390,109,411,131,430,156,458,212,477,266,487,310"/>
+<area shape="rect" id="Node000006" href="$namespacep4orch_1_1test.html#ae09e30d3ebcdfaae5ef32ec5697e0335" title=" " alt="" coords="231,123,378,149"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="478,312,465,277,445,237,419,197,386,163,368,152,370,148,390,159,423,194,450,235,470,275,483,310"/>
+<area shape="rect" id="Node000007" href="$namespacep4orch_1_1test.html#a2575c15661b31eda7980d70bcce85168" title=" " alt="" coords="231,173,378,200"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="472,314,437,263,413,237,387,214,365,203,367,198,389,210,417,233,441,259,477,310"/>
+<area shape="rect" id="Node000008" href="$namespacep4orch_1_1test.html#a0f22a9fff0643311f5eb4d7208a6cdb6" title=" " alt="" coords="231,224,378,251"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="461,317,427,290,387,265,359,254,361,249,389,260,430,286,465,313"/>
+<area shape="rect" id="Node000009" href="$namespacep4orch_1_1test.html#af262550514f5c995966ee8ec586cbcd7" title=" " alt="" coords="231,275,378,301"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="424,323,355,305,357,299,425,318"/>
+<area shape="rect" id="Node000010" href="$namespacep4orch_1_1test.html#a3fa77f1cd3fe455e0fd952493a591c03" title=" " alt="" coords="231,325,378,352"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="421,341,378,341,378,336,421,336"/>
+<area shape="rect" id="Node000011" href="$namespacep4orch_1_1test.html#a72784c49352fafccbef3b642201926e3" title=" " alt="" coords="231,376,378,403"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="425,359,357,378,355,373,424,354"/>
+<area shape="rect" id="Node000012" href="$namespacep4orch_1_1test.html#abbbca548ab7b97b2f6119f405e175f8b" title=" " alt="" coords="231,427,378,453"/>
+<area shape="poly" id="edge11_Node000002_Node000012" title=" " alt="" coords="465,364,430,392,389,417,361,429,359,424,387,412,427,387,461,360"/>
+<area shape="rect" id="Node000013" href="$namespacep4orch_1_1test.html#ae8296105953df63d4f5e8fa592406b71" title=" " alt="" coords="231,477,378,504"/>
+<area shape="poly" id="edge12_Node000002_Node000013" title=" " alt="" coords="477,367,441,418,417,445,389,468,367,479,365,474,387,463,413,441,437,415,472,364"/>
+<area shape="rect" id="Node000014" href="$namespacep4orch_1_1test.html#a567179fa757702861532c48952e3f558" title=" " alt="" coords="231,528,378,555"/>
+<area shape="poly" id="edge13_Node000002_Node000014" title=" " alt="" coords="483,368,470,402,450,443,423,483,390,518,370,530,368,525,386,514,419,480,445,440,465,400,478,366"/>
+<area shape="rect" id="Node000015" href="$namespacep4orch_1_1test.html#a26c14dfa83f5963b139a0e1947c4c05a" title=" " alt="" coords="231,579,378,605"/>
+<area shape="poly" id="edge14_Node000002_Node000015" title=" " alt="" coords="487,368,477,412,458,466,430,521,411,546,390,569,372,580,369,576,386,565,407,543,425,518,453,464,471,410,482,366"/>
+<area shape="rect" id="Node000016" href="$namespacep4orch_1_1test.html#a9cc67eb5a1c56b5cf939c6d2778c1c7d" title=" " alt="" coords="231,629,378,656"/>
+<area shape="poly" id="edge15_Node000002_Node000016" title=" " alt="" coords="490,368,482,421,465,489,436,558,415,591,390,619,373,631,370,627,386,615,411,588,431,556,460,487,477,420,484,367"/>
+<area shape="rect" id="Node000004" href="$classp4orch_1_1test_1_1_acl_manager_test.html#add91d8371c8bfc89375086fff15b32ca" title=" " alt="" coords="5,5,173,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="205,29,173,29,173,24,205,24"/>
+</map>

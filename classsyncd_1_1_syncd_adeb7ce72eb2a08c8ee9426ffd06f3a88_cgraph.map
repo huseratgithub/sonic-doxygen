@@ -1,0 +1,7 @@
+<map id="syncd::Syncd::performStartupLogic" name="syncd::Syncd::performStartupLogic">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,201,81"/>
+<area shape="rect" id="Node000002" href="$classsyncd_1_1_syncd.html#ac7a2170a173784ef1b838fa1a3b629e1" title=" " alt="" coords="263,5,428,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,44,247,37,248,43,201,49"/>
+<area shape="rect" id="Node000003" href="$classsyncd_1_1_command_line_options.html#a793012df9d47b73ee93609d0f9fbe863" title=" " alt="" coords="249,72,442,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="201,71,233,75,233,81,201,76"/>
+</map>

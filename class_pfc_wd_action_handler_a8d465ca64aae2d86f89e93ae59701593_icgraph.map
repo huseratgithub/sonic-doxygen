@@ -1,0 +1,13 @@
+<map id="PfcWdActionHandler::getQueueStats" name="PfcWdActionHandler::getQueueStats">
+<area shape="rect" id="Node000001" title=" " alt="" coords="703,72,847,115"/>
+<area shape="rect" id="Node000002" href="$class_pfc_wd_action_handler.html#aa99221cca6871eee81ef3746ddd1e3cf" title=" " alt="" coords="512,5,655,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="697,69,646,51,648,46,699,64"/>
+<area shape="rect" id="Node000003" href="$class_pfc_wd_action_handler.html#afd622d5486b82ffdf1f703e2a550f4bd" title=" " alt="" coords="512,72,655,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="688,96,656,96,656,91,688,91"/>
+<area shape="rect" id="Node000004" href="$class_pfc_wd_action_handler.html#a61a6c1b4aed49a2697e4209ae9118c95" title=" " alt="" coords="512,139,655,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="699,123,648,141,646,136,697,118"/>
+<area shape="rect" id="Node000005" href="$class_pfc_wd_sw_orch.html#a6e06e9f3a610b2b628fad324c4fc57ff" title=" " alt="" coords="257,147,464,173"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="497,163,464,163,464,157,497,157"/>
+<area shape="rect" id="Node000006" href="$class_pfc_wd_sw_orch.html#ac64ba62fbc6e79280f2b8b2375cc53b5" title=" " alt="" coords="5,147,209,173"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="241,163,209,163,209,157,241,157"/>
+</map>

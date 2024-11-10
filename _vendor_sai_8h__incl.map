@@ -1,0 +1,18 @@
+<map id="E:/GitHub/SONiC/202211/sonic&#45;buildimage/src/sonic&#45;sairedis/syncd/VendorSai.h" name="E:/GitHub/SONiC/202211/sonic&#45;buildimage/src/sonic&#45;sairedis/syncd/VendorSai.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="182,5,400,64"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,187,55,213"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,50,148,59,114,73,82,91,55,114,45,127,39,141,33,172,28,171,34,140,41,124,51,110,79,86,111,68,146,54,181,45"/>
+<area shape="rect" id="Node000003" href="$_sai_interface_8h.html" title=" " alt="" coords="65,112,200,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="241,67,169,107,167,102,239,62"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="225,112,278,139"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="281,65,266,99,261,96,276,63"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="303,112,360,139"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="307,63,322,96,317,99,302,65"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="384,112,452,139"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="334,62,389,101,386,105,331,67"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="476,112,533,139"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="362,62,462,104,460,109,360,67"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="116,141,62,179,59,175,113,137"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="81,187,184,213"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="135,139,135,171,130,171,130,139"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="RouteUpdater::checkAction" name="RouteUpdater::checkAction">
+<area shape="rect" id="Node000001" title=" " alt="" coords="460,31,642,57"/>
+<area shape="rect" id="Node000002" href="$class_route_updater.html#a55289dacf3ae5f05da0e6c4d0ddd67c9" title=" " alt="" coords="245,31,412,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="445,47,413,47,413,41,445,41"/>
+<area shape="rect" id="Node000003" href="$class_route_updater.html#a4231c455b27590cd5c945c20b2129667" title=" " alt="" coords="5,5,197,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="229,36,197,32,198,27,230,30"/>
+<area shape="rect" id="Node000004" href="$class_route_updater.html#a86f0f023c4081df2816a38cba4d5ce3e" title=" " alt="" coords="7,56,195,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="230,58,195,62,195,56,229,52"/>
+</map>

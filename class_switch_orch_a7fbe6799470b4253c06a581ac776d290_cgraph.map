@@ -1,0 +1,7 @@
+<map id="SwitchOrch::querySwitchTpidCapability" name="SwitchOrch::querySwitchTpidCapability">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,200,81"/>
+<area shape="rect" id="Node000002" href="$sai__redis__interfacequery_8cpp.html#a2d4cf4d27d8fd0fcf37e4cae1ea25fb5" title=" " alt="" coords="262,5,394,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,43,247,36,248,41,201,48"/>
+<area shape="rect" id="Node000003" href="$class_switch_orch.html#a2cab73bdab6338953a86c636178006a3" title=" " alt="" coords="248,72,408,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="201,72,232,77,231,82,200,77"/>
+</map>

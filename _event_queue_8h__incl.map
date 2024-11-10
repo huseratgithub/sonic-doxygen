@@ -1,0 +1,20 @@
+<map id="E:/GitHub/SONiC/202211/sonic&#45;buildimage/src/sonic&#45;sairedis/vslib/EventQueue.h" name="E:/GitHub/SONiC/202211/sonic&#45;buildimage/src/sonic&#45;sairedis/vslib/EventQueue.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="352,5,575,64"/>
+<area shape="rect" id="Node000002" href="$_event_8h.html" title=" " alt="" coords="202,112,268,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="390,67,283,108,281,104,388,62"/>
+<area shape="rect" id="Node000006" href="$_signal_8h.html" title=" " alt="" coords="393,112,462,139"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="454,65,441,99,436,97,449,63"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="493,187,551,213"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="476,63,515,171,510,173,471,65"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="536,112,593,139"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="498,62,541,99,537,104,494,66"/>
+<area shape="rect" id="Node000003" href="$_event_payload_8h.html" title=" " alt="" coords="5,187,119,213"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="206,142,107,183,105,178,204,137"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="142,187,227,213"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="229,141,204,176,200,173,224,138"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="250,187,319,213"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="246,138,270,172,265,175,242,141"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="343,187,469,213"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="426,140,417,173,411,171,421,138"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="445,137,495,175,492,179,442,141"/>
+</map>

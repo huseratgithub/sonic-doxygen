@@ -1,0 +1,24 @@
+<map id="swss::MclagLink::getSendMsgBuffer" name="swss::MclagLink::getSendMsgBuffer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="656,147,832,190"/>
+<area shape="rect" id="Node000002" href="$classswss_1_1_mclag_link.html#a60a4b48ae62e413bb2cd610bd638a521" title=" " alt="" coords="411,51,608,94"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="675,144,563,97,565,92,677,139"/>
+<area shape="rect" id="Node000005" href="$classswss_1_1_mclag_link.html#a59ba1b235c2a31ccef6a918f344c71bc" title=" " alt="" coords="134,118,332,161"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="640,165,332,148,332,142,641,160"/>
+<area shape="rect" id="Node000006" href="$classswss_1_1_mclag_link.html#a29394891de36b34cd9b408a37b354ea5" title=" " alt="" coords="423,177,596,219"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="641,184,597,190,597,184,640,179"/>
+<area shape="rect" id="Node000008" href="$classswss_1_1_mclag_link.html#a8757039b045336349c7459a902729a7d" title=" " alt="" coords="422,273,597,315"/>
+<area shape="poly" id="edge11_Node000001_Node000008" title=" " alt="" coords="691,200,553,274,550,270,688,195"/>
+<area shape="rect" id="Node000003" href="$mclagsyncd_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="5,155,55,182"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="443,48,369,25,281,10,235,8,189,12,145,23,104,42,77,66,57,97,44,130,37,156,32,154,39,128,52,95,73,62,101,37,143,18,188,7,235,3,281,5,370,20,444,43"/>
+<area shape="rect" id="Node000004" href="$classswss_1_1_mclag_link.html#a7eab1f6ecb13c307f0adf4a98daf95d1" title=" " alt="" coords="103,51,363,94"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="395,75,364,75,364,70,395,70"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="116,103,104,108,71,132,45,157,41,153,67,128,101,104,113,98"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="119,158,55,168,55,163,118,153"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="407,194,55,173,55,167,407,189"/>
+<area shape="rect" id="Node000007" href="$classswss_1_1_mclag_link.html#ac236ec1528b8d55bc94085ca23ec56f8" title=" " alt="" coords="128,235,338,278"/>
+<area shape="poly" id="edge9_Node000006_Node000007" title=" " alt="" coords="408,222,337,237,336,232,407,217"/>
+<area shape="poly" id="edge10_Node000007_Node000003" title=" " alt="" coords="133,232,101,219,47,185,50,180,104,214,135,227"/>
+<area shape="rect" id="Node000009" href="$classswss_1_1_mclag_link.html#ad643a04498f4cdd80da2b1accff0f7d4" title=" " alt="" coords="146,302,320,345"/>
+<area shape="poly" id="edge12_Node000008_Node000009" title=" " alt="" coords="407,307,320,317,320,311,407,302"/>
+<area shape="poly" id="edge13_Node000009_Node000003" title=" " alt="" coords="130,308,101,292,75,266,56,236,33,183,38,181,61,234,80,263,104,288,133,304"/>
+</map>

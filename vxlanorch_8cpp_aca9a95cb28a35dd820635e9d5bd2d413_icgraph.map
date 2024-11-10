@@ -1,0 +1,11 @@
+<map id="remove_tunnel_map_entry" name="remove_tunnel_map_entry">
+<area shape="rect" id="Node000001" title=" " alt="" coords="467,72,641,99"/>
+<area shape="rect" id="Node000002" href="$class_vxlan_tunnel_map_orch.html#a76be3f8301b2e8ba65ed3b066be779de" title=" " alt="" coords="243,5,390,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="482,70,389,47,391,42,483,65"/>
+<area shape="rect" id="Node000003" href="$class_vxlan_vrf_map_orch.html#ab49a60e5058f0cdab5134840829f25f1" title=" " alt="" coords="214,72,418,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="452,88,419,88,419,83,452,83"/>
+<area shape="rect" id="Node000004" href="$class_vxlan_tunnel_orch.html#a2faf5b2baf27da8f437f2fc18320c9e9" title=" " alt="" coords="214,123,419,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="483,105,406,125,405,119,482,100"/>
+<area shape="rect" id="Node000005" href="$class_v_net_orch.html#a03fdaa8c9016f14eaf203592939096be" title=" " alt="" coords="5,131,166,157"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="199,147,166,147,166,141,199,141"/>
+</map>

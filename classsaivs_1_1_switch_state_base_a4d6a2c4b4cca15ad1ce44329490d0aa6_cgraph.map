@@ -1,0 +1,9 @@
+<map id="saivs::SwitchStateBase::findObjects" name="saivs::SwitchStateBase::findObjects">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,72,167,115"/>
+<area shape="rect" id="Node000002" href="$classsaivs_1_1_sai_attr_wrap.html#a36d827d87ec631108f90a797e2064f58" title=" " alt="" coords="233,5,363,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,69,217,49,218,54,157,74"/>
+<area shape="rect" id="Node000003" href="$classsaivs_1_1_sai_attr_wrap.html#a23c7c3270ad567567d1d991112478edf" title=" " alt="" coords="233,72,363,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="167,91,218,91,218,96,167,96"/>
+<area shape="rect" id="Node000004" href="$_sai_serialize_8cpp.html#a93ab044615abc111c2294290d8aaba45" title=" " alt="" coords="215,139,381,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="166,113,234,132,232,137,164,118"/>
+</map>

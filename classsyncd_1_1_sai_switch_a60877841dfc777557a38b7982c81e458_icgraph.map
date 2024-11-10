@@ -1,0 +1,7 @@
+<map id="syncd::SaiSwitch::saiGetPortLanes" name="syncd::SaiSwitch::saiGetPortLanes">
+<area shape="rect" id="Node000001" title="Get port lanes for specific port." alt="" coords="475,5,644,48"/>
+<area shape="rect" id="Node000002" href="$classsyncd_1_1_sai_switch.html#a574ebf79ff2c0e5bb599f6ebee619a29" title="Update lane map for specific port." alt="" coords="226,5,427,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="459,29,428,29,428,24,459,24"/>
+<area shape="rect" id="Node000003" href="$classsyncd_1_1_sai_switch.html#af63dd6b216da1847569bfdf1c241ec80" title="On post port create." alt="" coords="5,5,178,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="210,29,178,29,178,24,210,24"/>
+</map>

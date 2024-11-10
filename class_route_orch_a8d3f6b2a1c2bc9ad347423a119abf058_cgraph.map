@@ -1,0 +1,11 @@
+<map id="RouteOrch::removeRoute" name="RouteOrch::removeRoute">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,97,176,124"/>
+<area shape="rect" id="Node000002" href="$namespaceswss.html#a7d34265e7f829fc3f293af91b3a2fa34" title=" " alt="" coords="257,5,345,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,94,223,42,241,34,243,39,225,46,118,99"/>
+<area shape="rect" id="Node000003" href="$class_entity_bulker.html#a8d89cc53d2d9562873e1686864f6be7a" title=" " alt="" coords="228,56,374,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="176,94,212,89,213,94,177,100"/>
+<area shape="rect" id="Node000004" href="$class_entity_bulker.html#ae22ef92de48470bf1ffe00800fa745f2" title=" " alt="" coords="229,123,372,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="177,122,214,128,214,133,176,127"/>
+<area shape="rect" id="Node000005" href="$class_entity_bulker.html#adc9f2b1efb5aff6fcdd1d91f7a25c61f" title=" " alt="" coords="224,189,378,232"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="120,122,225,175,236,180,234,185,223,180,117,127"/>
+</map>

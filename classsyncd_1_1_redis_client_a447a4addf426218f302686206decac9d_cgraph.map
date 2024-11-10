@@ -1,0 +1,19 @@
+<map id="syncd::RedisClient::removeAsicObject" name="syncd::RedisClient::removeAsicObject">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,30,142,72"/>
+<area shape="rect" id="Node000002" href="$classsyncd_1_1_vid_manager.html#ab8924027adb966aadefa6fd231a914bf" title="Object type query." alt="" coords="203,30,344,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="142,48,187,48,187,54,142,54"/>
+<area shape="rect" id="Node000004" href="$mock__sai__serialize_8cpp.html#a0f934d15b1a3e0fd3458f0f2b9df0b31" title=" " alt="" coords="630,15,783,42"/>
+<area shape="poly" id="edge7_Node000001_Node000004" title=" " alt="" coords="138,26,189,15,304,5,419,3,526,8,616,15,615,20,526,13,419,9,304,10,190,20,139,32"/>
+<area shape="rect" id="Node000007" href="$mock__sai__serialize_8cpp.html#aa06e96f943a8f2451c89c65d2fecbef5" title=" " alt="" coords="190,126,357,152"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="125,71,228,117,226,122,123,75"/>
+<area shape="rect" id="Node000003" href="$classsairedis_1_1_virtual_object_id_manager.html#ad101fc291f99d20afa184f5b99911b3a" title="Object type query." alt="" coords="405,66,582,108"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="345,60,390,67,389,73,344,65"/>
+<area shape="poly" id="edge6_Node000002_Node000004" title=" " alt="" coords="344,45,615,30,615,36,344,50"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="573,63,640,44,642,49,574,68"/>
+<area shape="rect" id="Node000006" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="631,74,782,100"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="583,84,615,84,615,90,583,90"/>
+<area shape="rect" id="Node000005" href="$class_sai_serialize_interface.html#ac1267fe86b704633a47c483dcc8e1379" title=" " alt="" coords="831,7,991,50"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="783,26,815,26,815,31,783,31"/>
+<area shape="rect" id="Node000008" href="$class_sai_serialize_interface.html#a29d73fb00b962109388850736a5a02a3" title=" " alt="" coords="406,132,581,175"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="358,142,391,144,390,150,357,147"/>
+</map>

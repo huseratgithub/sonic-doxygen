@@ -1,0 +1,9 @@
+<map id="syncd::WatchdogScope::WatchdogScope" name="syncd::WatchdogScope::WatchdogScope">
+<area shape="rect" id="Node000001" title="Watchdog scope constructor." alt="" coords="5,39,165,81"/>
+<area shape="rect" id="Node000002" href="$classsyncd_1_1_timer_watchdog.html#a5b0c8ac6e5e2e996bb80d4ed39acef14" title=" " alt="" coords="213,5,368,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="165,44,197,39,198,44,166,50"/>
+<area shape="rect" id="Node000003" href="$classsyncd_1_1_timer_watchdog.html#a1233e1f8915cebde9b0ad953a402e40b" title=" " alt="" coords="213,72,368,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="166,70,198,76,197,81,165,76"/>
+<area shape="rect" id="Node000004" href="$classsyncd_1_1_timer_watchdog.html#ad590adb63dd96d927b3164a55aa2c456" title="Gets timestamp since epoch." alt="" coords="416,72,571,115"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="368,91,400,91,400,96,368,96"/>
+</map>

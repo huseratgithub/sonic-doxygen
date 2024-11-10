@@ -1,0 +1,21 @@
+<map id="PortsOrch::addQueueWatermarkFlexCountersPerPort" name="PortsOrch::addQueueWatermarkFlexCountersPerPort">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,131,216,173"/>
+<area shape="rect" id="Node000002" href="$class_ports_orch.html#a7b695ac8caff2540a331ea765e914e7c" title=" " alt="" coords="264,64,497,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="199,127,276,108,277,114,200,133"/>
+<area shape="rect" id="Node000009" href="$class_ports_orch.html#aa19e1b070cd075baf6be2b1b395a43b0" title=" " alt="" coords="283,131,478,173"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="216,149,267,149,267,155,216,155"/>
+<area shape="rect" id="Node000010" href="$class_flex_counter_queue_states.html#ad3e6864b4ecc96e8aaa736500c05d565" title=" " alt="" coords="295,197,466,240"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="200,171,281,191,279,197,199,177"/>
+<area shape="rect" id="Node000003" href="$class_ports_orch.html#ae19cbd576c2f55774f8fd8f145b65f1b" title=" " alt="" coords="545,5,752,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="480,61,533,49,534,54,482,66"/>
+<area shape="rect" id="Node000004" href="$mock__sai__serialize_8cpp.html#a0f934d15b1a3e0fd3458f0f2b9df0b31" title=" " alt="" coords="572,72,725,99"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="497,83,557,83,557,88,497,88"/>
+<area shape="rect" id="Node000006" href="$_sai_serialize_8cpp.html#a5077a52273392bcc85fde7d6913390b3" title=" " alt="" coords="566,124,731,151"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="494,105,562,118,561,123,493,110"/>
+<area shape="rect" id="Node000005" href="$class_sai_serialize_interface.html#ac1267fe86b704633a47c483dcc8e1379" title=" " alt="" coords="800,61,961,104"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="725,82,785,81,785,86,725,87"/>
+<area shape="rect" id="Node000007" href="$_sai_serialize_8cpp.html#a65eb8ea2354cbfadd0a6075124116a68" title=" " alt="" coords="814,128,947,155"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="731,136,799,137,799,143,731,141"/>
+<area shape="rect" id="Node000008" href="$_sai_serialize_8cpp.html#a97543edb8d3f82c33b2ba86825bf5cc9" title=" " alt="" coords="1009,128,1152,155"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="947,139,993,139,993,144,947,144"/>
+</map>

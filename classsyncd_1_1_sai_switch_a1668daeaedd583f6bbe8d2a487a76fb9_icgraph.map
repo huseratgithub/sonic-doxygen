@@ -1,0 +1,11 @@
+<map id="syncd::SaiSwitch::saiGetPortCount" name="syncd::SaiSwitch::saiGetPortCount">
+<area shape="rect" id="Node000001" title=" " alt="" coords="893,5,1062,48"/>
+<area shape="rect" id="Node000002" href="$classsyncd_1_1_sai_switch.html#a9acc541efa0a666322d062ee45097814" title=" " alt="" coords="675,5,845,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="877,29,845,29,845,24,877,24"/>
+<area shape="rect" id="Node000003" href="$classsyncd_1_1_sai_switch.html#a5e7f87c82ad6b1aa8df23799c6bec568" title=" " alt="" coords="458,5,627,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="660,29,628,29,628,24,660,24"/>
+<area shape="rect" id="Node000004" href="$classsyncd_1_1_sai_switch.html#a429e80069b02a38ed5ad4acc47a1681e" title=" " alt="" coords="244,5,410,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="443,29,411,29,411,24,443,24"/>
+<area shape="rect" id="Node000005" href="$classsyncd_1_1_sai_switch.html#a5a7847661fcfdb74725f3e02418d5148" title=" " alt="" coords="5,13,196,40"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="228,29,196,29,196,24,228,24"/>
+</map>

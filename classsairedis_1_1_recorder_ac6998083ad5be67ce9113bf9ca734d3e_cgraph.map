@@ -1,0 +1,14 @@
+<map id="sairedis::Recorder::recordQueryAttributeCapability" name="sairedis::Recorder::recordQueryAttributeCapability">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,68,213,111"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="64,68,63,58,70,49,86,43,109,41,134,44,149,50,147,55,133,49,109,47,87,49,73,53,68,59,70,67"/>
+<area shape="rect" id="Node000002" href="$mock__sai__serialize_8cpp.html#a0f934d15b1a3e0fd3458f0f2b9df0b31" title=" " alt="" coords="268,21,420,48"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="203,65,268,49,270,55,205,70"/>
+<area shape="rect" id="Node000004" href="$mock__sai__serialize_8cpp.html#aa06e96f943a8f2451c89c65d2fecbef5" title=" " alt="" coords="261,76,428,103"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="213,87,245,87,245,92,213,92"/>
+<area shape="rect" id="Node000006" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="269,127,420,153"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="212,109,265,120,264,125,210,114"/>
+<area shape="rect" id="Node000003" href="$class_sai_serialize_interface.html#ac1267fe86b704633a47c483dcc8e1379" title=" " alt="" coords="484,5,644,48"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="421,29,468,27,468,33,421,35"/>
+<area shape="rect" id="Node000005" href="$class_sai_serialize_interface.html#a29d73fb00b962109388850736a5a02a3" title=" " alt="" coords="476,72,651,115"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="428,88,460,89,460,94,428,94"/>
+</map>

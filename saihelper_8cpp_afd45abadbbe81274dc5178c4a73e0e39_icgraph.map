@@ -1,0 +1,9 @@
+<map id="mdio_read" name="mdio_read">
+<area shape="rect" id="Node000001" title=" " alt="" coords="424,5,506,32"/>
+<area shape="rect" id="Node000002" href="$saihelper_8cpp.html#af0aa07b60243d6a9ca93adaccfab78e9" title=" " alt="" coords="277,5,376,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="409,21,377,21,377,16,409,16"/>
+<area shape="rect" id="Node000003" href="$sonic-swss_2orchagent_2main_8cpp.html#aedb8b6009f902b6655ec2ea1d0936836" title=" " alt="" coords="103,5,229,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="261,21,229,21,229,16,261,16"/>
+<area shape="rect" id="Node000004" href="$sonic-swss_2orchagent_2main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="5,5,55,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="87,21,55,21,55,16,87,16"/>
+</map>

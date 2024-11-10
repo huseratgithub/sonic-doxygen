@@ -1,0 +1,14 @@
+<map id="DropCounter::updateDropReasonsInSAI" name="DropCounter::updateDropReasonsInSAI">
+<area shape="rect" id="Node000001" title=" " alt="" coords="742,39,965,81"/>
+<area shape="rect" id="Node000002" href="$class_drop_counter.html#a4830505ecd5132c11c1202a274a18cdc" title=" " alt="" coords="486,17,683,44"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="727,49,683,44,684,39,727,44"/>
+<area shape="rect" id="Node000005" href="$class_drop_counter.html#a71688caded14ca3106e61b127e367b38" title=" " alt="" coords="475,72,694,99"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="727,75,695,78,695,72,727,69"/>
+<area shape="rect" id="Node000003" href="$class_debug_counter_orch.html#a6b074f85dabc64e7e4976cec332fb481" title=" " alt="" coords="237,5,427,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="470,32,428,31,428,26,470,26"/>
+<area shape="rect" id="Node000004" href="$class_debug_counter_orch.html#af0239256bf7244bdb3c222e4d1743677" title=" " alt="" coords="5,47,189,73"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="221,45,190,50,189,44,221,40"/>
+<area shape="rect" id="Node000006" href="$class_debug_counter_orch.html#aec23312d916cf738caab045de3f73076" title=" " alt="" coords="240,72,424,115"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="459,92,425,93,425,88,459,87"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="224,81,189,76,190,70,225,75"/>
+</map>

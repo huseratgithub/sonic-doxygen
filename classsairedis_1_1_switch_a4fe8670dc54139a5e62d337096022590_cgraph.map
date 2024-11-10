@@ -1,0 +1,9 @@
+<map id="sairedis::Switch::Switch" name="sairedis::Switch::Switch">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,168,61"/>
+<area shape="rect" id="Node000002" href="$classsaimeta_1_1_globals.html#a8650c142db91851a76c772484a48f206" title="Get hardware info." alt="" coords="216,5,439,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="167,36,200,32,201,37,168,41"/>
+<area shape="rect" id="Node000003" href="$classsairedis_1_1_switch.html#ac46cb3118764cccea5db83fbcfe3aeaf" title="Update switch notifications from attribute list." alt="" coords="247,56,408,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="168,55,232,63,231,68,167,60"/>
+<area shape="rect" id="Node000004" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="487,64,638,91"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="408,75,472,75,472,80,408,80"/>
+</map>

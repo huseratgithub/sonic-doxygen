@@ -1,0 +1,13 @@
+<map id="initSaiPhyApi" name="initSaiPhyApi">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,81,105,108"/>
+<area shape="rect" id="Node000002" href="$saihelper_8cpp.html#afd45abadbbe81274dc5178c4a73e0e39" title=" " alt="" coords="188,5,270,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="79,78,152,42,173,33,174,38,154,46,82,83"/>
+<area shape="rect" id="Node000003" href="$saihelper_8cpp.html#aac934ed563dbbb22211e2335644c3ca7" title=" " alt="" coords="187,56,271,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="105,85,171,75,172,80,105,90"/>
+<area shape="rect" id="Node000004" href="$mock__sai__serialize_8cpp.html#a0f934d15b1a3e0fd3458f0f2b9df0b31" title=" " alt="" coords="153,107,305,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="105,99,138,104,137,109,105,104"/>
+<area shape="rect" id="Node000006" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="153,157,304,184"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="82,106,154,143,169,149,168,154,152,148,79,111"/>
+<area shape="rect" id="Node000005" href="$class_sai_serialize_interface.html#ac1267fe86b704633a47c483dcc8e1379" title=" " alt="" coords="353,99,513,141"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="305,117,337,117,337,123,305,123"/>
+</map>

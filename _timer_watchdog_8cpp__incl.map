@@ -1,0 +1,21 @@
+<map id="E:/GitHub/SONiC/202211/sonic&#45;buildimage/src/sonic&#45;sairedis/syncd/TimerWatchdog.cpp" name="E:/GitHub/SONiC/202211/sonic&#45;buildimage/src/sonic&#45;sairedis/syncd/TimerWatchdog.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="307,5,572,64"/>
+<area shape="rect" id="Node000002" href="$_timer_watchdog_8h.html" title=" " alt="" coords="240,112,364,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="396,67,336,106,333,101,393,62"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="388,112,491,139"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="442,64,442,96,437,96,437,64"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="515,112,575,139"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="475,62,520,100,517,104,472,66"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,187,90,213"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="259,142,105,185,104,180,257,137"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="113,187,208,213"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="279,142,200,182,198,177,276,137"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="232,187,290,213"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="297,141,278,175,273,172,293,138"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="313,187,374,213"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="312,138,331,172,327,175,307,141"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="398,187,476,213"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="327,137,401,176,398,181,324,142"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="500,187,558,213"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="342,137,486,182,484,187,341,142"/>
+</map>

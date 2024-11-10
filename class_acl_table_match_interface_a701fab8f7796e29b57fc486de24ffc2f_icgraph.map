@@ -1,0 +1,9 @@
+<map id="AclTableMatchInterface::getId" name="AclTableMatchInterface::getId">
+<area shape="rect" id="Node000001" title=" " alt="" coords="255,48,413,91"/>
+<area shape="rect" id="Node000002" href="$class_acl_table_match.html#af59da945103a77590c5f1e48b4e0bd12" title=" " alt="" coords="5,5,207,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="239,51,169,35,170,30,240,46"/>
+<area shape="rect" id="Node000003" href="$class_acl_table_match.html#aa846b30ba7b213bf565dd53fba6a1e8b" title=" " alt="" coords="9,56,203,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="239,72,204,72,204,67,239,67"/>
+<area shape="rect" id="Node000004" href="$class_acl_table_range_match.html#a4b8f604f814729fe6cdd3aed946215c1" title=" " alt="" coords="33,107,179,149"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="241,96,180,112,179,107,239,91"/>
+</map>

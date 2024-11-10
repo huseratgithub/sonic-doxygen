@@ -1,0 +1,7 @@
+<map id="on_switch_shutdown_request" name="on_switch_shutdown_request">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,23,149,65"/>
+<area shape="rect" id="Node000002" href="$saisdkdump_8cpp.html#a26248234a12f5d74cede4c5c9968454b" title=" " alt="" coords="251,5,294,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="149,32,236,21,236,26,149,37"/>
+<area shape="rect" id="Node000003" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="197,56,348,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="149,51,182,55,181,60,149,56"/>
+</map>

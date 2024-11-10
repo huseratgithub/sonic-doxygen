@@ -1,0 +1,7 @@
+<map id="PortsOrch::addPriorityGroupWatermarkFlexCountersPerPort" name="PortsOrch::addPriorityGroupWatermarkFlexCountersPerPort">
+<area shape="rect" id="Node000001" title=" " alt="" coords="457,5,663,48"/>
+<area shape="rect" id="Node000002" href="$class_ports_orch.html#a50de1283efb1c1c11959a0aaef334c36" title=" " alt="" coords="224,5,409,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="441,29,409,29,409,24,441,24"/>
+<area shape="rect" id="Node000003" href="$class_flex_counter_orch.html#afc048192723cc5ae579642c0125b403f" title=" " alt="" coords="5,13,176,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="208,29,176,29,176,24,208,24"/>
+</map>

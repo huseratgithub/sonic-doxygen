@@ -1,0 +1,22 @@
+<map id="FabricPortsOrch::generateQueueStats" name="FabricPortsOrch::generateQueueStats">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,48,180,91"/>
+<area shape="rect" id="Node000002" href="$mock__sai__serialize_8cpp.html#a0f934d15b1a3e0fd3458f0f2b9df0b31" title=" " alt="" coords="660,144,813,171"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,60,271,57,380,59,497,70,613,92,661,110,703,133,700,138,659,115,612,97,497,75,380,64,271,62,180,65"/>
+<area shape="rect" id="Node000004" href="$_sai_serialize_8cpp.html#a5077a52273392bcc85fde7d6913390b3" title=" " alt="" coords="228,5,392,32"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="179,46,234,33,236,39,181,52"/>
+<area shape="rect" id="Node000007" href="$class_flex_counter_manager.html#aad935b1dc44eb223202c664136292e38" title=" " alt="" coords="239,136,381,179"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="148,89,242,127,240,132,146,94"/>
+<area shape="rect" id="Node000003" href="$class_sai_serialize_interface.html#ac1267fe86b704633a47c483dcc8e1379" title=" " alt="" coords="861,136,1021,179"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="813,155,845,155,845,160,813,160"/>
+<area shape="rect" id="Node000005" href="$_sai_serialize_8cpp.html#a65eb8ea2354cbfadd0a6075124116a68" title=" " alt="" coords="460,5,592,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="393,16,444,16,444,21,393,21"/>
+<area shape="rect" id="Node000006" href="$_sai_serialize_8cpp.html#a97543edb8d3f82c33b2ba86825bf5cc9" title=" " alt="" coords="665,5,808,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="593,16,649,16,649,21,593,21"/>
+<area shape="rect" id="Node000008" href="$class_flex_counter_manager.html#a95887cd66e4316e40e998574cf2db63d" title=" " alt="" coords="440,224,612,267"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="363,177,441,210,456,215,454,220,439,214,361,182"/>
+<area shape="rect" id="Node000009" href="$class_flex_counter_manager.html#a56c7b62e9ccdd7cff18594c9599813e2" title=" " alt="" coords="449,107,603,149"/>
+<area shape="poly" id="edge9_Node000007_Node000009" title=" " alt="" coords="381,145,433,138,434,143,381,150"/>
+<area shape="rect" id="Node000010" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="450,173,602,200"/>
+<area shape="poly" id="edge10_Node000007_Node000010" title=" " alt="" coords="381,164,435,172,435,177,381,170"/>
+<area shape="poly" id="edge8_Node000008_Node000002" title=" " alt="" coords="583,221,611,210,690,175,692,180,613,214,585,226"/>
+</map>

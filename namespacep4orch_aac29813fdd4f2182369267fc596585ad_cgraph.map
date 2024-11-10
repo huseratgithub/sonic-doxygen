@@ -1,0 +1,9 @@
+<map id="p4orch::getSaiAttrs" name="p4orch::getSaiAttrs">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,56,139,83"/>
+<area shape="rect" id="Node000002" href="$namespaceswss.html#a7d34265e7f829fc3f293af91b3a2fa34" title=" " alt="" coords="208,5,296,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,53,192,33,193,38,123,58"/>
+<area shape="rect" id="Node000003" href="$class_ports_orch.html#a72b35c3c39b77df72661ecbee7fb1e2d" title=" " alt="" coords="187,56,317,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="139,67,171,67,171,72,139,72"/>
+<area shape="rect" id="Node000004" href="$p4orch__util_8h.html#aab16233c3e059364a961ee6777f13595" title=" " alt="" coords="211,107,293,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="123,81,196,102,195,107,121,86"/>
+</map>

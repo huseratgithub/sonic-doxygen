@@ -1,0 +1,25 @@
+<map id="swss::FdbSync::processStateFdb" name="swss::FdbSync::processStateFdb">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,147,225,173"/>
+<area shape="rect" id="Node000002" href="$classswss_1_1_fdb_sync.html#a7f3a566b283a18dd980368aed1671f17" title=" " alt="" coords="273,121,495,148"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="225,147,257,144,257,149,225,152"/>
+<area shape="rect" id="Node000003" href="$classswss_1_1_fdb_sync.html#aac653a8bae3c2c040db07edf0c818836" title=" " alt="" coords="276,172,492,199"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="225,168,261,171,261,176,225,173"/>
+<area shape="rect" id="Node000004" href="$classswss_1_1_fdb_sync.html#ae956554329ffb7312c019e00d0b5d8c7" title=" " alt="" coords="543,113,741,140"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="445,169,565,141,566,147,446,174"/>
+<area shape="rect" id="Node000011" href="$classswss_1_1_fdb_sync.html#a536e57a477d8b0ba443dc6f6ebe4b8b6" title=" " alt="" coords="543,164,741,207"/>
+<area shape="poly" id="edge10_Node000003_Node000011" title=" " alt="" coords="492,183,527,183,527,188,492,188"/>
+<area shape="rect" id="Node000012" href="$classswss_1_1_fdb_sync.html#aea5aba88d586fff3a676c3d3e860caec" title=" " alt="" coords="548,231,736,273"/>
+<area shape="poly" id="edge11_Node000003_Node000012" title=" " alt="" coords="439,197,542,224,541,229,438,202"/>
+<area shape="rect" id="Node000005" href="$classswss_1_1_fdb_sync.html#a47636751da676eb6956b0533e78bcbd2" title=" " alt="" coords="789,113,1007,140"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="742,124,774,124,774,129,742,129"/>
+<area shape="rect" id="Node000006" href="$classswss_1_1_app_restart_assist.html#a7acdab55649e33959240447fc4c71d69" title=" " alt="" coords="1055,72,1218,115"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="998,110,1039,104,1040,110,999,115"/>
+<area shape="rect" id="Node000010" href="$classswss_1_1_app_restart_assist.html#af9aa25ee97c29db118901e967b3dd409" title=" " alt="" coords="1055,139,1219,181"/>
+<area shape="poly" id="edge9_Node000005_Node000010" title=" " alt="" coords="999,138,1040,144,1039,149,998,143"/>
+<area shape="rect" id="Node000007" href="$classswss_1_1_app_restart_assist.html#a425ebd309d25324d0d1e74270cf6c4e0" title=" " alt="" coords="1267,5,1430,48"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="1206,69,1263,51,1265,56,1207,74"/>
+<area shape="rect" id="Node000008" href="$classswss_1_1_app_restart_assist.html#ad98d4ed8a334a752c193779b7036cf15" title=" " alt="" coords="1267,72,1430,115"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="1219,91,1251,91,1251,96,1219,96"/>
+<area shape="rect" id="Node000009" href="$classswss_1_1_app_restart_assist.html#a133f4b61bfc6a79b01032f74c417bae5" title=" " alt="" coords="1267,139,1430,181"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="1207,113,1265,131,1263,136,1206,118"/>
+</map>

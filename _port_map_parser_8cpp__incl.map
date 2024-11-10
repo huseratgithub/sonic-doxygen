@@ -1,0 +1,28 @@
+<map id="E:/GitHub/SONiC/202211/sonic&#45;buildimage/src/sonic&#45;sairedis/syncd/PortMapParser.cpp" name="E:/GitHub/SONiC/202211/sonic&#45;buildimage/src/sonic&#45;sairedis/syncd/PortMapParser.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="437,5,698,64"/>
+<area shape="rect" id="Node000002" href="$_port_map_parser_8h.html" title=" " alt="" coords="217,112,336,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="474,67,334,110,332,104,472,62"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="360,112,463,139"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="518,67,448,106,446,102,516,62"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="486,112,558,139"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="555,66,538,99,533,97,551,63"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="582,112,647,139"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="585,63,603,97,598,99,580,66"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="671,112,739,139"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="614,62,674,101,671,106,611,67"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="763,112,823,139"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="642,62,749,104,747,109,640,67"/>
+<area shape="rect" id="Node000003" href="$_port_map_8h.html" title=" " alt="" coords="198,187,279,213"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="272,140,254,174,250,172,268,138"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="325,261,394,288"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="286,138,347,246,343,249,282,140"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,261,90,288"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="206,216,96,258,94,253,204,211"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="114,261,160,288"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="222,216,169,254,165,250,219,212"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="184,261,223,288"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="235,215,218,248,214,246,230,213"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="248,261,301,288"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="247,213,264,246,259,248,242,215"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="261,212,327,251,324,255,258,216"/>
+</map>

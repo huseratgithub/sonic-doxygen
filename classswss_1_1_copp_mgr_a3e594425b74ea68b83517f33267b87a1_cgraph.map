@@ -1,0 +1,18 @@
+<map id="swss::CoppMgr::doCoppGroupTask" name="swss::CoppMgr::doCoppGroupTask">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,147,235,173"/>
+<area shape="rect" id="Node000002" href="$classswss_1_1_copp_mgr.html#a17fc96a011c23eedfca615f6d449b14d" title=" " alt="" coords="294,5,476,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="139,144,201,102,281,58,295,52,297,56,284,62,204,107,142,148"/>
+<area shape="rect" id="Node000005" href="$classswss_1_1_copp_mgr.html#a562528f91b4bbc7df0f8dee15c91ccb7" title=" " alt="" coords="293,72,478,115"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="176,143,282,116,283,122,177,149"/>
+<area shape="rect" id="Node000006" href="$classswss_1_1_copp_mgr.html#a366319a1e480abce4caffc0a0181d276" title=" " alt="" coords="283,139,488,181"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="235,157,267,157,267,163,235,163"/>
+<area shape="rect" id="Node000007" href="$classswss_1_1_copp_mgr.html#adbc821197628a259ff2c2d5b9b1db448" title=" " alt="" coords="285,205,486,248"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="177,171,283,198,282,204,176,177"/>
+<area shape="rect" id="Node000008" href="$classswss_1_1_copp_mgr.html#a982bec3ce6a198e0ab6eab4bb0b974f7" title=" " alt="" coords="283,272,488,315"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="142,172,204,213,284,258,297,264,295,268,281,262,201,218,139,176"/>
+<area shape="rect" id="Node000003" href="$classswss_1_1_copp_mgr.html#a441458d17f94998900e2028a4f1f0954" title=" " alt="" coords="536,113,755,140"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="457,46,489,58,601,104,599,109,487,62,455,51"/>
+<area shape="rect" id="Node000004" href="$classswss_1_1_copp_mgr.html#a75aa10f53ac01d527986f9bbb0ffe54a" title=" " alt="" coords="803,105,979,148"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="756,124,788,124,788,129,756,129"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="455,202,487,191,599,144,601,149,489,196,457,207"/>
+</map>

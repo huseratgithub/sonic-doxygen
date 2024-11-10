@@ -1,0 +1,34 @@
+<map id="DTelOrch::reportSessionExists" name="DTelOrch::reportSessionExists">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1682,173,1883,200"/>
+<area shape="rect" id="Node000002" href="$class_d_tel_orch.html#ae1518e9dff4307632d25cea9880b91d2" title=" " alt="" coords="942,173,1118,216"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1666,191,1118,196,1118,191,1666,185"/>
+<area shape="rect" id="Node000003" href="$class_d_tel_orch.html#a321a77b2a70b3c53d19b7cd3f733df1e" title=" " alt="" coords="679,115,888,157"/>
+<area shape="poly" id="edge12_Node000001_Node000003" title=" " alt="" coords="1729,170,1633,143,1529,122,1440,108,1361,101,1287,98,1133,105,936,120,888,125,888,119,935,115,1132,99,1287,93,1361,96,1440,103,1530,117,1634,137,1730,165"/>
+<area shape="rect" id="Node000007" href="$class_d_tel_orch.html#ac1da6856f595647ffb7daa6d2886026c" title=" " alt="" coords="180,240,395,267"/>
+<area shape="poly" id="edge11_Node000001_Node000007" title=" " alt="" coords="1765,215,1743,243,1712,276,1676,307,1635,332,1584,352,1539,363,1499,369,1460,369,1378,363,1276,357,782,357,610,360,536,353,442,332,404,319,367,302,309,270,311,265,370,297,406,314,444,327,537,347,611,354,782,352,1276,352,1379,357,1460,364,1498,363,1538,358,1582,347,1632,327,1673,303,1709,272,1738,240,1761,211"/>
+<area shape="rect" id="Node000008" href="$class_d_tel_orch.html#a1e0a78f3c213a72404e3f16b4233a498" title=" " alt="" coords="1172,123,1377,149"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="1666,174,1633,171,1378,147,1378,141,1634,165,1667,169"/>
+<area shape="rect" id="Node000009" href="$class_d_tel_orch.html#ac7c1a8d0b054a558f454a8e1488c9302" title=" " alt="" coords="1425,224,1634,251"/>
+<area shape="poly" id="edge13_Node000001_Node000009" title=" " alt="" coords="1698,206,1600,226,1599,221,1697,201"/>
+<area shape="rect" id="Node000010" href="$class_d_tel_orch.html#a803217e5da86cf70901c203aed8100b3" title=" " alt="" coords="936,5,1124,48"/>
+<area shape="poly" id="edge16_Node000001_Node000010" title=" " alt="" coords="1758,163,1704,113,1670,88,1633,69,1567,47,1499,32,1430,21,1361,15,1231,13,1124,18,1124,13,1231,7,1361,10,1430,16,1500,26,1569,42,1635,64,1673,84,1708,109,1761,160"/>
+<area shape="rect" id="Node000011" href="$class_d_tel_orch.html#a4ac9eb7ecaf1840f5918449fb8300e07" title=" " alt="" coords="1443,275,1616,317"/>
+<area shape="poly" id="edge18_Node000001_Node000011" title=" " alt="" coords="1745,210,1693,238,1635,265,1604,277,1602,272,1633,260,1691,233,1743,206"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="926,173,875,161,877,155,927,168"/>
+<area shape="rect" id="Node000005" href="$class_d_tel_orch.html#a1c52d02767a54ce29017dedd73d61fe6" title=" " alt="" coords="703,183,864,209"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="926,198,865,198,865,193,926,193"/>
+<area shape="rect" id="Node000004" href="$class_d_tel_orch.html#af4aea4067a2b736766ffd0c91d78fc36" title=" " alt="" coords="5,185,132,212"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="664,149,132,196,132,191,664,144"/>
+<area shape="rect" id="Node000006" href="$class_d_tel_orch.html#a0c974d7ce7004ca259a8f6ec6cd1001e" title=" " alt="" coords="443,187,631,213"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="687,200,632,201,632,196,687,195"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="457,220,354,242,353,237,456,214"/>
+<area shape="poly" id="edge7_Node000007_Node000004" title=" " alt="" coords="216,238,124,215,125,210,217,233"/>
+<area shape="poly" id="edge9_Node000008_Node000002" title=" " alt="" coords="1202,156,1119,176,1118,171,1200,151"/>
+<area shape="poly" id="edge10_Node000008_Node000003" title=" " alt="" coords="1157,139,888,139,888,133,1157,133"/>
+<area shape="poly" id="edge15_Node000009_Node000007" title=" " alt="" coords="1410,246,1231,253,1031,256,782,256,396,256,396,251,782,251,1031,251,1231,247,1410,241"/>
+<area shape="poly" id="edge14_Node000009_Node000008" title=" " alt="" coords="1479,220,1310,152,1312,147,1481,215"/>
+<area shape="poly" id="edge17_Node000010_Node000003" title=" " alt="" coords="964,57,937,69,833,116,831,112,935,64,962,52"/>
+<area shape="rect" id="Node000012" href="$class_d_tel_orch.html#ae6cab623801103295962d158643807aa" title=" " alt="" coords="468,291,607,317"/>
+<area shape="poly" id="edge19_Node000011_Node000012" title=" " alt="" coords="1428,299,607,306,607,301,1428,294"/>
+<area shape="poly" id="edge20_Node000012_Node000007" title=" " alt="" coords="452,290,356,270,357,265,453,284"/>
+</map>

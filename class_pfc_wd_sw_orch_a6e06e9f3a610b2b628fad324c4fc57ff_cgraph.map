@@ -1,0 +1,30 @@
+<map id="PfcWdSwOrch::registerInWdDb" name="PfcWdSwOrch::registerInWdDb">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,189,213,216"/>
+<area shape="rect" id="Node000002" href="$class_ports_orch.html#a81e1c605b248b3f6271b540fd8aacc17" title=" " alt="" coords="261,5,469,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,187,177,129,216,95,259,64,281,52,284,57,262,69,220,99,180,133,124,191"/>
+<area shape="rect" id="Node000004" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="522,65,673,92"/>
+<area shape="poly" id="edge15_Node000001_Node000004" title=" " alt="" coords="126,187,182,146,220,125,260,108,323,92,387,81,506,74,506,79,388,86,324,97,262,113,222,130,185,151,129,191"/>
+<area shape="rect" id="Node000005" href="$class_pfc_wd_action_handler.html#a61a6c1b4aed49a2697e4209ae9118c95" title=" " alt="" coords="293,123,436,165"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="170,186,277,161,278,166,171,191"/>
+<area shape="rect" id="Node000007" href="$mock__sai__serialize_8cpp.html#a0f934d15b1a3e0fd3458f0f2b9df0b31" title=" " alt="" coords="289,189,441,216"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="213,200,273,200,273,205,213,205"/>
+<area shape="rect" id="Node000009" href="$_sai_serialize_8cpp.html#a15e6b9d07964b630c9465ea24cc283cc" title=" " alt="" coords="289,240,440,267"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="181,214,280,234,278,239,180,219"/>
+<area shape="rect" id="Node000012" href="$_sai_serialize_8cpp.html#adb586d5159eaa0fa9b39432255c925a6" title=" " alt="" coords="284,291,446,317"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="135,214,192,245,262,276,284,283,282,289,260,281,189,250,132,219"/>
+<area shape="rect" id="Node000013" href="$_sai_serialize_8cpp.html#a5077a52273392bcc85fde7d6913390b3" title=" " alt="" coords="283,341,447,368"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="124,215,180,270,219,301,262,327,276,333,274,338,259,332,216,305,177,274,121,218"/>
+<area shape="rect" id="Node000003" href="$class_ports_orch.html#a72b35c3c39b77df72661ecbee7fb1e2d" title=" " alt="" coords="532,13,662,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="470,24,517,24,517,29,470,29"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="463,46,520,59,519,64,462,51"/>
+<area shape="rect" id="Node000006" href="$class_pfc_wd_action_handler.html#a8d465ca64aae2d86f89e93ae59701593" title=" " alt="" coords="526,120,669,163"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="437,141,510,140,510,145,437,146"/>
+<area shape="rect" id="Node000008" href="$class_sai_serialize_interface.html#ac1267fe86b704633a47c483dcc8e1379" title=" " alt="" coords="517,187,677,229"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="441,202,501,203,501,208,441,207"/>
+<area shape="rect" id="Node000010" href="$_sai_serialize_8cpp.html#a65eb8ea2354cbfadd0a6075124116a68" title=" " alt="" coords="531,291,663,317"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="430,265,519,284,517,289,429,270"/>
+<area shape="rect" id="Node000011" href="$_sai_serialize_8cpp.html#a97543edb8d3f82c33b2ba86825bf5cc9" title=" " alt="" coords="725,291,869,317"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="664,301,710,301,710,307,664,307"/>
+<area shape="poly" id="edge12_Node000012_Node000010" title=" " alt="" coords="446,301,515,301,515,307,446,307"/>
+<area shape="poly" id="edge14_Node000013_Node000010" title=" " alt="" coords="429,338,517,319,519,324,430,343"/>
+</map>

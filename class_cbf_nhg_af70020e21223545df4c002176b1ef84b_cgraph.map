@@ -1,0 +1,19 @@
+<map id="CbfNhg::createNhgmAttrs" name="CbfNhg::createNhgmAttrs">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,107,179,133"/>
+<area shape="rect" id="Node000002" href="$class_cbf_nhg_member.html#aec16d7ec0e754fda3638f20ef5a11984" title=" " alt="" coords="228,5,400,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,104,163,73,226,42,243,35,245,40,228,46,166,78,116,108"/>
+<area shape="rect" id="Node000003" href="$class_cbf_nhg_member.html#a7020acd766ac26eae924b5df04a9aa39" title=" " alt="" coords="227,56,401,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="153,103,237,84,238,89,154,109"/>
+<area shape="rect" id="Node000007" href="$class_nhg_base.html#ace9a9e34e62659da0ffb9373b6bb2914" title=" " alt="" coords="245,107,382,133"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="179,117,230,117,230,123,179,123"/>
+<area shape="rect" id="Node000008" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="238,157,390,184"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="154,131,238,151,237,156,153,137"/>
+<area shape="rect" id="Node000009" href="$class_cbf_nhg.html#a3d9a3cd087eefc6c2ad3c1c776f101d2" title=" " alt="" coords="252,208,376,235"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="116,132,166,162,228,194,245,200,243,205,226,198,163,167,113,136"/>
+<area shape="rect" id="Node000004" href="$class_nhg_base.html#a5a83bdf46f4242f621ea8181859969a6" title=" " alt="" coords="482,5,595,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="376,53,467,32,468,37,377,58"/>
+<area shape="rect" id="Node000005" href="$class_nhg_orch_common.html#a118262cbb1d7ae190e3cf7fb3bd8b89f" title=" " alt="" coords="450,56,627,83"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="401,67,435,67,435,72,401,72"/>
+<area shape="rect" id="Node000006" href="$class_nhg_orch_common.html#a78ac341edd500326b2e8fb80832088ac" title=" " alt="" coords="449,107,628,133"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="377,81,462,100,461,105,376,86"/>
+</map>

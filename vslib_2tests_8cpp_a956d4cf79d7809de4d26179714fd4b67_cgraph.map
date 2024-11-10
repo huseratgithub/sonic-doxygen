@@ -1,0 +1,13 @@
+<map id="test_get_stats" name="test_get_stats">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,56,110,83"/>
+<area shape="rect" id="Node000002" href="$vslib_2tests_8cpp.html#ac83b0647aa9bee4bef8728348e2f69f5" title=" " alt="" coords="158,56,231,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,67,142,67,142,72,110,72"/>
+<area shape="rect" id="Node000003" href="$vslib_2tests_8cpp.html#a125ab519762ec94be15cca70f239fe0f" title=" " alt="" coords="310,5,378,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="230,55,294,33,296,38,232,60"/>
+<area shape="rect" id="Node000005" href="$sai__redis__interfacequery_8cpp.html#ac648bf371abd7c51249f9bde92850774" title=" " alt="" coords="286,56,402,83"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="231,67,270,67,270,72,231,72"/>
+<area shape="rect" id="Node000006" href="$sai__redis__interfacequery_8cpp.html#aa02853139202cfab6a80d5268a83972e" title=" " alt="" coords="279,107,409,133"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="232,79,289,99,287,104,230,84"/>
+<area shape="rect" id="Node000004" href="$swssplayer_8cpp.html#a567969c3c6dd7b67854696ed58b4aa7c" title=" " alt="" coords="457,5,496,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="379,16,442,16,442,21,379,21"/>
+</map>

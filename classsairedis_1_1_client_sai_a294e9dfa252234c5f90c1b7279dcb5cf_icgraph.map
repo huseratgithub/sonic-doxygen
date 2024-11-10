@@ -1,0 +1,9 @@
+<map id="sairedis::ClientSai::waitForResponse" name="sairedis::ClientSai::waitForResponse">
+<area shape="rect" id="Node000001" title="Wait for response." alt="" coords="207,72,338,115"/>
+<area shape="rect" id="Node000002" href="$classsairedis_1_1_client_sai.html#a5bf2411d2d84c401706488c8aed9645f" title=" " alt="" coords="18,5,146,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="194,69,144,51,146,46,196,64"/>
+<area shape="rect" id="Node000003" href="$classsairedis_1_1_client_sai.html#ab13bc8d56703a548cd55dbe13c4760e1" title=" " alt="" coords="18,72,146,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="191,96,146,96,146,91,191,91"/>
+<area shape="rect" id="Node000004" href="$classsairedis_1_1_client_sai.html#a7a6b08608f28d8efda76825c56ec2715" title=" " alt="" coords="5,139,159,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="193,121,129,141,127,136,191,115"/>
+</map>

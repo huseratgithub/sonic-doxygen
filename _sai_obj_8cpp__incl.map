@@ -1,0 +1,21 @@
+<map id="E:/GitHub/SONiC/202211/sonic&#45;buildimage/src/sonic&#45;sairedis/syncd/SaiObj.cpp" name="E:/GitHub/SONiC/202211/sonic&#45;buildimage/src/sonic&#45;sairedis/syncd/SaiObj.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="183,5,395,64"/>
+<area shape="rect" id="Node000002" href="$_sai_obj_8h.html" title=" " alt="" coords="199,112,270,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="274,66,252,100,248,97,269,63"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="294,112,396,139"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="309,63,331,97,327,100,305,66"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,261,109,288"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="199,141,157,160,115,189,90,218,71,249,67,246,85,215,111,185,154,156,197,136"/>
+<area shape="rect" id="Node000004" href="$sonic-sairedis_2syncd_2saiattr_8h.html" title=" " alt="" coords="125,187,197,213"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="223,141,186,177,183,174,220,137"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="214,261,268,288"/>
+<area shape="poly" id="edge7_Node000002_Node000005" title=" " alt="" coords="238,139,242,246,237,246,232,139"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="272,187,340,213"/>
+<area shape="poly" id="edge8_Node000002_Node000007" title=" " alt="" coords="249,137,285,174,281,177,245,141"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="364,187,475,213"/>
+<area shape="poly" id="edge9_Node000002_Node000008" title=" " alt="" coords="268,137,374,178,372,183,266,142"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="144,216,89,254,86,250,141,212"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="177,212,218,249,214,253,173,216"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="132,261,190,288"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="164,214,164,246,158,246,158,214"/>
+</map>

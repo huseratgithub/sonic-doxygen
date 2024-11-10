@@ -1,0 +1,9 @@
+<map id="saimeta::Meta::queryAttributeCapability" name="saimeta::Meta::queryAttributeCapability">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,199,73"/>
+<area shape="rect" id="Node000002" href="$mock__sai__serialize_8cpp.html#aa06e96f943a8f2451c89c65d2fecbef5" title=" " alt="" coords="247,13,414,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="199,39,231,35,232,40,199,44"/>
+<area shape="rect" id="Node000004" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="255,64,406,91"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="199,60,239,65,239,70,199,65"/>
+<area shape="rect" id="Node000003" href="$class_sai_serialize_interface.html#a29d73fb00b962109388850736a5a02a3" title=" " alt="" coords="462,5,637,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="414,24,446,24,446,29,414,29"/>
+</map>

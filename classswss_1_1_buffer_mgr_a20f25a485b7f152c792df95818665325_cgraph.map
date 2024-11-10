@@ -1,0 +1,13 @@
+<map id="swss::BufferMgr::doPortQosTableTask" name="swss::BufferMgr::doPortQosTableTask">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,73,192,116"/>
+<area shape="rect" id="Node000002" href="$classswss_1_1_buffer_mgr.html#a3634799971ef23f32ffc126b54016765" title=" " alt="" coords="240,73,415,116"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,92,224,92,224,97,192,97"/>
+<area shape="rect" id="Node000003" href="$class_orch.html#a73f9b92bf5d9e30921bbfcd5483b9308" title=" " alt="" coords="474,5,668,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="381,70,462,41,490,34,491,39,464,47,383,75"/>
+<area shape="rect" id="Node000004" href="$classswss_1_1_buffer_mgr.html#a6a895fdc180371b4ed7b5486c750dbe9" title=" " alt="" coords="463,56,679,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="415,83,447,80,448,85,416,88"/>
+<area shape="rect" id="Node000005" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="496,107,647,133"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="416,101,480,108,480,113,415,106"/>
+<area shape="rect" id="Node000006" href="$lib_2tests_8cpp.html#ad3af9936f704b25188a9ef24330f8a19" title=" " alt="" coords="536,157,606,184"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="383,114,464,143,521,158,520,163,462,148,381,119"/>
+</map>

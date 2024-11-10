@@ -1,0 +1,18 @@
+<map id="sairedis::RedisRemoteSaiInterface::clear_local_state" name="sairedis::RedisRemoteSaiInterface::clear_local_state">
+<area shape="rect" id="Node000001" title=" " alt="" coords="774,80,953,123"/>
+<area shape="rect" id="Node000002" href="$classsairedis_1_1_redis_remote_sai_interface.html#acdd82a0663a1de0527566d1e89cdc201" title=" " alt="" coords="533,9,706,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="772,78,695,55,697,50,773,73"/>
+<area shape="rect" id="Node000004" href="$classsairedis_1_1_redis_remote_sai_interface.html#a01ca3cfd082fcd5a44534ccb05ae0316" title=" " alt="" coords="513,80,726,123"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="758,104,727,104,727,99,758,99"/>
+<area shape="rect" id="Node000007" href="$classsairedis_1_1_redis_remote_sai_interface.html#a0450b61fc12c6a2c52a829fe00ae3113" title=" " alt="" coords="533,151,706,193"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="773,130,697,153,695,147,772,125"/>
+<area shape="rect" id="Node000003" href="$classsairedis_1_1_redis_remote_sai_interface.html#a22abe8974f7c9bb5962e35e218076a18" title=" " alt="" coords="231,5,461,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="517,32,461,31,461,26,517,27"/>
+<area shape="rect" id="Node000005" href="$classsairedis_1_1_redis_remote_sai_interface.html#a390d58671799203e0a10d4fe8272bb04" title=" " alt="" coords="251,72,441,131"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="498,104,441,104,441,99,498,99"/>
+<area shape="rect" id="Node000006" href="$classsairedis_1_1_redis_remote_sai_interface.html#ad301b776e0e8fe18a2ec81f5f84a0e46" title=" " alt="" coords="5,80,179,123"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="235,104,179,104,179,99,235,99"/>
+<area shape="poly" id="edge6_Node000006_Node000006" title=" " alt="" coords="133,67,118,61,92,59,68,61,53,65,47,71,49,79,44,80,42,70,50,61,67,55,92,53,119,56,135,62"/>
+<area shape="rect" id="Node000008" href="$classsairedis_1_1_redis_remote_sai_interface.html#a8a502c023dd1ed6552a60b211cd2eae5" title=" " alt="" coords="227,155,465,197"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="517,176,466,177,466,172,517,171"/>
+</map>

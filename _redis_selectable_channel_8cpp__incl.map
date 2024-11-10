@@ -1,0 +1,23 @@
+<map id="E:/GitHub/SONiC/202211/sonic&#45;buildimage/src/sonic&#45;sairedis/meta/RedisSelectableChannel.cpp" name="E:/GitHub/SONiC/202211/sonic&#45;buildimage/src/sonic&#45;sairedis/meta/RedisSelectableChannel.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="450,5,687,80"/>
+<area shape="rect" id="Node000002" href="$_redis_selectable_channel_8h.html" title=" " alt="" coords="400,128,575,155"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="540,82,510,118,506,114,536,79"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="599,128,701,155"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="601,79,631,114,627,118,597,82"/>
+<area shape="rect" id="Node000003" href="$_selectable_channel_8h.html" title=" " alt="" coords="246,203,387,229"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="458,158,362,199,360,194,456,153"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="411,203,563,229"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="490,155,490,187,484,187,484,155"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="588,203,733,229"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="518,153,617,194,615,199,516,158"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,277,132,304"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="274,232,127,275,126,270,273,227"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="156,277,251,304"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="298,232,237,271,234,266,295,228"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="274,277,359,304"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="319,230,319,262,314,262,314,230"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="383,277,436,304"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="334,228,383,266,380,270,331,232"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="461,277,518,304"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="348,227,448,269,446,274,346,232"/>
+</map>

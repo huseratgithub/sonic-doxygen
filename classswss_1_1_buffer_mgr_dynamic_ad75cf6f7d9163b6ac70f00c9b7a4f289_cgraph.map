@@ -1,0 +1,15 @@
+<map id="swss::BufferMgrDynamic::handleBufferPgTable" name="swss::BufferMgrDynamic::handleBufferPgTable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,59,174,101"/>
+<area shape="rect" id="Node000002" href="$classswss_1_1_buffer_mgr_dynamic.html#a321608bf28e797d6ab9d4d1504711ea6" title=" " alt="" coords="222,59,399,101"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,77,206,77,206,83,174,83"/>
+<area shape="rect" id="Node000003" href="$classswss_1_1_buffer_mgr_dynamic.html#aac5a544f83d73a52247f3cc3dcae2f7c" title=" " alt="" coords="447,29,634,72"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="399,66,431,62,432,67,399,71"/>
+<area shape="rect" id="Node000004" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="682,11,834,37"/>
+<area shape="poly" id="edge5_Node000002_Node000004" title=" " alt="" coords="346,56,393,33,446,15,503,6,561,3,667,8,667,14,561,8,504,11,448,20,395,38,349,61"/>
+<area shape="rect" id="Node000005" href="$lib_2tests_8cpp.html#ad3af9936f704b25188a9ef24330f8a19" title=" " alt="" coords="723,65,793,92"/>
+<area shape="poly" id="edge6_Node000002_Node000005" title=" " alt="" coords="399,80,447,81,634,81,707,79,707,84,634,87,447,87,399,86"/>
+<area shape="rect" id="Node000006" href="$classswss_1_1_buffer_mgr_dynamic.html#a54eed717da7f74581d2ea886b0c75bef" title=" " alt="" coords="456,147,625,189"/>
+<area shape="poly" id="edge7_Node000002_Node000006" title=" " alt="" coords="369,99,470,138,468,143,368,104"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="635,36,666,33,667,38,635,42"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="635,60,708,70,707,75,635,65"/>
+</map>

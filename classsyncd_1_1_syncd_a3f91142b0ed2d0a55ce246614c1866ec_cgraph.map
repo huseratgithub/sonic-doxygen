@@ -1,0 +1,36 @@
+<map id="syncd::Syncd::processBulkQuadEventInInitViewMode" name="syncd::Syncd::processBulkQuadEventInInitViewMode">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,99,187,141"/>
+<area shape="rect" id="Node000002" href="$_sai_serialize_8cpp.html#a93ab044615abc111c2294290d8aaba45" title=" " alt="" coords="259,5,426,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="135,96,234,48,273,35,274,40,236,53,137,101"/>
+<area shape="rect" id="Node000003" href="$_sai_serialize_8cpp.html#a89736921701199bd76f21418ace17262" title=" " alt="" coords="510,43,684,69"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="187,100,234,92,494,62,495,67,235,97,188,105"/>
+<area shape="rect" id="Node000006" href="$mock__sai__serialize_8cpp.html#aa06e96f943a8f2451c89c65d2fecbef5" title=" " alt="" coords="514,195,681,221"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="188,134,235,143,499,189,499,194,234,148,187,139"/>
+<area shape="rect" id="Node000008" href="$classsyncd_1_1_syncd.html#a70c369a327490b7a1de52312948fc241" title="Send api response." alt="" coords="235,107,450,133"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="187,117,219,117,219,123,187,123"/>
+<area shape="rect" id="Node000011" href="$classsyncd_1_1_syncd.html#ae1b7dd7b09ef4ab1f87d838678189bbf" title=" " alt="" coords="253,275,432,317"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="129,140,300,263,297,267,126,144"/>
+<area shape="rect" id="Node000004" href="$_sai_serialize_8cpp.html#a65eb8ea2354cbfadd0a6075124116a68" title=" " alt="" coords="777,68,910,95"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="685,62,762,70,761,76,684,68"/>
+<area shape="rect" id="Node000005" href="$_sai_serialize_8cpp.html#a97543edb8d3f82c33b2ba86825bf5cc9" title=" " alt="" coords="991,68,1134,95"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="910,79,975,79,975,84,910,84"/>
+<area shape="rect" id="Node000007" href="$class_sai_serialize_interface.html#a29d73fb00b962109388850736a5a02a3" title=" " alt="" coords="756,183,931,225"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="681,204,740,203,741,208,681,209"/>
+<area shape="poly" id="edge8_Node000008_Node000003" title=" " alt="" coords="398,104,526,71,527,76,399,109"/>
+<area shape="rect" id="Node000009" href="$_sai_serialize_8cpp.html#aeae06eaf39abcffe5f6215d8688a6368" title=" " alt="" coords="529,93,665,120"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="450,112,513,108,514,114,451,117"/>
+<area shape="rect" id="Node000010" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="522,144,673,171"/>
+<area shape="poly" id="edge11_Node000008_Node000010" title=" " alt="" coords="438,131,506,141,506,147,438,137"/>
+<area shape="poly" id="edge10_Node000009_Node000004" title=" " alt="" coords="665,97,762,87,762,92,666,102"/>
+<area shape="poly" id="edge16_Node000011_Node000006" title=" " alt="" coords="392,272,497,231,521,223,523,228,499,236,394,277"/>
+<area shape="rect" id="Node000012" href="$classsairediscommon_1_1_performance_interval_timer.html#a15b61085a0784bea2be67a789548386e" title=" " alt="" coords="498,245,696,288"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="432,283,482,277,483,283,433,288"/>
+<area shape="rect" id="Node000014" href="$classsyncd_1_1_syncd.html#abdfb04af591a2a4887cafe86e0a39d49" title=" " alt="" coords="498,312,696,339"/>
+<area shape="poly" id="edge15_Node000011_Node000014" title=" " alt="" coords="433,304,483,309,482,315,432,309"/>
+<area shape="rect" id="Node000015" href="$classsairediscommon_1_1_performance_interval_timer.html#abaf53804e923e2c326290d1e7c7adf6a" title=" " alt="" coords="498,363,696,405"/>
+<area shape="poly" id="edge17_Node000011_Node000015" title=" " alt="" coords="406,315,499,348,518,355,516,360,497,353,404,320"/>
+<area shape="rect" id="Node000016" href="$classsairediscommon_1_1_performance_interval_timer.html#a67375375bf8e8e8a7f7763e7fcc8d90c" title=" " alt="" coords="498,429,696,472"/>
+<area shape="poly" id="edge18_Node000011_Node000016" title=" " alt="" coords="368,316,425,365,461,391,499,415,510,420,508,425,497,420,458,396,422,369,364,320"/>
+<area shape="rect" id="Node000013" href="$classsairediscommon_1_1_performance_interval_timer.html#a2e7ea32757d75a39c852592bf53050ca" title=" " alt="" coords="744,249,943,292"/>
+<area shape="poly" id="edge14_Node000012_Node000013" title=" " alt="" coords="697,266,728,266,728,271,697,271"/>
+</map>

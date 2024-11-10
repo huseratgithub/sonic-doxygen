@@ -1,0 +1,7 @@
+<map id="swss::MclagLink::delDomainCfgDependentSelectables" name="swss::MclagLink::delDomainCfgDependentSelectables">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,195,81"/>
+<area shape="rect" id="Node000002" href="$classswss_1_1_mclag_link.html#a9e111d497f9fabdcaa104480b1bf3f90" title=" " alt="" coords="243,5,423,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="195,44,227,39,227,44,195,49"/>
+<area shape="rect" id="Node000003" href="$classswss_1_1_mclag_link.html#ac77696f42a68a1f41adb7bf27700d0ac" title=" " alt="" coords="243,72,423,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="195,71,227,76,227,81,195,76"/>
+</map>

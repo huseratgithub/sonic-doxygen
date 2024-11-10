@@ -1,0 +1,10 @@
+<map id="syncd::ComparisonLogic::procesObjectAttributesForViewTransition" name="syncd::ComparisonLogic::procesObjectAttributesForViewTransition">
+<area shape="rect" id="Node000001" title="Process object attributes for view transition." alt="" coords="698,5,909,64"/>
+<area shape="rect" id="Node000002" href="$classsyncd_1_1_comparison_logic.html#a7f631e8ff8d87b766342e962ee6afadd" title="Process SAI object for ASIC view transition." alt="" coords="432,13,650,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="683,46,651,46,651,41,683,41"/>
+<area shape="poly" id="edge4_Node000002_Node000001" title=" " alt="" coords="666,23,698,23,698,28,666,28"/>
+<area shape="rect" id="Node000003" href="$classsyncd_1_1_comparison_logic.html#ae3fa85cea7a96a01a65e2437645fa87a" title=" " alt="" coords="219,13,384,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="416,37,384,37,384,32,416,32"/>
+<area shape="rect" id="Node000004" href="$classsyncd_1_1_comparison_logic.html#a798303c1dac0b50fc05978a3e04ca7e3" title=" " alt="" coords="5,13,171,56"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="203,37,171,37,171,32,203,32"/>
+</map>

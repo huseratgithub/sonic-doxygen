@@ -1,0 +1,31 @@
+<map id="SaiUdfInterface::remove_udf_group" name="SaiUdfInterface::remove_udf_group">
+<area shape="rect" id="Node000001" title=" " alt="" coords="612,292,776,335"/>
+<area shape="rect" id="Node000002" href="$mock__sai__udf_8cpp.html#aed0c2b78a4d31dcc567be92dad04b4bf" title=" " alt="" coords="436,300,564,327"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="597,316,565,316,565,311,597,311"/>
+<area shape="rect" id="Node000003" href="$classp4orch_1_1test_1_1_acl_manager_test.html#afe0e41f540e300c5817c68a95db36bf3" title=" " alt="" coords="221,5,388,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="491,286,479,238,459,178,428,116,409,88,386,62,372,51,375,47,390,58,413,84,433,114,464,176,484,236,496,284"/>
+<area shape="rect" id="Node000005" href="$namespacep4orch_1_1test.html#a97fd1ff0f1159402e6dc2e06b9140a0a" title=" " alt="" coords="231,72,378,99"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="488,286,475,247,453,200,424,153,386,113,368,101,370,97,390,109,428,150,458,198,480,245,493,284"/>
+<area shape="rect" id="Node000006" href="$namespacep4orch_1_1test.html#a480f57582f4df3e655356a4248ac205a" title=" " alt="" coords="231,123,378,149"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="484,288,446,225,418,192,386,164,365,152,368,147,390,159,422,188,450,222,488,285"/>
+<area shape="rect" id="Node000007" href="$namespacep4orch_1_1test.html#a71254427c98a08dafaad2cfbd72e6e95" title=" " alt="" coords="231,173,378,200"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="476,290,437,251,387,214,362,203,364,198,389,210,440,247,480,287"/>
+<area shape="rect" id="Node000008" href="$namespacep4orch_1_1test.html#ab791079e8bd803f7fac2d958ab03efd2" title=" " alt="" coords="231,224,378,251"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="457,295,387,265,354,254,356,249,389,260,459,290"/>
+<area shape="rect" id="Node000009" href="$namespacep4orch_1_1test.html#a297d05e75c30e443d898ef754109053a" title=" " alt="" coords="231,275,378,301"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="420,306,378,300,379,295,421,300"/>
+<area shape="rect" id="Node000010" href="$namespacep4orch_1_1test.html#a243f20c72511778a08df57e9edef3cb5" title=" " alt="" coords="231,325,378,352"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="421,326,379,332,378,326,420,321"/>
+<area shape="rect" id="Node000011" href="$namespacep4orch_1_1test.html#ae8296105953df63d4f5e8fa592406b71" title=" " alt="" coords="231,376,378,403"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="459,336,389,366,356,378,354,373,387,362,457,331"/>
+<area shape="rect" id="Node000012" href="$namespacep4orch_1_1test.html#a350dbe8b4128f32eb1822166ec1cb2b9" title=" " alt="" coords="231,427,378,453"/>
+<area shape="poly" id="edge11_Node000002_Node000012" title=" " alt="" coords="480,340,440,379,389,417,364,428,362,424,387,412,437,375,476,336"/>
+<area shape="rect" id="Node000013" href="$namespacep4orch_1_1test.html#aee15f7011862210949b0bb03e75fb807" title=" " alt="" coords="231,477,378,504"/>
+<area shape="poly" id="edge12_Node000002_Node000013" title=" " alt="" coords="488,342,450,405,422,439,390,468,368,479,365,474,386,463,418,435,446,402,484,339"/>
+<area shape="rect" id="Node000014" href="$namespacep4orch_1_1test.html#a73ebf2459b4236fe5f7c49c25a05966c" title=" " alt="" coords="231,528,378,555"/>
+<area shape="poly" id="edge13_Node000002_Node000014" title=" " alt="" coords="493,343,480,382,458,429,428,477,390,518,370,530,368,525,386,514,424,474,453,427,475,380,488,341"/>
+<area shape="rect" id="Node000015" href="$namespacep4orch_1_1test.html#a9ac9937326e1dc8fadd8d96b78805b81" title=" " alt="" coords="231,579,378,605"/>
+<area shape="poly" id="edge14_Node000002_Node000015" title=" " alt="" coords="497,343,486,392,466,452,434,515,414,543,390,569,372,580,369,576,386,565,410,540,430,512,461,450,481,390,492,342"/>
+<area shape="rect" id="Node000004" href="$classp4orch_1_1test_1_1_acl_manager_test.html#add91d8371c8bfc89375086fff15b32ca" title=" " alt="" coords="5,5,173,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="205,29,173,29,173,24,205,24"/>
+</map>

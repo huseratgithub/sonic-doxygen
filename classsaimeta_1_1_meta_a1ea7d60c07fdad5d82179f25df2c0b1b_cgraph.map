@@ -1,0 +1,11 @@
+<map id="saimeta::Meta::meta_generic_validation_objlist" name="saimeta::Meta::meta_generic_validation_objlist">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,93,147,152"/>
+<area shape="rect" id="Node000002" href="$classsaimeta_1_1_oid_ref_counter.html#a12b01a405b296e361ecaf09737677de1" title="Check if object reference exists." alt="" coords="212,5,374,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,90,194,58,208,52,210,56,196,62,130,95"/>
+<area shape="rect" id="Node000003" href="$classsaimeta_1_1_meta.html#a4b02b18ccc96d324404b353ab1a183d5" title=" " alt="" coords="205,72,380,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="147,111,189,105,190,110,147,116"/>
+<area shape="rect" id="Node000004" href="$classsaimeta_1_1_meta.html#a0200675105c043833e851d282de5e709" title=" " alt="" coords="195,139,391,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="147,130,180,134,179,139,147,135"/>
+<area shape="rect" id="Node000005" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="217,189,368,216"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="137,150,196,175,218,182,216,187,194,180,135,155"/>
+</map>

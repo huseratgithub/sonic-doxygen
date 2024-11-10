@@ -1,0 +1,12 @@
+<map id="swss::BufferMgrDynamic::allocateProfile" name="swss::BufferMgrDynamic::allocateProfile">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,64,174,107"/>
+<area shape="rect" id="Node000002" href="$classswss_1_1_buffer_mgr_dynamic.html#ac8855b4a3cecc9d50dba1cdef91fd9dd" title=" " alt="" coords="223,5,391,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,61,210,50,211,55,171,66"/>
+<area shape="rect" id="Node000004" href="$classswss_1_1_buffer_mgr_dynamic.html#a1a2febd90a472909a8ab36ae44490d70" title=" " alt="" coords="440,93,608,136"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="174,88,424,105,424,111,174,94"/>
+<area shape="rect" id="Node000005" href="$classswss_1_1_buffer_mgr_dynamic.html#a6f47d8f422db4b7d8425fc2bd0d18ad0" title=" " alt="" coords="222,123,392,165"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="171,105,211,115,210,121,170,110"/>
+<area shape="rect" id="Node000003" href="$lib_2tests_8cpp.html#ad3af9936f704b25188a9ef24330f8a19" title=" " alt="" coords="489,13,559,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="391,24,474,24,474,29,391,29"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="392,130,424,125,425,131,393,135"/>
+</map>

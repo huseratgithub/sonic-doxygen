@@ -1,0 +1,7 @@
+<map id="syncd::RedisClient::insertVidAndRid" name="syncd::RedisClient::insertVidAndRid">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,138,48"/>
+<area shape="rect" id="Node000002" href="$mock__sai__serialize_8cpp.html#a0f934d15b1a3e0fd3458f0f2b9df0b31" title=" " alt="" coords="186,13,338,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,24,170,24,170,29,138,29"/>
+<area shape="rect" id="Node000003" href="$class_sai_serialize_interface.html#ac1267fe86b704633a47c483dcc8e1379" title=" " alt="" coords="386,5,546,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="338,24,370,24,370,29,338,29"/>
+</map>

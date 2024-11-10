@@ -1,0 +1,15 @@
+<map id="test_watchdog_timer_clock_rollback" name="test_watchdog_timer_clock_rollback">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,148,81"/>
+<area shape="rect" id="Node000002" href="$classsyncd_1_1_timer_watchdog.html#ac5a27e259e092514f6c7d96e85351036" title=" " alt="" coords="196,72,351,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,69,181,75,180,80,147,75"/>
+<area shape="rect" id="Node000006" href="$classsyncd_1_1_timer_watchdog.html#a1233e1f8915cebde9b0ad953a402e40b" title=" " alt="" coords="196,5,351,48"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="147,45,180,40,181,45,148,51"/>
+<area shape="rect" id="Node000003" href="$classsyncd_1_1_timer_watchdog.html#ad590adb63dd96d927b3164a55aa2c456" title="Gets timestamp since epoch." alt="" coords="399,5,554,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="340,69,394,51,396,56,341,74"/>
+<area shape="rect" id="Node000004" href="$classsyncd_1_1_timer_watchdog.html#a8cfd1f6cbe85e26f971ac6bb6b3c3cf5" title=" " alt="" coords="399,72,554,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="351,91,383,91,383,96,351,96"/>
+<area shape="rect" id="Node000005" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="602,109,754,136"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="344,113,399,124,496,130,587,128,587,133,496,136,399,129,343,118"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="555,102,587,107,587,112,554,107"/>
+<area shape="poly" id="edge7_Node000006_Node000003" title=" " alt="" coords="351,24,383,24,383,29,351,29"/>
+</map>

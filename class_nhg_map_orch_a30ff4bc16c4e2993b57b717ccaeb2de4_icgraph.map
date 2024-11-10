@@ -1,0 +1,13 @@
+<map id="NhgMapOrch::getMaxNumFcs" name="NhgMapOrch::getMaxNumFcs">
+<area shape="rect" id="Node000001" title=" " alt="" coords="459,109,658,136"/>
+<area shape="rect" id="Node000002" href="$class_dscp_to_fc_map_handler.html#a913707fbe9e66f11df0f99e47aadf4b9" title=" " alt="" coords="202,5,411,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="513,105,410,62,378,51,379,46,412,58,515,100"/>
+<area shape="rect" id="Node000003" href="$class_exp_to_fc_map_handler.html#ad8ecb33c8ec0063a45660714c53e94be" title=" " alt="" coords="206,72,407,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="443,112,407,108,408,102,444,107"/>
+<area shape="rect" id="Node000004" href="$class_nhg_map_orch.html#a02c52891fc4546589d7665798f95c9de" title=" " alt="" coords="232,139,381,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="444,139,382,146,381,141,443,133"/>
+<area shape="rect" id="Node000006" href="$class_cbf_nhg.html#af6f7a9b32bd2daf8323e15c3a76f4a56" title=" " alt="" coords="255,189,358,216"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="510,145,412,180,359,194,357,189,410,175,509,140"/>
+<area shape="rect" id="Node000005" href="$class_nhg_map_orch.html#abf43320ac189fa13b7250aa0446d5568" title=" " alt="" coords="5,139,154,165"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="217,155,154,155,154,149,217,149"/>
+</map>

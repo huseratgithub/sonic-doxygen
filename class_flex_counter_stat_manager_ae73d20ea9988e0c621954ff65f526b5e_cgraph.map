@@ -1,0 +1,18 @@
+<map id="FlexCounterStatManager::addFlexCounterStat" name="FlexCounterStatManager::addFlexCounterStat">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,64,172,107"/>
+<area shape="rect" id="Node000002" href="$class_flex_counter_manager.html#aa97401811587b09b4f8bbd3f4a1412e0" title=" " alt="" coords="220,5,392,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,61,209,50,210,55,170,66"/>
+<area shape="rect" id="Node000003" href="$mock__sai__serialize_8cpp.html#a0f934d15b1a3e0fd3458f0f2b9df0b31" title=" " alt="" coords="660,101,813,128"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="172,86,645,108,644,113,172,92"/>
+<area shape="rect" id="Node000005" href="$class_flex_counter_manager.html#aad935b1dc44eb223202c664136292e38" title=" " alt="" coords="235,156,377,199"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="142,105,240,147,238,152,140,110"/>
+<area shape="rect" id="Node000004" href="$class_sai_serialize_interface.html#ac1267fe86b704633a47c483dcc8e1379" title=" " alt="" coords="861,93,1021,136"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="813,112,845,112,845,117,813,117"/>
+<area shape="rect" id="Node000006" href="$class_flex_counter_manager.html#a95887cd66e4316e40e998574cf2db63d" title=" " alt="" coords="440,123,612,165"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="377,164,425,157,425,162,378,169"/>
+<area shape="rect" id="Node000007" href="$class_flex_counter_manager.html#a56c7b62e9ccdd7cff18594c9599813e2" title=" " alt="" coords="449,189,603,232"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="378,185,434,194,433,199,377,191"/>
+<area shape="rect" id="Node000008" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="450,256,602,283"/>
+<area shape="poly" id="edge8_Node000005_Node000008" title=" " alt="" coords="348,197,441,242,459,248,457,253,439,246,345,202"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="612,129,645,125,645,130,613,135"/>
+</map>

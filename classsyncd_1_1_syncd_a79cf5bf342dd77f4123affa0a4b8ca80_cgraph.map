@@ -1,0 +1,11 @@
+<map id="syncd::Syncd::processFlexCounterEvent" name="syncd::Syncd::processFlexCounterEvent">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,48,186,91"/>
+<area shape="rect" id="Node000002" href="$_sai_serialize_8cpp.html#a93ab044615abc111c2294290d8aaba45" title=" " alt="" coords="234,5,400,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,46,240,33,241,39,186,51"/>
+<area shape="rect" id="Node000003" href="$mock__sai__serialize_8cpp.html#a0f934d15b1a3e0fd3458f0f2b9df0b31" title=" " alt="" coords="241,56,393,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="186,67,225,67,225,72,186,72"/>
+<area shape="rect" id="Node000005" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="241,107,392,133"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="186,87,241,100,240,105,185,93"/>
+<area shape="rect" id="Node000004" href="$class_sai_serialize_interface.html#ac1267fe86b704633a47c483dcc8e1379" title=" " alt="" coords="448,48,608,91"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="394,67,432,67,432,72,394,72"/>
+</map>

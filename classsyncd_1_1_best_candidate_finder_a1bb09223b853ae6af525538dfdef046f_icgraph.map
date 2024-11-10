@@ -1,0 +1,10 @@
+<map id="syncd::BestCandidateFinder::findAllChildsInDependencyTreeCount" name="syncd::BestCandidateFinder::findAllChildsInDependencyTreeCount">
+<area shape="rect" id="Node000001" title=" " alt="" coords="776,29,1024,72"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="946,16,929,10,900,8,873,10,857,15,850,21,852,28,847,29,845,19,854,10,872,5,900,3,930,5,948,11"/>
+<area shape="rect" id="Node000002" href="$classsyncd_1_1_best_candidate_finder.html#ac277d0d07c6ab1ea013e25c9eb0a754f" title=" " alt="" coords="508,21,728,80"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="761,53,729,53,729,48,761,48"/>
+<area shape="rect" id="Node000003" href="$classsyncd_1_1_best_candidate_finder.html#a55e1d64505e7c14fb24749f1f5de8ccb" title=" " alt="" coords="240,21,460,80"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="493,53,460,53,460,48,493,48"/>
+<area shape="rect" id="Node000004" href="$classsyncd_1_1_best_candidate_finder.html#a287c9b5ba4bf51715aa5caacea083b19" title=" " alt="" coords="5,29,192,72"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="224,53,192,53,192,48,224,48"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="MuxCable::nbrHandler" name="MuxCable::nbrHandler">
+<area shape="rect" id="Node000001" title=" " alt="" coords="421,56,572,83"/>
+<area shape="rect" id="Node000002" href="$class_mux_cable.html#ac91f4c40dbee591e2d0ebdad3b5c0b4b" title=" " alt="" coords="210,5,364,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="423,54,345,35,346,30,424,49"/>
+<area shape="rect" id="Node000004" href="$class_mux_cable.html#ac0f7c49b3573982a54762fbb7436e031" title=" " alt="" coords="201,56,373,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="405,72,373,72,373,67,405,67"/>
+<area shape="rect" id="Node000005" href="$class_mux_cable.html#ab76cb13b412be32ca387573938e4ce5a" title=" " alt="" coords="204,107,370,133"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="424,89,346,109,345,103,423,84"/>
+<area shape="rect" id="Node000003" href="$class_mux_cable.html#a3c2369bc2c2ef0ed264f82e2f36c0456" title=" " alt="" coords="5,56,153,83"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="215,39,137,58,136,53,214,34"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="185,72,153,72,153,67,185,67"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="214,105,136,86,137,81,215,100"/>
+</map>

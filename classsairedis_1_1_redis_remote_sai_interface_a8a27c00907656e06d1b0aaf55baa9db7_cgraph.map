@@ -1,0 +1,9 @@
+<map id="sairedis::RedisRemoteSaiInterface::remove" name="sairedis::RedisRemoteSaiInterface::remove">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,179,77"/>
+<area shape="rect" id="Node000002" href="$mock__sai__serialize_8cpp.html#aa06e96f943a8f2451c89c65d2fecbef5" title=" " alt="" coords="234,13,402,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,42,218,37,219,42,179,47"/>
+<area shape="rect" id="Node000004" href="$classsairedis_1_1_redis_remote_sai_interface.html#ae94cd94997e3d4ae3fd114000990486c" title="Wait for response." alt="" coords="227,64,409,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="179,65,211,69,211,74,179,70"/>
+<area shape="rect" id="Node000003" href="$class_sai_serialize_interface.html#a29d73fb00b962109388850736a5a02a3" title=" " alt="" coords="457,5,632,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="402,24,441,24,441,29,402,29"/>
+</map>

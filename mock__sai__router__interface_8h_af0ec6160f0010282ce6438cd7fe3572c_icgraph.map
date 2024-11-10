@@ -1,0 +1,7 @@
+<map id="mock_remove_router_interface" name="mock_remove_router_interface">
+<area shape="rect" id="Node000001" title=" " alt="" coords="240,39,383,81"/>
+<area shape="rect" id="Node000002" href="$class_gre_tunnel_manager_test.html#af660a670b0758b1c4215775b9c4af659" title=" " alt="" coords="20,5,177,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="224,49,177,42,177,36,225,44"/>
+<area shape="rect" id="Node000003" href="$class_router_interface_manager_test.html#a133a866cff342cf90ab82272f817ef63" title=" " alt="" coords="5,72,192,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="225,76,193,81,192,76,224,71"/>
+</map>

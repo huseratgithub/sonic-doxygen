@@ -1,0 +1,17 @@
+<map id="saivs::RealObjectIdManager::getSwitchIndex" name="saivs::RealObjectIdManager::getSwitchIndex">
+<area shape="rect" id="Node000001" title="Get switch index." alt="" coords="5,93,192,136"/>
+<area shape="rect" id="Node000002" href="$classsaivs_1_1_real_object_id_manager.html#ae5423e2cea48d50e576c19ce6b55cb58" title="Switch id query." alt="" coords="240,93,426,136"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,112,224,112,224,117,192,117"/>
+<area shape="rect" id="Node000003" href="$classsaivs_1_1_real_object_id_manager.html#adb3636a9ff1ab9b7b589f06c9ddf88b5" title="Construct object id." alt="" coords="474,5,660,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="391,90,493,51,495,56,393,95"/>
+<area shape="rect" id="Node000004" href="$classsaivs_1_1_real_object_id_manager.html#aa4bc329ef150951ceee258068145d97f" title="Object type query." alt="" coords="474,123,660,165"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="427,124,459,128,458,133,426,129"/>
+<area shape="rect" id="Node000005" href="$mock__sai__serialize_8cpp.html#a0f934d15b1a3e0fd3458f0f2b9df0b31" title=" " alt="" coords="708,104,861,131"/>
+<area shape="poly" id="edge7_Node000002_Node000005" title=" " alt="" coords="427,109,660,108,693,109,692,115,660,113,427,114"/>
+<area shape="rect" id="Node000007" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="709,159,860,185"/>
+<area shape="poly" id="edge8_Node000002_Node000007" title=" " alt="" coords="372,134,420,157,475,175,531,183,588,186,693,181,694,187,588,191,530,188,473,180,418,162,370,139"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="660,130,692,126,693,131,661,135"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="661,153,694,158,693,163,660,159"/>
+<area shape="rect" id="Node000006" href="$class_sai_serialize_interface.html#ac1267fe86b704633a47c483dcc8e1379" title=" " alt="" coords="909,96,1069,139"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="861,115,893,115,893,120,861,120"/>
+</map>

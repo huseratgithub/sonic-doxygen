@@ -1,0 +1,14 @@
+<map id="CoppOrch::getPolicer" name="CoppOrch::getPolicer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="907,35,1053,61"/>
+<area shape="rect" id="Node000002" href="$class_copp_orch.html#a0bfdad8215afb6494ba854d8525801ca" title=" " alt="" coords="687,8,859,35"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="891,39,859,35,860,30,892,34"/>
+<area shape="rect" id="Node000006" href="$class_copp_orch.html#a1feb61e53e3f5d2d9d49ab2c3b0bd7f4" title=" " alt="" coords="438,56,625,99"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="891,56,626,74,626,69,891,51"/>
+<area shape="rect" id="Node000003" href="$class_copp_orch.html#a7ad4d4fe31a602d4852753b94410b104" title=" " alt="" coords="424,5,639,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="672,23,640,23,640,17,672,18"/>
+<area shape="rect" id="Node000004" href="$class_copp_orch.html#a330855526eefe11db20c05e74ba057e7" title=" " alt="" coords="184,35,376,61"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="409,36,377,39,376,34,408,30"/>
+<area shape="rect" id="Node000005" href="$class_copp_orch.html#a09c56c10caa85b13ae6c625fad8fb37d" title=" " alt="" coords="5,35,136,61"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="168,51,136,51,136,45,168,45"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="422,67,376,62,377,57,423,62"/>
+</map>

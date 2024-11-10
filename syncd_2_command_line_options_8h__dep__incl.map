@@ -1,0 +1,22 @@
+<map id="E:/GitHub/SONiC/202211/sonic&#45;buildimage/src/sonic&#45;sairedis/syncd/CommandLineOptions.h" name="E:/GitHub/SONiC/202211/sonic&#45;buildimage/src/sonic&#45;sairedis/syncd/CommandLineOptions.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="511,5,743,80"/>
+<area shape="rect" id="Node000002" href="$syncd_2_command_line_options_8cpp.html" title=" " alt="" coords="5,128,238,203"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="496,74,250,131,239,133,238,128,249,125,495,69"/>
+<area shape="rect" id="Node000003" href="$syncd_2_command_line_options_parser_8h.html" title=" " alt="" coords="261,128,494,203"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="538,90,455,130,452,125,536,85"/>
+<area shape="rect" id="Node000006" href="$_comparison_logic_8cpp.html" title=" " alt="" coords="518,128,736,203"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="630,96,630,128,624,128,624,96"/>
+<area shape="rect" id="Node000007" href="$_single_reiniter_8cpp.html" title=" " alt="" coords="760,136,1014,195"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="721,85,826,133,824,138,719,89"/>
+<area shape="rect" id="Node000008" href="$_syncd_8h.html" title=" " alt="" coords="1038,136,1234,195"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="759,65,889,92,1026,125,1052,133,1051,138,1025,131,888,97,758,71"/>
+<area shape="rect" id="Node000004" href="$syncd_2_command_line_options_parser_8cpp.html" title=" " alt="" coords="261,251,494,325"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="380,219,380,250,375,250,375,219"/>
+<area shape="rect" id="Node000005" href="$syncd__main_8cpp.html" title=" " alt="" coords="670,251,853,325"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="509,205,670,255,669,261,508,210"/>
+<area shape="poly" id="edge9_Node000008_Node000005" title=" " alt="" coords="1035,202,1026,205,855,260,853,255,1025,200,1033,197"/>
+<area shape="rect" id="Node000009" href="$_syncd_8cpp.html" title=" " alt="" coords="915,259,1125,317"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="1100,208,1050,260,1046,256,1096,204"/>
+<area shape="rect" id="Node000010" href="$syncd_2tests_8cpp.html" title=" " alt="" coords="1150,259,1352,317"/>
+<area shape="poly" id="edge10_Node000008_Node000010" title=" " alt="" coords="1176,204,1225,256,1222,260,1172,208"/>
+</map>

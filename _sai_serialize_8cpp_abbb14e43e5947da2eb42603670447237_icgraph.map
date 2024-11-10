@@ -1,0 +1,9 @@
+<map id="sai_deserialize_nat_event_ntf" name="sai_deserialize_nat_event_ntf">
+<area shape="rect" id="Node000001" title=" " alt="" coords="480,39,612,81"/>
+<area shape="rect" id="Node000002" href="$classsyncd_1_1_notification_processor.html#ae200c02862b91edfb8c80d73623c86c4" title=" " alt="" coords="243,5,432,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="464,50,432,44,433,39,465,44"/>
+<area shape="rect" id="Node000004" href="$classsairedis_1_1_notification_nat_event.html#a95cf4270e4eb01cb8e3193cea307d91d" title=" " alt="" coords="245,72,430,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="465,76,430,81,429,76,464,70"/>
+<area shape="rect" id="Node000003" href="$classsyncd_1_1_notification_processor.html#a98d729e95c17d94bad6c7fbd45944880" title=" " alt="" coords="5,5,195,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="227,29,195,29,195,24,227,24"/>
+</map>

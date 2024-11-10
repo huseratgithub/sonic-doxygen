@@ -1,0 +1,18 @@
+<map id="test_set_readonly_attribute_via_redis" name="test_set_readonly_attribute_via_redis">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,73,184,116"/>
+<area shape="rect" id="Node000002" href="$swssplayer_8cpp.html#a567969c3c6dd7b67854696ed58b4aa7c" title=" " alt="" coords="640,5,679,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,70,292,40,362,26,432,16,537,11,625,14,625,19,537,16,432,21,363,31,293,45,171,75"/>
+<area shape="rect" id="Node000003" href="$vslib_2tests_8cpp.html#ac83b0647aa9bee4bef8728348e2f69f5" title=" " alt="" coords="271,81,344,108"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="184,92,256,92,256,97,184,97"/>
+<area shape="rect" id="Node000007" href="$mock__sai__serialize_8cpp.html#a0f934d15b1a3e0fd3458f0f2b9df0b31" title=" " alt="" coords="232,161,384,188"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="154,114,257,153,255,158,152,119"/>
+<area shape="rect" id="Node000004" href="$vslib_2tests_8cpp.html#a125ab519762ec94be15cca70f239fe0f" title=" " alt="" coords="478,31,546,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="344,83,462,53,464,59,345,88"/>
+<area shape="rect" id="Node000005" href="$sai__redis__interfacequery_8cpp.html#ac648bf371abd7c51249f9bde92850774" title=" " alt="" coords="454,81,570,108"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="345,92,438,92,438,97,345,97"/>
+<area shape="rect" id="Node000006" href="$sai__redis__interfacequery_8cpp.html#aa02853139202cfab6a80d5268a83972e" title=" " alt="" coords="447,132,577,159"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="345,101,442,125,440,130,344,106"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="546,36,624,22,625,27,547,41"/>
+<area shape="rect" id="Node000008" href="$class_sai_serialize_interface.html#ac1267fe86b704633a47c483dcc8e1379" title=" " alt="" coords="432,183,592,225"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="385,183,417,188,416,193,384,188"/>
+</map>

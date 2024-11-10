@@ -1,0 +1,8 @@
+<map id="swss::MclagLink::mclagsyncdSendMclagIfaceCfg" name="swss::MclagLink::mclagsyncdSendMclagIfaceCfg">
+<area shape="rect" id="Node000001" title=" " alt="" coords="411,5,608,48"/>
+<area shape="rect" id="Node000002" href="$mclagsyncd_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="5,13,55,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="395,26,255,24,103,25,55,28,55,22,103,20,255,19,395,21"/>
+<area shape="rect" id="Node000003" href="$classswss_1_1_mclag_link.html#a7eab1f6ecb13c307f0adf4a98daf95d1" title=" " alt="" coords="103,35,363,77"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="396,41,364,45,363,40,395,36"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="87,38,54,33,55,27,88,32"/>
+</map>

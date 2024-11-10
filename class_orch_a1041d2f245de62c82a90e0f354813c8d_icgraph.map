@@ -1,0 +1,20 @@
+<map id="Orch::generateBitMapFromIdsStr" name="Orch::generateBitMapFromIdsStr">
+<area shape="rect" id="Node000001" title=" " alt="" coords="945,96,1123,139"/>
+<area shape="rect" id="Node000002" href="$classswss_1_1_buffer_mgr_dynamic.html#ae31ca4d399a0ec2e679e820a7a647fe8" title=" " alt="" coords="697,88,892,147"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="929,120,893,120,893,115,929,115"/>
+<area shape="rect" id="Node000007" href="$classswss_1_1_buffer_mgr_dynamic.html#a3135a26f3fb989ab9893bfd6a71cf9d8" title=" " alt="" coords="697,5,892,64"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="955,93,881,67,883,62,956,88"/>
+<area shape="rect" id="Node000008" href="$classswss_1_1_buffer_mgr_dynamic.html#a6a451ab1cd5d777ff207683cc725be8d" title=" " alt="" coords="692,171,897,213"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="949,146,866,173,865,167,948,141"/>
+<area shape="rect" id="Node000003" href="$classswss_1_1_buffer_mgr_dynamic.html#aeb39018141d1d0f0679cc55e46edb54f" title=" " alt="" coords="449,21,633,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="681,87,615,67,617,62,683,82"/>
+<area shape="rect" id="Node000006" href="$classswss_1_1_buffer_mgr_dynamic.html#ae214f38da9df2d679d07539eb7fb4fd0" title=" " alt="" coords="438,88,644,131"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="681,116,645,115,645,110,681,111"/>
+<area shape="rect" id="Node000004" href="$classswss_1_1_buffer_mgr_dynamic.html#abeb2610ca36f120d251ca1627c1b6f5b" title=" " alt="" coords="222,55,390,97"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="434,61,391,67,390,61,433,55"/>
+<area shape="rect" id="Node000005" href="$classswss_1_1_buffer_mgr_dynamic.html#a1c70a6b4bf77a1dbf4500bcda6b04954" title=" " alt="" coords="5,55,174,97"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="206,79,174,79,174,73,206,73"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="422,95,390,91,391,85,423,90"/>
+<area shape="poly" id="edge8_Node000007_Node000003" title=" " alt="" coords="681,41,634,42,634,37,681,36"/>
+<area shape="poly" id="edge9_Node000007_Node000006" title=" " alt="" coords="683,70,617,90,615,85,681,65"/>
+</map>

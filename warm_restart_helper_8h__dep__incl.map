@@ -1,0 +1,18 @@
+<map id="E:/GitHub/SONiC/202211/sonic&#45;buildimage/src/sonic&#45;swss/warmrestart/warmRestartHelper.h" name="E:/GitHub/SONiC/202211/sonic&#45;buildimage/src/sonic&#45;swss/warmrestart/warmRestartHelper.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="241,5,411,80"/>
+<area shape="rect" id="Node000002" href="$fpmsyncd_8cpp.html" title=" " alt="" coords="5,357,244,416"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="244,91,222,109,204,130,171,188,149,251,136,310,129,357,124,356,131,309,144,249,166,186,200,126,219,105,241,87"/>
+<area shape="rect" id="Node000003" href="$routesync_8h.html" title=" " alt="" coords="214,136,438,195"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="328,96,328,136,323,136,323,96"/>
+<area shape="rect" id="Node000007" href="$warm_restart_helper_8cpp.html" title=" " alt="" coords="462,128,632,203"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="408,86,481,125,478,130,406,90"/>
+<area shape="poly" id="edge7_Node000003_Node000002" title=" " alt="" coords="291,208,153,359,149,355,287,204"/>
+<area shape="rect" id="Node000004" href="$fpmlink_8h.html" title=" " alt="" coords="266,251,476,309"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="345,208,362,249,357,251,341,210"/>
+<area shape="rect" id="Node000006" href="$routesync_8cpp.html" title=" " alt="" coords="515,357,753,416"/>
+<area shape="poly" id="edge8_Node000003_Node000006" title=" " alt="" coords="406,199,448,222,490,249,557,303,610,355,606,359,553,307,487,253,446,227,403,204"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="291,318,193,359,191,354,289,313"/>
+<area shape="rect" id="Node000005" href="$fpmlink_8cpp.html" title=" " alt="" coords="268,357,491,416"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="377,325,380,357,374,357,372,325"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="458,313,563,354,561,359,456,318"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="NextHopKey::formatMplsNextHop" name="NextHopKey::formatMplsNextHop">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,227,61"/>
+<area shape="rect" id="Node000002" href="$struct_next_hop_key.html#a1daf3e6b9415c99ce11da49419bd2bca" title=" " alt="" coords="275,5,469,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="227,33,259,29,260,34,228,38"/>
+<area shape="rect" id="Node000004" href="$structswss_1_1_label_stack.html#a5d0de2285c60930cd76538bf105ca7dc" title=" " alt="" coords="300,56,444,99"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="228,58,285,65,284,70,227,63"/>
+<area shape="rect" id="Node000003" href="$structswss_1_1_label_stack.html#a4302079120bbbf32d762779c017d68b8" title=" " alt="" coords="517,5,686,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="470,16,501,16,501,21,470,21"/>
+</map>

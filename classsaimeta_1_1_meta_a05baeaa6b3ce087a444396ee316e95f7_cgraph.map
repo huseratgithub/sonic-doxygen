@@ -1,0 +1,5 @@
+<map id="saimeta::Meta::meta_unittests_allow_readonly_set_once" name="saimeta::Meta::meta_unittests_allow_readonly_set_once">
+<area shape="rect" id="Node000001" title="Allow to perform SET operation on READ_ONLY attribute only once." alt="" coords="5,5,177,64"/>
+<area shape="rect" id="Node000002" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="225,21,376,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="177,32,209,32,209,37,177,37"/>
+</map>

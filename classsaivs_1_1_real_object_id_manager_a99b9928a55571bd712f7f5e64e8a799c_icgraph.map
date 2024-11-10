@@ -1,0 +1,9 @@
+<map id="saivs::RealObjectIdManager::saiObjectTypeQuery" name="saivs::RealObjectIdManager::saiObjectTypeQuery">
+<area shape="rect" id="Node000001" title="Object type query." alt="" coords="240,72,426,115"/>
+<area shape="rect" id="Node000002" href="$classsaivs_1_1_real_object_id_manager.html#aaf50d196060171614f7581b7e337e688" title="Allocate new object id on a given switch." alt="" coords="5,5,192,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="240,70,176,51,177,46,242,65"/>
+<area shape="rect" id="Node000003" href="$classsaivs_1_1_real_object_id_manager.html#a1ff7561ec64b641532b0c34cd0023c93" title="Release allocated object id." alt="" coords="5,72,192,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="224,96,192,96,192,91,224,91"/>
+<area shape="rect" id="Node000004" href="$classsaivs_1_1_real_object_id_manager.html#ae78a7b194abb8060e2610246da9f1f9d" title="Switch id query." alt="" coords="5,139,192,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="242,122,177,141,176,135,240,117"/>
+</map>

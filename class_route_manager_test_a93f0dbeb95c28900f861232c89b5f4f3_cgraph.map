@@ -1,0 +1,36 @@
+<map id="RouteManagerTest::SetUp" name="RouteManagerTest::SetUp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,229,182,256"/>
+<area shape="rect" id="Node000002" href="$mock__sai__route_8h.html#a1101aa5426f3c87935a8518a5e4edd3e" title=" " alt="" coords="248,20,387,47"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,228,146,151,184,104,228,63,249,51,251,56,231,67,187,108,151,154,104,230"/>
+<area shape="rect" id="Node000004" href="$mock__sai__route_8h.html#a4d64becf0d7f77c423af0813e8dc1d84" title=" " alt="" coords="253,77,382,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="105,227,156,176,190,147,228,120,254,108,256,112,231,125,194,151,159,180,109,231"/>
+<area shape="rect" id="Node000005" href="$class_sai_route_interface.html#ab2ed62561c15dff7fa9b32d032dc64de" title=" " alt="" coords="474,72,608,115"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="114,227,164,195,229,164,287,144,348,127,458,103,459,109,349,132,289,149,231,169,167,200,116,231"/>
+<area shape="rect" id="Node000006" href="$mock__sai__route_8h.html#aec37d487e55d6706357ea02e03b51c9e" title=" " alt="" coords="230,179,405,205"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="155,226,240,207,241,212,156,231"/>
+<area shape="rect" id="Node000008" href="$mock__sai__route_8h.html#a95072077413fe8fd9b3b9ff0545c2836" title=" " alt="" coords="235,229,400,256"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="182,240,219,240,219,245,182,245"/>
+<area shape="rect" id="Node000010" href="$mock__sai__route_8h.html#ad494ad4f66e8c4fd1880adc19559849d" title=" " alt="" coords="244,280,390,307"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="156,254,241,273,240,279,155,259"/>
+<area shape="rect" id="Node000012" href="$mock__sai__route_8h.html#ada0b8f4258054a43a77f4fc79c51df44" title=" " alt="" coords="249,336,386,363"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="118,254,169,284,231,316,259,328,257,333,229,321,166,289,115,259"/>
+<area shape="rect" id="Node000014" href="$mock__sai__route_8h.html#aca047e2e14a17b63a5636e3762d79875" title=" " alt="" coords="230,399,405,425"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="108,255,158,310,193,343,231,372,263,390,261,395,228,377,189,347,154,314,104,258"/>
+<area shape="rect" id="Node000016" href="$mock__sai__route_8h.html#aca7c946e45d6263e1d7869d9367ce71f" title=" " alt="" coords="235,473,400,500"/>
+<area shape="poly" id="edge16_Node000001_Node000016" title=" " alt="" coords="104,255,151,337,188,388,231,435,272,464,269,468,228,439,184,392,147,340,99,258"/>
+<area shape="rect" id="Node000003" href="$class_sai_route_interface.html#ab484b7e31b0596a45148695896a6cff0" title=" " alt="" coords="471,5,610,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="387,29,455,27,455,32,387,34"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="383,89,458,90,458,95,382,94"/>
+<area shape="rect" id="Node000007" href="$class_sai_route_interface.html#af0f0b9960cc0292c416355be98db8579" title=" " alt="" coords="453,139,628,181"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="405,177,437,172,438,177,406,182"/>
+<area shape="rect" id="Node000009" href="$class_sai_route_interface.html#ada971cdb4ee745ec504a85831787308d" title=" " alt="" coords="458,205,623,248"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="400,234,442,231,442,236,400,239"/>
+<area shape="rect" id="Node000011" href="$class_sai_route_interface.html#a4b34d09eae7dee87129863f74bc4d803" title=" " alt="" coords="468,272,614,315"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="391,291,452,291,452,296,391,296"/>
+<area shape="rect" id="Node000013" href="$class_sai_route_interface.html#a50c95458f802ef94d1385ff115b092b3" title=" " alt="" coords="472,339,609,381"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="386,350,457,353,457,359,386,355"/>
+<area shape="rect" id="Node000015" href="$class_sai_route_interface.html#abbcf6cf24e7d7d8b9ad3ce256a38cf5e" title=" " alt="" coords="453,405,628,448"/>
+<area shape="poly" id="edge15_Node000014_Node000015" title=" " alt="" coords="405,415,438,417,437,423,405,420"/>
+<area shape="rect" id="Node000017" href="$class_sai_route_interface.html#a44cca7822340ee7964b0c3f0f124e108" title=" " alt="" coords="458,472,623,515"/>
+<area shape="poly" id="edge17_Node000016_Node000017" title=" " alt="" coords="400,486,442,488,442,493,400,492"/>
+</map>

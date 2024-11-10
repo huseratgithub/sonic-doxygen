@@ -1,0 +1,17 @@
+<map id="syncd::SaiSwitch::isNonRemovableRid" name="syncd::SaiSwitch::isNonRemovableRid">
+<area shape="rect" id="Node000001" title="Indicates whether object can&#39;t be removed." alt="" coords="5,109,257,136"/>
+<area shape="rect" id="Node000002" href="$classsyncd_1_1_sai_switch.html#a7d20779cef277f4d560def8fc223bc21" title="Indicates whether RID was discovered on switch init at cold boot." alt="" coords="311,5,480,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,106,319,51,321,56,171,111"/>
+<area shape="rect" id="Node000004" href="$classsyncd_1_1_sai_switch.html#a8a7e616b8f81efece72a8cf446c0acf0" title="Indicates whether RID is one of default switch objects like CPU port, default virtual router etc." alt="" coords="305,72,486,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="257,106,289,102,289,108,257,111"/>
+<area shape="rect" id="Node000005" href="$mock__sai__serialize_8cpp.html#a0f934d15b1a3e0fd3458f0f2b9df0b31" title=" " alt="" coords="319,139,472,165"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="257,134,304,139,304,145,257,139"/>
+<area shape="rect" id="Node000007" href="$mock__sai__serialize_8cpp.html#aa06e96f943a8f2451c89c65d2fecbef5" title=" " alt="" coords="312,193,479,220"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="176,134,337,186,336,191,175,139"/>
+<area shape="rect" id="Node000003" href="$classsyncd_1_1_sai_switch.html#a4e39f9e9af66e3d8a5e3fad6a7098844" title="Get cold boot discovered VIDs." alt="" coords="534,5,710,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="480,24,519,24,519,29,480,29"/>
+<area shape="rect" id="Node000006" href="$class_sai_serialize_interface.html#ac1267fe86b704633a47c483dcc8e1379" title=" " alt="" coords="542,127,702,169"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="472,148,526,147,527,152,472,153"/>
+<area shape="rect" id="Node000008" href="$class_sai_serialize_interface.html#a29d73fb00b962109388850736a5a02a3" title=" " alt="" coords="534,193,710,236"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="480,207,519,208,519,214,479,212"/>
+</map>

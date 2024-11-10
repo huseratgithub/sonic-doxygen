@@ -1,0 +1,14 @@
+<map id="saivs::SwitchStateBase::get_port_ipgs" name="saivs::SwitchStateBase::get_port_ipgs">
+<area shape="rect" id="Node000001" title=" " alt="" coords="881,39,1042,81"/>
+<area shape="rect" id="Node000002" href="$classsaivs_1_1_switch_state_base.html#a1c9918e45784413e504138460ed9fc48" title=" " alt="" coords="652,39,833,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="865,63,833,63,833,57,865,57"/>
+<area shape="rect" id="Node000003" href="$classsaivs_1_1_switch_state_base.html#ae271a00b8c1bd3f933dc21b5cd08ed4e" title=" " alt="" coords="434,5,595,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="637,47,595,41,596,36,637,42"/>
+<area shape="rect" id="Node000006" href="$classsaivs_1_1_switch_state_base.html#ab64143db228fa3dedb5ac44f941a2a90" title=" " alt="" coords="424,72,604,115"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="637,78,605,83,604,78,637,73"/>
+<area shape="rect" id="Node000004" href="$classsaivs_1_1_switch_state_base.html#a57870b098ed8ce8c5ae428b5093f2237" title=" " alt="" coords="215,39,376,81"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="418,44,377,50,376,45,418,39"/>
+<area shape="rect" id="Node000005" href="$classsaivs_1_1_switch_state_base.html#a9ab18a9958238a3d617202223520bf31" title=" " alt="" coords="5,39,167,81"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="199,63,167,63,167,57,199,57"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="408,80,376,75,377,70,409,75"/>
+</map>

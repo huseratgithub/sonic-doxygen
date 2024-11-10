@@ -1,0 +1,15 @@
+<map id="swss::GearboxUtils::parseGearboxKey" name="swss::GearboxUtils::parseGearboxKey">
+<area shape="rect" id="Node000001" title=" " alt="" coords="461,105,598,148"/>
+<area shape="rect" id="Node000002" href="$classswss_1_1_gearbox_utils.html#a2d0131f989348ad3c4e575d9b05bb49e" title=" " alt="" coords="277,5,413,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="478,100,412,62,390,51,393,46,415,58,480,95"/>
+<area shape="rect" id="Node000003" href="$classswss_1_1_gearbox_utils.html#a686fb11e00c6b528aa27c398db579105" title=" " alt="" coords="277,72,413,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="446,114,413,108,414,103,447,109"/>
+<area shape="rect" id="Node000004" href="$classswss_1_1_gearbox_utils.html#ab2e6d3e29ec9361f143e84187e3a38cb" title=" " alt="" coords="277,139,413,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="447,144,414,150,413,145,446,139"/>
+<area shape="rect" id="Node000007" href="$classswss_1_1_gearbox_utils.html#ade1064e4111b9bfe2af8c8f52aa5d38c" title=" " alt="" coords="277,205,413,248"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="480,158,415,196,393,207,390,202,412,191,478,154"/>
+<area shape="rect" id="Node000005" href="$sonic-swss_2orchagent_2main_8cpp.html#aedb8b6009f902b6655ec2ea1d0936836" title=" " alt="" coords="103,147,229,173"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="262,163,230,163,230,157,262,157"/>
+<area shape="rect" id="Node000006" href="$sonic-swss_2orchagent_2main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="5,147,55,173"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="87,163,55,163,55,157,87,157"/>
+</map>

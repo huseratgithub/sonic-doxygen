@@ -1,0 +1,11 @@
+<map id="sairedis::Recorder::requestLogRotate" name="sairedis::Recorder::requestLogRotate">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,138,81"/>
+<area shape="rect" id="Node000002" href="$classsairedis_1_1_recorder.html#a8437094dc8312edb3515b512161a553c" title=" " alt="" coords="186,5,334,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,46,170,40,171,45,139,51"/>
+<area shape="rect" id="Node000004" href="$classsairedis_1_1_recorder.html#a98a36a0c0b73b0527a1902df57d5c7e1" title=" " alt="" coords="196,72,324,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="139,69,181,77,180,82,138,74"/>
+<area shape="rect" id="Node000003" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="382,13,533,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="334,24,366,24,366,29,334,29"/>
+<area shape="rect" id="Node000005" href="$classsairedis_1_1_recorder.html#a384b62241f24b8c4b04be51dc8fc3a4c" title=" " alt="" coords="394,72,521,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="324,91,379,91,379,96,324,96"/>
+</map>

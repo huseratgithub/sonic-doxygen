@@ -1,0 +1,13 @@
+<map id="saivs::SwitchStateBase::create_scheduler_groups_per_port" name="saivs::SwitchStateBase::create_scheduler_groups_per_port">
+<area shape="rect" id="Node000001" title=" " alt="" coords="663,31,838,89"/>
+<area shape="rect" id="Node000002" href="$classsaivs_1_1_switch_state_base.html#ac5ee790634b29cd8151d762ecdbf6ac1" title=" " alt="" coords="434,5,615,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="647,48,615,43,616,37,648,42"/>
+<area shape="rect" id="Node000005" href="$classsaivs_1_1_switch_state_base.html#a3fb906254a915e24be3106130522d33d" title=" " alt="" coords="438,72,612,115"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="648,78,613,83,612,78,648,72"/>
+<area shape="rect" id="Node000003" href="$classsaivs_1_1_switch_state_base.html#af7d4265c8a550472dc3eee35c4b8722d" title=" " alt="" coords="220,5,381,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="419,29,382,29,382,24,419,24"/>
+<area shape="rect" id="Node000004" href="$classsaivs_1_1_switch_state_base.html#a7e26af478cf1c620016b0941578cbd4d" title=" " alt="" coords="5,5,167,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="205,29,167,29,167,24,205,24"/>
+<area shape="rect" id="Node000006" href="$classsaivs_1_1_switch_state_base.html#a063407086e7538787fd656b3d7a688d7" title=" " alt="" coords="215,72,386,115"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="422,96,386,96,386,91,422,91"/>
+</map>

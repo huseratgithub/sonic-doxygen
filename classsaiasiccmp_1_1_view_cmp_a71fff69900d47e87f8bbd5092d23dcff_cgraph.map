@@ -1,0 +1,11 @@
+<map id="saiasiccmp::ViewCmp::checkStartingPoint" name="saiasiccmp::ViewCmp::checkStartingPoint">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,158,81"/>
+<area shape="rect" id="Node000002" href="$mock__sai__serialize_8cpp.html#a0f934d15b1a3e0fd3458f0f2b9df0b31" title=" " alt="" coords="213,17,366,44"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,47,198,41,198,46,158,52"/>
+<area shape="rect" id="Node000004" href="$mock__sai__serialize_8cpp.html#aa06e96f943a8f2451c89c65d2fecbef5" title=" " alt="" coords="206,72,373,99"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="158,67,190,71,190,76,158,72"/>
+<area shape="rect" id="Node000003" href="$class_sai_serialize_interface.html#ac1267fe86b704633a47c483dcc8e1379" title=" " alt="" coords="428,5,589,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="366,27,413,26,413,31,366,32"/>
+<area shape="rect" id="Node000005" href="$class_sai_serialize_interface.html#a29d73fb00b962109388850736a5a02a3" title=" " alt="" coords="421,72,596,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="373,86,405,87,405,92,373,91"/>
+</map>

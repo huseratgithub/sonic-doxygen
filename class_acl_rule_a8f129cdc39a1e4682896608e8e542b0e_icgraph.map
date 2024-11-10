@@ -1,0 +1,11 @@
+<map id="AclRule::setMatch" name="AclRule::setMatch">
+<area shape="rect" id="Node000001" title=" " alt="" coords="418,56,547,83"/>
+<area shape="rect" id="Node000002" href="$class_acl_rule.html#a7ac6b10c66c3da62e833e3c72a26986c" title=" " alt="" coords="187,5,351,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="408,54,328,35,329,30,409,49"/>
+<area shape="rect" id="Node000004" href="$class_acl_rule.html#a9b986d3793dfe671eca379af257bdac9" title=" " alt="" coords="179,56,358,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="402,72,359,72,359,67,402,67"/>
+<area shape="rect" id="Node000005" href="$class_acl_rule_pbh.html#af7dc13e566235ffa9c49f8ad75737856" title=" " alt="" coords="168,107,370,133"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="409,89,329,109,328,103,408,84"/>
+<area shape="rect" id="Node000003" href="$class_acl_rule.html#a951872f148e39cb60d8b75161924cf66" title=" " alt="" coords="5,5,120,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="171,21,120,21,120,16,171,16"/>
+</map>

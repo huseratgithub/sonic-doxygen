@@ -1,0 +1,15 @@
+<map id="syncd::TimerWatchdog::logEventData" name="syncd::TimerWatchdog::logEventData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="513,105,669,148"/>
+<area shape="rect" id="Node000002" href="$classsyncd_1_1_timer_watchdog.html#ac5a27e259e092514f6c7d96e85351036" title=" " alt="" coords="310,72,465,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="498,114,465,109,466,103,499,109"/>
+<area shape="rect" id="Node000006" href="$classsyncd_1_1_timer_watchdog.html#adc60f867ae5eefd58fbe3dd2a88c31cf" title=" " alt="" coords="310,139,465,181"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="499,145,466,150,465,145,498,139"/>
+<area shape="rect" id="Node000003" href="$syncd_2tests_8cpp.html#aebdb3955924d93f999790f8ecd2c26a1" title=" " alt="" coords="111,5,254,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="305,69,250,51,251,46,306,64"/>
+<area shape="rect" id="Node000005" href="$classsyncd_1_1_watchdog_scope.html#a3dba624ef3b991cc14c3ae261952f38c" title=" " alt="" coords="103,72,262,115"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="295,96,262,96,262,91,295,91"/>
+<area shape="rect" id="Node000004" href="$syncd_2tests_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,13,55,40"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="96,29,55,29,55,24,96,24"/>
+<area shape="rect" id="Node000007" href="$classsyncd_1_1_timer_watchdog.html#aaedb4e528008b4e31a2bfb68d7f0df0e" title=" " alt="" coords="105,139,260,181"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="294,163,260,163,260,157,294,157"/>
+</map>

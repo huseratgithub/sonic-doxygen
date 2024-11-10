@@ -1,0 +1,14 @@
+<map id="saivs::SwitchStateBase::warm_update_cpu_queues" name="saivs::SwitchStateBase::warm_update_cpu_queues">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,47,190,89"/>
+<area shape="rect" id="Node000002" href="$classsaivs_1_1_switch_state_base.html#a6a3ac44c21b060113ac1b8afc86e14e0" title=" " alt="" coords="246,5,416,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,49,230,42,231,47,191,54"/>
+<area shape="rect" id="Node000004" href="$classsaivs_1_1_switch_state_base.html#af3f880deee3e7465b0063351342f3d36" title=" " alt="" coords="238,96,425,123"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="191,82,238,90,237,95,190,87"/>
+<area shape="rect" id="Node000003" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="474,13,625,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="417,24,458,24,458,29,417,29"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="295,97,288,87,292,77,307,71,331,69,357,72,371,78,369,83,356,77,331,75,308,77,296,81,293,87,299,94"/>
+<area shape="rect" id="Node000005" href="$mock__sai__serialize_8cpp.html#a0f934d15b1a3e0fd3458f0f2b9df0b31" title=" " alt="" coords="473,96,625,123"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="425,107,458,107,458,112,425,112"/>
+<area shape="rect" id="Node000006" href="$class_sai_serialize_interface.html#ac1267fe86b704633a47c483dcc8e1379" title=" " alt="" coords="673,88,834,131"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="626,107,658,107,658,112,626,112"/>
+</map>

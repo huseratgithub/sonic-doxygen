@@ -1,0 +1,17 @@
+<map id="E:/GitHub/SONiC/202211/sonic&#45;buildimage/src/sonic&#45;sairedis/lib/ContextConfig.h" name="E:/GitHub/SONiC/202211/sonic&#45;buildimage/src/sonic&#45;sairedis/lib/ContextConfig.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="74,5,296,64"/>
+<area shape="rect" id="Node000002" href="$lib_2_switch_config_container_8h.html" title=" " alt="" coords="102,112,268,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,64,188,96,182,96,182,64"/>
+<area shape="rect" id="Node000003" href="$lib_2_switch_config_8h.html" title=" " alt="" coords="84,187,195,213"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="179,141,158,175,153,172,175,138"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,261,90,288"/>
+<area shape="poly" id="edge6_Node000002_Node000004" title=" " alt="" coords="146,142,108,160,90,173,75,188,60,217,53,246,47,245,55,215,71,185,87,169,105,156,144,137"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="195,261,263,288"/>
+<area shape="poly" id="edge8_Node000002_Node000006" title=" " alt="" coords="192,138,209,186,225,246,220,247,204,187,187,140"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="268,187,315,213"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="205,137,262,175,259,180,202,141"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="125,216,77,254,73,250,122,212"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="114,261,168,288"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="142,214,143,246,138,246,137,214"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="157,212,203,249,200,253,153,216"/>
+</map>

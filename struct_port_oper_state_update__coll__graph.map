@@ -1,0 +1,15 @@
+<map id="PortOperStateUpdate" name="PortOperStateUpdate">
+<area shape="rect" id="Node000001" title=" " alt="" coords="201,283,347,309"/>
+<area shape="rect" id="Node000002" href="$classswss_1_1_port.html" title=" " alt="" coords="232,192,316,219"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="277,234,277,282,271,282,271,234"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="161,5,214,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="146,31,93,45,43,66,24,79,12,94,9,109,16,126,30,138,51,150,108,169,173,185,232,195,231,200,172,190,107,174,49,154,27,143,12,130,3,110,7,91,20,75,40,62,92,40,144,26"/>
+<area shape="rect" id="Node000005" href="$structswss_1_1_system_port_info.html" title=" " alt="" coords="112,99,263,125"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="190,48,190,98,185,98,185,48"/>
+<area shape="rect" id="Node000006" href="$structswss_1_1_system_lag_info.html" title=" " alt="" coords="286,99,435,125"/>
+<area shape="poly" id="edge7_Node000006_Node000003" title=" " alt="" coords="226,37,338,96,335,101,224,42"/>
+<area shape="rect" id="Node000004" href="$structswss_1_1_vlan_info.html" title=" " alt="" coords="458,99,567,125"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="496,139,479,156,459,170,423,186,386,196,317,205,316,200,385,191,422,181,457,166,476,152,492,136"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="191,140,195,154,202,166,216,179,233,189,231,194,213,184,198,170,190,156,186,142"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="347,140,324,170,295,194,292,190,320,166,343,137"/>
+</map>

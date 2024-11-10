@@ -1,0 +1,8 @@
+<map id="saivs::VirtualSwitchSaiInterface::bulkCreate" name="saivs::VirtualSwitchSaiInterface::bulkCreate">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,213,72"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="66,29,64,19,71,10,86,5,109,3,133,5,148,11,146,16,132,10,109,8,88,10,74,15,69,21,71,28"/>
+<area shape="rect" id="Node000002" href="$mock__sai__serialize_8cpp.html#a0f934d15b1a3e0fd3458f0f2b9df0b31" title=" " alt="" coords="261,37,413,64"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="213,48,245,48,245,53,213,53"/>
+<area shape="rect" id="Node000003" href="$class_sai_serialize_interface.html#ac1267fe86b704633a47c483dcc8e1379" title=" " alt="" coords="461,29,621,72"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="413,48,445,48,445,53,413,53"/>
+</map>

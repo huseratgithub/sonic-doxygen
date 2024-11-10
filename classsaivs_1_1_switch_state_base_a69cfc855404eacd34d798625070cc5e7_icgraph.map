@@ -1,0 +1,18 @@
+<map id="saivs::SwitchStateBase::remove" name="saivs::SwitchStateBase::remove">
+<area shape="rect" id="Node000001" title=" " alt="" coords="683,72,845,115"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="798,59,785,53,764,51,744,53,732,57,727,63,729,71,724,72,722,62,729,53,743,47,764,45,787,48,800,54"/>
+<area shape="rect" id="Node000002" href="$classsaivs_1_1_switch_b_c_m81724.html#a70307364abaef082287deeed93de0e9a" title=" " alt="" coords="470,5,635,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="679,69,622,51,624,46,681,64"/>
+<area shape="rect" id="Node000003" href="$classsaivs_1_1_switch_state_base.html#a57870b098ed8ce8c5ae428b5093f2237" title=" " alt="" coords="472,72,633,115"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="668,96,634,96,634,91,668,91"/>
+<area shape="rect" id="Node000005" href="$classsaivs_1_1_switch_state_base.html#a9911a68dc3371051d3a0dcd4d9dc6cb4" title=" " alt="" coords="472,139,633,181"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="681,122,624,141,622,135,679,117"/>
+<area shape="rect" id="Node000004" href="$classsaivs_1_1_switch_state_base.html#a9ab18a9958238a3d617202223520bf31" title=" " alt="" coords="261,72,422,115"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="457,96,423,96,423,91,457,91"/>
+<area shape="rect" id="Node000006" href="$classsaivs_1_1_switch_state_base.html#a198d076baabe2411e563dd2db29da16a" title=" " alt="" coords="261,139,422,181"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="457,163,423,163,423,157,457,157"/>
+<area shape="rect" id="Node000007" href="$classsaivs_1_1_switch_state_base.html#afd6dc43276189329cc43d3c679cf334c" title=" " alt="" coords="5,105,213,148"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="245,149,213,144,213,139,246,144"/>
+<area shape="rect" id="Node000008" href="$classsaivs_1_1_switch_state_base.html#af872b14931e07fa55ab3055058bd0c65" title=" " alt="" coords="14,172,204,215"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="246,176,205,182,204,177,245,171"/>
+</map>

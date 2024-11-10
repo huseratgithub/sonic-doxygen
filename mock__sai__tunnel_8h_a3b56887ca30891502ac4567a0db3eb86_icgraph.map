@@ -1,0 +1,5 @@
+<map id="mock_create_tunnel" name="mock_create_tunnel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="210,13,348,40"/>
+<area shape="rect" id="Node000002" href="$class_gre_tunnel_manager_test.html#af660a670b0758b1c4215775b9c4af659" title=" " alt="" coords="5,5,162,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="194,29,162,29,162,24,194,24"/>
+</map>

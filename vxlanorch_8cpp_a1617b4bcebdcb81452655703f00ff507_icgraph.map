@@ -1,0 +1,17 @@
+<map id="remove_tunnel" name="remove_tunnel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="485,148,591,175"/>
+<area shape="rect" id="Node000002" href="$class_vxlan_tunnel.html#af687aad734e85af84d9329e2b8038ca0" title=" " alt="" coords="242,47,437,73"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="510,139,476,112,436,88,407,76,409,71,438,83,479,108,513,135"/>
+<area shape="rect" id="Node000005" href="$gre__tunnel__manager__test_8cpp.html#a38cd0611575fd7fee84f8bf8e40898ec" title=" " alt="" coords="304,97,374,124"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="469,147,374,122,376,117,471,141"/>
+<area shape="rect" id="Node000006" href="$gre__tunnel__manager__test_8cpp.html#a275673788e6639d075bca1f0fcb07c8c" title=" " alt="" coords="304,148,374,175"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="470,164,375,164,375,159,470,159"/>
+<area shape="rect" id="Node000007" href="$gre__tunnel__manager__test_8cpp.html#ad9dc1d6ef064e3c62193930985965dc3" title=" " alt="" coords="304,199,374,225"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="471,181,376,206,374,201,469,176"/>
+<area shape="rect" id="Node000008" href="$gre__tunnel__manager__test_8cpp.html#a95f24a5f98ab441877136eff5beaaae5" title=" " alt="" coords="304,249,374,276"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="513,187,479,215,438,240,406,252,375,260,374,255,405,247,436,235,476,210,510,183"/>
+<area shape="rect" id="Node000003" href="$class_vxlan_tunnel.html#a8be512d33baa7aeb5ea65d849e5f0368" title=" " alt="" coords="5,5,194,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="226,47,194,42,195,37,227,42"/>
+<area shape="rect" id="Node000004" href="$class_vxlan_tunnel.html#a1ff4e42d2d0c34210309bace4a724004" title=" " alt="" coords="8,72,191,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="226,78,192,83,191,78,226,73"/>
+</map>

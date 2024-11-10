@@ -1,0 +1,37 @@
+<map id="syncd::RedisClient::saveSwitchHiddenAttribute" name="syncd::RedisClient::saveSwitchHiddenAttribute">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,418,193,460"/>
+<area shape="rect" id="Node000002" href="$classsyncd_1_1_redis_client.html#abc97182700e47d62e59c504086ae9648" title=" " alt="" coords="241,338,386,380"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,415,239,384,241,389,159,420"/>
+<area shape="rect" id="Node000008" href="$mock__sai__serialize_8cpp.html#a0f934d15b1a3e0fd3458f0f2b9df0b31" title=" " alt="" coords="1293,295,1446,322"/>
+<area shape="poly" id="edge22_Node000001_Node000008" title=" " alt="" coords="193,447,339,459,503,466,935,466,1024,465,1095,459,1162,441,1244,407,1273,391,1300,371,1344,330,1348,334,1304,375,1276,395,1247,412,1164,446,1095,464,1025,470,935,471,503,471,339,465,193,452"/>
+<area shape="rect" id="Node000003" href="$classsyncd_1_1_vid_manager.html#acc51dd87b40a8f923835097a387faecf" title="Get global context ID." alt="" coords="434,132,575,175"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="333,335,471,185,475,188,337,339"/>
+<area shape="poly" id="edge21_Node000002_Node000008" title=" " alt="" coords="387,373,536,401,624,411,712,415,935,415,990,412,1045,405,1153,382,1248,353,1321,325,1323,330,1250,358,1154,387,1046,411,990,418,935,420,712,420,624,416,535,406,386,379"/>
+<area shape="rect" id="Node000011" href="$classsyncd_1_1_vid_manager.html#abb9cf7acaccbd39a852c6341fdc20d64" title="Get switch index." alt="" coords="434,312,575,355"/>
+<area shape="poly" id="edge14_Node000002_Node000011" title=" " alt="" coords="386,347,418,342,419,348,387,352"/>
+<area shape="rect" id="Node000004" href="$classsairedis_1_1_virtual_object_id_manager.html#a971a1439c0e6541d11407e0ccdbb46c3" title="Get global context." alt="" coords="623,103,804,146"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="575,141,607,136,608,142,576,146"/>
+<area shape="rect" id="Node000005" href="$classsairedis_1_1_virtual_object_id_manager.html#af21e5bb605fedd3833c7f39f61f6ab7d" title="Switch id query." alt="" coords="852,103,1015,146"/>
+<area shape="poly" id="edge13_Node000003_Node000005" title=" " alt="" coords="535,129,576,106,623,88,680,80,739,80,795,86,846,96,845,101,794,92,738,85,680,85,624,93,578,111,538,134"/>
+<area shape="poly" id="edge12_Node000003_Node000008" title=" " alt="" coords="576,163,1278,289,1277,295,575,169"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="804,122,836,122,836,127,804,127"/>
+<area shape="rect" id="Node000006" href="$classsairedis_1_1_virtual_object_id_manager.html#adf8023ea824e3b1535e342a77c0f72b2" title="Construct object id." alt="" coords="1063,103,1245,146"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="1015,122,1047,122,1047,127,1015,127"/>
+<area shape="rect" id="Node000007" href="$classsairedis_1_1_virtual_object_id_manager.html#ad101fc291f99d20afa184f5b99911b3a" title="Object type query." alt="" coords="1066,36,1243,79"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="1005,100,1066,81,1067,87,1007,105"/>
+<area shape="poly" id="edge10_Node000005_Node000008" title=" " alt="" coords="1016,144,1155,183,1246,213,1301,247,1344,282,1341,287,1297,251,1244,217,1154,188,1015,149"/>
+<area shape="rect" id="Node000010" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="1294,15,1445,42"/>
+<area shape="poly" id="edge11_Node000005_Node000010" title=" " alt="" coords="952,100,999,58,1029,37,1062,22,1118,8,1177,3,1233,4,1284,10,1284,15,1233,10,1177,8,1119,13,1064,27,1032,42,1002,62,956,104"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="1230,77,1247,89,1289,134,1322,187,1346,238,1362,279,1357,281,1341,240,1317,189,1285,138,1244,93,1227,82"/>
+<area shape="poly" id="edge9_Node000007_Node000010" title=" " alt="" coords="1243,43,1278,38,1279,43,1244,48"/>
+<area shape="rect" id="Node000009" href="$class_sai_serialize_interface.html#ac1267fe86b704633a47c483dcc8e1379" title=" " alt="" coords="1494,287,1654,330"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="1446,306,1478,306,1478,311,1446,311"/>
+<area shape="poly" id="edge17_Node000011_Node000008" title=" " alt="" coords="576,336,623,339,806,340,987,334,1278,314,1278,320,987,340,806,346,623,344,575,342"/>
+<area shape="rect" id="Node000012" href="$classsairedis_1_1_virtual_object_id_manager.html#a5dc8809f34553d52a971bade9b459a31" title="Get switch index." alt="" coords="629,220,798,263"/>
+<area shape="poly" id="edge15_Node000011_Node000012" title=" " alt="" coords="546,309,622,272,636,267,638,272,624,277,548,314"/>
+<area shape="rect" id="Node000013" href="$classsyncd_1_1_vid_manager.html#a49b222960f49a9502739473836a75f4c" title="Switch id query." alt="" coords="643,287,784,330"/>
+<area shape="poly" id="edge18_Node000011_Node000013" title=" " alt="" coords="575,322,627,316,628,321,576,328"/>
+<area shape="poly" id="edge16_Node000012_Node000005" title=" " alt="" coords="754,217,877,151,879,156,756,222"/>
+<area shape="poly" id="edge20_Node000013_Node000005" title=" " alt="" coords="783,284,802,273,834,246,864,216,909,157,913,160,868,219,838,250,805,277,785,289"/>
+<area shape="poly" id="edge19_Node000013_Node000008" title=" " alt="" coords="785,306,1278,306,1278,311,785,311"/>
+</map>

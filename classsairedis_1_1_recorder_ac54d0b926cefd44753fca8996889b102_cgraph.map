@@ -1,0 +1,13 @@
+<map id="sairedis::Recorder::recordGenericResponse" name="sairedis::Recorder::recordGenericResponse">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,175,77"/>
+<area shape="rect" id="Node000002" href="$classsairedis_1_1_recorder.html#a98a36a0c0b73b0527a1902df57d5c7e1" title=" " alt="" coords="227,5,354,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,41,211,36,212,41,175,46"/>
+<area shape="rect" id="Node000004" href="$_sai_serialize_8cpp.html#aeae06eaf39abcffe5f6215d8688a6368" title=" " alt="" coords="223,72,359,99"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="175,66,208,71,207,76,174,71"/>
+<area shape="rect" id="Node000003" href="$classsairedis_1_1_recorder.html#a384b62241f24b8c4b04be51dc8fc3a4c" title=" " alt="" coords="410,5,537,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="355,24,394,24,394,29,355,29"/>
+<area shape="rect" id="Node000005" href="$_sai_serialize_8cpp.html#a65eb8ea2354cbfadd0a6075124116a68" title=" " alt="" coords="407,72,539,99"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="360,83,391,83,391,88,360,88"/>
+<area shape="rect" id="Node000006" href="$_sai_serialize_8cpp.html#a97543edb8d3f82c33b2ba86825bf5cc9" title=" " alt="" coords="587,72,731,99"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="540,83,572,83,572,88,540,88"/>
+</map>

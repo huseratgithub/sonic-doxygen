@@ -1,0 +1,12 @@
+<map id="syncd::SaiSwitch::postPortRemove" name="syncd::SaiSwitch::postPortRemove">
+<area shape="rect" id="Node000001" title="Post port remove." alt="" coords="5,56,186,99"/>
+<area shape="rect" id="Node000002" href="$classsyncd_1_1_sai_switch.html#a017b2044e050927d692e58f1a85dc96a" title="Indicates whether RID was discovered on switch init." alt="" coords="234,5,461,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,53,233,41,268,33,269,38,234,47,186,58"/>
+<area shape="rect" id="Node000003" href="$classsyncd_1_1_sai_switch.html#ab1900281c8e5889ac6dff30e7c9e407f" title="Remove existing object reference only from discovery map." alt="" coords="260,56,434,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="186,75,245,75,245,80,186,80"/>
+<area shape="rect" id="Node000004" href="$mock__sai__serialize_8cpp.html#a0f934d15b1a3e0fd3458f0f2b9df0b31" title=" " alt="" coords="509,93,661,120"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="173,97,234,108,301,114,370,115,493,112,493,117,370,121,301,119,233,113,172,102"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="435,85,494,93,493,98,435,91"/>
+<area shape="rect" id="Node000005" href="$class_sai_serialize_interface.html#ac1267fe86b704633a47c483dcc8e1379" title=" " alt="" coords="709,85,870,128"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="662,104,694,104,694,109,662,109"/>
+</map>

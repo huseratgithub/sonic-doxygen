@@ -1,0 +1,9 @@
+<map id="swss::TunnelMgr::finalizeWarmReboot" name="swss::TunnelMgr::finalizeWarmReboot">
+<area shape="rect" id="Node000001" title=" " alt="" coords="341,23,511,65"/>
+<area shape="rect" id="Node000002" href="$classswss_1_1_tunnel_mgr.html#a482bc78234f03dc6419cc6e9f67b2d63" title=" " alt="" coords="112,5,284,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="326,36,284,31,284,26,326,30"/>
+<area shape="rect" id="Node000004" href="$classswss_1_1_tunnel_mgr.html#a8346f327cd9fc4d0de9fb34f9cfc428d" title=" " alt="" coords="103,56,293,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="326,58,294,61,293,56,325,52"/>
+<area shape="rect" id="Node000003" href="$tunnelmgrd_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="5,5,55,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="97,21,55,21,55,16,97,16"/>
+</map>

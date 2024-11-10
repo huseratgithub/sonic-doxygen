@@ -1,0 +1,7 @@
+<map id="sai_serialize_mcast_fdb_entry" name="sai_serialize_mcast_fdb_entry">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,23,142,65"/>
+<area shape="rect" id="Node000002" href="$_sai_serialize_8cpp.html#ae741a8a2b91e0b8e3cb0f605a63b5449" title=" " alt="" coords="203,5,328,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="142,32,188,26,188,32,143,38"/>
+<area shape="rect" id="Node000003" href="$_sai_serialize_8cpp.html#a64e9cf06c73cd4f94e337e22149be32b" title=" " alt="" coords="190,56,342,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="143,50,175,55,174,60,142,56"/>
+</map>

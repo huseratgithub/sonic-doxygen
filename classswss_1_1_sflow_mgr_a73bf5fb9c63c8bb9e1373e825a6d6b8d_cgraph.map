@@ -1,0 +1,7 @@
+<map id="swss::SflowMgr::sflowHandleSessionAll" name="swss::SflowMgr::sflowHandleSessionAll">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,201,81"/>
+<area shape="rect" id="Node000002" href="$classswss_1_1_sflow_mgr.html#aba26d90732b25f0b46f8e595a7b80290" title=" " alt="" coords="249,5,424,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,43,233,39,234,44,202,49"/>
+<area shape="rect" id="Node000003" href="$classswss_1_1_sflow_mgr.html#a86830d2e8c00c98c4855a276e994929f" title=" " alt="" coords="249,72,424,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="202,71,234,76,233,81,201,77"/>
+</map>

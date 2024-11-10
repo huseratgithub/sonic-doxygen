@@ -1,0 +1,29 @@
+<map id="NatOrch::addHwTwiceNaptEntry" name="NatOrch::addHwTwiceNaptEntry">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,253,218,280"/>
+<area shape="rect" id="Node000002" href="$class_orch.html#a630d7c78464bf112b1867729efb89f6d" title=" " alt="" coords="272,56,463,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,251,175,179,216,136,264,99,290,86,292,91,267,104,220,140,179,183,124,255"/>
+<area shape="rect" id="Node000007" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="517,107,668,133"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="123,251,179,196,220,166,265,143,324,125,386,115,447,111,502,110,502,116,447,116,387,120,326,130,267,148,223,171,183,200,126,255"/>
+<area shape="rect" id="Node000008" href="$class_orch.html#a70977878f1f47486bc7f63c3a0289536" title=" " alt="" coords="274,157,461,200"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="150,250,265,209,284,203,286,208,267,215,152,255"/>
+<area shape="rect" id="Node000009" href="$class_nat_orch.html#af0577224319495a88fa984af7e17e8e9" title=" " alt="" coords="268,224,466,251"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="218,252,252,248,253,253,218,257"/>
+<area shape="rect" id="Node000010" href="$class_nat_orch.html#a352abac3a37e5e2076619deb7db42628" title=" " alt="" coords="266,275,469,317"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="218,276,250,280,250,285,218,282"/>
+<area shape="rect" id="Node000011" href="$class_nat_orch.html#ae7c5013df3a6631b18922db772bb5840" title=" " alt="" coords="269,341,466,368"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="144,278,200,302,267,327,292,334,290,339,265,332,198,307,142,283"/>
+<area shape="rect" id="Node000012" href="$class_nat_orch.html#a829e8d4724f468d7fba1dbc20afb4804" title=" " alt="" coords="275,392,460,435"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="129,278,188,326,226,353,267,378,278,383,276,388,264,382,223,358,184,330,126,282"/>
+<area shape="rect" id="Node000013" href="$class_nat_orch.html#ad505a1dcbf96953339693ee98a0e0810" title=" " alt="" coords="278,459,457,501"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="123,279,145,313,177,357,219,404,267,445,275,449,272,454,264,449,215,408,173,360,140,316,119,282"/>
+<area shape="rect" id="Node000003" href="$_sai_serialize_8cpp.html#a9e4f80bd1f4cab2b066741f56f032e3c" title=" " alt="" coords="534,5,651,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="430,53,518,33,520,38,431,58"/>
+<area shape="rect" id="Node000006" href="$_sai_serialize_8cpp.html#aeae06eaf39abcffe5f6215d8688a6368" title=" " alt="" coords="524,56,661,83"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="463,67,509,67,509,72,463,72"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="431,81,516,100,515,105,430,86"/>
+<area shape="rect" id="Node000004" href="$_sai_serialize_8cpp.html#a65eb8ea2354cbfadd0a6075124116a68" title=" " alt="" coords="716,31,849,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="652,24,701,31,701,36,651,29"/>
+<area shape="rect" id="Node000005" href="$_sai_serialize_8cpp.html#a97543edb8d3f82c33b2ba86825bf5cc9" title=" " alt="" coords="897,31,1040,57"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="849,41,881,41,881,47,849,47"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="661,58,701,52,701,57,661,63"/>
+</map>

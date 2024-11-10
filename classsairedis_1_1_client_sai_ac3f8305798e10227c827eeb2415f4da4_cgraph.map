@@ -1,0 +1,17 @@
+<map id="sairedis::ClientSai::bulkRemove" name="sairedis::ClientSai::bulkRemove">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,133,77"/>
+<area shape="rect" id="Node000002" href="$mock__sai__serialize_8cpp.html#aa06e96f943a8f2451c89c65d2fecbef5" title=" " alt="" coords="181,13,348,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,44,165,39,166,44,133,49"/>
+<area shape="rect" id="Node000004" href="$classsairedis_1_1_client_sai.html#ab2b072e6c298d1cf47e0abaaa74969f0" title="Wait for bulk response." alt="" coords="186,64,343,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="133,63,171,69,170,74,132,68"/>
+<area shape="rect" id="Node000003" href="$class_sai_serialize_interface.html#a29d73fb00b962109388850736a5a02a3" title=" " alt="" coords="396,5,571,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="348,24,380,24,380,29,348,29"/>
+<area shape="rect" id="Node000005" href="$_sai_serialize_8cpp.html#a93ab044615abc111c2294290d8aaba45" title=" " alt="" coords="400,72,567,99"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="343,83,385,83,385,88,343,88"/>
+<area shape="rect" id="Node000006" href="$_sai_serialize_8cpp.html#a0a1028a360aec2e3e808a9ce5209e108" title=" " alt="" coords="408,123,559,149"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="344,101,408,116,407,121,343,106"/>
+<area shape="rect" id="Node000007" href="$_sai_serialize_8cpp.html#aecc5d98c7c6eb929afccb415702e0ab1" title=" " alt="" coords="619,123,766,149"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="559,133,604,133,604,139,559,139"/>
+<area shape="rect" id="Node000008" href="$_sai_serialize_8cpp.html#af43610cde7a028ce65a0a67e5f32ed42" title=" " alt="" coords="814,123,971,149"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="766,133,798,133,798,139,766,139"/>
+</map>

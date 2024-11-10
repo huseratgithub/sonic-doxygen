@@ -1,0 +1,9 @@
+<map id="swss::NatMgr::setNaptPoolIpTable" name="swss::NatMgr::setNaptPoolIpTable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="447,5,631,48"/>
+<area shape="rect" id="Node000002" href="$classswss_1_1_nat_mgr.html#a8dca8f1f05f098c58efcfd2942872c90" title=" " alt="" coords="217,5,399,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="432,29,400,29,400,24,432,24"/>
+<area shape="rect" id="Node000003" href="$natmgrd_8cpp.html#a4b66d5e31b5dc18b314c8a68163263bd" title=" " alt="" coords="103,13,169,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="201,29,169,29,169,24,201,24"/>
+<area shape="rect" id="Node000004" href="$natmgrd_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="5,13,55,40"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="87,29,55,29,55,24,87,24"/>
+</map>

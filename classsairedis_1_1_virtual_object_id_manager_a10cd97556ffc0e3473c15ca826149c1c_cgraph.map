@@ -1,0 +1,13 @@
+<map id="sairedis::VirtualObjectIdManager::releaseObjectId" name="sairedis::VirtualObjectIdManager::releaseObjectId">
+<area shape="rect" id="Node000001" title="release allocated object id." alt="" coords="5,39,176,81"/>
+<area shape="rect" id="Node000002" href="$classsairedis_1_1_virtual_object_id_manager.html#a2a3df14d050f811d3922ecb2f020d8e2" title="Release given switch index." alt="" coords="226,5,419,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,45,210,40,211,45,176,50"/>
+<area shape="rect" id="Node000003" href="$classsairedis_1_1_virtual_object_id_manager.html#ab6e18915cec6c34e022ab6f316582891" title="Object type query." alt="" coords="224,72,421,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="176,70,208,74,207,80,175,75"/>
+<area shape="rect" id="Node000004" href="$mock__sai__serialize_8cpp.html#a0f934d15b1a3e0fd3458f0f2b9df0b31" title=" " alt="" coords="469,55,621,81"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="421,79,453,76,454,81,422,85"/>
+<area shape="rect" id="Node000006" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="470,105,621,132"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="422,102,455,106,454,111,421,107"/>
+<area shape="rect" id="Node000005" href="$class_sai_serialize_interface.html#ac1267fe86b704633a47c483dcc8e1379" title=" " alt="" coords="669,47,830,89"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="622,65,654,65,654,71,622,71"/>
+</map>

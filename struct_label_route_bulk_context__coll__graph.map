@@ -1,0 +1,7 @@
+<map id="LabelRouteBulkContext" name="LabelRouteBulkContext">
+<area shape="rect" id="Node000001" title=" " alt="" coords="49,112,208,139"/>
+<area shape="rect" id="Node000002" href="$class_next_hop_group_key.html" title=" " alt="" coords="5,5,137,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="70,47,71,68,78,87,89,99,102,109,99,114,85,103,73,89,66,69,65,48"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="160,5,214,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="180,48,160,89,142,114,137,110,155,87,175,46"/>
+</map>

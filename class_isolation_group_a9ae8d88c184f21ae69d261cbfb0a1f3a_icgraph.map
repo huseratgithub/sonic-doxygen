@@ -1,0 +1,8 @@
+<map id="IsolationGroup::bind" name="IsolationGroup::bind">
+<area shape="rect" id="Node000001" title=" " alt="" coords="242,43,379,69"/>
+<area shape="rect" id="Node000002" href="$class_isolation_group.html#a364634a309b39081ec3950556f1e97ee" title=" " alt="" coords="5,5,194,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="226,44,178,35,179,30,227,39"/>
+<area shape="rect" id="Node000003" href="$class_isolation_group.html#a7cc0340558f03ede2725f56b6424cd96" title=" " alt="" coords="23,80,176,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="227,73,176,82,176,77,226,68"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="136,67,123,61,99,59,77,61,65,65,63,71,68,78,64,81,57,71,62,62,76,55,100,53,125,56,138,62"/>
+</map>

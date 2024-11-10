@@ -1,0 +1,20 @@
+<map id="sai_serialize_log_level" name="sai_serialize_log_level">
+<area shape="rect" id="Node000001" title=" " alt="" coords="893,113,1044,140"/>
+<area shape="rect" id="Node000002" href="$classsyncd_1_1_sai_discovery.html#ad6cf83a9a813ecd21bcb60a78ab286fb" title=" " alt="" coords="680,72,823,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="877,115,823,107,823,102,878,110"/>
+<area shape="rect" id="Node000008" href="$classsyncd_1_1_syncd.html#a8397231039883b736a2d481cd70cf56b" title=" " alt="" coords="658,139,845,181"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="878,143,845,148,845,143,877,138"/>
+<area shape="rect" id="Node000003" href="$classsyncd_1_1_sai_discovery.html#a97dd093a37ba5a9c97d38ce4bb73f5fe" title=" " alt="" coords="466,72,608,115"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="664,96,609,96,609,91,664,91"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="571,59,558,53,537,51,518,53,506,57,501,63,503,71,498,72,496,62,503,53,516,47,537,45,559,48,573,54"/>
+<area shape="rect" id="Node000004" href="$classsyncd_1_1_sai_discovery.html#a3ba41e62682dead4cac3deadd5deb9ef" title="Discover objects on the switch." alt="" coords="259,5,401,48"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="453,69,398,51,400,46,455,64"/>
+<area shape="rect" id="Node000005" href="$classsyncd_1_1_sai_switch.html#a4c70923e298389fa97f9e8a6f520bf31" title="Discover helper." alt="" coords="247,72,413,115"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="450,96,413,96,413,91,450,91"/>
+<area shape="rect" id="Node000007" href="$classsyncd_1_1_sai_switch.html#af63dd6b216da1847569bfdf1c241ec80" title="On post port create." alt="" coords="244,139,416,181"/>
+<area shape="poly" id="edge7_Node000003_Node000007" title=" " alt="" coords="455,122,400,141,398,135,453,117"/>
+<area shape="rect" id="Node000006" href="$classsyncd_1_1_sai_switch.html#a5a7847661fcfdb74725f3e02418d5148" title=" " alt="" coords="5,80,196,107"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="231,96,196,96,196,91,231,91"/>
+<area shape="rect" id="Node000009" href="$classsyncd_1_1_syncd.html#a3b868b53131c97e96aaedc6f0cccda6c" title=" " alt="" coords="464,147,610,173"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="643,163,611,163,611,157,643,157"/>
+</map>

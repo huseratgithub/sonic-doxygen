@@ -1,0 +1,7 @@
+<map id="LagIdAllocator" name="LagIdAllocator">
+<area shape="rect" id="Node000001" title=" " alt="" coords="66,96,170,123"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,106,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="54,47,59,71,70,83,85,93,82,98,67,87,54,73,49,48"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="156,5,209,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="172,47,155,74,134,97,130,94,151,70,167,44"/>
+</map>

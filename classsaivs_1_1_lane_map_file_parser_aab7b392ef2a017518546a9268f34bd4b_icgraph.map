@@ -1,0 +1,6 @@
+<map id="saivs::LaneMapFileParser::parseLaneMapFile" name="saivs::LaneMapFileParser::parseLaneMapFile">
+<area shape="rect" id="Node000001" title=" " alt="" coords="188,29,360,72"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="306,16,294,10,274,8,255,10,243,15,239,21,241,28,235,29,234,19,240,10,254,5,274,3,296,5,309,11"/>
+<area shape="rect" id="Node000002" href="$classsaivs_1_1_sai.html#a979d2b056e7aa52843dbe6a3caec9ddc" title=" " alt="" coords="5,37,140,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,53,140,53,140,48,172,48"/>
+</map>

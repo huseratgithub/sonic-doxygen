@@ -1,0 +1,19 @@
+<map id="RouterInterfaceManagerTest" name="RouterInterfaceManagerTest">
+<area shape="rect" id="Node000001" title=" " alt="" coords="207,277,393,304"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,187,99,213"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,216,265,274,264,279,101,221"/>
+<area shape="rect" id="Node000003" href="$class_mock_response_publisher.html" title=" " alt="" coords="122,187,288,213"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="232,222,288,275,285,279,228,226"/>
+<area shape="rect" id="Node000004" href="$class_response_publisher_interface.html" title=" " alt="" coords="106,96,291,123"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="203,138,207,186,202,186,198,139"/>
+<area shape="rect" id="Node000007" href="$class_router_interface_manager.html" title=" " alt="" coords="313,187,474,213"/>
+<area shape="poly" id="edge9_Node000007_Node000004" title=" " alt="" coords="241,127,367,184,364,189,239,132"/>
+<area shape="rect" id="Node000005" href="$class_p4_oid_mapper.html" title=" " alt="" coords="504,96,605,123"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="552,138,545,167,532,199,514,230,488,256,450,271,394,281,393,276,448,265,485,251,510,227,527,196,540,165,547,137"/>
+<area shape="poly" id="edge8_Node000007_Node000005" title=" " alt="" coords="490,126,464,136,440,149,419,168,403,188,399,185,415,164,437,144,462,131,489,121"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="504,5,605,32"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="557,48,557,95,552,95,552,48"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="371,226,315,279,312,275,367,222"/>
+<area shape="rect" id="Node000008" href="$class_object_manager_interface.html" title=" " alt="" coords="316,96,476,123"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="398,138,396,186,391,186,392,138"/>
+</map>

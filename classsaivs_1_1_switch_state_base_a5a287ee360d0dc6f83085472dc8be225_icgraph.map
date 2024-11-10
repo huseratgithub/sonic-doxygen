@@ -1,0 +1,11 @@
+<map id="saivs::SwitchStateBase::vs_set_dev_mac_address" name="saivs::SwitchStateBase::vs_set_dev_mac_address">
+<area shape="rect" id="Node000001" title=" " alt="" coords="633,43,815,85"/>
+<area shape="rect" id="Node000002" href="$classsaivs_1_1_switch_state_base.html#ad8173c0b88f5e0928db2329c07ba202f" title=" " alt="" coords="424,35,585,93"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="618,67,586,67,586,61,618,61"/>
+<area shape="rect" id="Node000003" href="$classsaivs_1_1_switch_state_base.html#a368c76da21d1797f574d1bc80196c689" title=" " alt="" coords="215,5,376,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="408,49,376,44,377,38,409,44"/>
+<area shape="rect" id="Node000005" href="$classsaivs_1_1_switch_state_base.html#a7f657e3f9610ebafd9eb80e2fffb4226" title=" " alt="" coords="215,72,376,131"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="409,84,377,90,376,84,408,79"/>
+<area shape="rect" id="Node000004" href="$classsaivs_1_1_switch_state_base.html#a7e26af478cf1c620016b0941578cbd4d" title=" " alt="" coords="5,5,167,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="199,29,167,29,167,24,199,24"/>
+</map>

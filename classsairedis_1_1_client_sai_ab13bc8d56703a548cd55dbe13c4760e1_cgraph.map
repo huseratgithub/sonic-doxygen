@@ -1,0 +1,11 @@
+<map id="sairedis::ClientSai::remove" name="sairedis::ClientSai::remove">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,133,77"/>
+<area shape="rect" id="Node000002" href="$mock__sai__serialize_8cpp.html#aa06e96f943a8f2451c89c65d2fecbef5" title=" " alt="" coords="181,13,348,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,44,165,39,166,44,133,49"/>
+<area shape="rect" id="Node000004" href="$classsairedis_1_1_client_sai.html#a294e9dfa252234c5f90c1b7279dcb5cf" title="Wait for response." alt="" coords="199,64,330,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="133,63,183,71,183,76,132,68"/>
+<area shape="rect" id="Node000003" href="$class_sai_serialize_interface.html#a29d73fb00b962109388850736a5a02a3" title=" " alt="" coords="396,5,571,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="348,24,380,24,380,29,348,29"/>
+<area shape="rect" id="Node000005" href="$_sai_serialize_8cpp.html#a93ab044615abc111c2294290d8aaba45" title=" " alt="" coords="400,72,567,99"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="330,83,385,83,385,88,330,88"/>
+</map>

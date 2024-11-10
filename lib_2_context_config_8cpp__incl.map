@@ -1,0 +1,21 @@
+<map id="E:/GitHub/SONiC/202211/sonic&#45;buildimage/src/sonic&#45;sairedis/lib/ContextConfig.cpp" name="E:/GitHub/SONiC/202211/sonic&#45;buildimage/src/sonic&#45;sairedis/lib/ContextConfig.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="134,5,369,64"/>
+<area shape="rect" id="Node000002" href="$lib_2_context_config_8h.html" title=" " alt="" coords="127,112,243,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="232,66,206,101,201,98,228,63"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="267,112,369,139"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="275,63,302,98,297,101,271,66"/>
+<area shape="rect" id="Node000003" href="$lib_2_switch_config_container_8h.html" title=" " alt="" coords="102,187,268,213"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="188,139,188,171,182,171,182,139"/>
+<area shape="rect" id="Node000004" href="$lib_2_switch_config_8h.html" title=" " alt="" coords="84,261,195,288"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="179,215,158,249,153,247,175,212"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,336,90,363"/>
+<area shape="poly" id="edge7_Node000003_Node000005" title=" " alt="" coords="146,216,108,235,90,248,75,263,60,291,53,321,47,320,55,289,71,260,87,244,105,230,144,211"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="195,336,263,363"/>
+<area shape="poly" id="edge9_Node000003_Node000007" title=" " alt="" coords="192,213,209,261,225,320,220,322,204,262,187,215"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="268,261,315,288"/>
+<area shape="poly" id="edge8_Node000003_Node000008" title=" " alt="" coords="205,212,262,250,259,254,202,216"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="125,291,77,329,73,324,122,286"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="114,336,168,363"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="142,288,143,320,138,320,137,289"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="157,286,203,324,200,328,153,291"/>
+</map>

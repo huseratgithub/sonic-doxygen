@@ -1,0 +1,11 @@
+<map id="PfcWdLossyHandler" name="PfcWdLossyHandler">
+<area shape="rect" id="Node000001" title=" " alt="" coords="80,172,221,199"/>
+<area shape="rect" id="Node000002" href="$class_pfc_wd_action_handler.html" title=" " alt="" coords="79,96,222,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="153,138,153,172,148,172,148,138"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,59,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="50,43,74,70,115,93,113,98,71,74,46,47"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="82,5,219,32"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="153,48,153,95,148,95,148,48"/>
+<area shape="rect" id="Node000005" href="$struct_pfc_wd_hw_stats.html" title=" " alt="" coords="242,5,355,32"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="286,47,260,74,236,88,210,98,208,93,234,83,257,70,282,43"/>
+</map>

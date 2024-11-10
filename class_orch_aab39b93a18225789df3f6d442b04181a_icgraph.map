@@ -1,0 +1,37 @@
+<map id="Orch::setObjectReference" name="Orch::setObjectReference">
+<area shape="rect" id="Node000001" title=" " alt="" coords="916,232,1089,259"/>
+<area shape="rect" id="Node000002" href="$class_qos_orch.html#ab0d3e54700a52bc112f66995fd56b0d7" title=" " alt="" coords="659,5,865,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="987,219,969,182,942,137,908,91,866,53,831,35,833,30,869,48,912,88,946,134,973,179,992,217"/>
+<area shape="rect" id="Node000003" href="$class_qos_orch.html#a76edcef4920b797b190703ede186a985" title=" " alt="" coords="416,40,608,83"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="981,221,934,164,902,136,866,113,803,88,735,72,669,64,609,61,609,56,670,59,736,67,804,83,869,108,905,132,938,161,985,217"/>
+<area shape="rect" id="Node000006" href="$class_qos_orch.html#acf315fdd901c2394be2bbe5c0c95e408" title=" " alt="" coords="418,107,606,133"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="976,223,928,182,898,163,867,148,801,129,733,119,667,115,607,115,607,110,667,110,733,114,802,124,869,143,901,158,931,178,979,219"/>
+<area shape="rect" id="Node000007" href="$class_buffer_orch.html#a1e8fe9e37d034664fee7cb4106290fe4" title=" " alt="" coords="676,157,848,200"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="936,230,841,203,842,198,937,225"/>
+<area shape="rect" id="Node000010" href="$class_buffer_orch.html#abb40bd2101f51ad7d34ef3f8885b551e" title=" " alt="" coords="673,224,851,267"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="900,248,852,248,852,243,900,243"/>
+<area shape="rect" id="Node000011" href="$class_buffer_orch.html#a17eac5a370f7c7e924d7d47cc16d388e" title=" " alt="" coords="672,291,852,333"/>
+<area shape="poly" id="edge13_Node000001_Node000011" title=" " alt="" coords="937,266,842,293,841,287,936,261"/>
+<area shape="rect" id="Node000012" href="$class_buffer_orch.html#a67c4039ba9dd5333109656d54410c70b" title=" " alt="" coords="673,357,851,400"/>
+<area shape="poly" id="edge15_Node000001_Node000012" title=" " alt="" coords="977,271,928,310,869,348,843,359,841,354,866,343,925,306,973,267"/>
+<area shape="rect" id="Node000013" href="$class_buffer_orch.html#adb62408de208e159f3afe1bae1b5f6ba" title=" " alt="" coords="674,424,850,451"/>
+<area shape="poly" id="edge17_Node000001_Node000013" title=" " alt="" coords="989,274,970,306,943,344,909,382,869,414,845,426,843,421,866,410,905,379,938,341,965,303,985,271"/>
+<area shape="rect" id="Node000014" href="$class_qos_orch.html#ac4e5f9fa3d0488e642ca5a23c6791e8c" title="Resolve the id of QoS map that is referenced by tunnel." alt="" coords="656,475,868,501"/>
+<area shape="poly" id="edge19_Node000001_Node000014" title=" " alt="" coords="994,275,977,317,951,369,915,421,893,444,869,465,848,476,846,472,866,460,890,441,911,418,946,366,972,315,989,273"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="666,38,609,48,608,42,665,33"/>
+<area shape="rect" id="Node000004" href="$class_qos_orch.html#a5d1113b5de22db29c66c5ecb8095f54e" title=" " alt="" coords="187,77,368,104"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="401,78,369,82,368,77,400,73"/>
+<area shape="rect" id="Node000005" href="$class_qos_orch.html#a7a55af847a602895012d7e0c55aba28b" title=" " alt="" coords="5,77,139,104"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="172,93,139,93,139,88,172,88"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="402,109,368,105,369,99,403,104"/>
+<area shape="rect" id="Node000008" href="$class_buffer_orch.html#ad04e81371ae897c9603e76adfdb4c3c4" title=" " alt="" coords="416,299,608,325"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="670,209,658,214,585,259,531,300,528,296,582,254,655,210,668,204"/>
+<area shape="rect" id="Node000009" href="$class_buffer_orch.html#a4af0fc95df7d8d9ccb8061e6391d3218" title=" " alt="" coords="201,299,354,325"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="401,315,354,315,354,309,401,309"/>
+<area shape="poly" id="edge12_Node000010_Node000008" title=" " alt="" coords="665,274,566,301,565,295,664,269"/>
+<area shape="poly" id="edge14_Node000011_Node000008" title=" " alt="" coords="656,315,608,315,608,309,656,309"/>
+<area shape="poly" id="edge16_Node000012_Node000008" title=" " alt="" coords="664,355,565,329,566,323,665,350"/>
+<area shape="poly" id="edge18_Node000013_Node000008" title=" " alt="" coords="673,421,655,414,617,394,581,371,527,328,531,324,585,366,620,390,657,410,675,416"/>
+<area shape="rect" id="Node000015" href="$class_tunnel_decap_orch.html#a7416db6f8df02e4cb2411f48e4c7ee38" title=" " alt="" coords="424,475,600,501"/>
+<area shape="poly" id="edge20_Node000014_Node000015" title=" " alt="" coords="641,491,601,491,601,485,641,485"/>
+</map>

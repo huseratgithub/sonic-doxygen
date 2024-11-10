@@ -1,0 +1,9 @@
+<map id="syncd::VirtualOidTranslator::translateVidToRid" name="syncd::VirtualOidTranslator::translateVidToRid">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,185,48"/>
+<area shape="rect" id="Node000002" href="$classsyncd_1_1_virtual_oid_translator.html#af6cd8b67e893dd066b64e6ca7db83a59" title=" " alt="" coords="233,5,412,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,24,217,24,217,29,185,29"/>
+<area shape="rect" id="Node000003" href="$mock__sai__serialize_8cpp.html#a0f934d15b1a3e0fd3458f0f2b9df0b31" title=" " alt="" coords="460,13,612,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="413,24,444,24,444,29,413,29"/>
+<area shape="rect" id="Node000004" href="$class_sai_serialize_interface.html#ac1267fe86b704633a47c483dcc8e1379" title=" " alt="" coords="660,5,821,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="613,24,645,24,645,29,613,29"/>
+</map>

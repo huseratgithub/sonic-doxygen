@@ -1,0 +1,18 @@
+<map id="sairedis::VirtualObjectIdManager::allocateNewObjectId" name="sairedis::VirtualObjectIdManager::allocateNewObjectId">
+<area shape="rect" id="Node000001" title="Allocate new object id on a given switch." alt="" coords="5,89,206,132"/>
+<area shape="rect" id="Node000002" href="$classsairedis_1_1_virtual_object_id_manager.html#adf8023ea824e3b1535e342a77c0f72b2" title="Construct object id." alt="" coords="261,5,444,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,86,253,57,272,51,274,56,255,63,171,91"/>
+<area shape="rect" id="Node000003" href="$mock__sai__serialize_8cpp.html#a0f934d15b1a3e0fd3458f0f2b9df0b31" title=" " alt="" coords="510,131,663,157"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="206,115,495,135,495,140,206,120"/>
+<area shape="rect" id="Node000005" href="$mock__sai__serialize_8cpp.html#aa06e96f943a8f2451c89c65d2fecbef5" title=" " alt="" coords="269,72,436,99"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="206,98,253,93,253,98,206,103"/>
+<area shape="rect" id="Node000007" href="$classsairedis_1_1_virtual_object_id_manager.html#ab6e18915cec6c34e022ab6f316582891" title="Object type query." alt="" coords="254,173,451,216"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="171,130,274,165,272,170,169,135"/>
+<area shape="rect" id="Node000004" href="$class_sai_serialize_interface.html#ac1267fe86b704633a47c483dcc8e1379" title=" " alt="" coords="722,123,883,165"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="663,141,707,141,707,147,663,147"/>
+<area shape="rect" id="Node000006" href="$class_sai_serialize_interface.html#a29d73fb00b962109388850736a5a02a3" title=" " alt="" coords="499,64,674,107"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="437,83,484,83,484,88,437,88"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="451,171,506,159,507,164,452,176"/>
+<area shape="rect" id="Node000008" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="511,181,662,208"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="452,192,495,192,495,197,452,197"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="p4orch::WcmpManager::getSaiMemberAttrs" name="p4orch::WcmpManager::getSaiMemberAttrs">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,162,77"/>
+<area shape="rect" id="Node000002" href="$class_key_generator.html#ad7bba3e47a4fc6baa0dddf9b246d8e49" title=" " alt="" coords="210,5,397,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,43,194,39,194,44,162,48"/>
+<area shape="rect" id="Node000004" href="$class_p4_oid_mapper.html#a24c17b71728abda5b8d3ed4e8165204a" title=" " alt="" coords="228,72,378,99"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="162,64,213,71,212,76,162,69"/>
+<area shape="rect" id="Node000003" href="$class_key_generator.html#ae06f1ce0ddc1a6544a7c596bfd0bbdb7" title=" " alt="" coords="445,13,627,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="398,24,429,24,429,29,398,29"/>
+<area shape="rect" id="Node000005" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="460,72,612,99"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="379,83,445,83,445,88,379,88"/>
+</map>

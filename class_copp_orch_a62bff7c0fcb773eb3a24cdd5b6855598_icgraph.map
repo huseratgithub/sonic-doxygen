@@ -1,0 +1,13 @@
+<map id="CoppOrch::applyAttributesToTrapIds" name="CoppOrch::applyAttributesToTrapIds">
+<area shape="rect" id="Node000001" title=" " alt="" coords="665,27,841,69"/>
+<area shape="rect" id="Node000002" href="$class_copp_orch.html#ac4000688e597b86e1c629183d3db56c4" title=" " alt="" coords="425,5,616,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="650,38,616,33,617,28,650,32"/>
+<area shape="rect" id="Node000004" href="$class_copp_orch.html#a89036017e0946012f8fb3fd4082de69d" title=" " alt="" coords="424,56,617,99"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="650,64,618,68,617,62,650,58"/>
+<area shape="rect" id="Node000003" href="$class_copp_orch.html#a3f14616fd44bcc59dbb3176b1da2ea02" title=" " alt="" coords="206,5,354,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="410,21,354,21,354,16,410,16"/>
+<area shape="rect" id="Node000005" href="$class_copp_orch.html#a330855526eefe11db20c05e74ba057e7" title=" " alt="" coords="184,64,376,91"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="408,80,376,80,376,75,408,75"/>
+<area shape="rect" id="Node000006" href="$class_copp_orch.html#a09c56c10caa85b13ae6c625fad8fb37d" title=" " alt="" coords="5,64,136,91"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="168,80,136,80,136,75,168,75"/>
+</map>

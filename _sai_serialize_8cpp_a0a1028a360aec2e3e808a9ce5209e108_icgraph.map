@@ -1,0 +1,35 @@
+<map id="sai_deserialize_status" name="sai_deserialize_status">
+<area shape="rect" id="Node000001" title=" " alt="" coords="694,213,845,240"/>
+<area shape="rect" id="Node000002" href="$classsaiplayer_1_1_sai_player.html#ab52b09a4b8b04e0cd3225557bcca2146" title=" " alt="" coords="466,5,618,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="753,201,711,131,680,94,645,62,617,47,620,43,648,58,684,90,715,128,757,198"/>
+<area shape="rect" id="Node000005" href="$classsaiplayer_1_1_sai_player.html#a30dac571350dcce8c8698d2cd2b19136" title=" " alt="" coords="474,72,611,115"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="742,204,699,166,645,129,610,114,612,109,648,124,702,162,746,200"/>
+<area shape="rect" id="Node000006" href="$classsaiplayer_1_1_sai_player.html#af8f802502684c8507651e61c5305ae3a" title=" " alt="" coords="470,139,615,181"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="706,211,615,184,616,179,707,206"/>
+<area shape="rect" id="Node000007" href="$classsairedis_1_1_redis_channel.html#a9b862e5f091b59fca720b0a9220ec5ac" title=" " alt="" coords="464,205,620,248"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="679,229,621,229,621,224,679,224"/>
+<area shape="rect" id="Node000008" href="$classsairedis_1_1_zero_m_q_channel.html#aeffed817da908ef57b262d2c3dc6205f" title=" " alt="" coords="458,272,627,315"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="707,248,618,274,617,269,706,242"/>
+<area shape="rect" id="Node000009" href="$classsairedis_1_1_client_sai.html#ab2b072e6c298d1cf47e0abaaa74969f0" title="Wait for bulk response." alt="" coords="464,339,621,381"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="746,253,702,292,648,329,622,341,620,336,645,324,699,288,742,249"/>
+<area shape="rect" id="Node000013" href="$classsairedis_1_1_redis_remote_sai_interface.html#a7d42aace302e3a4375a87a19899305fc" title="Wait for bulk response." alt="" coords="438,439,646,481"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="755,255,711,322,681,360,648,395,618,420,586,440,583,436,614,416,645,391,677,356,707,319,751,252"/>
+<area shape="rect" id="Node000003" href="$classsaiplayer_1_1_sai_player.html#a577a338b7bf05b396d8dc4cb4f998763" title=" " alt="" coords="235,72,372,115"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="452,55,373,77,372,72,450,50"/>
+<area shape="rect" id="Node000004" href="$classsaiplayer_1_1_sai_player.html#a8c6c5f96706db2872875c903169c1811" title=" " alt="" coords="5,80,169,107"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="219,96,169,96,169,91,219,91"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="458,96,372,96,372,91,458,91"/>
+<area shape="poly" id="edge7_Node000006_Node000003" title=" " alt="" coords="454,138,372,115,373,110,456,133"/>
+<area shape="rect" id="Node000010" href="$classsairedis_1_1_client_sai.html#a4d68b6eea1b07e898967b230459355ad" title=" " alt="" coords="240,221,367,264"/>
+<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="448,335,436,329,421,316,412,303,403,291,388,278,366,266,369,261,392,274,407,287,416,300,425,312,440,324,451,331"/>
+<area shape="rect" id="Node000011" href="$classsairedis_1_1_client_sai.html#ac3f8305798e10227c827eeb2415f4da4" title=" " alt="" coords="240,288,367,331"/>
+<area shape="poly" id="edge12_Node000009_Node000011" title=" " alt="" coords="448,343,367,325,368,320,449,337"/>
+<area shape="rect" id="Node000012" href="$classsairedis_1_1_client_sai.html#a7bb142b2f861778c64d20afb79efdd09" title=" " alt="" coords="240,355,367,397"/>
+<area shape="poly" id="edge13_Node000009_Node000012" title=" " alt="" coords="448,369,368,374,367,369,448,364"/>
+<area shape="rect" id="Node000014" href="$classsairedis_1_1_redis_remote_sai_interface.html#a9564804e4a4fcc3cb9e0fef64a241a34" title=" " alt="" coords="217,421,390,464"/>
+<area shape="poly" id="edge15_Node000013_Node000014" title=" " alt="" coords="422,454,390,452,391,446,423,449"/>
+<area shape="rect" id="Node000015" href="$classsairedis_1_1_redis_remote_sai_interface.html#a1925c688d0664ac01bd7352c0e821353" title=" " alt="" coords="217,488,390,531"/>
+<area shape="poly" id="edge16_Node000013_Node000015" title=" " alt="" coords="423,487,391,494,390,489,422,482"/>
+<area shape="rect" id="Node000016" href="$classsairedis_1_1_redis_remote_sai_interface.html#aa817ac836680b85a4d739a8a9d04a618" title=" " alt="" coords="217,555,390,597"/>
+<area shape="poly" id="edge17_Node000013_Node000016" title=" " alt="" coords="492,492,391,545,365,556,363,552,389,540,490,487"/>
+</map>

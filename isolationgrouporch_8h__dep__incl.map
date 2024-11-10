@@ -1,0 +1,11 @@
+<map id="E:/GitHub/SONiC/202211/sonic&#45;buildimage/src/sonic&#45;swss/orchagent/isolationgrouporch.h" name="E:/GitHub/SONiC/202211/sonic&#45;buildimage/src/sonic&#45;swss/orchagent/isolationgrouporch.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="155,5,427,64"/>
+<area shape="rect" id="Node000002" href="$isolationgrouporch_8cpp.html" title=" " alt="" coords="5,112,292,171"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="242,75,189,114,186,109,238,71"/>
+<area shape="rect" id="Node000003" href="$orchdaemon_8h.html" title=" " alt="" coords="316,112,554,171"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="344,71,397,109,394,114,341,75"/>
+<area shape="rect" id="Node000004" href="$sonic-swss_2orchagent_2main_8cpp.html" title=" " alt="" coords="202,219,412,277"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="390,183,344,220,340,216,387,179"/>
+<area shape="rect" id="Node000005" href="$orchdaemon_8cpp.html" title=" " alt="" coords="436,219,688,277"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="483,179,529,216,526,220,480,183"/>
+</map>

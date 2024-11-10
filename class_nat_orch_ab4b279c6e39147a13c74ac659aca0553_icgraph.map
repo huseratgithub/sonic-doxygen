@@ -1,0 +1,7 @@
+<map id="NatOrch::getTwiceNatCounters" name="NatOrch::getTwiceNatCounters">
+<area shape="rect" id="Node000001" title=" " alt="" coords="385,5,589,32"/>
+<area shape="rect" id="Node000002" href="$class_nat_orch.html#a6b6b7f51f7d4b6d4dec53c6c56159d59" title=" " alt="" coords="174,5,337,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="369,21,337,21,337,16,369,16"/>
+<area shape="rect" id="Node000003" href="$class_nat_orch.html#a6180d6aedff70b25e126bdac8e702e97" title=" " alt="" coords="5,5,126,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="158,21,126,21,126,16,158,16"/>
+</map>

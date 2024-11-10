@@ -1,0 +1,7 @@
+<map id="syncd::SaiSwitch::helperGetSwitchAttrOid" name="syncd::SaiSwitch::helperGetSwitchAttrOid">
+<area shape="rect" id="Node000001" title="Helper function to get attribute oid from switch." alt="" coords="458,5,624,48"/>
+<area shape="rect" id="Node000002" href="$classsyncd_1_1_sai_switch.html#a502ddf686c8a1912e4984eed3c371a09" title=" " alt="" coords="244,5,410,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="442,29,410,29,410,24,442,24"/>
+<area shape="rect" id="Node000003" href="$classsyncd_1_1_sai_switch.html#a5a7847661fcfdb74725f3e02418d5148" title=" " alt="" coords="5,13,196,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="228,29,196,29,196,24,228,24"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="syncd::VendorSai::bulkClearStats" name="syncd::VendorSai::bulkClearStats">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,192,48"/>
+<area shape="rect" id="Node000002" href="$sai__redis__interfacequery_8cpp.html#a8269b254207169630a6efa1c981bfb67" title=" " alt="" coords="240,5,386,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,24,224,24,224,29,192,29"/>
+</map>

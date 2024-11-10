@@ -1,0 +1,9 @@
+<map id="syncd::BestCandidateFinder::selectRandomCandidate" name="syncd::BestCandidateFinder::selectRandomCandidate">
+<area shape="rect" id="Node000001" title="Select random SAI object from best candidates we found." alt="" coords="776,13,963,56"/>
+<area shape="rect" id="Node000002" href="$classsyncd_1_1_best_candidate_finder.html#ac277d0d07c6ab1ea013e25c9eb0a754f" title=" " alt="" coords="508,5,728,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="761,37,729,37,729,32,761,32"/>
+<area shape="rect" id="Node000003" href="$classsyncd_1_1_best_candidate_finder.html#a55e1d64505e7c14fb24749f1f5de8ccb" title=" " alt="" coords="240,5,460,64"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="493,37,460,37,460,32,493,32"/>
+<area shape="rect" id="Node000004" href="$classsyncd_1_1_best_candidate_finder.html#a287c9b5ba4bf51715aa5caacea083b19" title=" " alt="" coords="5,13,192,56"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="224,37,192,37,192,32,224,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="syncd::SaiSwitch::redisUpdatePortLaneMap" name="syncd::SaiSwitch::redisUpdatePortLaneMap">
+<area shape="rect" id="Node000001" title="Update lane map for specific port." alt="" coords="226,5,427,48"/>
+<area shape="rect" id="Node000002" href="$classsyncd_1_1_sai_switch.html#af63dd6b216da1847569bfdf1c241ec80" title="On post port create." alt="" coords="5,5,178,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="210,29,178,29,178,24,210,24"/>
+</map>

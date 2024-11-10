@@ -1,0 +1,17 @@
+<map id="clearDB" name="clearDB">
+<area shape="rect" id="Node000001" title=" " alt="" coords="509,89,578,116"/>
+<area shape="rect" id="Node000002" href="$syncd_2tests_8cpp.html#ad1f5793268273decc41754526d1787ee" title=" " alt="" coords="348,64,421,91"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="494,97,421,86,422,81,494,92"/>
+<area shape="rect" id="Node000007" href="$syncd_2tests_8cpp.html#ac7f3ac819321555f8d08c29f128e8cee" title=" " alt="" coords="308,115,461,141"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="495,113,462,118,461,113,494,108"/>
+<area shape="rect" id="Node000003" href="$syncd_2tests_8cpp.html#a8aebe441863b9c641eb38c80f250d430" title=" " alt="" coords="110,5,252,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="332,65,230,35,231,30,334,60"/>
+<area shape="rect" id="Node000005" href="$syncd_2tests_8cpp.html#a411e40a6113957779fb4b2a25aae7dce" title=" " alt="" coords="103,56,260,99"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="332,80,261,80,261,75,332,75"/>
+<area shape="rect" id="Node000006" href="$syncd_2tests_8cpp.html#a97b3fd5a822d4f4a753588b9f695bd74" title=" " alt="" coords="114,123,249,149"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="334,95,231,125,230,120,332,90"/>
+<area shape="rect" id="Node000004" href="$syncd_2tests_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,64,55,91"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="121,40,104,46,56,68,54,63,102,42,119,35"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="87,80,55,80,55,75,87,75"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="119,120,102,113,54,92,56,87,104,108,121,115"/>
+</map>

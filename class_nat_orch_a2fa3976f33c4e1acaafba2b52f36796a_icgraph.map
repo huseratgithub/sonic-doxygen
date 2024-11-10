@@ -1,0 +1,7 @@
+<map id="NatOrch::addTwiceNaptEntry" name="NatOrch::addTwiceNaptEntry">
+<area shape="rect" id="Node000001" title=" " alt="" coords="435,5,627,32"/>
+<area shape="rect" id="Node000002" href="$class_nat_orch.html#ab14b03a5559fab01deba3553b7d75ac7" title=" " alt="" coords="174,5,387,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="420,21,387,21,387,16,420,16"/>
+<area shape="rect" id="Node000003" href="$class_nat_orch.html#ad7b670f4c570efa58828235f920a00ef" title=" " alt="" coords="5,5,126,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="158,21,126,21,126,16,158,16"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="saivs::SwitchStateBase::isLagOrPortRifBased" name="saivs::SwitchStateBase::isLagOrPortRifBased">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,97,167,140"/>
+<area shape="rect" id="Node000002" href="$classsaivs_1_1_switch_state_base.html#af3f880deee3e7465b0063351342f3d36" title=" " alt="" coords="215,29,402,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="150,94,252,59,254,64,152,99"/>
+<area shape="rect" id="Node000003" href="$mock__sai__serialize_8cpp.html#a0f934d15b1a3e0fd3458f0f2b9df0b31" title=" " alt="" coords="450,55,602,81"/>
+<area shape="poly" id="edge6_Node000001_Node000003" title=" " alt="" coords="167,107,435,76,435,81,167,112"/>
+<area shape="rect" id="Node000005" href="$_sai_serialize_8cpp.html#a93ab044615abc111c2294290d8aaba45" title=" " alt="" coords="225,131,392,157"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="168,125,210,130,209,135,167,131"/>
+<area shape="rect" id="Node000006" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="233,181,384,208"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="139,138,216,167,239,174,237,179,214,172,137,143"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="272,30,265,21,269,11,284,5,308,3,334,5,348,12,346,16,333,10,308,8,285,10,273,15,270,20,276,27"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="402,51,435,55,435,60,402,56"/>
+<area shape="rect" id="Node000004" href="$class_sai_serialize_interface.html#ac1267fe86b704633a47c483dcc8e1379" title=" " alt="" coords="650,47,811,89"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="603,65,635,65,635,71,603,71"/>
+</map>

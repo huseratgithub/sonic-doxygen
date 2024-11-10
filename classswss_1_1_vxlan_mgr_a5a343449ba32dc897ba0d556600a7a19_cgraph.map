@@ -1,0 +1,9 @@
+<map id="swss::VxlanMgr::getAllVxlanNetDevices" name="swss::VxlanMgr::getAllVxlanNetDevices">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,23,195,65"/>
+<area shape="rect" id="Node000002" href="$classswss_1_1_vxlan_mgr.html#a3f8fe88d80651de4be9c3a438b44086e" title=" " alt="" coords="243,5,443,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="195,31,227,28,227,33,195,37"/>
+<area shape="rect" id="Node000004" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="267,56,418,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="195,51,252,57,251,62,195,57"/>
+<area shape="rect" id="Node000003" href="$lib_2tests_8cpp.html#ad3af9936f704b25188a9ef24330f8a19" title=" " alt="" coords="491,5,561,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="443,16,475,16,475,21,443,21"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="syncd::Syncd::processOidSet" name="syncd::Syncd::processOidSet">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,43,201,69"/>
+<area shape="rect" id="Node000002" href="$classsyncd_1_1_workaround.html#a7c946b9cafd34aa318a9677797809239" title="Determines whether attribute is &quot;workaround&quot; attribute for SET API." alt="" coords="249,5,418,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,41,233,37,234,42,201,46"/>
+<area shape="rect" id="Node000006" href="$_sai_serialize_8cpp.html#a93ab044615abc111c2294290d8aaba45" title=" " alt="" coords="250,72,416,99"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="201,66,235,70,234,75,201,71"/>
+<area shape="rect" id="Node000003" href="$_sai_serialize_8cpp.html#aeae06eaf39abcffe5f6215d8688a6368" title=" " alt="" coords="466,13,602,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="418,24,450,24,450,29,418,29"/>
+<area shape="rect" id="Node000004" href="$_sai_serialize_8cpp.html#a65eb8ea2354cbfadd0a6075124116a68" title=" " alt="" coords="650,13,783,40"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="603,24,634,24,634,29,603,29"/>
+<area shape="rect" id="Node000005" href="$_sai_serialize_8cpp.html#a97543edb8d3f82c33b2ba86825bf5cc9" title=" " alt="" coords="831,13,974,40"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="783,24,815,24,815,29,783,29"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="remove_route_entry" name="remove_route_entry">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,13,142,40"/>
+<area shape="rect" id="Node000002" href="$class_sai_route_interface.html#a50c95458f802ef94d1385ff115b092b3" title=" " alt="" coords="190,5,326,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="142,24,174,24,174,29,142,29"/>
+</map>

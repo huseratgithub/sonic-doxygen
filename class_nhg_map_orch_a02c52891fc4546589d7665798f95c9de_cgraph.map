@@ -1,0 +1,7 @@
+<map id="NhgMapOrch::getMap" name="NhgMapOrch::getMap">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,155,57"/>
+<area shape="rect" id="Node000002" href="$class_nhg_map_orch.html#a30ff4bc16c4e2993b57b717ccaeb2de4" title=" " alt="" coords="203,5,402,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,33,187,29,187,34,155,38"/>
+<area shape="rect" id="Node000003" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="227,56,378,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="155,50,212,56,211,62,155,55"/>
+</map>

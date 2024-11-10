@@ -1,0 +1,15 @@
+<map id="syncd::SingleReiniter::redisGetAttributesFromAsicKey" name="syncd::SingleReiniter::redisGetAttributesFromAsicKey">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,27,219,69"/>
+<area shape="rect" id="Node000002" href="$classsyncd_1_1_single_reiniter.html#a53dbd7438e7ff139ac196077e6413b6e" title=" " alt="" coords="267,27,459,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="219,45,251,45,251,51,219,51"/>
+<area shape="rect" id="Node000003" href="$_sai_serialize_8cpp.html#ae5336a4765542a92fa3953281fa6f759" title=" " alt="" coords="507,8,688,35"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="459,34,491,31,492,36,460,40"/>
+<area shape="rect" id="Node000006" href="$mock__sai__serialize_8cpp.html#aa06e96f943a8f2451c89c65d2fecbef5" title=" " alt="" coords="514,60,681,87"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="460,56,499,60,498,65,459,61"/>
+<area shape="rect" id="Node000004" href="$_sai_serialize_8cpp.html#aecc5d98c7c6eb929afccb415702e0ab1" title=" " alt="" coords="751,5,897,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="689,18,735,17,735,22,689,23"/>
+<area shape="rect" id="Node000005" href="$_sai_serialize_8cpp.html#af43610cde7a028ce65a0a67e5f32ed42" title=" " alt="" coords="960,5,1117,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="898,16,944,16,944,21,898,21"/>
+<area shape="rect" id="Node000007" href="$class_sai_serialize_interface.html#a29d73fb00b962109388850736a5a02a3" title=" " alt="" coords="736,56,912,99"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="682,72,721,73,721,78,682,77"/>
+</map>

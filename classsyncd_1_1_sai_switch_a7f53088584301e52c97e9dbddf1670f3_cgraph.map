@@ -1,0 +1,17 @@
+<map id="syncd::SaiSwitch::checkWarmBootDiscoveredRids" name="syncd::SaiSwitch::checkWarmBootDiscoveredRids">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,123,206,165"/>
+<area shape="rect" id="Node000002" href="$classsyncd_1_1_sai_switch.html#acf5845d01993a5d21119323b7c468942" title="Gets discovered objects on the switch." alt="" coords="254,5,496,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,120,184,80,218,59,253,42,272,34,274,39,255,46,220,64,187,84,134,124"/>
+<area shape="rect" id="Node000003" href="$classsyncd_1_1_sai_switch.html#a83d6362f4310f9b9d52f0b90bca18a65" title=" " alt="" coords="290,56,460,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="194,119,274,99,276,105,195,125"/>
+<area shape="rect" id="Node000004" href="$classsyncd_1_1_sai_switch.html#aabdc0144eca2f15d20330b67dc31829c" title=" " alt="" coords="265,123,484,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="206,141,250,141,250,147,206,147"/>
+<area shape="rect" id="Node000005" href="$mock__sai__serialize_8cpp.html#a0f934d15b1a3e0fd3458f0f2b9df0b31" title=" " alt="" coords="299,189,451,216"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="203,163,254,175,293,183,291,188,253,180,202,169"/>
+<area shape="rect" id="Node000007" href="$mock__sai__serialize_8cpp.html#aa06e96f943a8f2451c89c65d2fecbef5" title=" " alt="" coords="291,244,458,271"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="140,163,193,195,255,226,288,237,287,242,253,230,190,200,137,168"/>
+<area shape="rect" id="Node000006" href="$class_sai_serialize_interface.html#ac1267fe86b704633a47c483dcc8e1379" title=" " alt="" coords="552,177,712,220"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="451,199,536,197,536,203,451,204"/>
+<area shape="rect" id="Node000008" href="$class_sai_serialize_interface.html#a29d73fb00b962109388850736a5a02a3" title=" " alt="" coords="544,244,719,287"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="459,257,529,259,529,265,459,263"/>
+</map>

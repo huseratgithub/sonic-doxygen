@@ -1,0 +1,16 @@
+<map id="sairedis::RedisRemoteSaiInterface::queryAattributeEnumValuesCapability" name="sairedis::RedisRemoteSaiInterface::queryAattributeEnumValuesCapability">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,85,208,144"/>
+<area shape="rect" id="Node000002" href="$mock__sai__serialize_8cpp.html#a0f934d15b1a3e0fd3458f0f2b9df0b31" title=" " alt="" coords="287,17,439,44"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="193,82,255,61,302,46,303,52,256,67,195,87"/>
+<area shape="rect" id="Node000004" href="$mock__sai__serialize_8cpp.html#aa06e96f943a8f2451c89c65d2fecbef5" title=" " alt="" coords="279,76,446,103"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="208,102,263,96,264,102,208,107"/>
+<area shape="rect" id="Node000006" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="530,164,681,191"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="209,125,515,163,514,169,208,130"/>
+<area shape="rect" id="Node000007" href="$classsairedis_1_1_redis_remote_sai_interface.html#a5e8ecaaec6b86d8ec30b6a916abe69b2" title=" " alt="" coords="256,177,470,236"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="191,142,266,169,264,174,190,147"/>
+<area shape="rect" id="Node000003" href="$class_sai_serialize_interface.html#ac1267fe86b704633a47c483dcc8e1379" title=" " alt="" coords="526,5,686,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="439,27,510,26,510,31,440,32"/>
+<area shape="rect" id="Node000005" href="$class_sai_serialize_interface.html#a29d73fb00b962109388850736a5a02a3" title=" " alt="" coords="518,72,693,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="447,88,502,89,502,94,447,93"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="470,191,514,186,514,191,471,196"/>
+</map>

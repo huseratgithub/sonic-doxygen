@@ -1,0 +1,7 @@
+<map id="sai_serialize_bfd_session_state" name="sai_serialize_bfd_session_state">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,176,48"/>
+<area shape="rect" id="Node000002" href="$_sai_serialize_8cpp.html#a65eb8ea2354cbfadd0a6075124116a68" title=" " alt="" coords="224,13,356,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,24,208,24,208,29,176,29"/>
+<area shape="rect" id="Node000003" href="$_sai_serialize_8cpp.html#a97543edb8d3f82c33b2ba86825bf5cc9" title=" " alt="" coords="404,13,547,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="356,24,389,24,389,29,356,29"/>
+</map>

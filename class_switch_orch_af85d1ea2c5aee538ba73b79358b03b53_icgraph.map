@@ -1,0 +1,9 @@
+<map id="SwitchOrch::checkPfcDlrInitEnable" name="SwitchOrch::checkPfcDlrInitEnable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="449,23,636,65"/>
+<area shape="rect" id="Node000002" href="$class_pfc_wd_orch.html#abf7af285fa82f058a49ad984cf4b9667" title=" " alt="" coords="237,5,401,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="433,34,401,31,402,25,434,29"/>
+<area shape="rect" id="Node000004" href="$class_orch_daemon.html#a1b898b706e2ce933ac2bc15c4b77c2a0" title=" " alt="" coords="257,56,380,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="434,59,381,65,381,60,433,54"/>
+<area shape="rect" id="Node000003" href="$class_pfc_wd_sw_orch.html#a2efe2642ca141babc614189218fbec20" title=" " alt="" coords="5,5,189,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="221,21,189,21,189,16,221,16"/>
+</map>

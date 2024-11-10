@@ -1,0 +1,16 @@
+<map id="AclRule::removeCounter" name="AclRule::removeCounter">
+<area shape="rect" id="Node000001" title=" " alt="" coords="586,81,751,108"/>
+<area shape="rect" id="Node000002" href="$class_acl_rule.html#affe5ad724d9b64c2d21337eb1e9ff09c" title=" " alt="" coords="402,5,513,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="618,77,537,47,503,35,505,30,539,41,620,72"/>
+<area shape="rect" id="Node000003" href="$class_acl_rule.html#a2bee8c7d47c7cede7aec6b94e44b92c2" title=" " alt="" coords="376,56,538,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="571,86,539,82,539,76,571,80"/>
+<area shape="rect" id="Node000006" href="$class_acl_rule.html#a38c54524c764531ae098fcf4e0315273" title=" " alt="" coords="378,107,537,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="571,109,538,113,537,108,570,104"/>
+<area shape="rect" id="Node000007" href="$class_acl_rule.html#a2bbadb01e7251b93535696f5ce4d2432" title=" " alt="" coords="398,157,516,184"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="620,117,539,148,505,159,503,154,537,143,618,112"/>
+<area shape="rect" id="Node000004" href="$class_acl_rule.html#a1c9b3c461a8fc103721e89c82a12e1a9" title=" " alt="" coords="168,81,328,108"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="361,84,329,88,328,82,360,78"/>
+<area shape="rect" id="Node000005" href="$class_acl_rule.html#a951872f148e39cb60d8b75161924cf66" title=" " alt="" coords="5,81,120,108"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="152,97,120,97,120,92,152,92"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="362,111,328,107,329,102,362,106"/>
+</map>

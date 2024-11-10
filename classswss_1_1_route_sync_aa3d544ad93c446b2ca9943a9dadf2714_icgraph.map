@@ -1,0 +1,10 @@
+<map id="swss::RouteSync::getNextHopList" name="swss::RouteSync::getNextHopList">
+<area shape="rect" id="Node000001" title=" " alt="" coords="481,35,660,77"/>
+<area shape="rect" id="Node000002" href="$classswss_1_1_route_sync.html#a1ecdd5ce9437dc1005f940f4fe22e1b0" title=" " alt="" coords="240,5,418,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="465,46,418,40,419,35,466,41"/>
+<area shape="rect" id="Node000004" href="$classswss_1_1_route_sync.html#a8c38526599507849dbdfb8cf522bbe47" title=" " alt="" coords="226,72,433,99"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="466,71,434,75,433,70,465,66"/>
+<area shape="rect" id="Node000003" href="$classswss_1_1_route_sync.html#aecf3fbfe6a8db3ed62eb071cfc85f9f3" title=" " alt="" coords="5,43,178,69"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="225,42,178,48,178,43,225,37"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="210,73,178,69,179,64,210,68"/>
+</map>

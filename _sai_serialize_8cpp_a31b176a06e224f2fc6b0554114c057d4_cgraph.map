@@ -1,0 +1,11 @@
+<map id="sai_deserialize_port_oper_status_ntf" name="sai_deserialize_port_oper_status_ntf">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,27,142,69"/>
+<area shape="rect" id="Node000002" href="$_sai_serialize_8cpp.html#a93ab044615abc111c2294290d8aaba45" title=" " alt="" coords="190,5,356,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="142,35,174,31,175,36,142,41"/>
+<area shape="rect" id="Node000003" href="$_sai_serialize_8cpp.html#ae15a993eb95f439746613598227b931b" title=" " alt="" coords="205,56,341,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="142,55,190,62,189,68,142,61"/>
+<area shape="rect" id="Node000004" href="$_sai_serialize_8cpp.html#aecc5d98c7c6eb929afccb415702e0ab1" title=" " alt="" coords="404,64,550,91"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="341,75,388,75,388,80,341,80"/>
+<area shape="rect" id="Node000005" href="$_sai_serialize_8cpp.html#af43610cde7a028ce65a0a67e5f32ed42" title=" " alt="" coords="598,64,756,91"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="551,75,583,75,583,80,551,80"/>
+</map>

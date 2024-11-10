@@ -1,0 +1,36 @@
+<map id="NhgOrchCommon::getNhg" name="NhgOrchCommon::getNhg">
+<area shape="rect" id="Node000001" title=" " alt="" coords="916,284,1092,311"/>
+<area shape="rect" id="Node000002" href="$class_route_orch.html#a038b93916da0083a0b32f1ea819c3d60" title=" " alt="" coords="713,107,848,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="972,276,797,136,801,132,975,272"/>
+<area shape="rect" id="Node000009" href="$class_cbf_nhg_member.html#a7020acd766ac26eae924b5df04a9aa39" title=" " alt="" coords="693,259,868,285"/>
+<area shape="poly" id="edge13_Node000001_Node000009" title=" " alt="" coords="900,288,868,285,868,279,901,283"/>
+<area shape="rect" id="Node000011" href="$class_cbf_nhg.html#a645495ff2bff9912f914620ad58a3a85" title=" " alt="" coords="215,309,372,336"/>
+<area shape="poly" id="edge19_Node000001_Node000011" title=" " alt="" coords="900,304,372,323,372,317,900,298"/>
+<area shape="rect" id="Node000013" href="$class_cbf_nhg.html#ae1c63b1170de3557d034a7dfd3fbf2ea" title=" " alt="" coords="16,360,129,387"/>
+<area shape="poly" id="edge20_Node000001_Node000013" title=" " alt="" coords="901,313,868,316,444,351,130,373,130,367,443,346,867,311,900,307"/>
+<area shape="rect" id="Node000003" href="$class_route_orch.html#a14358beed76ef5971ad5779fa488e42f" title=" " alt="" coords="456,5,636,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="741,101,644,53,594,35,596,30,646,48,743,96"/>
+<area shape="rect" id="Node000005" href="$class_route_orch.html#a3885491297415573caec9badfd84955c" title=" " alt="" coords="211,56,376,83"/>
+<area shape="poly" id="edge11_Node000002_Node000005" title=" " alt="" coords="698,111,645,104,376,78,377,73,646,99,698,105"/>
+<area shape="rect" id="Node000006" href="$class_route_orch.html#a8abe02697428cebf9f6a966ad81e6670" title=" " alt="" coords="5,107,140,133"/>
+<area shape="poly" id="edge12_Node000002_Node000006" title=" " alt="" coords="698,123,140,123,140,117,698,117"/>
+<area shape="rect" id="Node000007" href="$class_route_orch.html#a70d2fddda967a01df19c9c9a4dc3adc5" title=" " alt="" coords="472,157,620,184"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="701,140,612,159,611,154,700,135"/>
+<area shape="rect" id="Node000004" href="$class_route_orch.html#add247e350b3c7fa44d05147c61b919d1" title=" " alt="" coords="188,5,399,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="441,30,400,30,400,25,441,25"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="462,38,364,58,363,53,461,33"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="415,7,456,7,456,13,415,12"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="218,89,134,109,133,103,216,84"/>
+<area shape="poly" id="edge10_Node000007_Node000006" title=" " alt="" coords="456,167,329,157,187,141,140,134,140,129,188,136,329,151,457,162"/>
+<area shape="rect" id="Node000008" href="$class_route_orch.html#a8d92a7e78d20ed0f2a67d96db9162347" title=" " alt="" coords="203,208,384,235"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="494,191,385,215,383,209,493,186"/>
+<area shape="poly" id="edge9_Node000008_Node000007" title=" " alt="" coords="345,201,471,175,472,180,346,206"/>
+<area shape="rect" id="Node000010" href="$class_cbf_nhg.html#af70020e21223545df4c002176b1ef84b" title=" " alt="" coords="460,208,633,235"/>
+<area shape="poly" id="edge14_Node000009_Node000010" title=" " alt="" coords="700,257,611,238,612,233,701,252"/>
+<area shape="rect" id="Node000014" href="$class_cbf_nhg_member.html#a2b93a2226334d13fee55950c657df945" title=" " alt="" coords="447,259,645,285"/>
+<area shape="poly" id="edge18_Node000009_Node000014" title=" " alt="" coords="678,275,646,275,646,269,678,269"/>
+<area shape="poly" id="edge15_Node000010_Node000011" title=" " alt="" coords="470,242,448,249,377,281,319,311,317,307,375,276,446,244,468,237"/>
+<area shape="rect" id="Node000012" href="$class_cbf_nhg.html#af6f7a9b32bd2daf8323e15c3a76f4a56" title=" " alt="" coords="21,309,124,336"/>
+<area shape="poly" id="edge16_Node000011_Node000012" title=" " alt="" coords="200,325,124,325,124,320,200,320"/>
+<area shape="poly" id="edge17_Node000011_Node000013" title=" " alt="" coords="218,343,130,363,129,358,217,337"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="saivs::SwitchStateBase::updateLocalDB" name="saivs::SwitchStateBase::updateLocalDB">
+<area shape="rect" id="Node000001" title=" " alt="" coords="470,39,631,81"/>
+<area shape="rect" id="Node000002" href="$classsaivs_1_1_switch_state_base.html#a198d076baabe2411e563dd2db29da16a" title=" " alt="" coords="261,39,422,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="454,63,422,63,422,57,454,57"/>
+<area shape="rect" id="Node000003" href="$classsaivs_1_1_switch_state_base.html#afd6dc43276189329cc43d3c679cf334c" title=" " alt="" coords="5,5,213,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="245,49,213,44,213,39,246,44"/>
+<area shape="rect" id="Node000004" href="$classsaivs_1_1_switch_state_base.html#af872b14931e07fa55ab3055058bd0c65" title=" " alt="" coords="14,72,204,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="246,76,205,82,204,77,245,71"/>
+</map>

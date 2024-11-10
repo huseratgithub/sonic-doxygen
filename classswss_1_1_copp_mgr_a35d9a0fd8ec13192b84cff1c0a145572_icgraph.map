@@ -1,0 +1,11 @@
+<map id="swss::CoppMgr::setCoppTrapStateOk" name="swss::CoppMgr::setCoppTrapStateOk">
+<area shape="rect" id="Node000001" title=" " alt="" coords="582,23,779,65"/>
+<area shape="rect" id="Node000002" href="$classswss_1_1_copp_mgr.html#a9b94580701499cfc1ae1be62cfb82c1b" title=" " alt="" coords="337,5,511,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="567,35,512,30,512,25,567,30"/>
+<area shape="rect" id="Node000003" href="$classswss_1_1_copp_mgr.html#a319bd95aead5d344a6c58023a27fcc1c" title=" " alt="" coords="314,56,534,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="567,58,535,61,535,56,567,53"/>
+<area shape="rect" id="Node000004" href="$classswss_1_1_copp_mgr.html#ab813e902bad250afcb3a747dd38fba7d" title=" " alt="" coords="103,56,266,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="298,72,266,72,266,67,298,67"/>
+<area shape="rect" id="Node000005" href="$coppmgrd_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="5,56,55,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="87,72,55,72,55,67,87,67"/>
+</map>

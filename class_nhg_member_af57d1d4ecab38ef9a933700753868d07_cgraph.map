@@ -1,0 +1,9 @@
+<map id="NhgMember::remove" name="NhgMember::remove">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,149,57"/>
+<area shape="rect" id="Node000002" href="$class_crm_orch.html#aa67fa069466d8ff8740e73d55d810bdf" title=" " alt="" coords="197,5,426,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="149,34,181,30,181,35,149,39"/>
+<area shape="rect" id="Node000004" href="$class_nhg_member.html#a5081eba739f8bce5bc540f32c53cee32" title=" " alt="" coords="234,56,388,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="149,49,219,57,218,62,149,54"/>
+<area shape="rect" id="Node000003" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="474,5,625,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="426,16,458,16,458,21,426,21"/>
+</map>

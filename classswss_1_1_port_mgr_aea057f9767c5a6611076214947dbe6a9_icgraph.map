@@ -1,0 +1,13 @@
+<map id="swss::PortMgr::writeConfigToAppDb" name="swss::PortMgr::writeConfigToAppDb">
+<area shape="rect" id="Node000001" title=" " alt="" coords="548,25,729,68"/>
+<area shape="rect" id="Node000002" href="$classswss_1_1_port_mgr.html#a5debfbf74447e54526c452cdf723b5c7" title=" " alt="" coords="103,33,259,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="546,24,500,16,404,8,307,16,264,24,224,36,223,30,263,19,307,11,404,3,501,11,547,19"/>
+<area shape="rect" id="Node000004" href="$classswss_1_1_port_mgr.html#aa94e8d021063dc60dc6ef723f07a6580" title=" " alt="" coords="307,25,500,68"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="533,49,501,49,501,44,533,44"/>
+<area shape="rect" id="Node000005" href="$classswss_1_1_port_mgr.html#ae04fb6ecb764c504508ba11bb31901b2" title=" " alt="" coords="314,92,493,119"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="537,75,461,94,460,89,535,70"/>
+<area shape="rect" id="Node000003" href="$portmgrd_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="5,33,55,60"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="87,49,55,49,55,44,87,44"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="291,49,260,49,260,44,291,44"/>
+<area shape="poly" id="edge6_Node000005_Node000002" title=" " alt="" coords="335,90,306,83,234,63,235,58,308,78,336,85"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="saimeta::DummySaiInterface" name="saimeta::DummySaiInterface">
+<area shape="rect" id="Node000001" title="Dummy SAI interface." alt="" coords="9,80,201,107"/>
+<area shape="rect" id="Node000003" href="$classsaimeta_1_1_meta_test_sai_interface.html" title=" " alt="" coords="5,155,205,181"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="108,122,108,154,102,154,102,122"/>
+<area shape="rect" id="Node000002" href="$classsairedis_1_1_sai_interface.html" title=" " alt="" coords="33,5,177,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,48,108,80,102,80,102,48"/>
+</map>

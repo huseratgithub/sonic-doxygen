@@ -1,0 +1,14 @@
+<map id="swss::BufferMgrDynamic" name="swss::BufferMgrDynamic">
+<area shape="rect" id="Node000001" title=" " alt="" coords="180,453,349,480"/>
+<area shape="rect" id="Node000002" href="$class_orch.html" title=" " alt="" coords="156,187,205,213"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="189,228,212,318,248,428,260,452,255,454,244,430,207,320,184,230"/>
+<area shape="rect" id="Node000003" href="$class_response_publisher.html" title=" " alt="" coords="92,96,226,123"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="161,138,164,162,175,185,170,188,159,163,155,139"/>
+<area shape="rect" id="Node000004" href="$class_response_publisher_interface.html" title=" " alt="" coords="5,5,191,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="118,44,153,94,148,97,113,47"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="214,5,315,32"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="267,47,267,453,262,453,262,47"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="232,43,212,58,172,98,168,94,208,54,229,39"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="302,187,355,213"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="328,229,314,319,302,375,286,430,275,454,270,452,281,428,297,374,309,318,323,228"/>
+</map>

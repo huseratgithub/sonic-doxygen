@@ -1,0 +1,14 @@
+<map id="send_message" name="send_message">
+<area shape="rect" id="Node000001" title=" " alt="" coords="817,31,926,57"/>
+<area shape="rect" id="Node000002" href="$classswss_1_1_nbr_mgr.html#a717924fa06667b359435c8e909b0e2a4" title=" " alt="" coords="587,31,769,57"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="801,47,769,47,769,41,801,41"/>
+<area shape="rect" id="Node000003" href="$classswss_1_1_nbr_mgr.html#af0f35d9986f9e999fca2178a6dd03d2b" title=" " alt="" coords="304,5,539,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="571,36,540,33,540,28,572,31"/>
+<area shape="rect" id="Node000006" href="$classswss_1_1_nbr_mgr.html#a15c73d98eea19135f50b5eac7b8f12b5" title=" " alt="" coords="318,56,525,83"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="572,57,526,62,525,56,572,52"/>
+<area shape="rect" id="Node000004" href="$classswss_1_1_nbr_mgr.html#ac7277a8a70977d4508aea7beffc182bb" title=" " alt="" coords="103,31,256,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="289,35,257,39,256,33,288,30"/>
+<area shape="rect" id="Node000005" href="$nbrmgrd_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="5,31,55,57"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="87,47,55,47,55,41,87,41"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="302,60,256,55,257,49,303,54"/>
+</map>

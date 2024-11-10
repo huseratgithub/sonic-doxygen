@@ -1,0 +1,20 @@
+<map id="MirrorOrch::isHwResourcesAvailable" name="MirrorOrch::isHwResourcesAvailable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,107,189,149"/>
+<area shape="rect" id="Node000002" href="$class_orch.html#a3eb3b59b82a3557679fd2426cca45c2a" title=" " alt="" coords="244,56,417,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,104,259,84,260,90,185,109"/>
+<area shape="rect" id="Node000008" href="$class_orch.html#a70977878f1f47486bc7f63c3a0289536" title=" " alt="" coords="237,107,424,149"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="189,125,221,125,221,131,189,131"/>
+<area shape="rect" id="Node000009" href="$sai__redis__interfacequery_8cpp.html#ae3a513fda3d862c129d1c59243ef11ea" title=" " alt="" coords="262,173,399,216"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="175,147,247,168,246,173,173,152"/>
+<area shape="rect" id="Node000003" href="$_sai_serialize_8cpp.html#a9e4f80bd1f4cab2b066741f56f032e3c" title=" " alt="" coords="489,5,606,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="390,53,473,33,474,38,392,58"/>
+<area shape="rect" id="Node000006" href="$_sai_serialize_8cpp.html#aeae06eaf39abcffe5f6215d8688a6368" title=" " alt="" coords="480,56,616,83"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="417,67,464,67,464,72,417,72"/>
+<area shape="rect" id="Node000007" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="472,107,623,133"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="392,81,473,100,472,105,390,86"/>
+<area shape="rect" id="Node000004" href="$_sai_serialize_8cpp.html#a65eb8ea2354cbfadd0a6075124116a68" title=" " alt="" coords="671,31,804,57"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="607,24,656,31,656,36,606,29"/>
+<area shape="rect" id="Node000005" href="$_sai_serialize_8cpp.html#a97543edb8d3f82c33b2ba86825bf5cc9" title=" " alt="" coords="852,31,995,57"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="804,41,836,41,836,47,804,47"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="616,58,656,52,656,57,616,63"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="RouteOrch::incNhgRefCount" name="RouteOrch::incNhgRefCount">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,195,61"/>
+<area shape="rect" id="Node000002" href="$class_nhg_orch_common.html#a78ac341edd500326b2e8fb80832088ac" title=" " alt="" coords="251,5,430,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="195,34,235,29,236,34,195,39"/>
+<area shape="rect" id="Node000003" href="$class_nhg_orch_common.html#a2ae555e99ebc134fb9ac76375754931c" title=" " alt="" coords="243,56,439,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="195,57,228,61,227,66,195,62"/>
+</map>

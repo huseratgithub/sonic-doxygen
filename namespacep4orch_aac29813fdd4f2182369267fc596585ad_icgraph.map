@@ -1,0 +1,23 @@
+<map id="p4orch::getSaiAttrs" name="p4orch::getSaiAttrs">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1090,113,1223,140"/>
+<area shape="rect" id="Node000002" href="$classp4orch_1_1_mirror_session_manager.html#a81042b307c4d68d2fbce8d2ea914fd73" title=" " alt="" coords="843,72,1042,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1074,117,1042,111,1042,106,1075,111"/>
+<area shape="rect" id="Node000009" href="$classp4orch_1_1_mirror_session_manager.html#ab9452fb6d02af520ca4b5fcd97dd2961" title=" " alt="" coords="843,139,1042,181"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="1075,142,1042,147,1042,142,1074,137"/>
+<area shape="rect" id="Node000003" href="$classp4orch_1_1test_1_1_mirror_session_manager_test.html#ac61639374dbde4ed2e1de02dcf199a68" title=" " alt="" coords="572,5,795,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="841,70,769,51,770,46,843,65"/>
+<area shape="rect" id="Node000004" href="$classp4orch_1_1_mirror_session_manager.html#a420001e5b1f8dd37aee27eff67c4da3f" title=" " alt="" coords="584,72,783,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="828,96,783,96,783,91,828,91"/>
+<area shape="rect" id="Node000005" href="$classp4orch_1_1_mirror_session_manager.html#accffd873dc769743850df6aa2f4482e9" title=" " alt="" coords="313,5,511,48"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="578,70,501,51,502,46,580,65"/>
+<area shape="rect" id="Node000007" href="$classp4orch_1_1test_1_1_mirror_session_manager_test.html#a7e3b476a7c7e14d66c32ca41080160d1" title=" " alt="" coords="300,72,524,115"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="569,96,524,96,524,91,569,91"/>
+<area shape="rect" id="Node000006" href="$classp4orch_1_1test_1_1_mirror_session_manager_test.html#af1ce2c9cdd81f2c95a7f90c25fbfd7c6" title=" " alt="" coords="39,5,218,48"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="297,29,218,29,218,24,297,24"/>
+<area shape="rect" id="Node000008" href="$classp4orch_1_1test_1_1_mirror_session_manager_test.html#a6aa54875c3d092d74e43042bf2cc3f01" title=" " alt="" coords="5,72,252,115"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="284,96,252,96,252,91,284,91"/>
+<area shape="rect" id="Node000010" href="$classp4orch_1_1_mirror_session_manager.html#a49e678bd83df3eedf5712178d7e2b6cb" title=" " alt="" coords="584,139,783,181"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="828,163,783,163,783,157,828,157"/>
+<area shape="rect" id="Node000011" href="$classp4orch_1_1test_1_1_mirror_session_manager_test.html#aa844ae78176e9ff97d80d064ff08aff0" title=" " alt="" coords="323,139,501,181"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="569,163,501,163,501,157,569,157"/>
+</map>

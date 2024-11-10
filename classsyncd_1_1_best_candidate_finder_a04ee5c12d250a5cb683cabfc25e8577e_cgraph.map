@@ -1,0 +1,24 @@
+<map id="syncd::BestCandidateFinder::hasEqualAttribute" name="syncd::BestCandidateFinder::hasEqualAttribute">
+<area shape="rect" id="Node000001" title="Check if current and temporary object has the same attribute and attribute has the same value on both..." alt="" coords="5,73,192,116"/>
+<area shape="rect" id="Node000002" href="$classsyncd_1_1_best_candidate_finder.html#aa9e6183881803a85b2755093488b22bf" title="Check if both list contains the same objects." alt="" coords="240,28,426,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,74,224,68,225,73,193,79"/>
+<area shape="rect" id="Node000010" href="$classsyncd_1_1_best_candidate_finder.html#ad294b8ee471a5333ed6dedd4094db557" title=" " alt="" coords="240,119,426,161"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="193,110,225,116,224,122,192,115"/>
+<area shape="rect" id="Node000003" href="$classsyncd_1_1_vid_manager.html#ab8924027adb966aadefa6fd231a914bf" title="Object type query." alt="" coords="487,28,628,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="426,47,471,47,471,52,426,52"/>
+<area shape="rect" id="Node000005" href="$mock__sai__serialize_8cpp.html#a0f934d15b1a3e0fd3458f0f2b9df0b31" title=" " alt="" coords="915,13,1067,40"/>
+<area shape="poly" id="edge8_Node000002_Node000005" title=" " alt="" coords="412,25,474,13,588,5,704,4,900,15,899,20,704,9,589,10,474,19,412,30"/>
+<area shape="rect" id="Node000008" href="$mock__sai__serialize_8cpp.html#aa06e96f943a8f2451c89c65d2fecbef5" title=" " alt="" coords="474,124,641,151"/>
+<area shape="poly" id="edge9_Node000002_Node000008" title=" " alt="" coords="397,69,427,80,512,115,510,120,425,85,395,74"/>
+<area shape="rect" id="Node000004" href="$classsairedis_1_1_virtual_object_id_manager.html#ad101fc291f99d20afa184f5b99911b3a" title="Object type query." alt="" coords="689,64,867,107"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="629,58,674,66,674,71,628,63"/>
+<area shape="poly" id="edge7_Node000003_Node000005" title=" " alt="" coords="629,43,899,29,899,34,629,48"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="857,61,925,42,926,47,858,66"/>
+<area shape="rect" id="Node000007" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="915,72,1066,99"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="867,83,899,83,899,88,867,88"/>
+<area shape="rect" id="Node000006" href="$class_sai_serialize_interface.html#ac1267fe86b704633a47c483dcc8e1379" title=" " alt="" coords="1115,5,1275,48"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="1067,24,1099,24,1099,29,1067,29"/>
+<area shape="rect" id="Node000009" href="$class_sai_serialize_interface.html#a29d73fb00b962109388850736a5a02a3" title=" " alt="" coords="690,131,866,173"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="642,140,675,142,675,148,642,146"/>
+<area shape="poly" id="edge12_Node000010_Node000010" title=" " alt="" coords="290,119,288,109,296,100,310,94,333,92,357,94,371,101,369,106,356,100,333,97,312,99,299,104,294,110,295,118"/>
+</map>

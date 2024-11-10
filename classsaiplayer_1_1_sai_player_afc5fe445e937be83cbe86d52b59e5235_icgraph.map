@@ -1,0 +1,41 @@
+<map id="saiplayer::SaiPlayer::translate_local_to_redis" name="saiplayer::SaiPlayer::translate_local_to_redis">
+<area shape="rect" id="Node000001" title=" " alt="" coords="802,365,968,408"/>
+<area shape="poly" id="edge23_Node000001_Node000001" title=" " alt="" coords="919,352,906,346,885,344,865,346,852,351,848,357,849,364,844,365,842,355,849,346,863,341,885,339,908,341,922,347"/>
+<area shape="rect" id="Node000002" href="$classsaiplayer_1_1_sai_player.html#a2ba19ce1674f5face9301620d612e094" title=" " alt="" coords="602,72,739,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="871,351,854,304,829,246,795,188,752,135,727,117,730,113,755,131,799,185,833,244,859,302,876,350"/>
+<area shape="rect" id="Node000003" href="$classsaiplayer_1_1_sai_player.html#ae42805f9a9caa7ef2182a58b9bf43ed2" title=" " alt="" coords="402,101,539,144"/>
+<area shape="poly" id="edge21_Node000001_Node000003" title=" " alt="" coords="869,352,852,311,827,264,794,217,752,180,715,164,661,150,540,132,540,127,662,145,717,159,755,175,798,214,831,261,857,308,874,350"/>
+<area shape="rect" id="Node000004" href="$classsaiplayer_1_1_sai_player.html#a577a338b7bf05b396d8dc4cb4f998763" title=" " alt="" coords="217,412,354,455"/>
+<area shape="poly" id="edge22_Node000001_Node000004" title=" " alt="" coords="849,357,806,323,780,308,753,297,655,269,614,260,575,257,536,259,496,267,452,281,403,302,369,325,340,355,316,386,300,413,295,410,312,383,336,351,365,321,401,298,451,276,495,262,536,254,575,252,615,255,656,263,755,292,782,304,808,319,853,353"/>
+<area shape="rect" id="Node000006" href="$classsaiplayer_1_1_sai_player.html#ac94169bcf12fbf9e74a308e6b0fd6d34" title=" " alt="" coords="597,189,744,232"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="855,355,810,304,752,253,722,235,725,230,755,249,813,300,859,351"/>
+<area shape="rect" id="Node000007" href="$classsaiplayer_1_1_sai_player.html#ab49fc7dbc5d7dfe77206eea1997e7416" title=" " alt="" coords="600,5,741,48"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="876,350,863,289,840,212,804,132,780,95,752,62,737,51,741,46,756,58,784,92,809,130,845,210,868,288,881,349"/>
+<area shape="rect" id="Node000008" href="$classsaiplayer_1_1_sai_player.html#a8a3f70e59d40248ff24252d5020ace72" title=" " alt="" coords="602,307,739,349"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="789,363,739,349,740,344,791,358"/>
+<area shape="rect" id="Node000009" href="$classsaiplayer_1_1_sai_player.html#a195737a38eaba3f40a956bc6840e59b9" title=" " alt="" coords="402,312,539,355"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="786,385,689,377,587,364,539,354,540,349,588,359,690,372,786,379"/>
+<area shape="rect" id="Node000010" href="$classsaiplayer_1_1_sai_player.html#ac108f345cb49d68b0f4948b5038bfd45" title=" " alt="" coords="402,379,539,421"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="787,405,754,408,671,411,587,408,540,406,540,401,587,403,671,405,753,403,786,400"/>
+<area shape="rect" id="Node000011" href="$classsaiplayer_1_1_sai_player.html#aa4a95a76d19f4011296b6910a76ef67f" title=" " alt="" coords="402,445,539,488"/>
+<area shape="poly" id="edge13_Node000001_Node000011" title=" " alt="" coords="787,409,754,416,540,457,539,452,753,411,786,404"/>
+<area shape="rect" id="Node000012" href="$classsaiplayer_1_1_sai_player.html#acfd1a82c3944652b4d2fb5a3dbc66af3" title=" " alt="" coords="402,512,539,555"/>
+<area shape="poly" id="edge15_Node000001_Node000012" title=" " alt="" coords="830,418,755,452,642,490,540,519,539,514,641,485,753,447,828,413"/>
+<area shape="rect" id="Node000013" href="$classsaiplayer_1_1_sai_player.html#a00cdded87729e379b620520c9e6af12a" title=" " alt="" coords="402,579,539,621"/>
+<area shape="poly" id="edge17_Node000001_Node000013" title=" " alt="" coords="858,422,813,468,785,491,755,512,701,539,645,561,541,590,539,585,643,556,699,534,752,507,782,487,809,464,854,418"/>
+<area shape="rect" id="Node000014" href="$classsaiplayer_1_1_sai_player.html#a30dac571350dcce8c8698d2cd2b19136" title=" " alt="" coords="602,627,739,669"/>
+<area shape="poly" id="edge19_Node000001_Node000014" title=" " alt="" coords="873,424,854,466,828,515,795,565,755,610,729,628,726,624,752,606,791,562,824,512,849,463,868,422"/>
+<area shape="rect" id="Node000015" href="$classsaiplayer_1_1_sai_player.html#aa18c57c3d144f04561dccf39b13c8b1c" title=" " alt="" coords="587,693,754,736"/>
+<area shape="poly" id="edge24_Node000001_Node000015" title=" " alt="" coords="879,424,865,480,841,549,805,620,782,653,755,683,740,695,737,691,752,679,778,650,800,617,836,547,860,478,874,423"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="587,108,540,115,540,110,586,103"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="451,159,302,413,297,410,447,156"/>
+<area shape="rect" id="Node000005" href="$classsaiplayer_1_1_sai_player.html#a8c6c5f96706db2872875c903169c1811" title=" " alt="" coords="5,420,169,447"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="201,436,169,436,169,431,201,431"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="600,57,589,62,511,103,509,98,586,58,598,52"/>
+<area shape="poly" id="edge10_Node000009_Node000004" title=" " alt="" coords="412,364,403,369,325,414,322,409,401,364,410,360"/>
+<area shape="poly" id="edge12_Node000010_Node000004" title=" " alt="" coords="387,418,355,424,354,418,386,412"/>
+<area shape="poly" id="edge14_Node000011_Node000004" title=" " alt="" coords="386,454,354,448,355,443,387,449"/>
+<area shape="poly" id="edge16_Node000012_Node000004" title=" " alt="" coords="410,507,401,502,322,458,325,453,403,498,412,502"/>
+<area shape="poly" id="edge18_Node000013_Node000004" title=" " alt="" coords="405,572,400,569,369,541,341,511,299,457,303,453,345,508,373,538,404,565,408,568"/>
+<area shape="poly" id="edge20_Node000014_Node000004" title=" " alt="" coords="587,666,542,668,493,666,445,655,401,636,377,618,356,596,324,546,302,496,289,456,294,454,307,494,329,544,360,593,380,614,403,631,447,650,494,660,542,663,586,660"/>
+</map>

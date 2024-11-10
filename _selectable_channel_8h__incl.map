@@ -1,0 +1,13 @@
+<map id="E:/GitHub/SONiC/202211/sonic&#45;buildimage/src/sonic&#45;sairedis/meta/SelectableChannel.h" name="E:/GitHub/SONiC/202211/sonic&#45;buildimage/src/sonic&#45;sairedis/meta/SelectableChannel.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="215,5,418,80"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,128,132,155"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="223,83,116,125,114,120,221,78"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="156,128,251,155"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="275,82,231,120,228,116,272,78"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="274,128,359,155"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="319,80,319,112,314,112,314,80"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="383,128,436,155"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="354,78,389,115,385,118,350,82"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="461,128,518,155"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="384,78,455,118,453,122,381,83"/>
+</map>

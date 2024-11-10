@@ -1,0 +1,28 @@
+<map id="swss::BufferMgrDynamic::doUpdateBufferProfileForSize" name="swss::BufferMgrDynamic::doUpdateBufferProfileForSize">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,187,207,229"/>
+<area shape="rect" id="Node000002" href="$classswss_1_1_buffer_mgr_dynamic.html#a4ba3ac05400815905fd62a6f0c22ac5c" title=" " alt="" coords="255,69,446,112"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="146,184,254,128,280,116,282,121,256,133,148,188"/>
+<area shape="rect" id="Node000005" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="744,140,895,167"/>
+<area shape="poly" id="edge13_Node000001_Node000005" title=" " alt="" coords="207,192,254,187,512,167,728,155,728,160,512,172,255,192,207,197"/>
+<area shape="rect" id="Node000008" href="$classswss_1_1_buffer_mgr_dynamic.html#a39f5a2ebdfe5d104d56296f82f562080" title=" " alt="" coords="499,253,682,296"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="208,219,484,257,483,263,207,224"/>
+<area shape="rect" id="Node000009" href="$classswss_1_1_buffer_mgr_dynamic.html#aac5a544f83d73a52247f3cc3dcae2f7c" title=" " alt="" coords="497,187,684,229"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="207,205,482,205,482,211,207,211"/>
+<area shape="rect" id="Node000010" href="$classswss_1_1_buffer_mgr_dynamic.html#a6f47d8f422db4b7d8425fc2bd0d18ad0" title=" " alt="" coords="265,313,436,356"/>
+<area shape="poly" id="edge14_Node000001_Node000010" title=" " alt="" coords="150,227,295,304,293,308,148,232"/>
+<area shape="rect" id="Node000003" href="$classswss_1_1_buffer_mgr_dynamic.html#a142be0bad57abc6ff09634fbd847b7da" title=" " alt="" coords="494,69,687,112"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="447,88,478,88,478,93,447,93"/>
+<area shape="rect" id="Node000004" href="$classswss_1_1_buffer_mgr_dynamic.html#a2d4d204fa72522b81bcb1140fbce3357" title=" " alt="" coords="735,5,904,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="668,66,726,50,727,55,670,71"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="672,110,754,133,752,138,670,115"/>
+<area shape="rect" id="Node000006" href="$lib_2tests_8cpp.html#ad3af9936f704b25188a9ef24330f8a19" title=" " alt="" coords="784,195,855,221"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="625,110,676,143,736,176,771,190,769,195,734,181,673,148,622,115"/>
+<area shape="rect" id="Node000007" href="$classswss_1_1_buffer_mgr_dynamic.html#a27f19da6c0fff1242ef3834b59c27b6a" title=" " alt="" coords="735,72,904,115"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="688,89,720,90,720,95,688,94"/>
+<area shape="poly" id="edge8_Node000008_Node000005" title=" " alt="" coords="666,251,686,239,701,225,709,211,718,196,734,181,750,171,753,175,737,185,722,199,714,213,705,228,689,243,669,255"/>
+<area shape="poly" id="edge9_Node000008_Node000006" title=" " alt="" coords="665,250,769,220,770,225,667,255"/>
+<area shape="poly" id="edge11_Node000009_Node000005" title=" " alt="" coords="682,183,745,168,746,173,683,189"/>
+<area shape="poly" id="edge12_Node000009_Node000006" title=" " alt="" coords="685,205,769,205,769,211,685,211"/>
+<area shape="rect" id="Node000011" href="$classswss_1_1_buffer_mgr_dynamic.html#a1a2febd90a472909a8ab36ae44490d70" title=" " alt="" coords="506,320,675,363"/>
+<area shape="poly" id="edge15_Node000010_Node000011" title=" " alt="" coords="436,334,491,336,491,341,436,340"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="syncd::VidManager::updateObjectIndex" name="syncd::VidManager::updateObjectIndex">
+<area shape="rect" id="Node000001" title="Update object index." alt="" coords="5,64,147,107"/>
+<area shape="rect" id="Node000002" href="$classsairedis_1_1_virtual_object_id_manager.html#a6b0152416dabfe5124d73ce18ee46e82" title="Update object index." alt="" coords="195,64,383,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="147,83,179,83,179,88,147,88"/>
+<area shape="rect" id="Node000003" href="$classsairedis_1_1_virtual_object_id_manager.html#adf8023ea824e3b1535e342a77c0f72b2" title="Construct object id." alt="" coords="431,5,613,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="375,61,419,50,421,55,377,66"/>
+<area shape="rect" id="Node000004" href="$classsairedis_1_1_virtual_object_id_manager.html#ad101fc291f99d20afa184f5b99911b3a" title="Object type query." alt="" coords="434,123,611,165"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="377,105,421,116,419,121,375,110"/>
+<area shape="rect" id="Node000005" href="$mock__sai__serialize_8cpp.html#a0f934d15b1a3e0fd3458f0f2b9df0b31" title=" " alt="" coords="661,76,814,103"/>
+<area shape="poly" id="edge7_Node000002_Node000005" title=" " alt="" coords="384,84,646,86,646,91,384,89"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="608,119,667,104,668,110,609,125"/>
+<area shape="rect" id="Node000007" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="662,131,813,157"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="611,141,646,141,646,147,611,147"/>
+<area shape="rect" id="Node000006" href="$class_sai_serialize_interface.html#ac1267fe86b704633a47c483dcc8e1379" title=" " alt="" coords="862,68,1022,111"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="814,87,846,87,846,92,814,92"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="NhgMapOrch" name="NhgMapOrch">
+<area shape="rect" id="Node000001" title=" " alt="" coords="196,293,294,320"/>
+<area shape="rect" id="Node000002" href="$class_orch.html" title=" " alt="" coords="156,195,205,221"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,233,239,292,234,295,195,236"/>
+<area shape="rect" id="Node000003" href="$class_response_publisher.html" title=" " alt="" coords="114,96,248,123"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="183,138,183,194,178,194,178,138"/>
+<area shape="rect" id="Node000004" href="$class_response_publisher_interface.html" title=" " alt="" coords="5,5,191,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="122,42,171,94,167,97,118,45"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="214,5,315,32"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="244,46,195,97,191,94,240,42"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="230,187,388,229"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="289,244,255,294,251,291,284,241"/>
+</map>

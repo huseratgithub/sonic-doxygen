@@ -1,0 +1,18 @@
+<map id="RouterInterfaceManagerTest::RemoveRouterInterface" name="RouterInterfaceManagerTest::RemoveRouterInterface">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,115,192,157"/>
+<area shape="rect" id="Node000002" href="$class_router_interface_manager.html#a9dbae36431e38db66404da485ee79f5f" title=" " alt="" coords="240,115,402,157"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,133,224,133,224,139,192,139"/>
+<area shape="rect" id="Node000003" href="$class_ports_orch.html#a78664a800ec02c1122374c28f52b793d" title=" " alt="" coords="450,5,636,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="353,112,398,85,449,58,462,52,464,57,451,62,401,89,356,116"/>
+<area shape="rect" id="Node000004" href="$class_p4_oid_mapper.html#ade7d45e085e04400f80610ef7e6eb2c2" title=" " alt="" coords="461,72,625,99"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="401,115,466,100,467,105,403,120"/>
+<area shape="rect" id="Node000006" href="$class_p4_oid_mapper.html#a2f572d6a9dd147322d20f544b3d94485" title=" " alt="" coords="452,123,634,149"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="402,133,436,133,436,139,402,139"/>
+<area shape="rect" id="Node000007" href="$class_router_interface_manager.html#ae21667c7a376fbe7cbcd721fb15dad65" title=" " alt="" coords="459,173,627,216"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="403,155,446,166,444,171,401,160"/>
+<area shape="rect" id="Node000008" href="$p4orch__util_8h.html#aab16233c3e059364a961ee6777f13595" title=" " alt="" coords="502,240,584,267"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="349,156,395,192,451,226,488,239,486,244,449,230,392,196,345,160"/>
+<area shape="rect" id="Node000005" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="684,97,836,124"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="626,92,669,97,669,103,625,98"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="634,123,669,119,669,124,635,128"/>
+</map>

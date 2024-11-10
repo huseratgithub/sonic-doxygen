@@ -1,0 +1,9 @@
+<map id="syncd::AsicView::releaseExisgingLinks" name="syncd::AsicView::releaseExisgingLinks">
+<area shape="rect" id="Node000001" title="Release existing VID links (references) based on given attribute." alt="" coords="254,72,423,115"/>
+<area shape="rect" id="Node000002" href="$classsyncd_1_1_asic_view.html#a032dbbdbbf335dceedbd6939ab079ee8" title="Generate ASIC remove operation for current existing object." alt="" coords="5,5,206,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="246,70,182,51,184,46,248,65"/>
+<area shape="rect" id="Node000003" href="$classsyncd_1_1_asic_view.html#ae688994b09532c1d86729b9d9f6a05a0" title="Generate ASIC set operation on current existing object." alt="" coords="20,72,191,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="238,96,192,96,192,91,238,91"/>
+<area shape="rect" id="Node000004" href="$classsyncd_1_1_asic_view.html#a9fbe86051e16efe538217ec910abb339" title="Release existing VID links (references) based on given object." alt="" coords="21,139,190,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="248,122,184,141,182,135,246,117"/>
+</map>

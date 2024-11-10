@@ -1,0 +1,9 @@
+<map id="SwitchOrch::set_switch_pfc_dlr_init_capability" name="SwitchOrch::set_switch_pfc_dlr_init_capability">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,166,77"/>
+<area shape="rect" id="Node000002" href="$class_switch_orch.html#a927d65c2ec8de3d126afcb0768050060" title=" " alt="" coords="214,13,441,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="165,44,198,40,199,45,166,49"/>
+<area shape="rect" id="Node000004" href="$class_switch_orch.html#a2cab73bdab6338953a86c636178006a3" title=" " alt="" coords="247,64,408,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="166,63,232,71,231,76,165,68"/>
+<area shape="rect" id="Node000003" href="$sai__redis__interfacequery_8cpp.html#a2d4cf4d27d8fd0fcf37e4cae1ea25fb5" title=" " alt="" coords="489,5,620,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="442,24,473,24,473,29,442,29"/>
+</map>

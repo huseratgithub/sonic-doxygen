@@ -1,0 +1,30 @@
+<map id="saimeta::OidRefCounter::objectReferenceDecrement" name="saimeta::OidRefCounter::objectReferenceDecrement">
+<area shape="rect" id="Node000001" title="Decrement reference count on object." alt="" coords="916,324,1104,367"/>
+<area shape="rect" id="Node000002" href="$classsaimeta_1_1_meta.html#a54ba70c1d61b9a7d59ad5deb00d5558d" title=" " alt="" coords="703,139,844,197"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="966,317,813,200,816,196,969,312"/>
+<area shape="rect" id="Node000010" href="$classsaimeta_1_1_meta.html#a875373fbd60c564694440499f4d3afb2" title=" " alt="" coords="703,316,844,375"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="900,348,845,348,845,343,900,343"/>
+<area shape="rect" id="Node000013" href="$classsaimeta_1_1_oid_ref_counter.html#a2ce4dc9947ae9192a915dabb973b4eaf" title=" " alt="" coords="679,399,868,441"/>
+<area shape="poly" id="edge15_Node000001_Node000013" title=" " alt="" coords="926,375,844,401,843,395,924,369"/>
+<area shape="rect" id="Node000003" href="$classsaimeta_1_1_meta.html#a35d82751d2fa33e7400664cdb52671cd" title=" " alt="" coords="446,205,631,232"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="688,189,605,207,603,202,687,184"/>
+<area shape="rect" id="Node000004" href="$classsaimeta_1_1_meta.html#a46134429253639f5195122365f36f62b" title=" " alt="" coords="211,248,382,291"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="717,208,676,229,632,247,568,261,502,270,382,275,382,270,501,265,567,256,631,241,674,225,714,203"/>
+<area shape="rect" id="Node000006" href="$classsaimeta_1_1_meta.html#aa6b7972c7f6bb78f5c87751446a643ec" title=" " alt="" coords="456,5,621,64"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="716,132,630,78,608,67,610,62,633,74,719,127"/>
+<area shape="rect" id="Node000008" href="$classsaimeta_1_1_meta.html#a64a5d21c3d69f3d8b96ac2a984fcc9c0" title=" " alt="" coords="470,88,607,131"/>
+<area shape="poly" id="edge8_Node000002_Node000008" title=" " alt="" coords="687,158,595,134,597,129,688,153"/>
+<area shape="rect" id="Node000009" href="$classsaimeta_1_1_meta.html#aca8211a87fd93405f6d17fe744efe503" title=" " alt="" coords="461,155,616,181"/>
+<area shape="poly" id="edge10_Node000002_Node000009" title=" " alt="" coords="688,171,617,171,617,165,688,165"/>
+<area shape="rect" id="Node000005" href="$classsaimeta_1_1_meta.html#ac46f1a3c7da2a21181f4aa39f3ce01ba" title=" " alt="" coords="5,248,147,291"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="195,272,147,272,147,267,195,267"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="452,75,448,78,403,120,365,167,312,249,307,246,360,164,399,117,444,74,448,71"/>
+<area shape="rect" id="Node000007" href="$classsaimeta_1_1_meta.html#abba152dcea5f862a97c0bcff3722d922" title=" " alt="" coords="195,21,398,48"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="440,37,399,37,399,32,440,32"/>
+<area shape="poly" id="edge9_Node000008_Node000002" title=" " alt="" coords="623,119,703,139,702,145,622,124"/>
+<area shape="poly" id="edge13_Node000010_Node000004" title=" " alt="" coords="690,383,635,399,573,411,508,412,476,407,445,398,404,377,366,349,312,293,316,289,370,345,406,373,447,394,477,402,508,407,572,405,634,394,689,378"/>
+<area shape="rect" id="Node000011" href="$classsaimeta_1_1_meta.html#a0b5317eff20fe75551e5d6f031b18729" title=" " alt="" coords="460,307,617,333"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="687,339,617,331,618,326,688,333"/>
+<area shape="rect" id="Node000012" href="$classsaimeta_1_1_meta.html#a4ed261eb22596eb31baeeb3d844895f5" title=" " alt="" coords="474,357,604,384"/>
+<area shape="poly" id="edge14_Node000010_Node000012" title=" " alt="" coords="688,357,605,366,604,361,687,352"/>
+</map>

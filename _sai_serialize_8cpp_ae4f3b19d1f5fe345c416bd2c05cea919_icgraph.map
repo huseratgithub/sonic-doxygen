@@ -1,0 +1,15 @@
+<map id="sai_deserialize_redis_communication_mode" name="sai_deserialize_redis_communication_mode">
+<area shape="rect" id="Node000001" title=" " alt="" coords="500,56,656,99"/>
+<area shape="rect" id="Node000002" href="$sonic-swss_2orchagent_2main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="322,5,372,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="485,55,452,47,372,27,373,22,453,41,486,50"/>
+<area shape="rect" id="Node000003" href="$classsaiplayer_1_1_command_line_options_parser.html#a89801174abb479fd774e18d5ca00db97" title=" " alt="" coords="242,56,452,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="485,80,453,80,453,75,485,75"/>
+<area shape="rect" id="Node000005" href="$classsyncd_1_1_command_line_options_parser.html#a89801174abb479fd774e18d5ca00db97" title=" " alt="" coords="250,123,444,165"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="488,106,425,125,423,119,487,101"/>
+<area shape="rect" id="Node000004" href="$saiplayer__main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="124,64,173,91"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="227,80,173,80,173,75,227,75"/>
+<area shape="rect" id="Node000006" href="$syncd__main_8cpp.html#ac389e0d54a8c3e7ffae94cada1dd1141" title=" " alt="" coords="103,131,194,157"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="235,147,194,147,194,141,235,141"/>
+<area shape="rect" id="Node000007" href="$sonic-sairedis_2syncd_2main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="5,131,55,157"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="87,147,55,147,55,141,87,141"/>
+</map>

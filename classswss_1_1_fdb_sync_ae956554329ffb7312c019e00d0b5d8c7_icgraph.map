@@ -1,0 +1,13 @@
+<map id="swss::FdbSync::macDelVxlan" name="swss::FdbSync::macDelVxlan">
+<area shape="rect" id="Node000001" title=" " alt="" coords="633,31,832,57"/>
+<area shape="rect" id="Node000002" href="$classswss_1_1_fdb_sync.html#a531e8da5a9ffd3a848502a4e036da083" title=" " alt="" coords="388,5,568,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="618,35,568,30,569,25,618,30"/>
+<area shape="rect" id="Node000004" href="$classswss_1_1_fdb_sync.html#aac653a8bae3c2c040db07edf0c818836" title=" " alt="" coords="370,56,585,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="618,58,586,61,585,56,618,53"/>
+<area shape="rect" id="Node000003" href="$classswss_1_1_fdb_sync.html#a5c59cbb7c3a394b6c6f6ccbd53b0d1b8" title=" " alt="" coords="133,5,292,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="372,21,293,21,293,16,372,16"/>
+<area shape="rect" id="Node000005" href="$classswss_1_1_fdb_sync.html#a9c7083cba527af82b697f3cc610fdf2c" title=" " alt="" coords="103,56,322,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="355,72,323,72,323,67,355,67"/>
+<area shape="rect" id="Node000006" href="$fdbsyncd_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="5,56,55,83"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="87,72,55,72,55,67,87,67"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="syncd::BestCandidateFinder::exchangeTemporaryVidToCurrentVid" name="syncd::BestCandidateFinder::exchangeTemporaryVidToCurrentVid">
+<area shape="rect" id="Node000001" title=" " alt="" coords="546,139,787,181"/>
+<area shape="rect" id="Node000002" href="$classsyncd_1_1_best_candidate_finder.html#a9d14a95567467a7f62a902d176a66dd8" title="Find current best match for FDB." alt="" coords="255,5,483,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="621,132,563,96,497,62,466,51,467,46,499,58,566,91,624,127"/>
+<area shape="rect" id="Node000004" href="$classsyncd_1_1_best_candidate_finder.html#ac543bd5769024d6241f55d05208fb91c" title="Find current best match for inseg." alt="" coords="250,72,488,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="553,137,467,118,468,113,554,132"/>
+<area shape="rect" id="Node000005" href="$classsyncd_1_1_best_candidate_finder.html#adba5083ad6a9130d35947202caefdb51" title="Find current best match for NAT entry." alt="" coords="255,139,482,181"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="530,163,483,163,483,157,530,157"/>
+<area shape="rect" id="Node000006" href="$classsyncd_1_1_best_candidate_finder.html#ad9545b2fd3b431257fc095008e1242d7" title="Find current best match for neighbor." alt="" coords="240,205,498,248"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="554,188,468,207,467,202,553,183"/>
+<area shape="rect" id="Node000007" href="$classsyncd_1_1_best_candidate_finder.html#aa6c091028c84e8602530725451154bd3" title="Find current best match for route." alt="" coords="248,272,490,315"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="624,193,566,229,499,262,467,274,466,269,497,258,563,224,621,188"/>
+<area shape="rect" id="Node000003" href="$classsyncd_1_1_best_candidate_finder.html#a287c9b5ba4bf51715aa5caacea083b19" title=" " alt="" coords="5,139,192,181"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="255,56,241,62,177,101,126,140,123,136,174,96,238,58,253,51"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="265,122,189,141,187,135,264,116"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="240,163,192,163,192,157,240,157"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="264,204,187,185,189,179,265,198"/>
+<area shape="poly" id="edge10_Node000007_Node000003" title=" " alt="" coords="253,269,238,262,174,224,123,184,126,180,177,219,241,258,255,264"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="syncd::NotificationHandler::onQueuePfcDeadlock" name="syncd::NotificationHandler::onQueuePfcDeadlock">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,181,81"/>
+<area shape="rect" id="Node000002" href="$classsyncd_1_1_notification_handler.html#aeb3b04c047226c80a8bbccbda02ee0d2" title=" " alt="" coords="229,5,404,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="181,44,213,39,214,45,181,50"/>
+<area shape="rect" id="Node000003" href="$_sai_serialize_8cpp.html#a9658e4155aeadeb5db23e80313786683" title=" " alt="" coords="249,72,384,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="181,70,234,78,233,84,181,76"/>
+<area shape="rect" id="Node000004" href="$_sai_serialize_8cpp.html#a64e9cf06c73cd4f94e337e22149be32b" title=" " alt="" coords="452,51,604,77"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="384,81,436,74,437,79,385,87"/>
+<area shape="rect" id="Node000005" href="$_sai_serialize_8cpp.html#a1880fbda100738dd92425878f38003f5" title=" " alt="" coords="460,101,596,144"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="385,100,445,109,445,114,384,105"/>
+<area shape="rect" id="Node000006" href="$_sai_serialize_8cpp.html#a65eb8ea2354cbfadd0a6075124116a68" title=" " alt="" coords="652,109,785,136"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="596,120,637,120,637,125,596,125"/>
+<area shape="rect" id="Node000007" href="$_sai_serialize_8cpp.html#a97543edb8d3f82c33b2ba86825bf5cc9" title=" " alt="" coords="833,109,976,136"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="785,120,817,120,817,125,785,125"/>
+</map>

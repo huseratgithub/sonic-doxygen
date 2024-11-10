@@ -1,0 +1,21 @@
+<map id="syncd::TimerWatchdog::getTimeSinceEpoch" name="syncd::TimerWatchdog::getTimeSinceEpoch">
+<area shape="rect" id="Node000001" title="Gets timestamp since epoch." alt="" coords="513,157,669,200"/>
+<area shape="rect" id="Node000002" href="$classsyncd_1_1_timer_watchdog.html#ac5a27e259e092514f6c7d96e85351036" title=" " alt="" coords="310,57,465,100"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="536,152,464,114,439,103,442,98,467,110,539,147"/>
+<area shape="rect" id="Node000006" href="$classsyncd_1_1_timer_watchdog.html#a1233e1f8915cebde9b0ad953a402e40b" title=" " alt="" coords="310,124,465,167"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="498,166,465,161,466,155,499,161"/>
+<area shape="rect" id="Node000008" href="$classsyncd_1_1_timer_watchdog.html#adc60f867ae5eefd58fbe3dd2a88c31cf" title=" " alt="" coords="310,191,465,233"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="499,197,466,202,465,197,498,191"/>
+<area shape="rect" id="Node000009" href="$classsyncd_1_1_timer_watchdog.html#aaedb4e528008b4e31a2bfb68d7f0df0e" title=" " alt="" coords="105,220,260,263"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="548,211,509,232,466,248,413,257,359,261,260,256,260,250,359,255,412,252,465,243,507,227,545,206"/>
+<area shape="rect" id="Node000003" href="$syncd_2tests_8cpp.html#aebdb3955924d93f999790f8ecd2c26a1" title=" " alt="" coords="111,72,254,115"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="295,88,254,91,254,86,294,83"/>
+<area shape="rect" id="Node000005" href="$classsyncd_1_1_watchdog_scope.html#a3dba624ef3b991cc14c3ae261952f38c" title=" " alt="" coords="103,5,262,48"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="294,58,262,49,263,44,296,53"/>
+<area shape="rect" id="Node000004" href="$syncd_2tests_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,80,55,107"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="96,96,55,96,55,91,96,91"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="294,124,253,114,254,109,296,119"/>
+<area shape="rect" id="Node000007" href="$classsyncd_1_1_watchdog_scope.html#a172a6368d6f06b23ea45652394c32589" title="Watchdog scope constructor." alt="" coords="103,139,262,181"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="295,155,263,157,262,152,294,149"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="295,228,261,233,260,228,294,223"/>
+</map>

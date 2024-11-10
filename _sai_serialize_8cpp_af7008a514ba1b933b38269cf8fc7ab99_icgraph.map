@@ -1,0 +1,19 @@
+<map id="sai_serialize_switch_shutdown_request" name="sai_serialize_switch_shutdown_request">
+<area shape="rect" id="Node000001" title=" " alt="" coords="738,80,877,123"/>
+<area shape="rect" id="Node000002" href="$classsyncd_1_1_notification_handler.html#a0023b41318218be6a0bef42036f9c7ff" title=" " alt="" coords="493,5,683,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="730,77,689,63,655,51,657,46,691,57,732,72"/>
+<area shape="rect" id="Node000004" href="$classsyncd_1_1_notification_processor.html#a3a81d5f04d0117c54b1913241c94e795" title=" " alt="" coords="486,72,690,131"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="723,104,691,104,691,99,723,99"/>
+<area shape="rect" id="Node000007" href="$classsyncd_1_1_syncd.html#ac7212f293d1af038348770c39822261a" title=" " alt="" coords="490,155,686,197"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="732,131,691,145,657,157,655,152,689,140,730,126"/>
+<area shape="rect" id="Node000003" href="$classsyncd_1_1_syncd.html#a3b868b53131c97e96aaedc6f0cccda6c" title=" " alt="" coords="267,13,414,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="478,29,414,29,414,24,478,24"/>
+<area shape="rect" id="Node000005" href="$classsyncd_1_1_notification_processor.html#abb3bbc32c0ad97bcc850717a4effacc5" title=" " alt="" coords="246,72,435,131"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="470,104,436,104,436,99,470,99"/>
+<area shape="rect" id="Node000006" href="$classsyncd_1_1_notification_processor.html#a98d729e95c17d94bad6c7fbd45944880" title=" " alt="" coords="5,80,195,123"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="230,104,195,104,195,99,230,99"/>
+<area shape="rect" id="Node000008" href="$classsyncd_1_1_syncd.html#a613a6b647ef12cbe43c02091f0349416" title=" " alt="" coords="243,155,438,197"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="475,179,439,179,439,173,475,173"/>
+<area shape="rect" id="Node000009" href="$classsyncd_1_1_syncd.html#ac7def9f25d64bce56fc25cfa19f6f468" title=" " alt="" coords="36,163,164,189"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="227,179,164,179,164,173,227,173"/>
+</map>

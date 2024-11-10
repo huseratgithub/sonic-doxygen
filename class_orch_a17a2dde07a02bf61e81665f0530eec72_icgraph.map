@@ -1,0 +1,14 @@
+<map id="Orch::isItemIdsMapContinuous" name="Orch::isItemIdsMapContinuous">
+<area shape="rect" id="Node000001" title=" " alt="" coords="936,47,1138,73"/>
+<area shape="rect" id="Node000002" href="$classswss_1_1_buffer_mgr_dynamic.html#ae31ca4d399a0ec2e679e820a7a647fe8" title=" " alt="" coords="692,31,888,89"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="920,63,888,63,888,57,920,57"/>
+<area shape="rect" id="Node000003" href="$classswss_1_1_buffer_mgr_dynamic.html#aeb39018141d1d0f0679cc55e46edb54f" title=" " alt="" coords="449,5,633,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="676,47,633,42,634,36,677,42"/>
+<area shape="rect" id="Node000006" href="$classswss_1_1_buffer_mgr_dynamic.html#ae214f38da9df2d679d07539eb7fb4fd0" title=" " alt="" coords="438,72,644,115"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="677,78,645,82,644,77,676,73"/>
+<area shape="rect" id="Node000004" href="$classswss_1_1_buffer_mgr_dynamic.html#abeb2610ca36f120d251ca1627c1b6f5b" title=" " alt="" coords="222,39,390,81"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="434,45,391,51,390,45,433,39"/>
+<area shape="rect" id="Node000005" href="$classswss_1_1_buffer_mgr_dynamic.html#a1c70a6b4bf77a1dbf4500bcda6b04954" title=" " alt="" coords="5,39,174,81"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="206,63,174,63,174,57,206,57"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="422,79,390,75,391,69,423,74"/>
+</map>

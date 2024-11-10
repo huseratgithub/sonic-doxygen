@@ -1,0 +1,13 @@
+<map id="sai_serialize_qos_map_list" name="sai_serialize_qos_map_list">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,13,183,40"/>
+<area shape="rect" id="Node000002" href="$_sai_serialize_8cpp.html#ac6dc79a2951cefb5862e4389fb98e507" title=" " alt="" coords="231,13,384,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,24,215,24,215,29,183,29"/>
+<area shape="rect" id="Node000003" href="$_sai_serialize_8cpp.html#a9e4af3f12ef1153821e807956d4b2721" title=" " alt="" coords="432,5,585,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="384,24,417,24,417,29,384,29"/>
+<area shape="rect" id="Node000004" href="$_sai_serialize_8cpp.html#a44da14713a23d81802cb2bfcb130d107" title=" " alt="" coords="633,5,773,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="586,24,617,24,617,29,586,29"/>
+<area shape="rect" id="Node000005" href="$_sai_serialize_8cpp.html#a65eb8ea2354cbfadd0a6075124116a68" title=" " alt="" coords="821,13,953,40"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="773,24,805,24,805,29,773,29"/>
+<area shape="rect" id="Node000006" href="$_sai_serialize_8cpp.html#a97543edb8d3f82c33b2ba86825bf5cc9" title=" " alt="" coords="1001,13,1144,40"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="953,24,986,24,986,29,953,29"/>
+</map>

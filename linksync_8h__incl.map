@@ -1,0 +1,11 @@
+<map id="E:/GitHub/SONiC/202211/sonic&#45;buildimage/src/sonic&#45;swss/portsyncd/linksync.h" name="E:/GitHub/SONiC/202211/sonic&#45;buildimage/src/sonic&#45;swss/portsyncd/linksync.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="160,5,375,64"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,112,109,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,67,102,108,100,103,198,62"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="133,112,272,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="249,66,223,101,218,98,244,63"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="297,112,372,139"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="291,63,318,98,314,101,287,66"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="396,112,443,139"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="318,62,386,102,384,106,316,67"/>
+</map>

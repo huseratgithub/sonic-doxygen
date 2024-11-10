@@ -1,0 +1,25 @@
+<map id="syncd_main" name="syncd_main">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,120,97,147"/>
+<area shape="rect" id="Node000002" href="$classsyncd_1_1_metadata_logger.html#aeab7d883676aebb3c98a8350ac5e320a" title=" " alt="" coords="163,5,320,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="67,118,101,92,143,64,167,52,170,57,146,69,104,96,70,122"/>
+<area shape="rect" id="Node000004" href="$classsyncd_1_1_command_line_options_parser.html#a89801174abb479fd774e18d5ca00db97" title=" " alt="" coords="145,145,338,188"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="98,139,130,144,129,150,97,144"/>
+<area shape="rect" id="Node000010" href="$classsyncd_1_1_port_map_parser.html#a189579e647c827ea22f9762d8df1860b" title=" " alt="" coords="166,79,317,121"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="97,123,150,113,151,119,98,128"/>
+<area shape="rect" id="Node000011" href="$classsyncd_1_1_port_map.html#a92e44d78792489862b9ad44dbd546618" title="Set global object for RPC server binding." alt="" coords="153,212,330,255"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="70,145,104,171,146,198,157,203,155,208,143,202,101,176,67,149"/>
+<area shape="rect" id="Node000003" href="$_metadata_logger_8cpp.html#a2409475c3942f91a1f7324cc5a44f1e5" title=" " alt="" coords="412,7,553,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="320,22,397,20,397,25,320,27"/>
+<area shape="rect" id="Node000005" href="$saisdkdump_8cpp.html#a26248234a12f5d74cede4c5c9968454b" title=" " alt="" coords="462,57,504,84"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="312,142,337,131,360,112,385,94,415,82,445,74,447,79,417,87,387,98,363,116,339,136,315,147"/>
+<area shape="rect" id="Node000006" href="$classsyncd_1_1_command_line_options_parser.html#a02a082def1a077fb94450dd8c576f69d" title=" " alt="" coords="386,159,579,201"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="339,169,371,171,370,176,338,175"/>
+<area shape="rect" id="Node000007" href="$_sai_serialize_8cpp.html#ae4f3b19d1f5fe345c416bd2c05cea919" title=" " alt="" coords="405,225,560,268"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="309,186,402,217,401,222,307,191"/>
+<area shape="rect" id="Node000008" href="$classsyncd_1_1_command_line_options.html#ad43ff1e8237c6f9778237b8af35fcee6" title=" " alt="" coords="386,292,579,335"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="322,186,340,198,357,219,365,239,372,259,388,278,392,281,389,286,384,282,367,261,359,241,352,221,336,202,319,191"/>
+<area shape="rect" id="Node000009" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="407,108,558,135"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="338,146,392,135,393,141,339,151"/>
+<area shape="poly" id="edge10_Node000010_Node000005" title=" " alt="" coords="317,88,446,72,447,78,318,93"/>
+<area shape="poly" id="edge11_Node000010_Node000009" title=" " alt="" coords="318,104,392,111,392,116,317,109"/>
+</map>

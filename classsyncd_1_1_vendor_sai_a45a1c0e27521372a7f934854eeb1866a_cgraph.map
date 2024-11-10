@@ -1,0 +1,9 @@
+<map id="syncd::VendorSai::remove" name="syncd::VendorSai::remove">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,180,65"/>
+<area shape="rect" id="Node000002" href="$mock__sai__serialize_8cpp.html#aa06e96f943a8f2451c89c65d2fecbef5" title=" " alt="" coords="228,13,395,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,39,212,35,212,41,180,45"/>
+<area shape="rect" id="Node000004" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="236,64,387,91"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="180,59,221,64,220,69,180,65"/>
+<area shape="rect" id="Node000003" href="$class_sai_serialize_interface.html#a29d73fb00b962109388850736a5a02a3" title=" " alt="" coords="443,5,618,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="395,24,427,24,427,29,395,29"/>
+</map>

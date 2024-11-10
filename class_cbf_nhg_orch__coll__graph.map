@@ -1,0 +1,15 @@
+<map id="CbfNhgOrch" name="CbfNhgOrch">
+<area shape="rect" id="Node000001" title=" " alt="" coords="230,369,324,396"/>
+<area shape="rect" id="Node000002" href="$class_nhg_orch_common.html" title=" " alt="" coords="179,293,374,320"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="279,335,279,369,274,369,274,335"/>
+<area shape="rect" id="Node000003" href="$class_orch.html" title=" " alt="" coords="156,195,205,221"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="206,231,266,291,263,295,202,235"/>
+<area shape="rect" id="Node000004" href="$class_response_publisher.html" title=" " alt="" coords="114,96,248,123"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="183,138,183,194,178,194,178,138"/>
+<area shape="rect" id="Node000005" href="$class_response_publisher_interface.html" title=" " alt="" coords="5,5,191,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="122,42,171,94,167,97,118,45"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="214,5,315,32"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="244,46,195,97,191,94,240,42"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="229,187,391,229"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="301,245,283,294,278,292,295,243"/>
+</map>

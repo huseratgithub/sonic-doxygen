@@ -1,0 +1,11 @@
+<map id="L3AdmitManager" name="L3AdmitManager">
+<area shape="rect" id="Node000001" title=" " alt="" coords="223,187,342,213"/>
+<area shape="rect" id="Node000002" href="$class_object_manager_interface.html" title=" " alt="" coords="5,96,166,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,127,256,184,254,189,126,132"/>
+<area shape="rect" id="Node000003" href="$class_response_publisher_interface.html" title=" " alt="" coords="190,96,376,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="286,138,286,186,280,186,280,138"/>
+<area shape="rect" id="Node000004" href="$class_p4_oid_mapper.html" title=" " alt="" coords="399,96,500,123"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="418,134,364,165,314,189,312,184,362,160,416,129"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="399,5,500,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="452,48,452,95,447,95,447,48"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="CbfNhg" name="CbfNhg">
+<area shape="rect" id="Node000001" title=" " alt="" coords="475,85,541,112"/>
+<area shape="rect" id="Node000002" href="$class_nhg_common.html" title=" " alt="" coords="172,16,341,59"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="357,54,452,77,475,85,474,90,450,83,356,60"/>
+<area shape="rect" id="Node000003" href="$class_nhg_base.html" title=" " alt="" coords="5,5,81,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="96,21,171,27,171,33,96,26"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="16,71,70,97"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="85,83,475,95,475,100,85,88"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="84,72,171,53,172,59,86,78"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="177,147,336,189"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="351,156,401,146,450,131,487,110,490,115,452,136,402,151,352,161"/>
+</map>

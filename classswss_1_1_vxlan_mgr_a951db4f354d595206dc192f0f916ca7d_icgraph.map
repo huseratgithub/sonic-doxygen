@@ -1,0 +1,9 @@
+<map id="swss::VxlanMgr::getVxlanRouterMacAddress" name="swss::VxlanMgr::getVxlanRouterMacAddress">
+<area shape="rect" id="Node000001" title=" " alt="" coords="601,5,776,48"/>
+<area shape="rect" id="Node000002" href="$classswss_1_1_vxlan_mgr.html#a90a01a54fd74335dc4033365d8186eb7" title=" " alt="" coords="316,13,553,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="586,29,554,29,554,24,586,24"/>
+<area shape="rect" id="Node000003" href="$classswss_1_1_vxlan_mgr.html#aff1798c17e3b1842b69259ab8e504096" title=" " alt="" coords="103,13,268,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="300,29,269,29,269,24,300,24"/>
+<area shape="rect" id="Node000004" href="$vxlanmgrd_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="5,13,55,40"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="87,29,55,29,55,24,87,24"/>
+</map>

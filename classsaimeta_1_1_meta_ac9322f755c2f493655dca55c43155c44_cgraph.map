@@ -1,0 +1,19 @@
+<map id="saimeta::Meta::meta_generic_validate_non_object_on_create" name="saimeta::Meta::meta_generic_validate_non_object_on_create">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,148,156,207"/>
+<area shape="rect" id="Node000002" href="$classsaimeta_1_1_oid_ref_counter.html#a12b01a405b296e361ecaf09737677de1" title="Check if object reference exists." alt="" coords="221,5,383,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,146,147,101,202,58,211,53,214,57,205,62,151,105,108,149"/>
+<area shape="rect" id="Node000003" href="$classsaimeta_1_1_meta.html#a4b02b18ccc96d324404b353ab1a183d5" title=" " alt="" coords="214,72,390,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="151,145,203,124,220,118,222,123,205,129,153,150"/>
+<area shape="rect" id="Node000004" href="$mock__sai__serialize_8cpp.html#a0f934d15b1a3e0fd3458f0f2b9df0b31" title=" " alt="" coords="226,139,378,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="156,166,210,160,210,165,156,171"/>
+<area shape="rect" id="Node000006" href="$mock__sai__serialize_8cpp.html#aa06e96f943a8f2451c89c65d2fecbef5" title=" " alt="" coords="218,189,386,216"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="156,183,203,189,202,194,156,189"/>
+<area shape="rect" id="Node000008" href="$classsaimeta_1_1_meta.html#a0200675105c043833e851d282de5e709" title=" " alt="" coords="204,240,400,267"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="150,205,205,225,228,233,227,238,203,231,148,210"/>
+<area shape="rect" id="Node000009" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="226,291,378,317"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="112,205,154,242,205,276,219,283,217,288,202,281,151,247,108,209"/>
+<area shape="rect" id="Node000005" href="$class_sai_serialize_interface.html#ac1267fe86b704633a47c483dcc8e1379" title=" " alt="" coords="456,123,616,165"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="378,147,440,145,440,150,378,152"/>
+<area shape="rect" id="Node000007" href="$class_sai_serialize_interface.html#a29d73fb00b962109388850736a5a02a3" title=" " alt="" coords="448,189,623,232"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="386,203,432,204,432,210,386,208"/>
+</map>

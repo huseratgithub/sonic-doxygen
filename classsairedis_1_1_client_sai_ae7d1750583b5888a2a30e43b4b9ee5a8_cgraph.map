@@ -1,0 +1,16 @@
+<map id="sairedis::ClientSai::queryAattributeEnumValuesCapability" name="sairedis::ClientSai::queryAattributeEnumValuesCapability">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,85,196,144"/>
+<area shape="rect" id="Node000002" href="$mock__sai__serialize_8cpp.html#a0f934d15b1a3e0fd3458f0f2b9df0b31" title=" " alt="" coords="266,17,418,44"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,82,243,61,285,47,286,52,245,67,186,87"/>
+<area shape="rect" id="Node000004" href="$mock__sai__serialize_8cpp.html#aa06e96f943a8f2451c89c65d2fecbef5" title=" " alt="" coords="259,76,426,103"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="196,102,243,97,244,102,196,107"/>
+<area shape="rect" id="Node000006" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="501,164,652,191"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="196,124,486,163,485,168,196,130"/>
+<area shape="rect" id="Node000007" href="$classsairedis_1_1_client_sai.html#ab81c54ec4dada5359d4646b6435f6deb" title=" " alt="" coords="244,177,441,236"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="180,142,250,169,248,174,179,147"/>
+<area shape="rect" id="Node000003" href="$class_sai_serialize_interface.html#ac1267fe86b704633a47c483dcc8e1379" title=" " alt="" coords="496,5,657,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="419,27,481,26,481,31,419,32"/>
+<area shape="rect" id="Node000005" href="$class_sai_serialize_interface.html#a29d73fb00b962109388850736a5a02a3" title=" " alt="" coords="489,72,664,115"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="427,88,474,89,474,94,427,93"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="441,192,485,186,486,191,442,197"/>
+</map>

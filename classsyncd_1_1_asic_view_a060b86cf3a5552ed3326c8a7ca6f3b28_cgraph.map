@@ -1,0 +1,9 @@
+<map id="syncd::AsicView::checkObjectsStatus" name="syncd::AsicView::checkObjectsStatus">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,80,213,123"/>
+<area shape="rect" id="Node000002" href="$classsyncd_1_1_asic_view.html#aedf3004477e56a06a0f4c9bf52de0088" title="Gets VID reference count." alt="" coords="261,5,485,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,77,279,50,281,55,188,82"/>
+<area shape="rect" id="Node000003" href="$classsyncd_1_1_object_status.html#a6957614cde50d934ff463bca4d3852b8" title=" " alt="" coords="301,72,444,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="213,99,286,99,286,104,213,104"/>
+<area shape="rect" id="Node000004" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="297,155,448,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="188,121,261,140,294,148,293,153,260,145,187,126"/>
+</map>

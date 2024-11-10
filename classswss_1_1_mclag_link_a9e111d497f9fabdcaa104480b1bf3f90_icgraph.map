@@ -1,0 +1,13 @@
+<map id="swss::MclagLink::getMclagIntfCfgTable" name="swss::MclagLink::getMclagIntfCfgTable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="819,59,999,102"/>
+<area shape="rect" id="Node000002" href="$classswss_1_1_mclag_link.html#a51ca516f734c8dcbb523ff8373d9505c" title=" " alt="" coords="581,30,771,72"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="803,70,771,66,771,60,804,64"/>
+<area shape="rect" id="Node000004" href="$mclagsyncd_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="5,38,55,64"/>
+<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="803,86,771,87,669,91,582,98,434,113,363,116,287,115,202,106,102,87,76,78,53,67,55,62,78,73,103,82,203,100,288,109,363,111,434,107,582,93,668,86,771,82,803,81"/>
+<area shape="rect" id="Node000003" href="$classswss_1_1_mclag_link.html#a29394891de36b34cd9b408a37b354ea5" title=" " alt="" coords="360,30,533,72"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="566,54,534,54,534,48,566,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="356,28,312,20,207,9,161,10,103,20,78,29,55,40,53,35,76,24,102,15,160,5,207,3,312,15,357,23"/>
+<area shape="rect" id="Node000005" href="$classswss_1_1_mclag_link.html#ac236ec1528b8d55bc94085ca23ec56f8" title=" " alt="" coords="103,30,312,72"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="344,54,312,54,312,48,344,48"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="87,54,55,54,55,48,87,48"/>
+</map>

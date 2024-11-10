@@ -1,0 +1,5 @@
+<map id="mock_create_next_hop" name="mock_create_next_hop">
+<area shape="rect" id="Node000001" title=" " alt="" coords="202,13,358,40"/>
+<area shape="rect" id="Node000002" href="$class_next_hop_manager_test.html#a0aae291dcd354138329af357daee729e" title=" " alt="" coords="5,5,154,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="186,29,154,29,154,24,186,24"/>
+</map>

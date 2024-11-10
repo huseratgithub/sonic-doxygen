@@ -1,0 +1,7 @@
+<map id="saimeta::Meta::getObjectReferenceCount" name="saimeta::Meta::getObjectReferenceCount">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,174,48"/>
+<area shape="rect" id="Node000002" href="$classsaimeta_1_1_oid_ref_counter.html#a962171dac4dfc94d754e5590e519a8fb" title="Get reference count on given object." alt="" coords="222,5,402,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,24,206,24,206,29,174,29"/>
+<area shape="rect" id="Node000003" href="$classsaimeta_1_1_oid_ref_counter.html#a12b01a405b296e361ecaf09737677de1" title="Check if object reference exists." alt="" coords="450,5,612,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="403,24,434,24,434,29,403,29"/>
+</map>

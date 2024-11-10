@@ -1,0 +1,27 @@
+<map id="sairedis::SaiInterface" name="sairedis::SaiInterface">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,233,150,260"/>
+<area shape="rect" id="Node000002" href="$classsaimeta_1_1_dummy_sai_interface.html" title="Dummy SAI interface." alt="" coords="206,5,397,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,218,100,178,123,130,155,82,196,42,217,30,219,35,199,46,159,86,128,133,105,180,90,219"/>
+<area shape="rect" id="Node000004" href="$classsaimeta_1_1_meta.html" title=" " alt="" coords="249,56,354,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="90,218,132,155,161,121,196,92,222,80,248,73,250,78,223,85,199,97,165,125,136,158,95,221"/>
+<area shape="rect" id="Node000005" href="$classsairedis_1_1_client_sai.html" title=" " alt="" coords="238,107,365,133"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="99,220,142,180,196,143,236,128,238,133,199,148,145,184,103,224"/>
+<area shape="rect" id="Node000006" href="$classsairedis_1_1_client_server_sai.html" title=" " alt="" coords="219,157,384,184"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="120,224,197,193,236,182,238,187,199,199,122,229"/>
+<area shape="rect" id="Node000007" href="$classsairedis_1_1_remote_sai_interface.html" title=" " alt="" coords="206,208,396,235"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="165,234,205,230,206,235,166,239"/>
+<area shape="rect" id="Node000009" href="$classsairedis_1_1_sai.html" title=" " alt="" coords="255,259,348,285"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="165,254,254,264,254,269,165,259"/>
+<area shape="rect" id="Node000010" href="$classsairedis_1_1_server_sai.html" title=" " alt="" coords="236,309,367,336"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="122,264,199,295,238,306,236,311,197,300,120,269"/>
+<area shape="rect" id="Node000011" href="$classsaivs_1_1_sai.html" title=" " alt="" coords="262,360,341,387"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="103,270,145,309,199,346,230,358,262,365,260,371,229,363,196,350,142,313,99,273"/>
+<area shape="rect" id="Node000012" href="$classsaivs_1_1_virtual_switch_sai_interface.html" title=" " alt="" coords="198,411,405,437"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="95,272,136,336,165,369,199,396,222,408,219,412,196,401,161,373,132,339,90,275"/>
+<area shape="rect" id="Node000013" href="$classsyncd_1_1_vendor_sai.html" title=" " alt="" coords="240,461,363,488"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="90,274,105,313,128,360,159,408,199,447,219,458,240,465,238,470,216,463,196,451,155,411,123,363,100,315,85,276"/>
+<area shape="rect" id="Node000003" href="$classsaimeta_1_1_meta_test_sai_interface.html" title=" " alt="" coords="453,5,652,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="412,16,453,16,453,21,412,21"/>
+<area shape="rect" id="Node000008" href="$classsairedis_1_1_redis_remote_sai_interface.html" title=" " alt="" coords="466,200,639,243"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="412,219,466,219,466,224,412,224"/>
+</map>

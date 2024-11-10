@@ -1,0 +1,7 @@
+<map id="DropCounter::getSupportedDropReasons" name="DropCounter::getSupportedDropReasons">
+<area shape="rect" id="Node000001" title=" " alt="" coords="537,5,717,48"/>
+<area shape="rect" id="Node000002" href="$class_debug_counter_orch.html#a68a3a388ebded34ee583fcdf379afb6b" title=" " alt="" coords="307,5,489,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="522,29,489,29,489,24,522,24"/>
+<area shape="rect" id="Node000003" href="$class_debug_counter_orch.html#a3c3e1d76812676786c0d809f3af24d54" title=" " alt="" coords="5,13,259,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="291,29,259,29,259,24,291,24"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="AclRange::remove" name="AclRange::remove">
+<area shape="rect" id="Node000001" title=" " alt="" coords="679,189,809,216"/>
+<area shape="rect" id="Node000002" href="$class_acl_rule.html#a8b92491aee17aa225a3f279e9be8bd3f" title=" " alt="" coords="480,152,619,179"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="664,190,619,181,620,176,665,185"/>
+<area shape="rect" id="Node000010" href="$class_acl_rule.html#a3fe75d0d9d7f6faf063a363a5efc1e6c" title=" " alt="" coords="468,215,631,241"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="664,216,632,220,632,215,663,210"/>
+<area shape="rect" id="Node000003" href="$class_acl_rule_d_tel_watch_list_entry.html#adcaeb6b3bfcd443d035376986dcedd0f" title=" " alt="" coords="237,72,420,115"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="491,149,395,118,397,113,493,144"/>
+<area shape="rect" id="Node000006" href="$class_acl_rule_mirror.html#a70aa7ee9bd1a12bc80e68f0fb99b6368" title=" " alt="" coords="251,139,406,165"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="465,163,406,159,406,154,465,158"/>
+<area shape="rect" id="Node000009" href="$class_acl_rule.html#affe5ad724d9b64c2d21337eb1e9ff09c" title=" " alt="" coords="273,189,384,216"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="466,182,385,196,384,191,465,177"/>
+<area shape="rect" id="Node000004" href="$class_acl_rule_d_tel_watch_list_entry.html#a0d64eaadca3fef35268ca09dc5a78f36" title=" " alt="" coords="5,5,189,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="237,70,173,51,175,46,238,65"/>
+<area shape="rect" id="Node000005" href="$class_acl_rule_d_tel_watch_list_entry.html#a07c99746e1dfb8794395e34e13aab26b" title=" " alt="" coords="5,72,189,115"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="221,96,189,96,189,91,221,91"/>
+<area shape="rect" id="Node000007" href="$class_acl_rule_mirror.html#abf1e33d3b668113d96201fd2938c177f" title=" " alt="" coords="11,139,183,165"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="236,155,183,155,183,149,236,149"/>
+<area shape="rect" id="Node000008" href="$class_acl_rule_mirror.html#ac4b5b37d5643fca1f3a27de381e878f6" title=" " alt="" coords="15,189,179,216"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="250,172,162,191,161,186,249,167"/>
+<area shape="rect" id="Node000011" href="$class_acl_rule.html#a2bbadb01e7251b93535696f5ce4d2432" title=" " alt="" coords="269,240,388,267"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="453,242,388,249,388,244,452,236"/>
+</map>

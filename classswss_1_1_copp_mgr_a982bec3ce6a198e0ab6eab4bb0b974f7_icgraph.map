@@ -1,0 +1,25 @@
+<map id="swss::CoppMgr::setCoppGroupStateOk" name="swss::CoppMgr::setCoppGroupStateOk">
+<area shape="rect" id="Node000001" title=" " alt="" coords="830,124,1035,167"/>
+<area shape="rect" id="Node000002" href="$classswss_1_1_copp_mgr.html#aafd6d457df4eeaa3eb4fb0cd87eb2fac" title=" " alt="" coords="602,5,771,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="887,117,837,84,781,53,735,35,737,30,783,48,840,80,890,113"/>
+<area shape="rect" id="Node000003" href="$classswss_1_1_copp_mgr.html#a319bd95aead5d344a6c58023a27fcc1c" title=" " alt="" coords="318,107,539,133"/>
+<area shape="poly" id="edge8_Node000001_Node000003" title=" " alt="" coords="865,121,824,107,781,97,705,90,629,92,557,99,496,109,495,103,556,94,628,87,705,85,782,92,825,102,867,115"/>
+<area shape="rect" id="Node000006" href="$classswss_1_1_copp_mgr.html#a9b94580701499cfc1ae1be62cfb82c1b" title=" " alt="" coords="599,107,774,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="814,136,774,132,774,126,814,131"/>
+<area shape="rect" id="Node000007" href="$classswss_1_1_copp_mgr.html#a3e594425b74ea68b83517f33267b87a1" title=" " alt="" coords="314,208,543,235"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="864,175,782,199,660,216,544,223,544,218,659,211,781,193,862,170"/>
+<area shape="rect" id="Node000008" href="$classswss_1_1_copp_mgr.html#a16ce3862065e2ec63747f5ff71cbf8e4" title=" " alt="" coords="591,157,782,184"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="814,160,782,163,782,158,814,155"/>
+<area shape="rect" id="Node000009" href="$classswss_1_1_copp_mgr.html#a5b1e90493b6b95eca3db4c0a8d085bd8" title=" " alt="" coords="595,259,778,301"/>
+<area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="889,178,783,242,744,261,742,256,780,238,886,173"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="629,40,592,53,461,109,459,104,590,48,627,35"/>
+<area shape="rect" id="Node000004" href="$classswss_1_1_copp_mgr.html#ab813e902bad250afcb3a747dd38fba7d" title=" " alt="" coords="103,208,266,235"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="381,142,220,210,218,205,379,137"/>
+<area shape="rect" id="Node000005" href="$coppmgrd_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="5,208,55,235"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="87,224,55,224,55,219,87,219"/>
+<area shape="poly" id="edge7_Node000007_Node000004" title=" " alt="" coords="298,224,266,224,266,219,298,219"/>
+<area shape="poly" id="edge10_Node000008_Node000003" title=" " alt="" coords="599,156,500,137,501,131,600,151"/>
+<area shape="rect" id="Node000010" href="$classswss_1_1_copp_mgr.html#a9112c913d5331379dcecaccb1f624217" title=" " alt="" coords="325,263,532,289"/>
+<area shape="poly" id="edge12_Node000009_Node000010" title=" " alt="" coords="579,281,533,280,533,275,579,276"/>
+<area shape="poly" id="edge13_Node000010_Node000004" title=" " alt="" coords="350,261,247,238,248,233,351,256"/>
+</map>

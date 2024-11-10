@@ -1,0 +1,9 @@
+<map id="saivs::VirtualSwitchSaiInterface::queryStatsCapability" name="saivs::VirtualSwitchSaiInterface::queryStatsCapability">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,213,73"/>
+<area shape="rect" id="Node000002" href="$mock__sai__serialize_8cpp.html#a0f934d15b1a3e0fd3458f0f2b9df0b31" title=" " alt="" coords="261,13,413,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="213,38,245,34,246,39,213,43"/>
+<area shape="rect" id="Node000004" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="261,64,412,91"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="213,61,246,65,245,70,213,66"/>
+<area shape="rect" id="Node000003" href="$class_sai_serialize_interface.html#ac1267fe86b704633a47c483dcc8e1379" title=" " alt="" coords="461,5,621,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="413,24,445,24,445,29,413,29"/>
+</map>

@@ -1,0 +1,28 @@
+<map id="NhgBase::isSynced" name="NhgBase::isSynced">
+<area shape="rect" id="Node000001" title=" " alt="" coords="693,157,831,184"/>
+<area shape="rect" id="Node000002" href="$class_cbf_nhg.html#af70020e21223545df4c002176b1ef84b" title=" " alt="" coords="472,5,645,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="739,146,698,99,672,75,644,53,607,35,609,30,647,48,676,70,702,95,743,143"/>
+<area shape="rect" id="Node000003" href="$class_cbf_nhg.html#a645495ff2bff9912f914620ad58a3a85" title=" " alt="" coords="266,56,422,83"/>
+<area shape="poly" id="edge13_Node000001_Node000003" title=" " alt="" coords="730,150,690,125,644,104,588,89,530,79,423,71,423,66,530,74,589,83,646,99,693,120,733,146"/>
+<area shape="rect" id="Node000004" href="$class_cbf_nhg.html#af6f7a9b32bd2daf8323e15c3a76f4a56" title=" " alt="" coords="60,107,162,133"/>
+<area shape="poly" id="edge11_Node000001_Node000004" title=" " alt="" coords="678,159,645,155,509,142,373,133,163,124,163,119,374,128,509,137,646,149,679,154"/>
+<area shape="rect" id="Node000006" href="$class_cbf_nhg.html#aca1947a0c9ee173a3d6b0cfc3f5d1247" title=" " alt="" coords="286,157,403,184"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="678,173,403,173,403,168,678,168"/>
+<area shape="rect" id="Node000008" href="$class_nhg_common.html#afd54de11ffa4f22b40acfab6ad5505fb" title=" " alt="" coords="484,208,633,235"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="691,191,616,210,615,205,690,186"/>
+<area shape="rect" id="Node000011" href="$class_next_hop_group.html#a7f0c06132a19821fe0190872b1ae446c" title=" " alt="" coords="486,259,631,285"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="733,196,693,223,646,249,616,261,615,256,644,244,690,219,730,191"/>
+<area shape="rect" id="Node000012" href="$class_nhg_base.html#ad29becddbfd78a7d48ee4e4e31408898" title=" " alt="" coords="486,309,631,336"/>
+<area shape="poly" id="edge14_Node000001_Node000012" title=" " alt="" coords="745,199,704,250,677,277,647,300,623,311,621,306,644,295,674,273,700,246,741,195"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="485,39,404,58,403,53,484,34"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="265,89,163,112,162,106,264,84"/>
+<area shape="rect" id="Node000005" href="$class_cbf_nhg.html#ae1c63b1170de3557d034a7dfd3fbf2ea" title=" " alt="" coords="54,56,168,83"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="250,72,168,72,168,67,250,67"/>
+<area shape="rect" id="Node000007" href="$class_cbf_nhg.html#a58b82ba59919c051b6f656546b13700f" title=" " alt="" coords="47,157,175,184"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="270,173,175,173,175,168,270,168"/>
+<area shape="poly" id="edge8_Node000008_Node000006" title=" " alt="" coords="484,206,403,187,404,182,485,201"/>
+<area shape="rect" id="Node000009" href="$class_next_hop_group.html#ae17799fd246f192fe0758231eeaaa34a" title=" " alt="" coords="265,208,424,235"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="469,224,424,224,424,219,469,219"/>
+<area shape="rect" id="Node000010" href="$class_next_hop_group.html#a4d70d485aa4739cfddd48b7dc15093ff" title=" " alt="" coords="5,208,217,235"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="249,224,217,224,217,219,249,219"/>
+</map>

@@ -1,0 +1,25 @@
+<map id="swss::TeamMgr::doPortUpdateTask" name="swss::TeamMgr::doPortUpdateTask">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,199,236,225"/>
+<area shape="rect" id="Node000002" href="$classswss_1_1_team_mgr.html#aef404746ff62d9504090d83e63547a2a" title=" " alt="" coords="309,123,520,149"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,196,283,159,319,150,320,156,284,164,163,201"/>
+<area shape="rect" id="Node000008" href="$classswss_1_1_team_mgr.html#ab22778c1cb326ac0f37dfd8d119b0fa2" title=" " alt="" coords="311,173,518,200"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="236,199,295,194,296,200,236,205"/>
+<area shape="rect" id="Node000010" href="$classswss_1_1_team_mgr.html#a45e7b65c768a1e7ba4d9157b4032017c" title=" " alt="" coords="297,224,532,251"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="236,219,281,223,281,229,236,225"/>
+<area shape="rect" id="Node000011" href="$classswss_1_1_team_mgr.html#a27fcf8d5a6c52dde37d077dcccc33cf2" title=" " alt="" coords="284,275,545,301"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="163,223,284,260,320,268,319,274,283,265,161,228"/>
+<area shape="rect" id="Node000003" href="$classswss_1_1_team_mgr.html#a43674d2472749e57c1bf3055935f1207" title=" " alt="" coords="614,5,795,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="449,120,592,64,627,51,629,56,594,69,451,125"/>
+<area shape="rect" id="Node000004" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="864,43,1016,69"/>
+<area shape="poly" id="edge7_Node000002_Node000004" title=" " alt="" coords="506,119,849,67,849,72,507,125"/>
+<area shape="rect" id="Node000005" href="$classswss_1_1_team_mgr.html#a81074468a0f05579d77a0ac0d8700f38" title=" " alt="" coords="593,123,816,149"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="520,133,577,133,577,139,520,139"/>
+<area shape="rect" id="Node000006" href="$classswss_1_1_team_mgr.html#a1bfaf5b7ec1c87108ba7fb74b0a3685f" title=" " alt="" coords="600,173,810,200"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="495,147,610,167,609,173,495,153"/>
+<area shape="rect" id="Node000007" href="$shellcmd_8h.html#a9e724889770861335478da99767a45ec" title=" " alt="" coords="664,224,745,251"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="519,147,546,159,562,172,571,185,580,198,594,210,621,221,650,229,648,234,619,226,592,214,576,201,567,188,558,175,544,164,517,152"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="796,35,849,42,849,47,796,41"/>
+<area shape="rect" id="Node000009" href="$lib_2tests_8cpp.html#ad3af9936f704b25188a9ef24330f8a19" title=" " alt="" coords="670,275,740,301"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="519,198,546,210,562,222,571,236,580,249,594,260,624,273,655,280,654,286,622,278,592,265,576,252,567,239,558,226,544,214,517,203"/>
+<area shape="poly" id="edge12_Node000011_Node000009" title=" " alt="" coords="546,285,654,285,654,291,546,291"/>
+</map>

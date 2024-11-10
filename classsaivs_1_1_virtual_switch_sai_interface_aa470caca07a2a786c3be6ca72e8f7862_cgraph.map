@@ -1,0 +1,12 @@
+<map id="saivs::VirtualSwitchSaiInterface::create" name="saivs::VirtualSwitchSaiInterface::create">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,48,213,91"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="59,48,57,38,66,29,83,23,109,21,137,24,154,30,152,35,136,29,109,27,84,29,69,33,63,39,65,47"/>
+<area shape="rect" id="Node000002" href="$classsaimeta_1_1_globals.html#a8650c142db91851a76c772484a48f206" title="Get hardware info." alt="" coords="261,5,484,32"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="212,47,284,33,285,38,213,52"/>
+<area shape="rect" id="Node000003" href="$mock__sai__serialize_8cpp.html#a0f934d15b1a3e0fd3458f0f2b9df0b31" title=" " alt="" coords="296,56,448,83"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="213,67,281,67,281,72,213,72"/>
+<area shape="rect" id="Node000005" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="297,107,448,133"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="213,87,285,101,284,106,212,92"/>
+<area shape="rect" id="Node000004" href="$class_sai_serialize_interface.html#ac1267fe86b704633a47c483dcc8e1379" title=" " alt="" coords="532,48,692,91"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="449,67,516,67,516,72,449,72"/>
+</map>

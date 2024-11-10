@@ -1,0 +1,11 @@
+<map id="CbfNhgMember::sync" name="CbfNhgMember::sync">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,43,155,69"/>
+<area shape="rect" id="Node000002" href="$class_nhg_orch_common.html#a2ae555e99ebc134fb9ac76375754931c" title=" " alt="" coords="203,5,399,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,43,187,39,187,44,156,49"/>
+<area shape="rect" id="Node000003" href="$class_nhg_member.html#a545b1b357274914e285ac72bc01dd552" title=" " alt="" coords="237,72,365,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="156,63,222,72,221,78,155,69"/>
+<area shape="rect" id="Node000004" href="$class_crm_orch.html#aaeb7b3d44b6f0c62040ad5a533d3192c" title=" " alt="" coords="447,72,672,99"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="365,83,431,83,431,88,365,88"/>
+<area shape="rect" id="Node000005" href="$saisdkdump_8cpp.html#ae1876240dade2dec70298491b270cce5" title=" " alt="" coords="720,72,872,99"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="673,83,705,83,705,88,673,88"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="saivs::VirtualSwitchSaiInterface::remove" name="saivs::VirtualSwitchSaiInterface::remove">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,213,77"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="61,35,59,25,67,16,84,10,109,8,136,10,153,17,151,22,135,16,109,13,85,15,70,20,64,26,66,34"/>
+<area shape="rect" id="Node000002" href="$mock__sai__serialize_8cpp.html#a0f934d15b1a3e0fd3458f0f2b9df0b31" title=" " alt="" coords="288,13,440,40"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="213,41,272,35,273,40,213,47"/>
+<area shape="rect" id="Node000004" href="$classsaivs_1_1_virtual_switch_sai_interface.html#a11f80504e85098bfdc0b2cfdc7ddb8ac" title=" " alt="" coords="261,64,468,107"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="213,65,246,69,245,74,213,71"/>
+<area shape="rect" id="Node000003" href="$class_sai_serialize_interface.html#ac1267fe86b704633a47c483dcc8e1379" title=" " alt="" coords="516,5,676,48"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="441,24,501,24,501,29,441,29"/>
+</map>

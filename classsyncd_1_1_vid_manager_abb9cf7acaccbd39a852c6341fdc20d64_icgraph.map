@@ -1,0 +1,31 @@
+<map id="syncd::VidManager::getSwitchIndex" name="syncd::VidManager::getSwitchIndex">
+<area shape="rect" id="Node000001" title="Get switch index." alt="" coords="696,239,838,281"/>
+<area shape="rect" id="Node000002" href="$classsyncd_1_1_redis_client.html#ae92647feab6d65215035b59bf4c41901" title=" " alt="" coords="491,105,648,148"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="720,232,601,151,604,146,723,227"/>
+<area shape="rect" id="Node000006" href="$classsyncd_1_1_redis_client.html#abc97182700e47d62e59c504086ae9648" title=" " alt="" coords="497,239,642,281"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="681,263,643,263,643,257,681,257"/>
+<area shape="rect" id="Node000009" href="$classsyncd_1_1_redis_client.html#aedc2b8888e50a5228743485fef0b8ff8" title=" " alt="" coords="500,427,639,469"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="734,294,595,428,592,424,730,291"/>
+<area shape="rect" id="Node000003" href="$classsyncd_1_1_redis_client.html#a7776c51a27bf91fb65896407f08fcc2b" title=" " alt="" coords="275,5,408,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="517,100,442,62,407,49,409,44,444,58,519,95"/>
+<area shape="rect" id="Node000004" href="$classsyncd_1_1_redis_client.html#a2909a0b0e45313bd0b0ac3b9869f4f82" title=" " alt="" coords="275,72,408,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="476,116,408,106,408,100,476,110"/>
+<area shape="rect" id="Node000005" href="$classsyncd_1_1_redis_client.html#a3821c3c709d2c52fd2ce01ce05bcfd50" title=" " alt="" coords="240,139,443,181"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="476,143,444,148,443,142,475,138"/>
+<area shape="rect" id="Node000007" href="$classsyncd_1_1_redis_client.html#aaecfb45b7427f8f86e64155db02ba6bb" title=" " alt="" coords="253,205,430,248"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="481,250,430,242,431,237,482,245"/>
+<area shape="rect" id="Node000008" href="$classsyncd_1_1_redis_client.html#a4b023eb8ff3eeb3b238abe9191df4824" title=" " alt="" coords="248,272,435,315"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="482,275,436,282,435,277,482,270"/>
+<area shape="rect" id="Node000010" href="$classsyncd_1_1_redis_client.html#a06e705084d265475ca2dc4403bc922b3" title=" " alt="" coords="275,339,408,381"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="497,423,398,384,400,379,499,418"/>
+<area shape="rect" id="Node000011" href="$classsyncd_1_1_redis_client.html#a5d639b451b918af8f5144ce473e1481c" title=" " alt="" coords="32,381,165,424"/>
+<area shape="poly" id="edge14_Node000009_Node000011" title=" " alt="" coords="485,443,165,412,165,406,485,437"/>
+<area shape="rect" id="Node000012" href="$classsyncd_1_1_redis_client.html#a12101fc5de43b44d26ad596761f2d69f" title=" " alt="" coords="275,456,408,499"/>
+<area shape="poly" id="edge11_Node000009_Node000012" title=" " alt="" coords="485,462,408,471,408,466,484,456"/>
+<area shape="rect" id="Node000013" href="$classsyncd_1_1_redis_client.html#a10224c7d6e8df7041a180b58f80682c4" title=" " alt="" coords="5,473,192,516"/>
+<area shape="poly" id="edge13_Node000009_Node000013" title=" " alt="" coords="524,480,486,499,444,513,379,523,312,526,249,522,192,515,192,510,249,517,313,520,378,518,442,508,484,494,521,475"/>
+<area shape="rect" id="Node000014" href="$classsyncd_1_1_redis_client.html#a523c1ca724ae42660b88eeb7ed1d34b6" title=" " alt="" coords="275,573,408,616"/>
+<area shape="poly" id="edge15_Node000009_Node000014" title=" " alt="" coords="538,482,495,520,444,557,408,575,406,570,442,552,492,516,535,478"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="261,377,166,394,165,388,260,372"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="260,486,192,491,192,485,260,480"/>
+</map>

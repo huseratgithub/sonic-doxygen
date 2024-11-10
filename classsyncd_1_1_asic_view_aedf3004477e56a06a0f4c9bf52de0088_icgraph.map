@@ -1,0 +1,9 @@
+<map id="syncd::AsicView::getVidReferenceCount" name="syncd::AsicView::getVidReferenceCount">
+<area shape="rect" id="Node000001" title="Gets VID reference count." alt="" coords="474,39,698,81"/>
+<area shape="rect" id="Node000002" href="$classsyncd_1_1_asic_view.html#a032dbbdbbf335dceedbd6939ab079ee8" title="Generate ASIC remove operation for current existing object." alt="" coords="222,5,422,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="458,47,423,42,423,37,459,41"/>
+<area shape="rect" id="Node000003" href="$classsyncd_1_1_asic_view.html#a060b86cf3a5552ed3326c8a7ca6f3b28" title=" " alt="" coords="219,72,426,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="459,79,427,83,426,78,458,73"/>
+<area shape="rect" id="Node000004" href="$classsyncd_1_1_comparison_logic.html#a798303c1dac0b50fc05978a3e04ca7e3" title=" " alt="" coords="5,72,171,115"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="203,96,171,96,171,91,203,91"/>
+</map>
